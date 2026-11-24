@@ -1,0 +1,80 @@
+- id: S1
+  url: https://x.com/_swanand
+  author: _swanand
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: X profile metadata (id 16080017, ~9.8K followers, ~46.9K posts, joined 2008-09-01, location AUH | BLR | PNQ); links superlinear.tech.
+  excerpt: "CTO, Mentor, Nerd. \"Ship fast, ship often.\" Bring AI where work already happens. I am on a mission to unf*ck enterprise AI."
+  original: true
+  confidence: high
+- id: S2
+  url: https://superlinear.tech/
+  author: Superlinear
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: Superlinear - enterprise AI services firm; lists case studies (VC firm AI OS, LegalTech in Word, Bangalore police emergency voice agent, family-office text-to-SQL, Saltmine agentic workflows, EV-charging scale re-architecture); testimonials name Swanand; "Email Swanand" contact.
+  excerpt: "We build AI systems for complex multi-step work that runs across legacy systems, proprietary data, high-stakes documents, and the judgment of senior experts."
+  original: true
+  confidence: high
+- id: S3
+  url: https://superlinear.tech/
+  author: Superlinear (client testimonial)
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: Client testimonial about Swanand's engineering leadership (third-party voice on first-party site).
+  excerpt: "Swanand navigated the line between \"be hacky\" and \"build for the long term\" very well"
+  original: false
+  confidence: medium
+- id: S4
+  url: https://x.com/_swanand/status/2070803617742000514
+  author: _swanand
+  published: 2026-06-27
+  researched: 2026-11-24
+  type: x_post
+  description: Framework on where AI delivers value in organisations.
+  excerpt: "\"Do more with same budget\" -&gt; Does not work.  \"Do it faster with same budget\" -&gt; Excellent. Works well. But tough."
+  original: true
+  confidence: high
+- id: S5
+  url: https://x.com/_swanand/status/1854083477353738415
+  author: _swanand
+  published: 2024-11-06
+  researched: 2026-11-24
+  type: x_post
+  description: Pinned career framework - three paths (bigger job, free agent, equity owner) and levers (meaningful work, online presence, networking).
+  excerpt: "Clarity on career paths: There are 3 broad ones."
+  original: true
+  confidence: high
+- id: S6
+  url: https://x.com/_swanand/status/1793874318599794973
+  author: _swanand
+  published: 2024-05-24
+  researched: 2026-11-24
+  type: x_post
+  description: Negotiation advice - be prepared to walk away (savings, offers, reputation).
+  excerpt: "I strongly endorse \"being prepared to walk away\"."
+  original: true
+  confidence: high
+- id: S7
+  url: https://x.com/_swanand/status/2071596875330081002
+  author: _swanand
+  published: 2026-06-29
+  researched: 2026-11-24
+  type: x_post
+  description: Human-in-the-loop/system design remark.
+  excerpt: "A software architect who doesn't understand Mechanical Turk is not much of an architect."
+  original: true
+  confidence: high
+- id: S8
+  url: https://x.com/_swanand/status/1796209798888718477
+  author: _swanand
+  published: 2024-05-30
+  researched: 2026-11-24
+  type: x_post
+  description: Critique of siloed engineering/product/design teams.
+  excerpt: "\"We have an engineering team, a product team, and a design team\".   Oh dear. ngmi."
+  original: true
+  confidence: high

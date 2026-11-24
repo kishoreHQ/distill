@@ -1,0 +1,27 @@
+# Opportunity scores are hypotheses. They are not income projections.
+# total = sum((dimension_score / scale_max) * weight)
+# Weights sum to 100. Each dimension is an integer from 0 to scale_max.
+version: 1
+scale_max: 10
+dimensions:
+  market_pull:
+    weight: 25
+    meaning: Signs that someone other than the author wants the thing. A single public write-up is a weak market signal.
+  evidence_strength:
+    weight: 20
+    meaning: How directly the cited sources support the claim. Self-reported numbers score lower than a source that shows its work, and they never become facts about Kishore.
+  fit_with_kishore_skills:
+    weight: 15
+    meaning: Fit with the operator context in config/operator.yaml (Linux/DevOps, low capital, low maintenance). This is a hypothesis, not a skills assessment of a person.
+  time_to_value:
+    weight: 15
+    meaning: How soon a small experiment could produce a learning or a payment, based on the shape of the evidence. Not a delivery date.
+  competition_gap:
+    weight: 10
+    meaning: Room left after labs, platforms, and the people in this corpus. A low score means the corpus itself shows crowded or platform-owned space.
+  monetization_clarity:
+    weight: 10
+    meaning: Whether the evidence shows a concrete way money changes hands (invoice, one-time purchase, subscription). Clarity is not a forecast of revenue.
+  risk_inverse:
+    weight: 5
+    meaning: 10 means the cited risks look easy to bound. 0 means the evidence itself flags legal, platform, ethical, or reputation risk.

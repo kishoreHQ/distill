@@ -1,0 +1,130 @@
+- id: S1
+  url: https://x.com/Saboo_Shubham_
+  author: Saboo_Shubham_
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: X profile metadata (id 1275333333724000257, ~125K followers, joined 2020-06-23).
+  excerpt: "Senior AI Product Manager @google | Open Source Awesome LLM Apps Repo (#1 GitHub with 144,000+ stars) | Author of books on GPT-3 & Neural Search | My views"
+  original: true
+  confidence: high
+- id: S2
+  url: https://github.com/Shubhamsaboo/awesome-llm-apps
+  author: Shubham Saboo
+  published: 2026-11-18
+  researched: 2026-11-24
+  type: github
+  description: awesome-llm-apps README - 100+ open-source agents, agent skills, RAG apps; Apache-2.0; ~145.6K stars at research time (GitHub API).
+  excerpt: "100+ open-source AI agents, agent skills, and RAG apps. Hand-built, tested end-to-end, Apache-2.0."
+  original: true
+  confidence: high
+- id: S3
+  url: https://github.com/Shubhamsaboo
+  author: Shubham Saboo
+  published: 2026-11-18
+  researched: 2026-11-24
+  type: github
+  description: GitHub profile - "Senior AI PM @ Google Cloud", blog theunwindai.com; repos incl. google-memorybank-plugin, repotovideo, gemini-artboard.
+  excerpt: "Senior AI PM @ Google Cloud | Building open-source repository of practical world class tutorials on AI Agents, RAG and LLMs"
+  original: true
+  confidence: high
+- id: S4
+  url: https://www.theunwindai.com/
+  author: Unwind AI (Shubham Saboo, Gargi Gupta)
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: newsletter
+  description: Unwind AI newsletter/site - Daily/Weekly Unwind on AI agents/RAG/LLMs; has "Sponsor Us" page.
+  excerpt: "Open-source Ecosystem for High-Leverage AI Builders"
+  original: true
+  confidence: high
+- id: S5
+  url: https://x.com/Saboo_Shubham_/status/1968864372018856388
+  author: Saboo_Shubham_
+  published: 2025-09-19
+  researched: 2026-11-24
+  type: x_post
+  description: Announces joining Google Cloud as AI PM for agents (Gemini, Vertex AI, ADK, A2A).
+  excerpt: "Life Update: I just joined Google Cloud as an AI Product Manager to work on all things AI Agents (Gemini, Vertex AI, ADK, A2A and more)."
+  original: true
+  confidence: high
+- id: S6
+  url: https://x.com/Saboo_Shubham_/status/2071639897669267922
+  author: Saboo_Shubham_
+  published: 2026-06-29
+  researched: 2026-11-24
+  type: x_post
+  description: One-person AI agent company structure - agents as folders, job descriptions as markdown, cron jobs, self-review loops.
+  excerpt: "7 AI agents. 10 cron jobs. 0 human employees.  Every role is a folder. Every job description is a md file."
+  original: true
+  confidence: high
+- id: S7
+  url: https://x.com/Saboo_Shubham_/status/2071293463447097625
+  author: Saboo_Shubham_
+  published: 2026-06-28
+  researched: 2026-11-24
+  type: x_post
+  description: His 24/7 agent team (OpenClaw then Hermes) operated via Telegram; cron-driven proactive agents.
+  excerpt: "OpenClaw is where the squad started. Hermes is where it's evolving. YES, I use both of THEM just via Telegram."
+  original: true
+  confidence: high
+- id: S8
+  url: https://x.com/Saboo_Shubham_/status/2074899257652597051
+  author: Saboo_Shubham_
+  published: 2026-07-08
+  researched: 2026-11-24
+  type: x_post
+  description: Self-learning agents - agents learn in model weights, and (per thread) other layers.
+  excerpt: "Static agents won't survive 2026.  Self-learning agents are WHAT you need, and the best ones get better every time someone uses them."
+  original: true
+  confidence: medium
+- id: S9
+  url: https://x.com/Saboo_Shubham_/status/2075083780046618712
+  author: Saboo_Shubham_
+  published: 2026-07-09
+  researched: 2026-11-24
+  type: x_post
+  description: Advisor/orchestrator/worker model pattern packaged as an agent skill.
+  excerpt: "Fable 5 as the advisor, GPT-5.5 as the orchestrator and Gemini 3.5 Flash as the worker."
+  original: true
+  confidence: high
+- id: S10
+  url: https://x.com/Saboo_Shubham_/status/2108265508223193319
+  author: Saboo_Shubham_
+  published: 2026-10-08
+  researched: 2026-11-24
+  type: x_post
+  description: Pinned - Gemini Agent features (his employer's product) - coworker agents with own identities, layered memory, governance, cost caps.
+  excerpt: "Procedural: how a job gets done, including skills it writes for itself."
+  original: true
+  confidence: medium
+- id: S11
+  url: https://x.com/Saboo_Shubham_/status/2122926138649616764
+  author: Saboo_Shubham_
+  published: 2026-11-18
+  researched: 2026-11-24
+  type: x_post
+  description: What he'd look for in a top AI PM (problem selection, buildable demos, failure explanation, trade-offs, ownership).
+  excerpt: "If I were hiring a $1M+ AI PM, here's what I'd look for:"
+  original: true
+  confidence: medium
+- id: S12
+  url: https://x.com/Saboo_Shubham_/status/1970676322780504178
+  author: Saboo_Shubham_
+  published: 2025-09-24
+  researched: 2026-11-24
+  type: x_post
+  description: Free 5-day AI Agents course on Kaggle (patterns, tools, context engineering, memory, evals, A2A).
+  excerpt: "We are launching a 5-Day AI Agents course on Kaggle."
+  original: true
+  confidence: high
+- id: S13
+  url: https://x.com/Saboo_Shubham_/status/1806898644635054248
+  author: Saboo_Shubham_
+  published: 2024-06-29
+  researched: 2026-11-24
+  type: x_post
+  description: Example of his 2024 curation format - free courses/tools roundups.
+  excerpt: "Microsoft just released 18 FREE courses on Generative AI for beginners."
+  original: true
+  confidence: high

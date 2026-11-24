@@ -1,0 +1,62 @@
+{
+ "id": "nav-toor",
+ "x_url": "https://x.com/heynavtoor",
+ "x_user_id": "1916904726295453696",
+ "display_name": "Nav Toor",
+ "research_status": "verified",
+ "posts_read": 69,
+ "posts_by_band": {
+  "0-6mo": 50,
+  "6-24mo": 19
+ },
+ "longform_fetched": 1,
+ "sources_count": 8,
+ "last_post_id": "2124927766802125032",
+ "researched_at": "2026-11-24T14:25:00+05:30",
+ "x_calls_used_note": "batch A shared budget; see batch-A-summary.md",
+ "limitations": [
+  "No website/company/long-form; identity limited to handle",
+  "Sponsorship data from a self-added third-party listing",
+  "Content is curation/storytelling - no first-party expertise"
+ ],
+ "completeness": {
+  "identity": {
+   "score": 1,
+   "reason": "creator account; real-world identity not verified"
+  },
+  "source_coverage": {
+   "score": 1,
+   "reason": "69 posts + 1 secondary"
+  },
+  "expertise": {
+   "score": 1,
+   "reason": "content only"
+  },
+  "principles": {
+   "score": 0,
+   "reason": "no principles"
+  },
+  "frameworks": {
+   "score": 1,
+   "reason": "format pattern"
+  },
+  "playbooks": {
+   "score": 1,
+   "reason": "1 playbook"
+  },
+  "evidence": {
+   "score": 1,
+   "reason": "8 sources"
+  },
+  "limitations": {
+   "score": 2,
+   "reason": "explicit"
+  },
+  "applications": {
+   "score": 1,
+   "reason": "content only"
+  }
+ },
+ "completeness_total": 9,
+ "completeness_max": 18
+}

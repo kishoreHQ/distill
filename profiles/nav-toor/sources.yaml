@@ -1,0 +1,80 @@
+- id: S1
+  url: https://x.com/heynavtoor
+  author: heynavtoor
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: X profile metadata (id 1916904726295453696, ~152K followers, ~9.2K posts, created 2025-04-28); links linktr.ee/navtoor ("Free Products + Sponsorships").
+  excerpt: "Helping you master AI daily with step-by-step AI guides, latest news, & practical tools • DM for Collabs"
+  original: true
+  confidence: high
+- id: S2
+  url: https://unfair.so/x/@heynavtoor
+  author: unfair.so (third-party creator marketplace; self-added listing)
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: secondary
+  description: Lists paid partnerships (e.g. Vivix, Explyt, Nebius, Explee) and median ~6.8K impressions/post; listing is self-added, not verified by the site.
+  excerpt: "This creator added themselves. Not verified by unfair.so."
+  original: false
+  confidence: medium
+- id: S3
+  url: https://x.com/heynavtoor/status/2124499523976483021
+  author: heynavtoor
+  published: 2026-11-22
+  researched: 2026-11-24
+  type: x_post
+  description: Pinned - business-history storytelling post (Yahoo's $1B offer for Facebook); ~7.8K likes; part of a Nov 2026 series on rejected acquisitions.
+  excerpt: "In 2006, Yahoo offered $1 billion to buy Facebook."
+  original: true
+  confidence: high
+- id: S4
+  url: https://x.com/heynavtoor/status/2071559384476586149
+  author: heynavtoor
+  published: 2026-06-29
+  researched: 2026-11-24
+  type: x_post
+  description: Story-format promotion of an open-source ERP (founder replaced SAP) - "free tool beats paid SaaS" format.
+  excerpt: "A founder in Mumbai got tired of paying SAP."
+  original: true
+  confidence: high
+- id: S5
+  url: https://x.com/heynavtoor/status/2071194908971733156
+  author: heynavtoor
+  published: 2026-06-28
+  researched: 2026-11-24
+  type: x_post
+  description: Pain-first hook about manual reporting workflow (SQL→CSV→Excel→slides) leading to a tool.
+  excerpt: "You write SQL. Export to CSV. Open Excel. Make a chart. Format it. Paste into a slide. Email it."
+  original: true
+  confidence: high
+- id: S6
+  url: https://x.com/heynavtoor/status/2070919942892110150
+  author: heynavtoor
+  published: 2026-06-27
+  researched: 2026-11-24
+  type: x_post
+  description: Narrative hook about free OSS security software (VeraCrypt) - "free on GitHub" format.
+  excerpt: "The software on that drive is free.  It is on GitHub right now."
+  original: true
+  confidence: high
+- id: S7
+  url: https://x.com/heynavtoor/status/1917585026205573317
+  author: heynavtoor
+  published: 2025-04-30
+  researched: 2026-11-24
+  type: x_post
+  description: Early-account opinion on prompting.
+  excerpt: "never use AI to write prompts for itself.  they are bad."
+  original: true
+  confidence: high
+- id: S8
+  url: https://x.com/heynavtoor/status/1917171996712214891
+  author: heynavtoor
+  published: 2025-04-29
+  researched: 2026-11-24
+  type: x_post
+  description: Early-account "BREAKING" hype format for an AI agent product (shows evolution from hype to storytelling).
+  excerpt: "🚨BREAKING: The Next-level AI agent has entered the game."
+  original: true
+  confidence: high

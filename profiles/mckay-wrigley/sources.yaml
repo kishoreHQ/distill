@@ -1,0 +1,240 @@
+- id: S1
+  url: "https://x.com/mckaywrigley/status/1286663173861408770"
+  author: "@mckaywrigley"
+  published: "2020-07-24"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Pinned post: learned to code in ~18 months, then raised $20k from initial customers for a software business"
+  excerpt: "I couldn’t code 18 months ago. Yesterday I raised over $20,000 from initial customers to get my software business off the ground. Believe in yourself, be relentlessly resourceful, be relentlessly optimistic, and never give up."
+  original: true
+  confidence: "high"
+- id: S2
+  url: "https://x.com/mckaywrigley/status/1725651542387372109"
+  author: "@mckaywrigley"
+  published: "2023-11-17"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Says Sam Altman gave him GPT-3 beta access in July 2020, after which he went full-time on AI"
+  excerpt: "July 2020 Sam DM’d me during GPT-3 beta and got me access. I was an absolute nobody dev, and the gesture completely changed my life. I immediately started working full-time on AI. He didn’t need to reach out, but because…"
+  original: true
+  confidence: "high"
+- id: S3
+  url: "https://x.com/mckaywrigley/status/1733942293760254313"
+  author: "@mckaywrigley"
+  published: "2023-12-10"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Chatbot UI v1 nearing 20k GitHub stars; v2 announced"
+  excerpt: "Chatbot UI 2.0 is almost done. V1 is nearing 20k stars on GitHub, and I learned a lot from the experience. V2 will be much, much better and will be constantly improved & updated as the AI space continues to…"
+  original: true
+  confidence: "high"
+- id: S4
+  url: "https://x.com/mckaywrigley/status/1707101465922453701"
+  author: "@mckaywrigley"
+  published: "2023-09-27"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Viral demo: ChatGPT Vision turns whiteboard photo into code (29k likes)"
+  excerpt: "You can give ChatGPT a picture of your team’s whiteboarding session and have it write the code for you. This is absolutely insane."
+  original: true
+  confidence: "high"
+- id: S5
+  url: "https://x.com/mckaywrigley/status/1838321570969981308"
+  author: "@mckaywrigley"
+  published: "2024-09-23"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Workflow tip: add comments everywhere so AI codegen performs better"
+  excerpt: "My #1 workflow change recently is adding comments *everywhere* in my code with Cursor. Want a major codegen performance boost? Then document your codebase to drastically help the AI that’s working on it. It’s super easy - prompt below."
+  original: true
+  confidence: "high"
+- id: S6
+  url: "https://x.com/mckaywrigley/status/1833941831253696690"
+  author: "@mckaywrigley"
+  published: "2024-09-11"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Shares a \"Rules for AI\" prompt that turns Cursor into a coding tutor for beginners"
+  excerpt: "Are you just starting to write code for the 1st time with AI tools like Cursor? Use this prompt in your “Rules for AI”. It turns the AI into an *amazing* personal coding tutor that teaches you everything like a…"
+  original: true
+  confidence: "high"
+- id: S7
+  url: "https://x.com/mckaywrigley/status/1833278374737006769"
+  author: "@mckaywrigley"
+  published: "2024-09-09"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Tutorial: build an AI customer-support agent (OpenAI + Slack) with Cursor in <20 min"
+  excerpt: "Let’s build an AI Customer Support Agent with Cursor in <20 minutes. We’ll use OpenAI + Slack to allow users to chat with an AI that sends tickets to the correct Slack channels. Watch me use Cursor Composer to write…"
+  original: true
+  confidence: "high"
+- id: S8
+  url: "https://x.com/mckaywrigley/status/1837606280313426098"
+  author: "@mckaywrigley"
+  published: "2024-09-21"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "2024 prediction: agents enter day-to-day coding within 3-6 months"
+  excerpt: "Over the next 3-6 months we’ll begin to see AI agents reliably make their way into day-to-day coding workflows. OpenAI’s o1 model is the 1st model to really take these workflows from toys to tools. Individual devs will soon have…"
+  original: true
+  confidence: "high"
+- id: S9
+  url: "https://x.com/mckaywrigley/status/2020211004643426514"
+  author: "@mckaywrigley"
+  published: "2026-02-07"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Warning against competing directly with AI labs"
+  excerpt: "if you decide to compete with the ai labs on something just remember that they: - have the best talent in the world - their talent has unlimited use of the models - they get access to the newer models…"
+  original: true
+  confidence: "high"
+- id: S10
+  url: "https://x.com/mckaywrigley/status/2038682313253687435"
+  author: "@mckaywrigley"
+  published: "2026-03-30"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Prediction: 6-12 months until AI can autonomously use and clone any software"
+  excerpt: "btw we’re 6-12 months away from ai tools being able to: - autonomously use any piece of software in the world - effortlessly clone it in a weekend - constantly monitor it for updates - add whatever features you want…"
+  original: true
+  confidence: "high"
+- id: S11
+  url: "https://x.com/mckaywrigley/status/2047806060061507971"
+  author: "@mckaywrigley"
+  published: "2026-04-24"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Model-mix update: coding split flipped Claude→GPT; Claude still better for non-coding agents"
+  excerpt: "some random ai thoughts: - for code, i went from 80/20 claude/gpt to 80/20 gpt/claude in <3 months. surprised by this tbh, and interested to see where the split is at in another 3mo. - claude still mogs gpt for…"
+  original: true
+  confidence: "high"
+- id: S12
+  url: "https://x.com/mckaywrigley/status/2010901209293734295"
+  author: "@mckaywrigley"
+  published: "2026-01-13"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Says you can build Claude Cowork-style apps with the Claude Agent SDK; plans to open-source his"
+  excerpt: "fyi: you can build your own claude cowork style apps with claude agent sdk! i’ll be open sourcing my app this week. i’ve been hacking on it for a while, and i think it’s actually really good! this app format…"
+  original: true
+  confidence: "high"
+- id: S13
+  url: "https://x.com/mckaywrigley/status/2019557279222439962"
+  author: "@mckaywrigley"
+  published: "2026-02-05"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Claude Code swarm mode vs not: claims 2.5x faster and better results"
+  excerpt: "opus 4.6 with new “swarm” mode vs. opus 4.6 without it. 2.5x faster + done better. swarms work! and multi-agent tmux view is *genius*. insane claude code update."
+  original: true
+  confidence: "high"
+- id: S14
+  url: "https://x.com/mckaywrigley/status/2037299677599838490"
+  author: "@mckaywrigley"
+  published: "2026-03-26"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Argues people fading MCP was a mistake; recommends building MCP apps"
+  excerpt: "anthropic’s taste continues to be unmatched. - something cool comes out - nobody does anything with it - anthropic finally goes “okay fine we’ll do it” - thing becomes mega popular people fading mcp was remarkably stupid, and you should…"
+  original: true
+  confidence: "high"
+- id: S15
+  url: "https://x.com/mckaywrigley/status/2085078744486789248"
+  author: "@mckaywrigley"
+  published: "2026-08-05"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "System-prompt tip \"You are AGI-pilled.\" for agents"
+  excerpt: "random tip… put “You are AGI-pilled.” in your system prompt for all agents now. it’s a WAY better experience. rn agents behave too much like the world is going to stay static. this unhobbles them quite a bit and gets…"
+  original: true
+  confidence: "high"
+- id: S16
+  url: "https://x.com/mckaywrigley/status/2084681158697337182"
+  author: "@mckaywrigley"
+  published: "2026-08-04"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Bullish on model routers / blending multiple models"
+  excerpt: "bullish model routers. same perf at lower cost is obvious. but there are massive gains to be had by creating \"smoother\" intelligence via blending multiple jagged models together. the era of model melding begins."
+  original: true
+  confidence: "high"
+- id: S17
+  url: "https://x.com/mckaywrigley/status/2014743894840451263"
+  author: "@mckaywrigley"
+  published: "2026-01-23"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Self-deprecating post about approving Claude Code changes without reading code"
+  excerpt: "me after hitting \"approve\" for the 9,646th time in claude code without looking at a single line of code it wrote"
+  original: true
+  confidence: "high"
+- id: S18
+  url: "https://x.com/mckaywrigley/status/2113037629000446011"
+  author: "@mckaywrigley"
+  published: "2026-10-21"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Urges educating family/friends on cyber risk (shares a starter checklist)"
+  excerpt: "you have a moral responsibility to educate your family & friends on what is going on in cyber rn. it is only going to get worse/weirder from here. here’s a great starter todo list to share:"
+  original: true
+  confidence: "high"
+- id: S19
+  url: "https://x.com/mckaywrigley/status/1856101251488068076"
+  author: "@mckaywrigley"
+  published: "2024-11-11"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Nov 2024: AI + crypto \"wildly mispriced\"; crypto as rails for agents"
+  excerpt: "AI + Crypto is wildly mispriced. Trump admin will come in and deregulate the crypto industry. This will happen as AI Agents begin hitting the early stages of the “AI Employee” level. Crypto will be the financial rails for those…"
+  original: true
+  confidence: "high"
+- id: S20
+  url: "https://x.com/mckaywrigley/status/2096264183482552753"
+  author: "@mckaywrigley"
+  published: "2026-09-05"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Token usage up 3-4x with new model; \"demand for intelligence is infinite\""
+  excerpt: "the demand for intelligence is infinite. with gpt-6 astra i’m up another 3-4x on token usage. we must do everything we can to make sure *every* human on the planet can be a token trillionaire. it’s time to transition from…"
+  original: true
+  confidence: "high"
+- id: S21
+  url: "https://github.com/mckaywrigley"
+  author: "Mckay Wrigley (GitHub API)"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "github"
+  description: "GitHub profile: company \"Takeoff AI\", 66 public repos, 7,308 followers; chatbot-ui 33,311 stars; mckays-app-template 1,925 stars; last pushes mid-2025"
+  excerpt: "Founder, Takeoff AI. I build AI tools."
+  original: true
+  confidence: "high"
+- id: S22
+  url: "https://www.mckaywrigley.com"
+  author: "Mckay Wrigley"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "website"
+  description: "Personal site (one line bio)"
+  excerpt: "I build & teach AI stuff. Founder of Takeoff AI."
+  original: true
+  confidence: "high"
+- id: S23
+  url: "https://indiemakerlist.com/p/mckay-wrigley/"
+  author: "indiemakerlist.com (third party)"
+  published: "2026-10-29"
+  researched: "2026-11-24"
+  type: "secondary"
+  description: "Third-party profile: Takeoff renamed MagicLearn (Feb 2026), Magic MCP, AgentShare in development"
+  excerpt: "In February 2026 he renamed it MagicLearn, reorganized the content into AI for Code and AI for Work tracks, and launched Magic MCP"
+  original: false
+  confidence: "medium"
+- id: S24
+  url: "https://magiclearn.com/pricing"
+  author: "MagicLearn"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "website"
+  description: "Pricing page of his course business (seen via search snippet, not full fetch)"
+  excerpt: "$17/month $200 billed annually"
+  original: true
+  confidence: "medium"

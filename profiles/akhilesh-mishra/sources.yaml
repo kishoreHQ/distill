@@ -1,0 +1,130 @@
+- id: S1
+  url: https://x.com/livingdevops
+  author: Akhilesh Mishra
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: X profile via API; "Founder, LivingDevOps | AI Platform Engineer | Tech Storyteller"; Noida, India; ~25.2k followers; since 2023.
+  excerpt: "Founder, LivingDevOps | AI Platform Engineer | Tech Storyteller"
+  original: true
+  confidence: high
+- id: S2
+  url: https://livingdevops.com
+  author: Living Devops
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: Course site. Paid bootcamps taught by Akhilesh Mishra - 20-week AWS DevOps (₹45,000), 28-week DevOps+MLOps/AIOps (₹60,000), 9-week Kubernetes on AWS (₹30,000), 8-week MLOps+AIOps (₹30,000); weekend live classes; describes him as "Founder and CTO, Living Devops; Devops Lead with 14+ years in Cloud & Devops".
+  excerpt: "Learn DevOps the Way Production Engineers Build It"
+  original: true
+  confidence: high
+- id: S3
+  url: https://api.github.com/users/akhileshmishrabiz
+  author: GitHub (first-party profile)
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: github
+  description: GitHub akhileshmishrabiz; bio "Senior DevOps Engineer, educator, mentor, and content creator"; 57 repos; top - Devops-zero-to-hero (~404 stars), python-for-devops (~75), web-app-on-aws-ecs, kubernetes-zero-to-hero, toffee-terraform-wrapper (env-first Terraform wrapper, pushed Oct 2026).
+  excerpt: "Senior DevOps Engineer, educator, mentor, and content creator."
+  original: true
+  confidence: high
+- id: S4
+  url: https://livingdevops.com/devops/your-infrastructure-doesnt-have-an-automation-problem-it-has-an-orchestration-problem/
+  author: Akhilesh Mishra
+  published: 2026-07-23
+  researched: 2026-11-24
+  type: blog
+  description: Argues platform teams have plenty of automation but lack orchestration; walks through a ServiceNow-triggered Kestra workflow (GitHub repo -> Terraform -> approval -> Ansible -> Slack -> close ticket). Sponsorship status not stated in the portion read.
+  excerpt: "Infrastructure teams don't have a shortage of automation anymore. They have a shortage of orchestration"
+  original: true
+  confidence: high
+- id: S5
+  url: https://x.com/livingdevops/status/2124453016119984359
+  author: Akhilesh Mishra
+  published: 2026-11-22
+  researched: 2026-11-24
+  type: x_post
+  description: DevOps defined as designing robust systems, not a tool list.
+  excerpt: "DevOps is not: • Kubernetes • Jenkins • Terraform • Docker • AWS, GCP or Azure"
+  original: true
+  confidence: high
+- id: S6
+  url: https://x.com/livingdevops/status/2057440422310646176
+  author: Akhilesh Mishra
+  published: 2026-05-21
+  researched: 2026-11-24
+  type: x_post
+  description: Managed services (e.g., EKS Auto Mode) are paid convenience to avoid operational toil.
+  excerpt: "In Cloud and DevOps, convenience is expensive."
+  original: true
+  confidence: high
+- id: S7
+  url: https://x.com/livingdevops/status/2058153996737794283
+  author: Akhilesh Mishra
+  published: 2026-05-23
+  researched: 2026-11-24
+  type: x_post
+  description: Four Golden Signals over dozens of dashboards.
+  excerpt: "You do not need 50 dashboards to monitor a production system. You need 4."
+  original: true
+  confidence: high
+- id: S8
+  url: https://x.com/livingdevops/status/2122362286316941609
+  author: Akhilesh Mishra
+  published: 2026-11-16
+  researched: 2026-11-24
+  type: x_post
+  description: Trend claim - Kubernetes users moving from sidecars to eBPF tools (Cilium, Calico, Falco).
+  excerpt: "Kubernetes users are ditching sidecars and quietly moving to eBPF-based tools."
+  original: true
+  confidence: medium
+- id: S9
+  url: https://x.com/livingdevops/status/1928882362743435540
+  author: Akhilesh Mishra
+  published: 2025-05-31
+  researched: 2026-11-24
+  type: x_post
+  description: Critique of bootcamps teaching tools not troubleshooting.
+  excerpt: "We teach tools, not troubleshooting."
+  original: true
+  confidence: high
+- id: S10
+  url: https://x.com/livingdevops/status/1928343901162578415
+  author: Akhilesh Mishra
+  published: 2025-05-30
+  researched: 2026-11-24
+  type: x_post
+  description: Commentary on AWS EKS MCP Server release.
+  excerpt: "AWS just dropped their official EKS MCP Server yesterday"
+  original: true
+  confidence: high
+- id: S11
+  url: https://x.com/livingdevops/status/2121560268547490174
+  author: Akhilesh Mishra
+  published: 2026-11-14
+  researched: 2026-11-24
+  type: x_post
+  description: Highest-engagement format - compact Linux-fundamentals explainer lists (~750 likes).
+  excerpt: "Linux is simple - Everything is a file - Everything runs as process"
+  original: true
+  confidence: high
+- id: S12
+  url: https://x.com/livingdevops/status/2124819497936978161
+  author: Akhilesh Mishra
+  published: 2026-11-23
+  researched: 2026-11-24
+  type: x_post
+  description: Personal career note - left job without offer, 10-month break in 2026.
+  excerpt: "Left the job without any offer letters. Took a 10-month break at my peak."
+  original: true
+  confidence: high
+- id: S13
+  url: https://x.com/livingdevops/status/2057400837438402681
+  author: Akhilesh Mishra
+  published: 2026-05-21
+  researched: 2026-11-24
+  type: x_post
+  description: Claims AI devalued GitHub commits/stars and X reduced reach of technical content.
+  excerpt: "AI has killed the value of GITHUB commits - AI bots have killed the value of GITHUB Stars"
+  original: true
+  confidence: high

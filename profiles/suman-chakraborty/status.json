@@ -1,0 +1,65 @@
+{
+  "id": "suman-chakraborty",
+  "x_url": "https://x.com/itsmesumanc",
+  "x_user_id": "16391036",
+  "display_name": "Suman Chakraborty",
+  "research_status": "partial",
+  "posts_read": 64,
+  "posts_by_band": {
+    "recent": 25,
+    "old": 14,
+    "mid": 25
+  },
+  "posts_date_range": [
+    "2025-05-02",
+    "2026-11-23"
+  ],
+  "longform_fetched": 3,
+  "sources_count": 9,
+  "last_post_id": "2124879758916002287",
+  "researched_at": "2026-11-24T14:45:00+05:30",
+  "limitations": [
+    "X content low-signal (events/certs/news)",
+    "Primary channel LinkedIn behind login wall; only search snippets used",
+    "Talk recordings not reviewed",
+    "Old band 14 posts (May 2025)"
+  ],
+  "completeness": {
+    "identity": {
+      "score": 2,
+      "reason": "X+CNCF sched+3rd party"
+    },
+    "source_coverage": {
+      "score": 1,
+      "reason": "64 posts, secondary long-form"
+    },
+    "expertise": {
+      "score": 2,
+      "reason": "talks + certs"
+    },
+    "principles": {
+      "score": 0,
+      "reason": "little stated"
+    },
+    "frameworks": {
+      "score": 1,
+      "reason": "talk methods"
+    },
+    "playbooks": {
+      "score": 1,
+      "reason": "2 derived, interpretive"
+    },
+    "evidence": {
+      "score": 1,
+      "reason": "9 sources, 3 secondary"
+    },
+    "limitations": {
+      "score": 2,
+      "reason": "stated"
+    },
+    "applications": {
+      "score": 1,
+      "reason": "niche DevOps"
+    }
+  }
+}

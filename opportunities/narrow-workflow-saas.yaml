@@ -1,0 +1,53 @@
+id: narrow-workflow-saas
+title: One narrow workflow tool, kept beside a day job
+as_of: "2026-11-24"
+status: hypothesis
+disclaimer: "Opportunity scores are hypotheses with links to public evidence. They are not income projections, job offers, or proof that a business exists. Self-reported revenue in the sources belongs to those authors, not to Kishore."
+hypothesis: >
+  A single workflow tool with an official platform API, a small paid tier, and public metrics,
+  built beside employment rather than instead of it. Piyush Sachdeva's ReelDrop posts are the
+  evidence for the shape: he states 56 paid users and $694 MRR on day 104, and he also states
+  that a platform-dependent tool needs the platform's approval. The opportunity is the shape.
+  It is not "build another Instagram DM product", and his numbers are not a target to promise.
+domains: [indie-hacking, careers-cloud-devops]
+dimensions:
+  market_pull:
+    score: 6
+    note: One founder reports paying users for one tool. That is a data point, not a category study.
+  evidence_strength:
+    score: 6
+    note: The day-104 numbers are in his own post and are self-reported. The post text in the ledger is truncated.
+  fit_with_kishore_skills:
+    score: 7
+    note: Shipping a small service fits the spec. ReelDrop's Instagram domain does not. Fit is for the operating shape, not for that market.
+  time_to_value:
+    score: 5
+    note: His post is day 104, with a day job still in the picture according to the batch summary. That is not a weekend.
+  competition_gap:
+    score: 4
+    note: His own later post says Claude shipped an Instagram scheduler and comment-DM tool. Platform owners can enter the niche.
+  monetization_clarity:
+    score: 7
+    note: He shows a paid tier and an MRR line. The ledger also says many of the payments were lifetime deals, so MRR is not the whole story.
+  risk_inverse:
+    score: 4
+    note: Platform approval, rate limits, and a lab shipping the same workflow are all in his posts. Those are structural risks.
+evidence:
+  - profile: piyush-sachdeva
+    source: S1
+    url: https://x.com/techie_piyush/status/2122927926895370692
+    note: "Day 104 post. Excerpt includes 56 paid users, net revenue $3793 CAD, MRR $694. Self-reported and truncated."
+  - profile: piyush-sachdeva
+    source: S4
+    url: https://x.com/techie_piyush/status/2122147206358798626
+    note: Platform-dependent tools need the platform's approval. He says you cannot just ship a wrapper.
+  - profile: piyush-sachdeva
+    source: S8
+    url: https://x.com/techie_piyush/status/2121323534370865285
+    note: He says Claude shipped a similar Instagram scheduler and that indie hackers are exposed.
+risks:
+  - Using his MRR as a personal goal would turn one self-report into a promise. The score does not do that.
+  - A tool that depends on another company's API can be cloned by that company or by a lab.
+non_claims:
+  - Not a recommendation to build an Instagram DM product.
+  - Not a claim that $694 MRR is typical, transferable, or desirable as a forecast.

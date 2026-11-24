@@ -1,0 +1,110 @@
+- id: S1
+  url: https://x.com/Ozacle23
+  author: Ozacle23
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: X profile metadata (id 1460656460103258122, ~8.4K followers, joined 2021-11-16, Bangalore); links projectminimi.com.
+  excerpt: "founder @minimi_ai | mini-she/mini-her"
+  original: true
+  confidence: high
+- id: S2
+  url: https://x.com/Ozacle23/status/2083509456550465961
+  author: Ozacle23
+  published: 2026-08-01
+  researched: 2026-11-24
+  type: x_post
+  description: Pinned launch of minimi - personal memory app that tracks open loops (replies owed, promises) and closes them.
+  excerpt: "meet the new minimi - your personal memory for the AI era."
+  original: true
+  confidence: high
+- id: S3
+  url: https://projectminimi.com/
+  author: minimi
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: Product site (JS-rendered; only title retrievable without a browser).
+  excerpt: "minimi | mini-you to never miss your commitments"
+  original: true
+  confidence: medium
+- id: S4
+  url: https://x.com/Ozacle23/status/2086761008056644095
+  author: Ozacle23
+  published: 2026-08-10
+  researched: 2026-11-24
+  type: x_post
+  description: Reports early Instagram traction for the product account (self-reported).
+  excerpt: "2.5m+ views &amp; 30k followers - first two weeks on IG for @project_minimi"
+  original: true
+  confidence: medium
+- id: S5
+  url: https://x.com/Ozacle23/status/2085644824838091108
+  author: Ozacle23
+  published: 2026-08-07
+  researched: 2026-11-24
+  type: x_post
+  description: In-person user testing - invites non-users to onboard in front of the team for feedback.
+  excerpt: "we are looking to host 2 people to join us in the evening, who haven’t onboarded on minimi, to try it in front of us and give feedback."
+  original: true
+  confidence: high
+- id: S6
+  url: https://x.com/Ozacle23/status/2087916139661914472
+  author: Ozacle23
+  published: 2026-08-13
+  researched: 2026-11-24
+  type: x_post
+  description: PMF heuristic - dependence (feels like missing a limb when it's down).
+  excerpt: "claude is down, and it felt like i was missing a limb."
+  original: true
+  confidence: high
+- id: S7
+  url: https://x.com/Ozacle23/status/2123774660563386409
+  author: Ozacle23
+  published: 2026-11-20
+  researched: 2026-11-24
+  type: x_post
+  description: Quotes her CTO on not delegating thinking to coding agents.
+  excerpt: "you can't be excellent if you delegate your thinking to AI."
+  original: true
+  confidence: high
+- id: S8
+  url: https://x.com/Ozacle23/status/1987858071360778606
+  author: Ozacle23
+  published: 2025-11-10
+  researched: 2026-11-24
+  type: x_post
+  description: Problem-selection heuristic - if an LLM can't help, the problem may be worth solving.
+  excerpt: "A good way of knowing that you are doing something complex and challenging is if an LLM can’t help you do it."
+  original: true
+  confidence: high
+- id: S9
+  url: https://x.com/Ozacle23/status/2087131063219012021
+  author: Ozacle23
+  published: 2026-08-11
+  researched: 2026-11-24
+  type: x_post
+  description: Hiring story - intern from small-town Odisha now leads engineering; team of 3 (per other post).
+  excerpt: "joined us as an intern, now leads engineering at minimi."
+  original: true
+  confidence: high
+- id: S10
+  url: https://x.com/Ozacle23/status/1985707026807439429
+  author: Ozacle23
+  published: 2025-11-04
+  researched: 2026-11-24
+  type: x_post
+  description: Background - trained architect (AIR 4) who switched to building tech.
+  excerpt: "I became a trained architect because that is what I always wanted to be since childhood."
+  original: true
+  confidence: high
+- id: S11
+  url: https://x.com/Ozacle23/status/2124833892041462172
+  author: Ozacle23
+  published: 2026-11-23
+  researched: 2026-11-24
+  type: x_post
+  description: Notes that viral fundraising stories are not copyable playbooks (context-dependent - SF, fast capital, marquee backers).
+  excerpt: "instinct's growth is not a copyable playbook."
+  original: true
+  confidence: high

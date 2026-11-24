@@ -1,0 +1,90 @@
+---
+id: akhilesh-mishra
+display_name: Akhilesh Mishra
+x_username: livingdevops
+x_url: https://x.com/livingdevops
+x_user_id: "1623980420235948034"
+other_identities: [https://livingdevops.com, https://github.com/akhileshmishrabiz, https://medium.com/@akhilesh-mishra, https://akhileshmishra.substack.com/, https://www.linkedin.com/in/akhilesh-mishra-0ab886124/]
+website: https://livingdevops.com
+organization: Living Devops (founder, self-described)
+role: Founder/instructor, Living Devops; self-described AI Platform Engineer / DevOps lead (14+ yrs, self-reported)
+research_date: 2026-11-24
+confidence: high
+account_type: person
+primary_domain: automation
+secondary_domains: [content-creation, startup-building]
+board_eligibility: [automation, creator]
+status: verified
+---
+
+# Akhilesh Mishra (@livingdevops)
+
+## A. Identity
+- X @livingdevops (id 1623980420235948034, since 2023), Noida, India; ~25.2k followers; bio "Founder, LivingDevOps | AI Platform Engineer | Tech Storyteller" [S1].
+- livingdevops.com names him "Founder and CTO, Living Devops; Devops Lead with 14+ years in Cloud & Devops" (self-reported) and sells his bootcamps [S2]. Links to GitHub akhileshmishrabiz, Medium, Substack, LinkedIn [S2][S3].
+- Posts say he is in his 3rd year as an AWS Community Builder (self-reported, May 2026) and took a 10-month break in 2026 after leaving a job [S12].
+- Confidence: high (site, GitHub, X cross-link).
+
+## B. Expertise map
+- Primary: DevOps/platform engineering education - AWS, Kubernetes, Terraform, Linux, observability, DevSecOps; orchestration of infra automation [S2][S4].
+- Secondary: technical content creation on X/LinkedIn/Medium; info-business (paid bootcamps) [S2][S11].
+- Technical: EKS, Kubernetes networking/DNS, eBPF tooling, Terraform wrappers, Ansible, Kestra workflows, MLOps/AIOps (course topic) [S3][S4][S8].
+- Business: cohort-based paid bootcamps priced ₹30k-₹60k for Indian + global learners [S2].
+- Products: Living Devops bootcamps, Discord community, GitHub learning repos (Devops-zero-to-hero ~404 stars), toffee-terraform-wrapper [S2][S3].
+
+## C. Core philosophy
+- Software/DevOps: DevOps = designing reliable systems, not knowing tools [S5]; teach troubleshooting over tool tours [S9].
+- Automation: Most infra is already automated; the gap is orchestration (sequence, retries, approvals, audit) [S4].
+- Cost/ops trade-off: Managed services are paid convenience against 2 AM toil [S6].
+- AI: Skeptical of AI hype (NVIDIA "buy our chips" posts) while teaching MLOps/AIOps; notes AI inflating GitHub signals [S13].
+- Monetization: Content -> community (Discord) -> paid live cohorts [S2].
+
+## D. Distilled knowledge
+- Principle: Monitor the Four Golden Signals rather than many dashboards [observed statement] [S7].
+- Principle: "Convenience is expensive" - pay for managed only when toil cost exceeds premium [observed statement] [S6].
+- Framework: Orchestration control plane (workflow-as-code) over existing Terraform/Ansible/GitHub/ServiceNow, with approvals, retries per step, run history [observed statement] [S4].
+- Technical method: ServiceNow request -> GitHub repo -> Terraform -> human approval -> Ansible -> Slack -> close ticket, in Kestra YAML [observed statement] [S4].
+- Trend claim: sidecar -> eBPF (Cilium, Falco) in Kubernetes [observed statement, unverified trend] [S8].
+- Content insight: compact fundamentals lists (Linux, DNS, K8s request path) get his highest engagement [demonstrated result - engagement only] [S11].
+- Business insight: Indian live-cohort DevOps bootcamps at ₹30k-60k exist and run repeatedly (dates through Jan 2027) [demonstrated result - offering exists; enrollment/revenue not verified] [S2].
+- Mistakes warned: copy-paste Terraform without understanding; hello-world Docker tutorials; tool memorization (see posts.jsonl 2025-05) [S9].
+
+## E. Implementation playbooks
+
+### E1. Self-service infra request orchestration (derived from [S4])
+- Problem: "Set up a new microservice" requires many manual hand-offs across already-automated tools.
+- Preconditions: Existing Terraform modules, Ansible roles, GitHub org, ticketing/Slack.
+- Tools: Kestra (open source, self-hosted) or similar workflow engine; Terraform; Ansible; GitHub API; Slack.
+- Steps: 1) List the end-to-end sequence. 2) Encode as workflow-as-code YAML in Git. 3) Add per-step retries and a manual approval gate before prod. 4) Trigger from ticket/webhook. 5) Notify + close ticket; keep run history.
+- Expected output: One request -> fully provisioned service with audit trail.
+- Cost: self-host compute (small VM). Time: 2-5 days. Complexity: medium.
+- Risks: New platform to maintain; secrets handling.
+- Success metric: lead time per request, manual touches per request.
+
+### E2. DevOps education content -> cohort business (derived from [S2][S11])
+- Problem: Monetizing DevOps expertise in India.
+- Steps: 1) Post fundamentals explainers daily (Linux/K8s/DNS). 2) Build free GitHub learning repo. 3) Open Discord. 4) Launch weekend live cohort with real production projects; price in INR+USD.
+- Cost: low; Time: high ongoing (live teaching 6 h/week per cohort). Complexity: medium.
+- Risks: Time-intensive (conflicts with Kishore's low-time goal); crowded market.
+- Success metric: enrollments per cohort, completion, referrals.
+
+## F. Evidence summary
+- 66 X posts (25 recent Nov 2026, 25 May 2026, 16 May 2025); 2 long-form (homepage, 1 blog) + GitHub API. 13 sources.
+- Top: [S4], [S2], [S3], [S6], [S7].
+
+## G. Strengths and weaknesses
+- Strengths: Practical production DevOps framing; India-specific education business evidence; clear explanations [S2][S4][S11].
+- Limited evidence: AI/agent engineering depth beyond course titles; trend claims (eBPF) without data.
+- Conflicts of interest: Sells bootcamps - posts about skill gaps/job market funnel to paid courses [S2]; tool-focused blog posts (Kestra) may be sponsored - not confirmed.
+- Risks: Live-cohort model is time-heavy; X engagement concentrated on fundamentals, not monetization proof.
+
+## H. Practical applications for Kishore
+1. DevOps/automation: Apply orchestration-layer thinking to DISTILL's daily pipeline (one workflow owning sequence, retries, approvals, run log) [S4].
+2. Content: Fundamentals explainers are the highest-engagement DevOps format on X for Indian audiences - Kishore can pair them with an AI-agents angle [S11].
+3. Income: Evidence that Indian learners pay ₹30k-60k for production-oriented DevOps cohorts; a lower-time variant would be async/recorded or AI-assisted labs [S2].
+- Board eligibility: automation (infra orchestration practitioner), creator (DevOps content + education funnel in India). Not ai-engineering (insufficient evidence), not master.
+
+## I. Profile evolution
+- 2026-11-24 baseline.
+- May 2025: DevOps career/bootcamp critique, launches Discord, EKS MCP server commentary [S9][S10].
+- 2026: rebrands as "AI Platform Engineer", adds MLOps/AIOps courses, orchestration content, higher engagement on Linux fundamentals; career break [S1][S2][S4][S12].

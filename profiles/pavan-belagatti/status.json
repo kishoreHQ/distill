@@ -1,0 +1,60 @@
+{
+  "id": "pavan-belagatti",
+  "x_url": "https://x.com/Pavan_Belagatti",
+  "x_user_id": "2199002832",
+  "display_name": "Pavan Belagatti",
+  "research_status": "verified",
+  "posts_read": 96,
+  "posts_by_band": {
+    "last_6mo": 46,
+    "6_24mo": 25,
+    "older": 25
+  },
+  "longform_fetched": 5,
+  "last_post_id": "2124902074819531106",
+  "limitations": [
+    "LinkedIn data via search snippet only",
+    "No YouTube transcripts",
+    "Employer influence on recommendations"
+  ],
+  "completeness": {
+    "identity": {
+      "score": 2,
+      "reason": "GitHub+LinkedIn+posts"
+    },
+    "source_coverage": {
+      "score": 2,
+      "reason": "X + 2 X Articles + employer blog + DZone + GitHub"
+    },
+    "expertise": {
+      "score": 2,
+      "reason": "consistent"
+    },
+    "principles": {
+      "score": 2,
+      "reason": "repeated"
+    },
+    "frameworks": {
+      "score": 2,
+      "reason": "factory/harness/spec/graph"
+    },
+    "playbooks": {
+      "score": 2,
+      "reason": "grounded in his build"
+    },
+    "evidence": {
+      "score": 2,
+      "reason": "cited"
+    },
+    "limitations": {
+      "score": 2,
+      "reason": "COI noted"
+    },
+    "applications": {
+      "score": 2,
+      "reason": "DevOps fit"
+    }
+  },
+  "sources_count": 18,
+  "researched_at": "2026-11-24T15:30:00+05:30"
+}

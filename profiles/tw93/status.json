@@ -1,0 +1,64 @@
+{
+ "id": "tw93",
+ "x_url": "https://x.com/HiTw93",
+ "x_user_id": "1521688129559613440",
+ "display_name": "Tw93",
+ "research_status": "verified",
+ "posts_read": 85,
+ "posts_by_band": {
+  "0-6mo": 50,
+  "6-24mo": 20,
+  "24mo+": 15
+ },
+ "longform_fetched": 5,
+ "sources_count": 14,
+ "last_post_id": "2124870500778418260",
+ "researched_at": "2026-11-24T14:25:00+05:30",
+ "x_calls_used_note": "batch A shared budget; see batch-A-summary.md",
+ "limitations": [
+  "Pseudonymous; legal name not stated",
+  "Most long-form is Chinese; read directly, nuance may be lost in our summary",
+  "Revenue not disclosed (only refund rate)",
+  "X sampled in 4 windows"
+ ],
+ "completeness": {
+  "identity": {
+   "score": 2,
+   "reason": "X/GitHub/blog cross-linked"
+  },
+  "source_coverage": {
+   "score": 2,
+   "reason": "85 posts + 2 deep blog posts + 3 READMEs"
+  },
+  "expertise": {
+   "score": 2,
+   "reason": "clear"
+  },
+  "principles": {
+   "score": 2,
+   "reason": "21 practices"
+  },
+  "frameworks": {
+   "score": 2,
+   "reason": "agent loop, open-core"
+  },
+  "playbooks": {
+   "score": 2,
+   "reason": "3 playbooks"
+  },
+  "evidence": {
+   "score": 2,
+   "reason": "14 sources"
+  },
+  "limitations": {
+   "score": 1,
+   "reason": "limited critique available"
+  },
+  "applications": {
+   "score": 2,
+   "reason": "mapped"
+  }
+ },
+ "completeness_total": 17,
+ "completeness_max": 18
+}

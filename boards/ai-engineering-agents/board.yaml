@@ -1,0 +1,75 @@
+id: ai-engineering-agents
+title: Simulated board — AI engineering & agents
+domain: ai-engineering-agents
+as_of: "2026-11-24"
+disclaimer: "SIMULATED ADVISORY BOARD. The real people named here have not joined this board, have not been contacted, and have not endorsed DISTILL, Kishore, or any recommendation in this file. Positions below are paraphrases of their public posts and pages, with citations. They are not quotes of private advice."
+charter: >
+  This simulated board reads public material from people whose imported profiles
+  sit in AI engineering. It answers one question for the operator context in
+  config/operator.yaml. It does not speak for those people. Employer posts
+  (Google, OpenAI, Perplexity) are treated as carrying that conflict of interest.
+question: >
+  What should a Linux/DevOps engineer with low capital build first if the goal is
+  an agent-shaped tool, given only this snapshot?
+members:
+  - profile_id: aravind-srinivas
+    reason: High-confidence profile, board_eligibility includes ai-engineering, and the transcript states a grounding rule.
+    position: >
+      Say only what you retrieved [aravind-srinivas S7]. Score a fetched page before an agent trusts it [aravind-srinivas S16]. For a high-stakes answer, let several models work and have a chair model synthesize [aravind-srinivas S17].
+    evidence:
+      - source: S7
+        url: https://lexfridman.com/aravind-srinivas-transcript/
+      - source: S16
+        url: https://x.com/AravSrinivas/status/2123464412971635018
+      - source: S17
+        url: https://x.com/AravSrinivas/status/2019444331006791847
+  - profile_id: peter-steinberger
+    reason: First-party posts on CLI-first agent work and a four-check gate before autonomous edits.
+    position: >
+      Start with the model and a CLI [peter-steinberger S5]. Let an agent work an issue only when it fits the repo's stated vision, is inferable, has a clear fix, and can be tested live [peter-steinberger S8]. He also calls "vibe coding" a slur [peter-steinberger S15]. He is an OpenAI employee in this snapshot.
+    evidence:
+      - source: S5
+        url: https://steipete.me/posts/2025/shipping-at-inference-speed
+      - source: S8
+        url: https://x.com/steipete/status/2058240758801420530
+      - source: S15
+        url: https://x.com/steipete/status/2109724776168300631
+  - profile_id: theo-browne
+    reason: Writes about harnesses versus chat apps, and ships a multi-model review skill.
+    position: >
+      The harness is the tools, the call syntax, and the return path, and some products bake it into the app [theo-browne S4]. His tstack skill asks three models from different providers and loops until they agree [theo-browne S5].
+    evidence:
+      - source: S4
+        url: https://t3.gg/blog/post/what-is-a-harness
+      - source: S5
+        url: https://github.com/t3dotgg/tstack
+  - profile_id: shubham-saboo
+    reason: Publishes open-source agent examples and describes a cron-driven agent group. He is also a Google Cloud AI PM in this snapshot.
+    position: >
+      He describes a one-person setup as folders, markdown job descriptions, and cron jobs [shubham-saboo S6], operated from Telegram on OpenClaw and later Hermes [shubham-saboo S7]. The pinned post in the ledger promotes his employer's agent features [shubham-saboo S10].
+    evidence:
+      - source: S6
+        url: https://x.com/Saboo_Shubham_/status/2071639897669267922
+      - source: S7
+        url: https://x.com/Saboo_Shubham_/status/2071293463447097625
+      - source: S10
+        url: https://x.com/Saboo_Shubham_/status/2108265508223193319
+  - profile_id: mckay-wrigley
+    reason: Public posts warn against competing head-on with labs, and one post jokes about approving agent diffs unread.
+    position: >
+      He says competing with the labs means competing with people who have earlier models and unlimited use [mckay-wrigley S9]. A separate post jokes about approving Claude Code changes without reading the diff [mckay-wrigley S17]. The joke is his words. It is not a practice this board adopts.
+    evidence:
+      - source: S9
+        url: https://x.com/mckaywrigley/status/2020211004643426514
+      - source: S17
+        url: https://x.com/mckaywrigley/status/2014743894840451263
+disagreements:
+  - "Saboo's public setup is seven agents, ten cron jobs, and zero employees [shubham-saboo S6]. Steinberger's gate is narrower: vision, inferable, clear fix, live test [peter-steinberger S8]. The snapshot does not show these as the same operating rule."
+  - "Wrigley's unread-approve joke [mckay-wrigley S17] cuts against Theo's multi-model review loop [theo-browne S5] and against Steinberger's test requirement [peter-steinberger S8]."
+  - "Srinivas's grounding rule [aravind-srinivas S7] limits what an agent may say. A cron job that posts or emails without that limit, which is closer to the Saboo and Levels patterns elsewhere in the corpus, does not satisfy it."
+synthesis: >
+  The overlapping public advice is to keep the harness explicit, ground claims in retrieved notes, and put a test or a second model in front of an autonomous edit. It is not to staff a company with unattended agents, and it is not to compete with a lab on a general assistant. For this operator, the smallest build that uses the overlap is a cited runbook helper with a human gate on any change to a repo.
+recommended_next_action: >
+  Write a one-page spec for a helper that answers only from a folder of runbooks and refuses when the folder does not contain the answer. Add a checklist that treats fetched pages as untrusted. Do not start a general chatbot, and do not quote Perplexity's revenue.
+confidence: medium
+deliberation: deliberations/2026-11-24.md

@@ -1,0 +1,80 @@
+- id: S1
+  url: https://x.com/techyoutbe
+  author: Kushal Gangil (Tech Fusionist)
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: X profile via API; display name "Tech Fusionist | Kushal Gangil"; ~61.5k followers; ~50k posts since 2023-07; bio "Simplifying Cloud, DevOps, AI & Security into visual guides"; links linktr.ee/techfusionist and t3pacademy.gumroad.com.
+  excerpt: "Simplifying Cloud, DevOps, AI & Security into visual guides."
+  original: true
+  confidence: high
+- id: S2
+  url: https://linktr.ee/techfusionist
+  author: Tech Fusionist
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: Linktree - YouTube "T3P" (19K+ subs, self-reported), Telegram (16K+), Substack, Medium, website, GitHub thetechfusionist/Infographics, Gumroad guides, "Collaborations & Promotions (Email Me)".
+  excerpt: "Tech insights + Collabs → AI, DevOps, Cloud"
+  original: true
+  confidence: high
+- id: S3
+  url: https://x.com/techyoutbe/status/2049845410408419523
+  author: Kushal Gangil (Tech Fusionist)
+  published: 2026-04-30
+  researched: 2026-11-24
+  type: x_post
+  description: Sells a bundle of 50+ premium guides (Cloud, DevOps, Cybersecurity, AI) at $7.49 on discount, including future guides.
+  excerpt: "50+ premium guides Now at 50% OFF for the long weekend Only $7.49 (Includes future published guides)"
+  original: true
+  confidence: high
+- id: S4
+  url: https://x.com/techyoutbe/status/2124198110863999387
+  author: Kushal Gangil (Tech Fusionist)
+  published: 2026-11-21
+  researched: 2026-11-24
+  type: x_post
+  description: Describes his infographic production workflow - Udemy for trend analysis, ChatGPT for summary/TOC, Claude for prompt generation (remaining steps truncated in API text).
+  excerpt: "1. Udemy ==> for Analysis (understand the trend) 2. ChatGPT ==> for Summarise and get the best TOC ... 3. Claude ==> Prompt generation"
+  original: true
+  confidence: medium
+- id: S5
+  url: https://x.com/techyoutbe/status/2049842513100546232
+  author: Kushal Gangil (Tech Fusionist)
+  published: 2026-04-30
+  researched: 2026-11-24
+  type: x_post
+  description: Claims to have built 3 iOS apps in 7 days (X-CreatorLens, DevOps Micro-Learning, Habit Tracker); asks audience which to double down on.
+  excerpt: "Built 3 iOS apps back-to-back ... Next goal: make at least ONE of these insanely useful."
+  original: true
+  confidence: medium
+- id: S6
+  url: https://x.com/techyoutbe/status/2049857005154963650
+  author: Kushal Gangil (Tech Fusionist)
+  published: 2026-04-30
+  researched: 2026-11-24
+  type: x_post
+  description: Example of sponsored/promotional post (AI tool giveaway shoutout).
+  excerpt: "Shoutout to @quadcodeai for this 🔥 $1,000 Giveaway"
+  original: true
+  confidence: high
+- id: S7
+  url: https://x.com/techyoutbe/status/2124205432294305807
+  author: Kushal Gangil (Tech Fusionist)
+  published: 2026-11-21
+  researched: 2026-11-24
+  type: x_post
+  description: Typical top-engagement format - visual explainer image with short caption.
+  excerpt: "Kubernetes Visualised (Step by step)"
+  original: true
+  confidence: high
+- id: S8
+  url: https://x.com/techyoutbe/status/1962224752141148468
+  author: Kushal Gangil (Tech Fusionist)
+  published: 2025-08-31
+  researched: 2026-11-24
+  type: x_post
+  description: Step-by-step DevOps learning roadmap text post (highest likes in sample, ~600).
+  excerpt: "Step-1: Learn Linux Fundamentals Step-2: Master Git and Version Control Step-3: Understand Networking Basics"
+  original: true
+  confidence: high

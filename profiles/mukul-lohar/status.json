@@ -1,0 +1,61 @@
+{
+  "id": "mukul-lohar",
+  "x_url": "https://x.com/ironfisto",
+  "x_user_id": "990528957953986562",
+  "display_name": "Mukul Lohar",
+  "research_status": "verified",
+  "posts_read": 65,
+  "posts_by_band": {
+    "last_6mo": 40,
+    "6_24mo": 0,
+    "older": 25
+  },
+  "longform_fetched": 4,
+  "last_post_id": "2124901701161476504",
+  "limitations": [
+    "No 6-24mo X posts retrieved (search returned none for the window)",
+    "ServiceNow current vs former conflicts between site and X bio",
+    "LiveShortly role not explicitly stated",
+    "Medium blog not read"
+  ],
+  "completeness": {
+    "identity": {
+      "score": 2,
+      "reason": "site+GitHub+X"
+    },
+    "source_coverage": {
+      "score": 1,
+      "reason": "thin X"
+    },
+    "expertise": {
+      "score": 2,
+      "reason": "CVE verified"
+    },
+    "principles": {
+      "score": 1,
+      "reason": "few statements"
+    },
+    "frameworks": {
+      "score": 1,
+      "reason": "product-derived"
+    },
+    "playbooks": {
+      "score": 1,
+      "reason": "inferred"
+    },
+    "evidence": {
+      "score": 2,
+      "reason": "cited"
+    },
+    "limitations": {
+      "score": 2,
+      "reason": "noted"
+    },
+    "applications": {
+      "score": 2,
+      "reason": "DevOps-specific"
+    }
+  },
+  "sources_count": 11,
+  "researched_at": "2026-11-24T15:30:00+05:30"
+}

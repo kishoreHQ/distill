@@ -1,0 +1,190 @@
+- id: S1
+  url: "https://x.com/techie_piyush/status/2122927926895370692"
+  author: "@techie_piyush"
+  published: "2026-11-18"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Build-in-public metrics day 104 of ReelDrop: 1,372 users, 56 paid, net revenue $3,793 CAD, MRR $694 (many lifetime deals)"
+  excerpt: "day 104 of building @reeldrop_io in public 💁‍♂️ 1372 users 🚀 56 paid users 🤌 369k+ automated dms being sent by users 🤯 3.9k+ ai captions generated 📈 3600+ reels scheduled 💰 net revenue: $3793 CAD , MRR: $694(as I…"
+  original: true
+  confidence: "medium"
+- id: S2
+  url: "https://x.com/techie_piyush/status/2122688157649187145"
+  author: "@techie_piyush"
+  published: "2026-11-17"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "ReelDrop started as a scheduler; features added from customer requests; ~1,400 users, 55+ paying, ~$700 MRR"
+  excerpt: "~3 months ago, I thought, why would someone use my saas to manage their instagram. When I started building @reeldrop_io , it was just a scheduler , we kept adding customers and based on their requests we kept shipping. Fast…"
+  original: true
+  confidence: "high"
+- id: S3
+  url: "https://x.com/techie_piyush/status/2085408894390579305"
+  author: "@techie_piyush"
+  published: "2026-08-06"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Pinned: ReelDrop out of beta; Meta-approved tech provider using official APIs; positioning vs ManyChat/SuperProfile"
+  excerpt: "Your All-in-one instagram growth platform is now available to subscribe and out of the beta phase. Reeldrop(dot)io is now a meta approved tech provider! what that means? it means we are using official Meta APIs as per their terms and…"
+  original: true
+  confidence: "high"
+- id: S4
+  url: "https://x.com/techie_piyush/status/2122147206358798626"
+  author: "@techie_piyush"
+  published: "2026-11-16"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Platform-dependent tools need approvals; \"You cannot just vibecode a wrapper and make it live\""
+  excerpt: "When you create a tool that is dependent on another platform you need to seek their approval , you need to comply with their policies and processes. Some of these platforms takes months to review and approve your usage. You…"
+  original: true
+  confidence: "high"
+- id: S5
+  url: "https://x.com/techie_piyush/status/2121109592008790451"
+  author: "@techie_piyush"
+  published: "2026-11-13"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "DevOps lesson: ship small, iterate fast, reduce blast radius"
+  excerpt: "Been into DevOps for last 10+ years taught me one important lesson: DevOps is about keep shipping small and keep iterating, keep doing it faster than ever. It not only helps catch the bugs faster but also helps reduce the…"
+  original: true
+  confidence: "high"
+- id: S6
+  url: "https://x.com/techie_piyush/status/2120037249245139418"
+  author: "@techie_piyush"
+  published: "2026-11-10"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Asks Meta/Instagram for higher API hourly rate limits (scaling constraint)"
+  excerpt: "Anyone in @Meta @instagram can help me with increasing the instagram API hourly rate limits? Any help is appreciated"
+  original: true
+  confidence: "high"
+- id: S7
+  url: "https://x.com/techie_piyush/status/2123448967513969114"
+  author: "@techie_piyush"
+  published: "2026-11-19"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Free-tier abuse: users creating multiple throwaway accounts"
+  excerpt: "founders, how do you deal with such freeloaders? I mean, it does give a validation that the product is great that is the reason people are creating multiple accounts to stay within limits, there are many users doing this but…"
+  original: true
+  confidence: "high"
+- id: S8
+  url: "https://x.com/techie_piyush/status/2121323534370865285"
+  author: "@techie_piyush"
+  published: "2026-11-13"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Notes Claude released an Instagram scheduler + comment-DM tool: \"Indiehackers are cooked\" (platform/LLM-vendor risk)"
+  excerpt: "Claude just released an Instagram scheduler + comment-dm automation tool Indiehackers are cooked. Using the Claude agent, you can schedule a full calendar of posts, setup automation, analyze them, and grow your profile fast. Check it here:"
+  original: true
+  confidence: "high"
+- id: S9
+  url: "https://x.com/techie_piyush/status/2056751773247791496"
+  author: "@techie_piyush"
+  published: "2026-05-19"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "May 2026: CannerAI at $219 MRR, next milestone $500 by June 15"
+  excerpt: "CannerAI just hit $219 MRR. Active creators: 5 Beta users: 8 Trial users: 6 next milestone: $500 mrr by june 15. 281 to go."
+  original: true
+  confidence: "medium"
+- id: S10
+  url: "https://x.com/techie_piyush/status/2057431265435890144"
+  author: "@techie_piyush"
+  published: "2026-05-21"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Built a free LinkedIn post generator (45 min → 10 min per post claim) as lead tool"
+  excerpt: "On average, a LinkedIn creator spends 45 minutes per post I realized that with the right structure, 10 minutes is enough to produce something good. So I built a free LinkedIn post generator to solve this. You pick a topic…"
+  original: true
+  confidence: "high"
+- id: S11
+  url: "https://x.com/techie_piyush/status/2056562202341933352"
+  author: "@techie_piyush"
+  published: "2026-05-19"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "10 Docker patterns every DevOps engineer should master"
+  excerpt: "10 docker patterns every DevOps engineer should master. mostly the small stuff people skip. 1) multi-stage builds. always. one stage to compile, one stage to run. shrinks images 10x. 2) `.dockerignore` is not optional. without it your build context becomes…"
+  original: true
+  confidence: "high"
+- id: S12
+  url: "https://x.com/techie_piyush/status/2055302250612789388"
+  author: "@techie_piyush"
+  published: "2026-05-15"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "10 Terraform patterns"
+  excerpt: "10 terraform patterns every cloud engineer should know. these are the differences between \"i write terraform\" and \"i know terraform.\" 1) modules with consistent input/output contracts. if your module needs a doc to use, it's not a module. 2) the…"
+  original: true
+  confidence: "high"
+- id: S13
+  url: "https://x.com/techie_piyush/status/2055075703075303694"
+  author: "@techie_piyush"
+  published: "2026-05-15"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Changed opinion: microservices are the answer to a question 99% of companies don't have"
+  excerpt: "what's a tech opinion you held strongly 5 years ago that you've now completely flipped on? mine: i used to think microservices were the answer. now i think they're the answer to a question 99% of companies don't have yet."
+  original: true
+  confidence: "high"
+- id: S14
+  url: "https://x.com/techie_piyush/status/2119666959453397108"
+  author: "@techie_piyush"
+  published: "2026-11-09"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "SEO myth-busting: blog/directory links are not dofollow unless sponsored"
+  excerpt: "Dont believe everything people say on X No any blogging website doesn’t give a dofollow backlink as it comes under user generated comments. Trustmrr doesnt give a dofollow backlink unless you buy a sponsored slot and this is true"
+  original: true
+  confidence: "high"
+- id: S15
+  url: "https://x.com/techie_piyush/status/2123074751421915541"
+  author: "@techie_piyush"
+  published: "2026-11-18"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Personal commitment: no gaming purchase before $10k MRR"
+  excerpt: "while everyone around me is rushing for gta6 , I promised myself 1 year ago, I won't touch any gaming console or even a PC game before $10k MRR. I guess I have to wait for a few more months…"
+  original: true
+  confidence: "high"
+- id: S16
+  url: "https://x.com/techie_piyush/status/1925413834858053949"
+  author: "@techie_piyush"
+  published: "2025-05-22"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "May 2025: launched first Udemy Docker+Kubernetes course with Hitesh Choudhary"
+  excerpt: "🚀 Launching the top-notch quality course for Docker and Kubernetes. I'm thrilled to announce the launch of my first-ever Udemy course, developed in collaboration with none other than @Hiteshdotcom ! 🤯 This isn't just another Docker and Kubernetes course. We've…"
+  original: true
+  confidence: "high"
+- id: S17
+  url: "https://x.com/techie_piyush/status/2123409313213673550"
+  author: "@techie_piyush"
+  published: "2026-11-19"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "\"seo is the real moat\""
+  excerpt: "seo is the real moat"
+  original: true
+  confidence: "high"
+- id: S18
+  url: "https://www.reeldrop.io"
+  author: "Piyush Sachdeva (ReelDrop site)"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "website"
+  description: "ReelDrop homepage: Instagram DM automation + scheduler on official API; MCP server for Claude/ChatGPT; live counters (1,456 signups, 393,623 DMs, 4,725 reels as of 23 Nov 2026); founder note: 14+ yrs cloud/DevOps, 120k YouTube subs, CKA study companion (Apress), public Aug 2026"
+  excerpt: "The tools that could do it for me were priced per contact (ManyChat's free plan stops at 25 contacts a month), and I still needed a second tool just to schedule the Reels."
+  original: true
+  confidence: "high"
+- id: S19
+  url: "https://github.com/piyushsachdeva"
+  author: "piyush sachdeva (GitHub API)"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "github"
+  description: "GitHub: company Google, blog youtube.com/techtutorialswithpiyush; AzureDevOps-Zero-to-Hero 1,356★, CKA-2024 1,224★, Terraform-Full-Course-Aws 605★, DevOps-Roadmap 415★"
+  excerpt: "This repository contains the notes and code snippets of the CKA 2025 YouTube Playlist."
+  original: true
+  confidence: "high"

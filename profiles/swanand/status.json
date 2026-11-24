@@ -1,0 +1,64 @@
+{
+ "id": "swanand",
+ "x_url": "https://x.com/_swanand",
+ "x_user_id": "16080017",
+ "display_name": "Swanand",
+ "research_status": "partial",
+ "posts_read": 86,
+ "posts_by_band": {
+  "0-6mo": 50,
+  "6-24mo": 20,
+  "24mo+": 16
+ },
+ "longform_fetched": 1,
+ "sources_count": 8,
+ "last_post_id": "2124759467451707564",
+ "researched_at": "2026-11-24T14:25:00+05:30",
+ "x_calls_used_note": "batch A shared budget; see batch-A-summary.md",
+ "limitations": [
+  "Surname not found; no personal blog/GitHub/talks located",
+  "X content mostly personal/off-topic",
+  "Superlinear metrics are company marketing claims",
+  "Title at Superlinear not stated on site (CTO is from X bio)"
+ ],
+ "completeness": {
+  "identity": {
+   "score": 1,
+   "reason": "name+company link via site testimonials; no surname"
+  },
+  "source_coverage": {
+   "score": 1,
+   "reason": "86 posts + 1 website"
+  },
+  "expertise": {
+   "score": 1,
+   "reason": "inferred from company site"
+  },
+  "principles": {
+   "score": 1,
+   "reason": "one framework"
+  },
+  "frameworks": {
+   "score": 1,
+   "reason": "AI ROI ranking"
+  },
+  "playbooks": {
+   "score": 1,
+   "reason": "1 playbook"
+  },
+  "evidence": {
+   "score": 1,
+   "reason": "8 sources"
+  },
+  "limitations": {
+   "score": 2,
+   "reason": "gaps explicit"
+  },
+  "applications": {
+   "score": 1,
+   "reason": "services path only"
+  }
+ },
+ "completeness_total": 10,
+ "completeness_max": 18
+}

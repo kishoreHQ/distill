@@ -1,0 +1,61 @@
+{
+  "id": "neo-kim",
+  "x_url": "https://x.com/systemdesignone",
+  "x_user_id": "1646445864796184578",
+  "display_name": "Neo Kim",
+  "research_status": "verified",
+  "posts_read": 97,
+  "posts_by_band": {
+    "last_6mo": 47,
+    "6_24mo": 25,
+    "older": 25
+  },
+  "longform_fetched": 3,
+  "last_post_id": "2124986860988465654",
+  "limitations": [
+    "Real-name/background beyond brand not verified",
+    "LinkedIn & Substack counts via search snippets",
+    "Sponsorship status of promo posts unknown (paid_partnership field not requested)",
+    "Newsletter issues not read in full"
+  ],
+  "completeness": {
+    "identity": {
+      "score": 1,
+      "reason": "brand verified; person details thin"
+    },
+    "source_coverage": {
+      "score": 1,
+      "reason": "X + newsletter pages"
+    },
+    "expertise": {
+      "score": 1,
+      "reason": "educational"
+    },
+    "principles": {
+      "score": 1,
+      "reason": "implicit"
+    },
+    "frameworks": {
+      "score": 2,
+      "reason": "interview + content formats"
+    },
+    "playbooks": {
+      "score": 2,
+      "reason": "grounded"
+    },
+    "evidence": {
+      "score": 2,
+      "reason": "cited"
+    },
+    "limitations": {
+      "score": 2,
+      "reason": "COI noted"
+    },
+    "applications": {
+      "score": 2,
+      "reason": "specific"
+    }
+  },
+  "sources_count": 18,
+  "researched_at": "2026-11-24T15:30:00+05:30"
+}

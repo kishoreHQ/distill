@@ -1,0 +1,61 @@
+{
+  "id": "piyush-sachdeva",
+  "x_url": "https://x.com/techie_piyush",
+  "x_user_id": "1437201585382305794",
+  "display_name": "Piyush Sachdeva",
+  "research_status": "verified",
+  "posts_read": 94,
+  "posts_by_band": {
+    "last_6mo": 44,
+    "6_24mo": 50,
+    "older": 0
+  },
+  "longform_fetched": 2,
+  "last_post_id": "2124872805628133607",
+  "limitations": [
+    "No posts older than 2025-05 sampled",
+    "His X Article on first 50 customers returned no body text via API",
+    "YouTube not reviewed",
+    "Revenue numbers self-reported"
+  ],
+  "completeness": {
+    "identity": {
+      "score": 2,
+      "reason": "GitHub + product site cross-link"
+    },
+    "source_coverage": {
+      "score": 1,
+      "reason": "X + site + GitHub; no video"
+    },
+    "expertise": {
+      "score": 2,
+      "reason": "clear"
+    },
+    "principles": {
+      "score": 1,
+      "reason": "implicit in posts"
+    },
+    "frameworks": {
+      "score": 1,
+      "reason": "reconstructed"
+    },
+    "playbooks": {
+      "score": 2,
+      "reason": "grounded in his metrics"
+    },
+    "evidence": {
+      "score": 2,
+      "reason": "cited"
+    },
+    "limitations": {
+      "score": 2,
+      "reason": "noted"
+    },
+    "applications": {
+      "score": 2,
+      "reason": "high fit"
+    }
+  },
+  "sources_count": 19,
+  "researched_at": "2026-11-24T15:30:00+05:30"
+}

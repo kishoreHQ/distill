@@ -1,0 +1,180 @@
+- id: S1
+  url: "https://x.com/systemdesignone/status/2124860365674586542"
+  author: "@systemdesignone"
+  published: "2026-11-23"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Pinned (Nov 2026): Big O explainer — near-identical to a May 2025 post (content recycling)"
+  excerpt: "If you want to learn how Big O works, please read this (thank me later): >Big O tells how much slower a code gets as input increases. >There are best, average & worst cases for a specific algorithm. >Besides there…"
+  original: true
+  confidence: "high"
+- id: S2
+  url: "https://x.com/systemdesignone/status/1922620430348693812"
+  author: "@systemdesignone"
+  published: "2025-05-14"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "May 2025 original Big O post (997 bookmarks) later republished"
+  excerpt: "Give me 2 mins—I'll teach you how Big O works: • Big O tells how much slower a code gets as the input increases. • There are best, average, and worst cases for a specific algorithm. • Also there are…"
+  original: true
+  confidence: "high"
+- id: S3
+  url: "https://x.com/systemdesignone/status/2124502179000041492"
+  author: "@systemdesignone"
+  published: "2026-11-22"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "7 prompts to review AI-written code (561 bookmarks)"
+  excerpt: "Everybody's writing code with AI. But many still spend hours reviewing it manually. Master these 7 prompts & you'll review code faster & catch bugs effectively:"
+  original: true
+  confidence: "high"
+- id: S4
+  url: "https://x.com/systemdesignone/status/2122679088657666167"
+  author: "@systemdesignone"
+  published: "2026-11-17"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "21 concepts to become an AI engineer in 7 weeks (LLM, agents, RAG, MCP, context eng., inference, memory...)"
+  excerpt: "If you want to become a world-class AI engineer (in 7 weeks), then learn these 21 concepts: 1 LLM ↳ 2 AI Agent ↳ 3 RAG ↳ 4 Prompt Engineering ↳ 5 MCP ↳ 6 AI Coding Workflow ↳ 7…"
+  original: true
+  confidence: "high"
+- id: S5
+  url: "https://x.com/systemdesignone/status/2121598880638747011"
+  author: "@systemdesignone"
+  published: "2026-11-14"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "System design interview framework: requirements → high-level design → deep dive"
+  excerpt: "If you want to pass system design interviews (in 2027), bookmark this framework: 1 Requirements >Functional & non-functional requirements >Daily active users >Read-to-write ratio >Usage and traffic patterns 2 High-Level Design >Data model >API design >Capacity planning >Network protocols 3…"
+  original: true
+  confidence: "high"
+- id: S6
+  url: "https://x.com/systemdesignone/status/2122032425593196780"
+  author: "@systemdesignone"
+  published: "2026-11-15"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Learn software architecture in 7 weeks (weekly syllabus)"
+  excerpt: "How to learn software architecture in 7 weeks: week 1: tradeoffs & quality attributes - scalability, reliability, maintainability week 2: monolith, layered/n-tier, modular monolith week 3: scaling, load balancers, caching + CDNs week 4: SQL vs NoSQL, indexes, replication, CAP…"
+  original: true
+  confidence: "high"
+- id: S7
+  url: "https://x.com/systemdesignone/status/2123850856516792558"
+  author: "@systemdesignone"
+  published: "2026-11-20"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Forward Deployed Engineer roadmap (tree format)"
+  excerpt: "Forward Deployed Engineer — Ultimate Roadmap (SAVE NOW)! ├── 01 Foundations & Role │ ├── FDE vs Software Engineer vs Solutions Engineer vs Consultant │ ├── One Customer, Many Capabilities │ └── End-to-End Ownership & Feedback Loop ├── 02 Software"
+  original: true
+  confidence: "high"
+- id: S8
+  url: "https://x.com/systemdesignone/status/2122388661899600302"
+  author: "@systemdesignone"
+  published: "2026-11-16"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Scenario-style interview post: hot partition after sharding"
+  excerpt: "System Design Interview: Your database handles 50k requests per second. At 100k requests per second, latency jumps from 40ms to 3sec. So you partition the database across 10 servers. But 9 servers sit at 15% CPU. And one server hits…"
+  original: true
+  confidence: "high"
+- id: S9
+  url: "https://x.com/systemdesignone/status/1923349332587139366"
+  author: "@systemdesignone"
+  published: "2025-05-16"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "May 2025 engagement-gated lead magnet: follow + like + reply to get free playbook by DM"
+  excerpt: "I just created a playbook to help you learn system design. It'll give you: • System design fundamentals • Condensed notes to read for the system design interview • Important concepts from real-world engineering case studies To get it for…"
+  original: true
+  confidence: "high"
+- id: S10
+  url: "https://x.com/systemdesignone/status/1829144513350176997"
+  author: "@systemdesignone"
+  published: "2024-08-29"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Aug 2024: 1 year of newsletter, 83,247 engineers subscribed"
+  excerpt: "I've been writing the system design newsletter for 1 year. (83,247 engineers get my weekly e-mails.) Here are some articles everyone aspiring to master system design should read: Onward 👇"
+  original: true
+  confidence: "high"
+- id: S11
+  url: "https://x.com/systemdesignone/status/1820803683766149531"
+  author: "@systemdesignone"
+  published: "2024-08-06"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Aug 2024: books to become a world-class programmer (2,139 likes, 5,804 bookmarks)"
+  excerpt: "If you want to become a world-class programmer (in 8 months), read these books:"
+  original: true
+  confidence: "high"
+- id: S12
+  url: "https://x.com/systemdesignone/status/1825873845565190178"
+  author: "@systemdesignone"
+  published: "2024-08-20"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Signature format: \"I spent hours studying about it, so you don't have to\" case-study summaries"
+  excerpt: "How to scale an app to 100 million users on GCP: I spent hours studying about it, so you don't have to. And here's a summary of what I learned:"
+  original: true
+  confidence: "high"
+- id: S13
+  url: "https://x.com/systemdesignone/status/2123099083216716250"
+  author: "@systemdesignone"
+  published: "2026-11-18"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Product-promotion post (Viktor AI employee, \"saved 3 hours a week\") — sponsorship status not determined"
+  excerpt: "I saved 3 hours a week on my calendar with Viktor. AI employees come in 3 levels, choose wisely: >Level 1: handles tasks you've already figured out >Level 2: figures out how to complete tasks you assign >Level 3: identifies…"
+  original: true
+  confidence: "medium"
+- id: S14
+  url: "https://x.com/systemdesignone/status/2123416253624676548"
+  author: "@systemdesignone"
+  published: "2026-11-19"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Product post: Trello clone built with 4 coding agents inside JetBrains Air — sponsorship status not determined"
+  excerpt: "I built a Trello clone using 4 AI coding agents inside JetBrains Air. Here's how. I gave each agent a different job: >Junie: Build FastAPI backend & SQLite database. >Codex: Build Kanban board with draggable cards. >Claude Code: Write API…"
+  original: true
+  confidence: "medium"
+- id: S15
+  url: "https://x.com/systemdesignone/status/2123082382173507913"
+  author: "@systemdesignone"
+  published: "2026-11-18"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Multi-agent orchestration explained via Sentry bug-fix workflow"
+  excerpt: "How multi-agent orchestration works (explained in 2 mins with a bug fixing workflow): 1. Event Trigger: A new Sentry error triggers an AI agent. 2. Bug Investigation: The agent investigates & reproduces the error. 3. Code Generation: Agent then creates…"
+  original: true
+  confidence: "high"
+- id: S16
+  url: "https://newsletter.systemdesign.one/about"
+  author: "Neo Kim"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "newsletter"
+  description: "Newsletter about page: goals (work success, AI engineering, system design interviews); notes subscribers expense it via L&D budgets"
+  excerpt: "Many subscribers expense this newsletter from their learning and development budget."
+  original: true
+  confidence: "high"
+- id: S17
+  url: "https://newsletter.systemdesign.one/archive"
+  author: "The System Design Newsletter (search snippet)"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "newsletter"
+  description: "Archive listing: issues #199-#205 in Nov 2026 (LLM inference, GraphRAG, debugging agents, IaC, live-streaming system design), some co-authored with guests"
+  excerpt: "How GraphRAG Works - A Deep Dive"
+  original: true
+  confidence: "medium"
+- id: S18
+  url: "https://linkedin.com/in/nk-systemdesign-one"
+  author: "Neo Kim (LinkedIn, via search snippet)"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "website"
+  description: "LinkedIn summary: Berlin area; Founder, System Design One since Nov 2022; ~380k LinkedIn followers; newsletter ~257k subscribers (Substack header)"
+  excerpt: "I Teach You AI Engineering & System Design • 0.5M+ Audience"
+  original: true
+  confidence: "medium"

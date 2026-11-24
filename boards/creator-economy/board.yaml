@@ -1,0 +1,75 @@
+id: creator-economy
+title: Simulated board — creator economy & audience building
+domain: creator-economy
+as_of: "2026-11-24"
+disclaimer: "SIMULATED ADVISORY BOARD. The real people named here have not joined this board, have not been contacted, and have not endorsed DISTILL, Kishore, or any recommendation in this file. Positions below are paraphrases of their public posts and pages, with citations. They are not quotes of private advice."
+charter: >
+  This simulated board is about distribution and teaching in public. It seats
+  people with first-party posts on that work. It does not seat sponsored-post
+  accounts as advisors. Nav Toor's profile is a format case study in the batch
+  summary and is cited only as a conflict-of-interest example, not as a member.
+question: >
+  How should time be split between distribution and building, and which public
+  tactics are also sales funnels?
+members:
+  - profile_id: dan-koe
+    reason: First-party argument that checklist content is copyable, and that marketing is most of the work. He sells guides.
+    position: >
+      If the strategy can be written as steps, an AI avatar can copy it [dan-koe S3]. He also posts that marketing is 80% of a creative's success [dan-koe S9], and that proof of work replaces the resume [dan-koe S11]. The profile says he sells guides and promotes Eden, with ownership of Eden not verified.
+    evidence:
+      - source: S3
+        url: https://thedankoe.com/letters/you-dont-need-a-niche-you-need-a-point-of-view/
+      - source: S9
+        url: https://x.com/thedankoe/status/2111083500430295493
+      - source: S11
+        url: https://x.com/thedankoe/status/2090759574370332981
+  - profile_id: david-ondrej
+    reason: A transcript line gives a numeric split, and he sells a community.
+    position: >
+      "At least 50% of your time should be on distribution." [david-ondrej S6]. The same profile shows a paid Skool and a falling third-party member count [david-ondrej S5]. The distribution line can be true and still be a funnel.
+    evidence:
+      - source: S6
+        url: https://rosetta.to/u/davidondrej/making-with-ai-saas-i-might-delete-this
+      - source: S5
+        url: https://skool.community/c/new-society
+  - profile_id: alex-finn
+    reason: A specific reply cadence, and a product that is itself an X-growth tool.
+    position: >
+      Two posts a day and a short reply block are his 2024 description of how the account grew [alex-finn S5]. The later post says the product comes after the audience's pains are visible [alex-finn S6]. Creator Buddy, named in the bio, is an X growth product [alex-finn S1], so growth advice and the product point the same direction.
+    evidence:
+      - source: S5
+        url: https://x.com/AlexFinn/status/1795465924159447442
+      - source: S6
+        url: https://x.com/AlexFinn/status/1949559171940221412
+      - source: S1
+        url: https://x.com/AlexFinn
+  - profile_id: akshay-saini
+    reason: Large teaching audience in the ledger, and posts about how engineers should use AI. NamasteDev is his organization in the front matter.
+    position: >
+      He says engineers will have to delegate earlier, including stating what "done" means [akshay-saini S2]. He says asking what percent of a project the AI wrote is a bad interview question [akshay-saini S5]. He teaches. A learning path he praises can also feed the school. No course price was copied into this deliberation.
+    evidence:
+      - source: S2
+        url: https://x.com/akshaymarch7/status/2123384956630241384
+      - source: S5
+        url: https://x.com/akshaymarch7/status/2125089878954373377
+  - profile_id: harkirat-singh
+    reason: Education business with public cohort notes, and a later line that syntax matters less than specs. Placement numbers in the bundle are self-reported.
+    position: >
+      He posts "Keep documenting and writing specs in your codebase" and doubts a need to learn syntax, while noting interviews may still ask for it [harkirat-singh S5]. A 2025 post says it is easier to place someone skilled at 12 LPA than someone unskilled at 3 LPA [harkirat-singh S13]. The 100xDevs page is his school [harkirat-singh S19]. Placement counts in the YouTube ledger entry are self-reported.
+    evidence:
+      - source: S5
+        url: https://x.com/kirat_tw/status/2086063276799242345
+      - source: S13
+        url: https://x.com/kirat_tw/status/1901637700605641064
+      - source: S19
+        url: https://100xdevs.com
+disagreements:
+  - "Ondrej's 50% distribution line [david-ondrej S6] and Koe's 'marketing is 80%' [dan-koe S9] are not the same split. Both are slogans with a source, not a measured time study."
+  - "Harkirat's 'doubt there's a need to learn syntax' [harkirat-singh S5] sits next to Saini's insistence that interviews should probe why a system was built [akshay-saini S5]. The snapshot does not resolve whether a DevOps interview in India has dropped syntax."
+  - "Koe says a written checklist is what an AI avatar copies [dan-koe S3]. Finn's published cadence is itself a checklist [alex-finn S5]. The tension is inside the board."
+synthesis: >
+  Distribution shows up as real work, not as a postscript, and several of the people saying so also sell the audience a product. The usable part for this operator is one channel, replies written by hand, and a point of view tied to work he can show. It is not a second full-time content job, and it is not a licence to repeat income claims from Julian Goldie or similar posts that the risks file already flags as marketing.
+recommended_next_action: >
+  For 30 days, post in one place about a real DevOps or agent task, and write replies by hand. Keep a list of repeated questions. Do not buy a community because a member of this simulated board sells one. Do not automate replies.
+confidence: medium
+deliberation: deliberations/2026-11-24.md

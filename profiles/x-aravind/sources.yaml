@@ -1,0 +1,50 @@
+- id: S1
+  url: https://x.com/aravind
+  author: aravind
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: X profile metadata (id 14349184, display name "Aravind", ~352K followers, ~30K posts, joined 2008-04-10). No website, company, or location listed. Bio disclaims reliability.
+  excerpt: "I talk about issues long before they happen. Now and then in touch with Turiya. I post conspiracies and nothing I say is real. Don't believe anything I post."
+  original: true
+  confidence: high
+- id: S2
+  url: https://x.com/aravind/status/2123842286941569334
+  author: aravind
+  published: 2026-11-20
+  researched: 2026-11-24
+  type: x_post
+  description: Tags @AravSrinivas (Perplexity CEO) as a third party - evidence this account is NOT Aravind Srinivas.
+  excerpt: "Maybe @AravSrinivas can get Alladi Krishnaswami at UF Gainsville involved, and make it happen at Perplexity."
+  original: true
+  confidence: high
+- id: S3
+  url: https://x.com/aravind/status/2125101982579056927
+  author: aravind
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: x_post
+  description: Prediction about government-registered identities for AI agents.
+  excerpt: "In the future, there will be an \"Aadhar ID\" for AI agents."
+  original: true
+  confidence: high
+- id: S4
+  url: https://x.com/aravind/status/2123657999243985017
+  author: aravind
+  published: 2026-11-20
+  researched: 2026-11-24
+  type: x_post
+  description: Advises downloading cloud data for offline backup, predicting major providers will be hacked.
+  excerpt: "Even Google will be hacked."
+  original: true
+  confidence: high
+- id: S5
+  url: https://x.com/aravind/status/2123441296308359605
+  author: aravind
+  published: 2026-11-19
+  researched: 2026-11-24
+  type: x_post
+  description: Unsubstantiated claim that Google already has AGI - illustrates conspiracy-style content.
+  excerpt: "And they have already achieved AGI."
+  original: true
+  confidence: high

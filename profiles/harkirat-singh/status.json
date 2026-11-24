@@ -1,0 +1,61 @@
+{
+  "id": "harkirat-singh",
+  "x_url": "https://x.com/kirat_tw",
+  "x_user_id": "1517315759185272833",
+  "display_name": "Harkirat Singh",
+  "research_status": "verified",
+  "posts_read": 96,
+  "posts_by_band": {
+    "last_6mo": 46,
+    "6_24mo": 25,
+    "older": 25
+  },
+  "longform_fetched": 5,
+  "last_post_id": "2125018747555737669",
+  "limitations": [
+    "Placement and raise figures self-reported",
+    "Podcast/YouTube read via search-index transcripts, not full videos",
+    "GitHub hkirat link to X not explicit",
+    "Possible sponsored AI posts"
+  ],
+  "completeness": {
+    "identity": {
+      "score": 2,
+      "reason": "multiple cross-references"
+    },
+    "source_coverage": {
+      "score": 2,
+      "reason": "X + site + video + podcast + GitHub"
+    },
+    "expertise": {
+      "score": 2,
+      "reason": "clear"
+    },
+    "principles": {
+      "score": 2,
+      "reason": "stated"
+    },
+    "frameworks": {
+      "score": 1,
+      "reason": "cohort model"
+    },
+    "playbooks": {
+      "score": 1,
+      "reason": "derived"
+    },
+    "evidence": {
+      "score": 2,
+      "reason": "cited"
+    },
+    "limitations": {
+      "score": 2,
+      "reason": "noted"
+    },
+    "applications": {
+      "score": 2,
+      "reason": "specific"
+    }
+  },
+  "sources_count": 22,
+  "researched_at": "2026-11-24T15:30:00+05:30"
+}

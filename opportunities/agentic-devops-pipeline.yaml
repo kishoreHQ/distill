@@ -1,0 +1,57 @@
+id: agentic-devops-pipeline
+title: Issue-to-PR pipeline with a human gate and owner-attributable identity
+as_of: "2026-11-24"
+status: hypothesis
+disclaimer: "Opportunity scores are hypotheses with links to public evidence. They are not income projections, job offers, or proof that a business exists. Self-reported revenue in the sources belongs to those authors, not to Kishore."
+hypothesis: >
+  Help a team that already has GitHub issues wire a coding agent that opens a pull request only when
+  a written rule passes, and that does not authenticate as a shared bearer token. Pavan Belagatti
+  published an issue-to-PR factory. Mukul Lohar argued for owner-attributable agent identity.
+  Peter Steinberger published a four-check autotriage rule. Theo's tstack README describes multi-model
+  review. Together they describe a service shape. They do not describe a signed customer.
+domains: [careers-cloud-devops, ai-engineering-agents]
+dimensions:
+  market_pull:
+    score: 6
+    note: Several builders published the pattern. The corpus does not show a queue of teams paying for it.
+  evidence_strength:
+    score: 8
+    note: Four first-party sources describe pieces of the same pipeline. None of them is a case study of Kishore's offer.
+  fit_with_kishore_skills:
+    score: 9
+    note: CI, pull requests, credentials, and approval gates sit on the spec's DevOps skills.
+  time_to_value:
+    score: 6
+    note: A pilot on one repository is smaller than a platform. The sources do not give a build time.
+  competition_gap:
+    score: 4
+    note: GitHub, the labs, and several people in this corpus already ship pieces of this. The gap is the combination plus identity, and it may be thin.
+  monetization_clarity:
+    score: 6
+    note: A fixed pilot invoice is understandable. No source here shows that invoice being paid.
+  risk_inverse:
+    score: 6
+    note: The identity and human-gate points are the risk controls. An unbounded agent with production credentials is the failure mode the sources warn about.
+evidence:
+  - profile: pavan-belagatti
+    source: S2
+    url: https://x.com/Pavan_Belagatti/status/2113152830815297694
+    note: Ledger describes a GitHub issue to Codex to PR path with human review.
+  - profile: mukul-lohar
+    source: S2
+    url: https://x.com/ironfisto/status/2117668653684629608
+    note: Excerpt says most agents still prove identity with a bearer token.
+  - profile: peter-steinberger
+    source: S8
+    url: https://x.com/steipete/status/2058240758801420530
+    note: Autotriage reads VISION.md and acts when the change is inferable, has a clear fix, and can be tested live.
+  - profile: theo-browne
+    source: S5
+    url: https://github.com/t3dotgg/tstack
+    note: Ledger excerpt says a skill gets review from three models and loops until they agree.
+risks:
+  - Pavan's article is also his public advocacy. Treat it as a design note, not as demand.
+  - Steinberger is an OpenAI employee in this snapshot. His model comparisons carry that conflict of interest, as his own profile records.
+non_claims:
+  - Not a claim of a signed pipeline customer.
+  - Not a claim that these four people agreed with each other or with this offer.

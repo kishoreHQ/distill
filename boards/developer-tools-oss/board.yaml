@@ -1,0 +1,71 @@
+id: developer-tools-oss
+title: Simulated board — developer tools & open source
+domain: developer-tools-oss
+as_of: "2026-11-24"
+disclaimer: "SIMULATED ADVISORY BOARD. The real people named here have not joined this board, have not been contacted, and have not endorsed DISTILL, Kishore, or any recommendation in this file. Positions below are paraphrases of their public posts and pages, with citations. They are not quotes of private advice."
+charter: >
+  This simulated board looks at public notes on CLIs, open source, and agent
+  devtools. Star counts in the ledger are not revenue. Pseudonymous and
+  aggregator accounts are not seated.
+question: >
+  Is a free CLI plus a paid desktop app a fit for a DevOps-shaped tool, and what
+  quality bar do these builders actually describe?
+members:
+  - profile_id: tw93
+    reason: First-party account of Mole and Pake. The free CLI / paid app split is in his own words.
+    position: >
+      The Pake launch post says the open-source CLI stays free and the native app is one purchase [tw93 S7]. The Mole essay, in the ledger's description, says he did support by hand first [tw93 S4]. The Chinese excerpt at [tw93 S3] says not to trust a prompt alone for a rule the agent must obey.
+    evidence:
+      - source: S7
+        url: https://x.com/HiTw93/status/2122339080101060730
+      - source: S4
+        url: https://tw93.fun/2026-08-16/mole-mac.html
+      - source: S3
+        url: https://tw93.fun/2026-10-29/practice.html
+  - profile_id: peter-steinberger
+    reason: CLI-first essay and a large open-source agent project in the ledger.
+    position: >
+      Start with a CLI [peter-steinberger S5]. He also posted that his own OSS releases stopped because of an Apple developer agreement [peter-steinberger S20], which is a platform-risk data point for anyone shipping a desktop app.
+    evidence:
+      - source: S5
+        url: https://steipete.me/posts/2025/shipping-at-inference-speed
+      - source: S20
+        url: https://x.com/steipete/status/2105712707592679619
+  - profile_id: theo-browne
+    reason: T3 Code is an open-source control plane for coding agents in the ledger.
+    position: >
+      The T3 Code README excerpt calls it an open-source control plane for coding agents [theo-browne S3]. He also asks, in a short post, whether people still use IDEs [theo-browne S18]. That is a stance, not a survey.
+    evidence:
+      - source: S3
+        url: https://github.com/pingdotgg/t3code
+      - source: S18
+        url: https://x.com/theo/status/2057642235932643744
+  - profile_id: tom-dorr
+    reason: Most of his timeline is an automated repository feed, which is itself a devtool, and he has a few first-party opinions.
+    position: >
+      repo_posts is rebuilt on a schedule and does not take suggestions by issue [tom-dorr S16]. His own short opinion is that lower-effort reasoning can be better because iteration is faster [tom-dorr S6]. The feed also links dual-use security tools. Those links are not a build recommendation.
+    evidence:
+      - source: S16
+        url: https://github.com/tom-doerr/repo_posts
+      - source: S6
+        url: https://x.com/tom_doerr/status/2110799916239077735
+  - profile_id: david-ondrej
+    reason: Cloudroom is a public open-source runner for coding-agent harnesses. Revenue lines on his community page are self-reported.
+    position: >
+      The Cloudroom README excerpt says it runs any coding-agent harness in the cloud [david-ondrej S2]. He also posts that hitting a usage limit is a reason to switch harness [david-ondrej S10]. A Skool page in the ledger claims a $70k ARR figure. The profile marks that as self-reported, and a third-party tracker in the same ledger shows the community count falling [david-ondrej S5].
+    evidence:
+      - source: S2
+        url: https://github.com/davidondrej/cloudroom
+      - source: S10
+        url: https://x.com/DavidOndrej1/status/2071541330958807387
+      - source: S5
+        url: https://skool.community/c/new-society
+disagreements:
+  - "Tw93's paid surface is a native desktop app [tw93 S7]. Ondrej's Cloudroom runs harnesses in the cloud [david-ondrej S2]. Steinberger's Apple-agreement post shows a desktop release can stop for a reason that has nothing to do with the code [peter-steinberger S20]."
+  - "Dörr prefers faster, lower-effort reasoning [tom-dorr S6]. Theo's review skill waits until three models agree [theo-browne S5]. Both are in the snapshot. They are not the same quality bar."
+synthesis: >
+  A free CLI is the piece these notes actually support as a starting shape. A paid desktop app is one documented path, Tw93's, and it comes with hand support and with platform risk. A cloud runner is a different product. The quality bar that shows up more than once is an executable check, not a prompt. Star counts and the self-reported ARR line are not the decision.
+recommended_next_action: >
+  Pick one command-line pain from the operator's own week. Ship it as a free CLI. Answer the first users by hand. Do not automate support, and do not sell a GUI, until the same question has come back with a stable answer. Do not cite Tw93's refund rate as an expectation.
+confidence: medium
+deliberation: deliberations/2026-11-24.md

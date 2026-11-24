@@ -1,0 +1,130 @@
+- id: S1
+  url: https://x.com/AlexFinn
+  author: AlexFinn
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: X profile metadata (id 1369348853414178822, ~487K followers, joined 2021-03-09); links Skool Vibe Coding Academy.
+  excerpt: "Founder/CEO of Henry Intelligent Machines and Creator Buddy ($300k ARR)."
+  original: true
+  confidence: high
+- id: S2
+  url: https://x.com/AlexFinn/status/2041267605747712370
+  author: AlexFinn
+  published: 2026-04-06
+  researched: 2026-11-24
+  type: x_post
+  description: Pinned - pre-seed funding for Henry Intelligent Machines (HIM), an agent swarm meant to find and pursue value-generating opportunities for users.
+  excerpt: "HIM is a personal swarm of AI agents autonomously creating economic value for you 24/7"
+  original: true
+  confidence: high
+- id: S3
+  url: https://www.alexfinn.ai/p/how-to-build-your-first-app-with
+  author: Alex Finn
+  published: 2025-08-14
+  researched: 2026-11-24
+  type: newsletter
+  description: Beginner guide to vibe coding; claims Creator Buddy built in 5 months without writing code, ~$300K/yr (self-reported); promotes Creator Buddy (AI tool for X growth).
+  excerpt: "in 5 months I built and launched Creator Buddy without writing a single line of code."
+  original: true
+  confidence: medium
+- id: S4
+  url: https://www.skool.com/vibe-coding-academy/about
+  author: Alex Finn
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: Paid community Vibe Coding Academy ($99/mo or $650/yr), ~626 members; Claude Code/agents masterclasses, weekly calls. Seen via search snippet.
+  excerpt: "Build revenue generating apps with AI, & automate your life with AI agents."
+  original: true
+  confidence: medium
+- id: S5
+  url: https://x.com/AlexFinn/status/1795465924159447442
+  author: AlexFinn
+  published: 2024-05-28
+  researched: 2026-11-24
+  type: x_post
+  description: His X growth cadence that got 200K followers in 2 years.
+  excerpt: "Posts: 2x per day Long forms: 2x per week Spaces: 2x per week Replies: 10 minutes a day DMs: 10 minutes a day"
+  original: true
+  confidence: high
+- id: S6
+  url: https://x.com/AlexFinn/status/1949559171940221412
+  author: AlexFinn
+  published: 2025-07-27
+  researched: 2026-11-24
+  type: x_post
+  description: Steps from small account to monetized account - reply heavily, learn audience problems, then build for them.
+  excerpt: "2. Start replying like mad and your engagement starts to grow 3. Followers start going up 4. You see challenges your audience has"
+  original: true
+  confidence: high
+- id: S7
+  url: https://x.com/AlexFinn/status/1795618547940438435
+  author: AlexFinn
+  published: 2024-05-29
+  researched: 2026-11-24
+  type: x_post
+  description: His reading of X ranking - time on content matters; external links hurt reach (his interpretation, 2024).
+  excerpt: "There’s only one metric that matters: Time on content"
+  original: true
+  confidence: medium
+- id: S8
+  url: https://x.com/AlexFinn/status/1948148743796306300
+  author: AlexFinn
+  published: 2025-07-23
+  researched: 2026-11-24
+  type: x_post
+  description: Claims a no-code beginner can have a "money generating app" within a week using Claude Code (motivational claim, not evidence).
+  excerpt: "you can download Claude Code and by this time next week have a money generating app  0 programming experience required"
+  original: true
+  confidence: high
+- id: S9
+  url: https://x.com/AlexFinn/status/2067751557379297762
+  author: AlexFinn
+  published: 2026-06-18
+  researched: 2026-11-24
+  type: x_post
+  description: Runs open-weights model locally on Mac Studio powering his agents; claims quality on par with frontier (his tests).
+  excerpt: "I have GLM 5.2 running 100% locally on my Mac Studio. 2 bit quant."
+  original: true
+  confidence: medium
+- id: S10
+  url: https://x.com/AlexFinn/status/2070670926803542304
+  author: AlexFinn
+  published: 2026-06-27
+  researched: 2026-11-24
+  type: x_post
+  description: Going "full open source" with a home AI lab after frontier models were gated.
+  excerpt: "I’m going full open source"
+  original: true
+  confidence: high
+- id: S11
+  url: https://x.com/AlexFinn/status/2069594488578900254
+  author: AlexFinn
+  published: 2026-06-24
+  researched: 2026-11-24
+  type: x_post
+  description: Hermes Agent feature tutorial thread (e.g. iMessage access).
+  excerpt: "Here's 8 new features you need to start using immediately"
+  original: true
+  confidence: high
+- id: S12
+  url: https://x.com/AlexFinn/status/2122064712859058210
+  author: AlexFinn
+  published: 2026-11-15
+  researched: 2026-11-24
+  type: x_post
+  description: Urges 9-5 workers to adopt latest AI tools amid layoffs.
+  excerpt: "The most dangerous thing you can do right now is NOT use the latest AI tools. Period."
+  original: true
+  confidence: high
+- id: S13
+  url: https://x.com/AlexFinn/status/2066950407037866351
+  author: AlexFinn
+  published: 2026-06-16
+  researched: 2026-11-24
+  type: x_post
+  description: Example of high-engagement provocative financial claim post (SBF "greatest investor") - engagement style, not advice.
+  excerpt: "Sam Bankman-Fried is the greatest investor of all time"
+  original: true
+  confidence: high

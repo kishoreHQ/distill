@@ -1,0 +1,220 @@
+- id: S1
+  url: "https://x.com/kirat_tw/status/2109282009390702948"
+  author: "@kirat_tw"
+  published: "2026-10-11"
+  researched: "2026-11-24"
+  type: "blog"
+  description: "X Article \"Game of skill\": coding is no longer a filter in AI era; poker tests judgment under uncertainty; announces The Inner Table"
+  excerpt: "ARTICLE: Game of skill :: For most of the last two decades, coding was the filter. If you could write good software, you were “smart” in the way the market cared about. Elite universities, top firms and startups all used…"
+  original: true
+  confidence: "high"
+- id: S2
+  url: "https://x.com/kirat_tw/status/2114752437575966815"
+  author: "@kirat_tw"
+  published: "2026-10-26"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "The Inner Table raise ended with 159k raised (on-chain via Backable)"
+  excerpt: "The @TheInnerTable raise has has officially ended with 159k raised. Thank you to all the early investors and anons around the world who participated and @backabledotbiz for helping us through the process We’ll be spending November finalising the location and…"
+  original: true
+  confidence: "high"
+- id: S3
+  url: "https://x.com/kirat_tw/status/2112611971724198293"
+  author: "@kirat_tw"
+  published: "2026-10-20"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Launch of The Inner Table raise on Solana/Backable"
+  excerpt: "There's one bet in poker that never loses. I'm making it. Welcome to The Inner Table. The first hand hasn't been dealt yet. This is the only time you can sit down before it is. Raising on chain on @solana…"
+  original: true
+  confidence: "high"
+- id: S4
+  url: "https://x.com/kirat_tw/status/2125018747555737669"
+  author: "@kirat_tw"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "\"first principles thinking. only skill that will last.\""
+  excerpt: "first principles thinking. only skill that will last."
+  original: true
+  confidence: "high"
+- id: S5
+  url: "https://x.com/kirat_tw/status/2086063276799242345"
+  author: "@kirat_tw"
+  published: "2026-08-08"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Keep documenting/writing specs; doubts need to learn syntax; AGI near for coding"
+  excerpt: "Keep documenting and writing specs in your codebase. Other than that fire away AGI is almost here for coding. Doubt there's a need to learn syntax anymore (they might still ask you in an interview)."
+  original: true
+  confidence: "high"
+- id: S6
+  url: "https://x.com/kirat_tw/status/2082538554832662733"
+  author: "@kirat_tw"
+  published: "2026-07-29"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Give your agent access to your cloud; enterprises could rewrite AI-friendly codebase in a week"
+  excerpt: "Give your agent access to your cloud. Magic. There's almost nothing you cant build at lightspeed. Exciting times is an understatement. Probably makes sense for most enterprises to re-write an AI friendly codebase from scratch in a week."
+  original: true
+  confidence: "high"
+- id: S7
+  url: "https://x.com/kirat_tw/status/2089755722993336500"
+  author: "@kirat_tw"
+  published: "2026-08-18"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Idea: \"AI friendliness benchmark\" for codebases (time/tokens/$ to fix 1000 static issues)"
+  excerpt: "idea: ai friendliness benchmark. Benchmarks a codebase on how ai-friendly it is. How much time/tokens/compute/$ does fixing 1000 static issues take on the codebase. Over time the goal should be to reduce this number by writing better code/specs/skills."
+  original: true
+  confidence: "high"
+- id: S8
+  url: "https://x.com/kirat_tw/status/2089134169825911003"
+  author: "@kirat_tw"
+  published: "2026-08-16"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Idea: workspace showing live agent activity; dev productivity/token-efficiency tracking market"
+  excerpt: "Someone build a gather town like workspace where avatars show popups of what a dev is working on based on a summary of the live agents on their machine. Tracking dev productivity and token efficiency might be a great market…"
+  original: true
+  confidence: "high"
+- id: S9
+  url: "https://x.com/kirat_tw/status/2102026009612812316"
+  author: "@kirat_tw"
+  published: "2026-09-21"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "\"best way to clone a project/company is try to find a vulnerability in it\" (reverse-engineer architecture)"
+  excerpt: "best way to clone a project/company is try to find a vulnerability in it. Reverse engineers the architecture and gives you a decent idea of whats happening under the hood."
+  original: true
+  confidence: "high"
+- id: S10
+  url: "https://x.com/kirat_tw/status/2099380156561568251"
+  author: "@kirat_tw"
+  published: "2026-09-14"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "\"Blackboxes. That's all that coding is now.\""
+  excerpt: "Blackboxes. That's all that coding is now. Huge blackboxes that just work."
+  original: true
+  confidence: "high"
+- id: S11
+  url: "https://x.com/kirat_tw/status/1899588759974236494"
+  author: "@kirat_tw"
+  published: "2025-03-11"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Mar 2025: one-person teams can build almost anything: 5 days build, 10 days productionize, eternity to iterate"
+  excerpt: "Never a better time to be alive if you like to code. Almost nothing you cant build as a one person team. 5 days to build it. 10 days to productionize it. An eternity to iterate."
+  original: true
+  confidence: "high"
+- id: S12
+  url: "https://x.com/kirat_tw/status/1898119168349839411"
+  author: "@kirat_tw"
+  published: "2025-03-07"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Mar 2025: know the market, work long term, stay away from social media"
+  excerpt: "Know the market. Believe in the market. Work long term. Stay away from social media. It's an escape disguised as pleasure after blaming the market."
+  original: true
+  confidence: "high"
+- id: S13
+  url: "https://x.com/kirat_tw/status/1901637700605641064"
+  author: "@kirat_tw"
+  published: "2025-03-17"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Mar 2025: easier to place skilled at 12 LPA than unskilled at 3 LPA"
+  excerpt: "Easier to place someone skilled at 12lpa, harder to place someone who is unskilled at 3. Tech/coding unfortunately doesnt offer free lunch"
+  original: true
+  confidence: "high"
+- id: S14
+  url: "https://x.com/kirat_tw/status/1914003620628140438"
+  author: "@kirat_tw"
+  published: "2025-04-20"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Apr 2025: Super 30 2.0 focused on niches — AI and blockchains; web dev + DevOps prerequisites"
+  excerpt: "Super 30 2.0 will be very focussed on niches. AI and Blockchains being the two we'll go with for the next one. Web dev and Devops syllabus would be pre-requisites. If you're going to apply, try to wrap up this…"
+  original: true
+  confidence: "high"
+- id: S15
+  url: "https://x.com/kirat_tw/status/1920103346263724401"
+  author: "@kirat_tw"
+  published: "2025-05-07"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Interview advice list (listen more, one super impressive project...)"
+  excerpt: "Advise for people giving Super 30 interviews (job interviews as well) 1. Talk less, listen more 2. Take pauses 3. Ask if you're going in the right direction 4. Have one super impressive project 5. Order an external mic 6.…"
+  original: true
+  confidence: "high"
+- id: S16
+  url: "https://x.com/kirat_tw/status/1791149437139525976"
+  author: "@kirat_tw"
+  published: "2024-05-16"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "May 2024: 2nd-year cohort student gets $30k remote role via job portal"
+  excerpt: "2nd year student, part of both Cohort 1.0 and Cohort 2.0 $30k USD, Remote (US based Seed stage co) Opportunity found on online jobs portal Interview process involved writing some ETH smart contracts (not taught in the cohort). More in…"
+  original: true
+  confidence: "high"
+- id: S17
+  url: "https://x.com/kirat_tw/status/2097230090409214214"
+  author: "@kirat_tw"
+  published: "2026-09-08"
+  researched: "2026-11-24"
+  type: "blog"
+  description: "X Article on building agents with Google ADK (repo-reading coding agent opening PRs); contains tracking link — likely sponsored"
+  excerpt: "ARTICLE: Building Autonomous Agents with Google ADK :: 1/ I have devs (some non-technical!) leading projects on my repos and I had zero visibility into what they were shipping. So I built an AI agent to be the manager I…"
+  original: true
+  confidence: "medium"
+- id: S18
+  url: "https://x.com/kirat_tw/status/2099755724629070152"
+  author: "@kirat_tw"
+  published: "2026-09-15"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "S30 students livestream coding hard problems in 4-6h without AI; invites hiring"
+  excerpt: "We're doing daily livestreams where students from S30 code a tough problem statement in 4-6 hours live w/o AI. If you want to hire some of them, please fill out"
+  original: true
+  confidence: "high"
+- id: S19
+  url: "https://100xdevs.com"
+  author: "100xDevs"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "website"
+  description: "100xDevs: cohorts/bootcamps (web dev, DevOps, Web3, AI/ML), low prices (₹2,499-₹5,999 online; ₹54,999+ on-campus); about: IIT Roorkee 2018 CS, 2x GSoC"
+  excerpt: "Harkirat Singh, popularly known as Kirat, graduated from IIT Roorkee in 2018 with a degree in Computer Science."
+  original: true
+  confidence: "high"
+- id: S20
+  url: "https://www.youtube.com/watch?v=uH_MdL9Ij5k"
+  author: "Harkirat Singh (YouTube transcript via search index)"
+  published: "2026"
+  researched: "2026-11-24"
+  type: "youtube"
+  description: "100xSchool 2026 launch: Super 30 batch 1: 42/50 placed, avg $2,000/mo, median $1,500/mo; batch 2: 45/80 placed in 4 months; 2,500 applicants, 300 interviewed"
+  excerpt: "The last Super 30 had 2,500 people who applied, 300 people that I personally interviewed and amongst these 300, we finally finalized 80 who joined us on campus."
+  original: true
+  confidence: "medium"
+- id: S21
+  url: "https://exa.ai/library/podcast/pnh5czsk3nk/episode/ldl6jvjxfx2"
+  author: "Kirat on Ownership Podcast S2E02 (speaker-labeled transcript)"
+  published: "2026-10-19"
+  researched: "2026-11-24"
+  type: "podcast"
+  description: "Explains Inner Table thesis: online poker banned in India; offline poker legal as game of skill in some states; studio revenue from ~5% rake; plan to livestream events"
+  excerpt: "Most of the revenue comes from a 5% rake or a percentage of the pot if you're running tournaments."
+  original: true
+  confidence: "medium"
+- id: S22
+  url: "https://github.com/hkirat"
+  author: "Kirat (GitHub API)"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "github"
+  description: "GitHub hkirat: 24.8k followers; project-ideas 2,464★, Algorithmic-Resources 1,807★, gsoc-good-first-issues; recent cloud-agent (Oct 2026). Link to @kirat_tw not stated on GitHub profile (identity match by name/brand only)"
+  excerpt: "Projects to get you started on full stack"
+  original: true
+  confidence: "medium"

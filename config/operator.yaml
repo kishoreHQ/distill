@@ -1,0 +1,24 @@
+# Operator context used when scoring "fit". Taken from SPEC.md section H
+# and the batch summaries. This file is not a biography and not a résumé.
+id: kishore
+source: "Research spec section H (bundle SPEC.md) and the batch summaries' 'for Kishore' notes."
+summary: >
+  Linux/DevOps-capable engineer in India who wants work in AI income, agents
+  and automation, software products, content, productivity, and a startup path.
+  The spec states two constraints: low capital and low maintenance.
+skills_noted_in_spec:
+  - Linux
+  - DevOps
+goals_noted_in_spec:
+  - AI income
+  - agents and automation
+  - software products
+  - content
+  - productivity
+  - startup
+constraints_noted_in_spec:
+  - low capital
+  - low maintenance
+scoring_note: >
+  Fit scores compare an opportunity to this written context. They do not
+  verify Kishore's experience, and they do not imply income.

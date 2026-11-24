@@ -1,0 +1,84 @@
+---
+id: arnav-gupta
+display_name: Arnav Gupta
+x_username: championswimmer
+x_url: https://x.com/championswimmer
+x_user_id: "63066473"
+other_identities: [https://arnav.tech, https://linktr.ee/championswimmer, https://threads.championswimmer.in]
+website: http://arnav.tech
+organization: "Railway is what PROFILE.json's summary states; the bundle's skill README also records a timeline ending at Meta. See section A."
+role: "Engineer; ex EM/PM/founder (wording of PROFILE.json summary)"
+research_date: 2026-11-22
+confidence: medium
+account_type: person
+primary_domain: ai-engineering
+secondary_domains: [software-engineering, content-creation]
+board_eligibility: [ai-engineering]
+status: partial
+---
+
+# Arnav Gupta (@championswimmer)
+
+Converted from `extra/arnav-gupta/` on the 2026-11-24 import. This file does not add facts that are not in that folder. 144 evidence rows were copied into `sources.yaml`. 57 of them are X status URLs and are stored in `posts.jsonl` as the short quote only. The bundle's `state/sync.json` says 200 X posts were read; those full posts are not in the archive, so they are not in this repo.
+
+## A. Identity
+- Display name Arnav Gupta, X @championswimmer, user id 63066473, links http://arnav.tech and https://linktr.ee/championswimmer. Source: `PROFILE.json` in the extra bundle. Identity status in that file is `found`, with `confirmed_by_user` 2026-11-22.
+- `PROFILE.json` summary, quoted: "Arnav Gupta, London-based engineer at Railway; ex Meta, Zomato, Hotstar, Scaler; ex EM/PM/founder."
+- The bundle's `skill/README.md` records a different career timeline taken from arnav.tech/about: Coding Blocks co-founder, Zomato (mobile platform lead, 2019–20), Target (lead engineer, 2020–21), Scaler (product & strategy, 2021–23), Viacom18/JioCinema (Director of Engineering, 2023–24), and Meta (EM, hardware placement, London, from Dec 2024). The same README says the user's profile and his LinkedIn headline say he is now at Railway. This import does not resolve the two wordings.
+- No follower count is stated in the extra bundle. None is added here.
+- Gap: Hotstar appears in the PROFILE.json summary and does not appear in the skill README timeline.
+
+## B. Expertise map
+- Engineering opinions in the evidence ledger cover databases, service shape, languages, and documentation [O-ENG-1] [O-ENG-4] [O-ENG-12].
+- A large share of the 2025–2026 evidence is about coding agents and harnesses [O-AI-1] [O-AI-7] [O-AI-8].
+- Separate evidence groups cover careers [O-CAR-1], management [O-MGT-1], and product [O-PRD-1]. Those are topics he has published on, not a claim about a current job title beyond section A.
+- Gap: no list of communities he runs was in PROFILE.json. The skill README mentions teaching and talks; see [O-TCH-2].
+
+## C. Core philosophy
+- Software: "99% of info-system software should be just Postgres (and Redis)." [O-ENG-1] [observed statement]
+- He rejects microservices as a default: "Microservices and distributed computing just makes things unnecessarily hard." [O-ENG-4] [observed statement]
+- AI: "Code is now cheap too." [O-AI-1] [observed statement] He wants a minimal harness and says subagents are a yes in 2026 [O-AI-8] [O-AI-7] [observed statement].
+- Monetization of attention: the evidence includes "skill-selling pied pipers" as a criticism [O-AI-6] [observed statement]. No price list for a product of his was in the extra bundle.
+
+## D. Distilled knowledge
+- Boring storage and a monolith are the stated default [O-ENG-1] [O-ENG-4] [observed statement]. Clean Architecture is called an anti-pattern in his words [O-ENG-6] [observed statement].
+- Documentation is "a culture", and communication "should be public by default, private by exception." [O-ENG-12] [O-ENG-13] [observed statement]
+- Skills should be project specific, not global [O-AI-5] [observed statement]. The bundle's own OPINIONS.md also says to use scripts for deterministic parts. That sentence is the bundle's synthesis; the evidence quote on [O-AI-5] is only the project-specific line. [our interpretation of the bundle, not a new fact]
+- Context length hurts model performance, in his words [O-AI-4] [observed statement].
+- Career: "is your communication skill." [O-CAR-1] [observed statement] The quote is a fragment; the bundle files it under communication as the biggest driver. Treat the fragment as the verified excerpt, not a longer speech.
+- Runbooks: "you need to have a runbook for fixing all of them" [O-ENG-14] [observed statement]. The bundle marks this as a YouTube auto-caption without speaker labels.
+- He says he is not an ML researcher and not a harness author of repute [B-5] [observed statement]. Do not describe him as one.
+
+## E. Implementation playbooks
+### Lean harness (derived from [O-AI-7], [O-AI-8], [O-AI-4], [O-AI-5])
+- Problem: agent sessions degrade as context grows, and a pile of global skills does not fix it.
+- Preconditions: a repo you can change; no claim here about which model.
+- Tools: not named as a required vendor in these four evidence lines.
+- Steps: [our interpretation] keep a small core; add subagents, checklists, and monitors around it; keep skills project-local; split work before the context gets long. The observed lines are the four sources above, not a numbered tutorial from him.
+- Expected output: a harness small enough that he would still call the core minimal [O-AI-8].
+- Cost, time, complexity: no evidence found in the extra bundle.
+- Risks: he also says he does not necessarily apply all of his architecture opinions [B-7].
+- Success metric: no evidence found.
+
+## F. Evidence summary
+- Ledger: `sources.yaml`, 144 rows, researched 2026-11-22 by the source bundle.
+- X quotes in `posts.jsonl`: 57. Metrics are null because the extra bundle did not include metric fields. Do not read null as zero.
+- `state/sync.json` reports posts_read.total 200, long_form_fetched 49, evidence_entries 144. This import found the evidence entries it parsed; it did not re-fetch the 200 posts.
+- Top sources to read first: [O-ENG-1], [O-ENG-4], [O-AI-7], [O-AI-8], [O-CAR-1].
+
+## G. Strengths and weaknesses
+- Strength: the bundle ties opinions to URLs and short exact quotes, and it separates YouTube lines that lack speaker labels.
+- Strength: he states a limit on his own authority [B-5].
+- Conflict of interest: no course price or sponsorship list was in PROFILE.json. Gap, not a clean bill of health.
+- Weakness for this repo: employer wording disagrees inside the bundle (section A). Status stays partial.
+
+## H. Practical applications for Kishore
+Kishore, in the research spec, is a Linux/DevOps-capable engineer in India who wants agents and software products at low capital and low maintenance.
+- A minimal harness with project-local skills fits that constraint better than a global skill catalogue [O-AI-5] [O-AI-8] [our interpretation].
+- His public dislike of Kubernetes-style orchestration [B-2] [O-ENG-4] is a real disagreement with DevOps teaching in the rest of this corpus. It is recorded on the careers board. It is not a reason to invent a "he would tell Kishore to quit DevOps" line.
+- "power is still very costly in India" [O-IND-3] is a constraint on any plan that assumes cheap local GPU hosting. The line is a quote, not an energy-market study.
+- Board eligibility: ai-engineering, because the 2025–2026 evidence is dense on harnesses. He has not joined a board. See the disclaimer on every file under `boards/`.
+
+## I. Profile evolution
+- 2026-11-22 baseline from the extra bundle. Earlier vs later, as that bundle's OPINIONS.md states and [O-AI-21] supports in part: the 2025-01-28 post says "Mostly diminishing returns for real world since Claude 3.5 Sonnet." Later 2026 lines treat subagents as settled [O-AI-7]. The sentence "by 2026 I was fully agentic" is the bundle's synthesis in OPINIONS.md, not a single post.
+- Gap: the skill README says the 2016–2019 X history was only sampled from December 2018, and there is no speaker-labelled transcript.

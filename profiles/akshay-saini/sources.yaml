@@ -1,0 +1,180 @@
+- id: S1
+  url: "https://x.com/akshaymarch7/status/1790748142646030566"
+  author: "@akshaymarch7"
+  published: "2024-05-15"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Pinned: crossed 1M YouTube subscribers (May 2024)"
+  excerpt: "Crossed 1 million subscribers on YouTube, thank you all for your love and support! ♥️"
+  original: true
+  confidence: "high"
+- id: S2
+  url: "https://x.com/akshaymarch7/status/2123384956630241384"
+  author: "@akshaymarch7"
+  published: "2026-11-19"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Engineers must learn to delegate early: what needs to happen, missing context, how to check result"
+  excerpt: "I think engineers will have to get comfortable delegating work much earlier in their careers. Earlier, you could spend years implementing everything yourself before you had to explain a task clearly to someone else. With AI, that skill becomes useful…"
+  original: true
+  confidence: "high"
+- id: S3
+  url: "https://x.com/akshaymarch7/status/2123315989647613996"
+  author: "@akshaymarch7"
+  published: "2026-11-19"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Rethink junior training in AI era; give juniors small end-to-end problems, let them use AI"
+  excerpt: "If AI reduces the routine work we used to give junior engineers, we need to rethink how we train juniors. “After AI we don't need junior engineers” is a very short-term answer. Where exactly do you expect your experienced engineers…"
+  original: true
+  confidence: "high"
+- id: S4
+  url: "https://x.com/akshaymarch7/status/2124841709188292774"
+  author: "@akshaymarch7"
+  published: "2026-11-23"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Use AI to attempt work previously outside your ability, not just to go faster"
+  excerpt: "I don't want engineers to use AI only to finish the same work a little faster. Try something you previously considered outside your ability. Build the mobile app maybe or a complicated game. Explore the unfamiliar codebase. See how far…"
+  original: true
+  confidence: "high"
+- id: S5
+  url: "https://x.com/akshaymarch7/status/2125089878954373377"
+  author: "@akshaymarch7"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Interviewing: ask why it was built this way / change a requirement / give a bug — not \"% written by AI\""
+  excerpt: "“How much of this project did AI write?” is a stupid question that interviewers ask to judge a candidate. What answer are you hoping for? 10%? 50%? At what percentage does their work stop being valuable? Ask them why they…"
+  original: true
+  confidence: "high"
+- id: S6
+  url: "https://x.com/akshaymarch7/status/2123055711236370506"
+  author: "@akshaymarch7"
+  published: "2026-11-18"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Good engineers can hold outdated opinions about AI due to lack of exposure"
+  excerpt: "An engineer can be very good at their job and still have an outdated opinion about AI. I don't think people realise this enough. You can spend your entire day solving difficult engineering problems without getting any serious exposure to…"
+  original: true
+  confidence: "high"
+- id: S7
+  url: "https://x.com/akshaymarch7/status/2123002351376355381"
+  author: "@akshaymarch7"
+  published: "2026-11-18"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Explains autonomous AI exploitation loop: diff security patches → generate exploits → mass attacks"
+  excerpt: "How hackers are using AI to attack companies: 0. A software company releases a security update. 1. Autonomous AI agents compare the old code with the updated version. 2. They identify the vulnerability the update fixed. 3. They generate attack…"
+  original: true
+  confidence: "high"
+- id: S8
+  url: "https://x.com/akshaymarch7/status/2118973486987374631"
+  author: "@akshaymarch7"
+  published: "2026-11-07"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "SWE roles evolve into \"FullStack AI Engineer\"; fewer people needed per product"
+  excerpt: "Software Engineers aren't going anywhere. The role will just evolve to something like FullStack AI Engineer (or a more fancy name) Also, much less people will be required to build the same product. If you're a Software Engineer, evolve your…"
+  original: true
+  confidence: "high"
+- id: S9
+  url: "https://x.com/akshaymarch7/status/2001620748834869459"
+  author: "@akshaymarch7"
+  published: "2025-12-18"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "\"Coding is Dead. Engineering is not.\" (2,018 likes)"
+  excerpt: "Coding is Dead. Engineering is not."
+  original: true
+  confidence: "high"
+- id: S10
+  url: "https://x.com/akshaymarch7/status/2006422889625682079"
+  author: "@akshaymarch7"
+  published: "2025-12-31"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "\"LLMs don't think. They predict the next token\" explains most AI behavior"
+  excerpt: "LLMs don’t ‘think’. They predict the next token. This one fact explains 80% of AI behavior."
+  original: true
+  confidence: "high"
+- id: S11
+  url: "https://x.com/akshaymarch7/status/2000480288401752356"
+  author: "@akshaymarch7"
+  published: "2025-12-15"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "5 skills freshers underestimate (communication etc.) — 970 likes"
+  excerpt: "The 5 skills freshers underestimate (but companies don’t) Most freshers think only DSA matters. Wrong. Here are the skills that actually decide your offer letter: 0. Clear communication. 1. Ability to explain your project. 2. Debugging under pressure. 3. Clean…"
+  original: true
+  confidence: "high"
+- id: S12
+  url: "https://x.com/akshaymarch7/status/2118699437900132420"
+  author: "@akshaymarch7"
+  published: "2026-11-06"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Diwali sale: courses at lowest prices, coupon DIWALI26 (promotion)"
+  excerpt: "Every year on Diwali, we revamp our website’s UI, and this year’s new look is now live at ✨ Our Diwali Sale has also begun! Get all our courses at their lowest prices (with discounts of over 55%) Use coupon…"
+  original: true
+  confidence: "high"
+- id: S13
+  url: "https://x.com/akshaymarch7/status/1857114446210187599"
+  author: "@akshaymarch7"
+  published: "2024-11-14"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Nov 2024: list of struggles of college students (1,085 likes) — audience is students"
+  excerpt: "It's NOT easy for college students: 0. Porn 1. Alcohol 2. Weed 3. Unhealthy diet 4. No exercise 5. Attendance 6. Bad friend circle 7. Lack of Sleep 8. Competition with Peers 9. Insecurity about physical appearance 10. Procrastination 11.…"
+  original: true
+  confidence: "high"
+- id: S14
+  url: "https://x.com/akshaymarch7/status/1853339452963463347"
+  author: "@akshaymarch7"
+  published: "2024-11-04"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Nov 2024: \"Have a Plan B\" for placements"
+  excerpt: "Have a Plan B 🤷‍♂️ Most students make this mistake, they somehow think that they will definitely get good placement from college. It is far from the reality. The best option is to prepare yourself mentally and have a plan…"
+  original: true
+  confidence: "high"
+- id: S15
+  url: "https://x.com/akshaymarch7/status/2005902303795327093"
+  author: "@akshaymarch7"
+  published: "2025-12-30"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "\"Most scaling problems are data problems, not algorithm problems.\""
+  excerpt: "Most scaling problems are data problems, not algorithm problems."
+  original: true
+  confidence: "high"
+- id: S16
+  url: "https://namastedev.com"
+  author: "NamasteDev"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "website"
+  description: "NamasteDev course platform: Namaste DSA, Node.js, AI (LLMs, RAG, MCP, agents), Frontend System Design, React; founder Akshay Saini, ex-Senior SDE Paytm & Uber; \"Trusted by 2,000,000+ Engineers\""
+  excerpt: "Akshay Saini, founder of NamasteDev.com, who previously worked as a software engineer at Uber & Paytm."
+  original: true
+  confidence: "high"
+- id: S17
+  url: "https://github.com/akshaymarch7"
+  author: "Akshay Saini (GitHub API)"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "github"
+  description: "GitHub: \"Founder @namastedev\", site akshaysaini.in; teaching repos netflix-gpt 511★, devTinder 174★; recent repos rag-pipeline (Nov 2026), namaste-video-ai"
+  excerpt: "May the code be with you. Amen."
+  original: true
+  confidence: "high"
+- id: S18
+  url: "https://x.com/akshaymarch7/status/2001151335862083949"
+  author: "@akshaymarch7"
+  published: "2025-12-17"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Notes that advanced deep-dive videos get less reach/views on YouTube"
+  excerpt: "Making advanced videos and diving into technical topics takes a lot of time and effort for creators. Even after putting in so much effort, they don't get reach, views, or good numbers, it's really demotivating. If creators make clickbait with…"
+  original: true
+  confidence: "high"

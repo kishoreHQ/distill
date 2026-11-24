@@ -1,0 +1,104 @@
+---
+id: tw93
+display_name: Tw93
+x_username: HiTw93
+x_url: https://x.com/HiTw93
+x_user_id: "1521688129559613440"
+other_identities: [https://github.com/tw93, https://tw93.fun, https://weekly.tw93.fun]
+website: https://tw93.fun
+organization: Independent developer (Mole, Pake, Kami, MiaoYan, Waza, Kaku)
+role: Indie open-source developer / product maker (legal name not stated in sources read)
+research_date: 2026-11-24
+confidence: high
+account_type: person
+primary_domain: ai-engineering
+secondary_domains: [startup-building, productivity]
+board_eligibility: [ai-engineering, startup, automation]
+status: verified
+---
+
+# Tw93 (@HiTw93)
+
+## A. Identity
+- Pseudonymous Chinese-speaking indie developer "Tw93"; X id 1521688129559613440, ~166K followers [S1]. Same identity on GitHub tw93 (X badge links both ways in READMEs) and blog tw93.fun [S2][S5][S14].
+- Real name not given in sources read — profile uses the public handle. Posts mostly in Chinese, product launches in English.
+- Confidence high (identity cross-linked across X/GitHub/blog).
+
+## B. Expertise map
+- **Primary:** AI-assisted engineering practice and agent skills (Waza; 21 AI coding practices; Claude Code architecture articles) [S3][S5][S8].
+- **Secondary:** indie desktop product building and monetization: OSS CLI → paid native app (Mole, Pake) [S4][S6][S7].
+- **Technical:** Rust/Tauri-style lightweight desktop apps (Pake vs Electron) [S12], macOS system tooling (Mole), multi-device agent test rigs [S9].
+- **Projects:** Mole (~76K★), Pake (~64K★), Kami (~12.6K★), MiaoYan, Waza, Kaku [S2].
+- **Communities:** Chinese dev community on X/blog; global OSS users (multi-language READMEs) [S5][S6].
+
+## C. Core philosophy
+- **Product:** "Anything added dilutes everything else" — refuse features that make software noisier [S2][S4].
+- **AI coding:** describe goals/background, let the agent pick technical details; use best models; enforce rules with scripts, not prompts [S3].
+- **Monetization:** keep the OSS CLI free; charge for the convenient desktop app [S4][S7].
+- **Support/automation:** automate support only when the question repeats, the answer is stable and exceptions are known [S4].
+- **Trust:** protect account reputation; avoid grey-market AI accounts [S11].
+
+## D. Distilled knowledge
+- **Principles**
+  - Rules agents must follow should be enforced by check scripts that actually run [observed statement][S3].
+  - Separate the coding agent from the reviewing agent; max 3 review rounds; second round only checks new changes [observed statement][S3].
+  - If a fix fails 3 times, clear context and restate the problem with attempted fixes [observed statement][S3].
+  - Every production bug/user issue gets a regression test the agent runs before release (and when switching models) [observed statement][S3].
+  - One-way-door changes (delete, payment, release) require human eyes [observed statement][S3].
+  - Parallel agents → separate worktrees; each commits only its own changes [observed statement][S3].
+- **Business insights**
+  - OSS CLI with large adoption → paid desktop app for non-terminal users (requests came from users' families) [demonstrated result][S4].
+  - Growth by word of mouth, no paid marketing; refund rate <0.8% (self-reported) [demonstrated result, self-reported][S4].
+  - Don't build ticketing/KB systems before the inbox actually breaks [observed statement][S4].
+  - Pricing matters: a user said his price "read like a currency conversion" — localise pricing [observed statement][S4].
+- **Safety design:** for cleaners, "not deleting" matters more than deleting; protect AI session folders (~/.claude/projects, ~/.codex/sessions) and model caches [observed statement][S4].
+- **Tools:** Claude Code CLI (Opus, high effort) always on; old devices as test machines [S9][S10].
+- **Mistakes warned about:** generic AI-looking UI (blue-purple gradients) [S13]; pasting secrets to agents ("treat as leaked, rotate") [S3].
+
+## E. Implementation playbooks
+
+### Playbook 1 — Agent-safe engineering loop (derived from [S3][S5])
+- **Problem:** AI coding produces regressions and drifts from rules.
+- **Preconditions:** repo, coding agent, CI.
+- **Tools:** Claude Code/Codex, git worktrees, a verify script, Waza-style skills.
+- **Steps:** 1) Agent explains planned changes and impact first. 2) Work in smallest shippable slices, commit often. 3) Agent writes/maintains a verify script; must pass before "done". 4) Separate reviewer agent, ≤3 rounds. 5) Commit message: what, how verified, how to roll back. 6) Each user bug → regression test.
+- **Expected output:** fewer regressions; reusable project harness.
+- **Cost:** agent subscription. **Time:** 1 day to set up. **Complexity:** medium.
+- **Risks:** over-trusting agent review; script coverage gaps.
+- **Success metric:** regressions per release; % releases needing rollback.
+
+### Playbook 2 — Open-core desktop monetization (derived from [S4][S6][S7])
+- **Problem:** popular free CLI with no income.
+- **Preconditions:** OSS tool with real usage and recurring requests from non-technical users.
+- **Tools:** native/Tauri app, license/payment provider (Lemon Squeezy/Paddle), email.
+- **Steps:** 1) Wait until CLI semantics are stable. 2) Build GUI for non-terminal users; dogfood daily. 3) One-time price, early-bird. 4) Keep CLI free and updated. 5) Answer support manually until patterns stabilise; then automate.
+- **Expected output:** paid tier without alienating OSS users.
+- **Cost:** low; code signing fees. **Time:** weeks–months. **Complexity:** medium–high.
+- **Risks:** needs an existing large user base; cross-platform signing/notarization effort.
+- **Success metric:** conversion of CLI users, refund rate, support load.
+
+### Playbook 3 — Repurpose old devices as agent test rigs (derived from [S9])
+- Problem: testing across OSs/devices. Steps: wipe old laptops/phones, install target OSs, connect via SSH/remote, let agents run builds/tests there. Cost: ~$0. Complexity: low–medium. Metric: platforms covered per release.
+
+## F. Evidence summary
+- 14 sources (3 blog, 3 GitHub, 7 X posts, 1 profile). 85 X posts read (50 last 6 months, 20 6–24 months, 15 older).
+- Top: [S3] 21 practices, [S4] Mole monetization story, [S5] Waza, [S2] repos.
+
+## G. Strengths and weaknesses
+- **Strong:** demonstrated OSS traction (multiple 60K+★ repos) and a documented path to paid revenue [S2][S4]; disciplined, safety-first engineering.
+- **Limited evidence:** revenue numbers not disclosed (only refund rate) [S4]; much content is Chinese-language — some nuance may be lost in translation (our reading).
+- **Limits:** desktop/macOS focus; playbooks assume an existing audience.
+- **Conflicts:** promotes own paid apps (Pake desktop, Mole) [S7]; financial/investing posts are personal opinion (2025) — out of scope.
+- Many X posts are lifestyle (concerts, gadgets) — low signal.
+
+## H. Practical applications for Kishore
+1. **Agents/automation:** copy the 21-practice loop (Playbook 1) into AGENTS.md for every repo; install Waza-like skills.
+2. **Products/income:** open-core path — publish a genuinely useful Linux/DevOps CLI, grow stars, then sell a GUI/"pro" convenience layer (Playbook 2). Low capital, but slow.
+3. **Productivity:** fewer tools; let one always-on agent CLI replace many apps [S10].
+- **Board eligibility:** ai-engineering (agent practice depth), startup (OSS→paid demonstrated), automation (support automation threshold, agent rigs). Not creator (Chinese-language audience growth not analysed).
+
+## I. Profile evolution
+- **2026-11-24 baseline.**
+- 2024: "#工程师学习" curated learning links, MiaoYan updates [posts 2024-05].
+- 2025: investing talk for engineers, curating agent principles (12-Factor Agents) [posts 2025-07].
+- 2026: shifted to shipping paid desktop apps (Mole Mac Aug, Windows Oct; Pake desktop Nov), agent-skills (Waza, Kami), AI-coding best-practice writing [S3][S4][S7].

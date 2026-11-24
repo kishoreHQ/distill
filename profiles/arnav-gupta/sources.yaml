@@ -1,0 +1,1440 @@
+- id: O-ENG-1
+  url: https://threads.championswimmer.in/p/unpopular-techsoftware-engineering
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-09-10'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-ENG-1 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: 99% of info-system software should be just Postgres (and Redis).
+  original: true
+  confidence: high
+- id: O-ENG-2
+  url: https://threads.championswimmer.in/p/unpopular-techsoftware-engineering
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-09-10'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-ENG-2 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: MongoDB is a veritable cancer on the face of this earth.
+  original: true
+  confidence: high
+- id: O-ENG-3
+  url: https://threads.championswimmer.in/p/unpopular-techsoftware-engineering
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-09-10'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-ENG-3 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: GraphQL is in the same bucket as MongoDB for me.
+  original: true
+  confidence: high
+- id: O-ENG-4
+  url: https://threads.championswimmer.in/p/unpopular-techsoftware-engineering
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-09-10'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-ENG-4 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Microservices and distributed computing just makes things unnecessarily hard.
+  original: true
+  confidence: high
+- id: O-ENG-5
+  url: https://threads.championswimmer.in/p/microservices-microfrontends-serverless
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-01-22'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-ENG-5 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: These "trends" are more about org struct than tech
+  original: true
+  confidence: high
+- id: O-ENG-6
+  url: https://threads.championswimmer.in/p/clean-architecture-is-the-most-inane
+  author: Arnav Gupta (@championswimmer)
+  published: '2025-05-03'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-ENG-6 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: '''Clean Architecture'' is 100% an anti-pattern.'
+  original: true
+  confidence: high
+- id: O-ENG-7
+  url: https://threads.championswimmer.in/p/unpopular-techsoftware-engineering
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-09-10'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-ENG-7 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Go is an absolutely abused, mis-intended and dumpster fire language
+  original: true
+  confidence: high
+- id: O-ENG-8
+  url: https://threads.championswimmer.in/p/unpopular-techsoftware-engineering
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-09-10'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-ENG-8 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Java is actually a fairly good language.
+  original: true
+  confidence: high
+- id: O-ENG-9
+  url: https://x.com/championswimmer/status/1077678842360332289
+  author: Arnav Gupta (@championswimmer)
+  published: '2018-12-25'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-ENG-9 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Just don't make apps in React Native. You'll regret.
+  original: true
+  confidence: high
+- id: O-ENG-10
+  url: https://threads.championswimmer.in/p/unpopular-techsoftware-engineering
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-09-10'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-ENG-10 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: I love template based UI design waaaaay over composable things.
+  original: true
+  confidence: high
+- id: O-ENG-11
+  url: https://threads.championswimmer.in/p/unpopular-techsoftware-engineering
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-09-10'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-ENG-11 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: I totally judge developers on having shell and CLI chops.
+  original: true
+  confidence: high
+- id: O-ENG-12
+  url: https://threads.championswimmer.in/p/building-an-org-culture-of-documentation
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-08-04'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-ENG-12 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Documentation is a culture. It is not writing 2 random comments somewhere.
+  original: true
+  confidence: high
+- id: O-ENG-13
+  url: https://threads.championswimmer.in/p/building-an-org-culture-of-documentation
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-08-04'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-ENG-13 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Communication should be public by default, private by exception.
+  original: true
+  confidence: high
+- id: O-ENG-14
+  url: https://www.youtube.com/watch?v=1Vg2-VRY0HE
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-01-30'
+  researched: '2026-11-22'
+  type: youtube
+  description: Evidence ledger O-ENG-14 (yt) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text. YouTube auto-captions have no speaker labels; the source bundle says only first-person lines consistent with his biography were kept.
+  excerpt: you need to have a runbook for fixing all of them
+  original: true
+  confidence: medium
+- id: O-ENG-15
+  url: https://x.com/championswimmer/status/2100696385779597536
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-09-17'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-ENG-15 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: “scaling is hard, dunking on GitHub is easy”
+  original: true
+  confidence: high
+- id: O-ENG-16
+  url: https://arnav.tech/about
+  author: Arnav Gupta (@championswimmer)
+  published: 2026 (page)
+  researched: '2026-11-22'
+  type: blog
+  description: Evidence ledger O-ENG-16 (at) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: writing the same code twice is a sin
+  original: true
+  confidence: high
+- id: O-ENG-17
+  url: https://www.youtube.com/watch?v=Vj_JEI3yMe4
+  author: Arnav Gupta (@championswimmer)
+  published: '20220427'
+  researched: '2026-11-22'
+  type: youtube
+  description: Evidence ledger O-ENG-17 (yt) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text. YouTube auto-captions have no speaker labels; the source bundle says only first-person lines consistent with his biography were kept.
+  excerpt: People stopped uninstalling the app
+  original: true
+  confidence: medium
+- id: O-AI-1
+  url: https://x.com/championswimmer/status/1927371303326974136
+  author: Arnav Gupta (@championswimmer)
+  published: '2025-05-27'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-AI-1 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Code is now cheap too.
+  original: true
+  confidence: high
+- id: O-AI-2
+  url: https://threads.championswimmer.in/p/coding-at-a-higher-abstraction
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-03-29'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-AI-2 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: The actual unit of work we hand off has shifted.
+  original: true
+  confidence: high
+- id: O-AI-3
+  url: https://x.com/championswimmer/status/2101052777669476606
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-09-18'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-AI-3 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: the harness needs to remain lean for models to work well.
+  original: true
+  confidence: high
+- id: O-AI-4
+  url: https://threads.championswimmer.in/p/the-ai-natives-are-not-alright-or
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-08-24'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-AI-4 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: model performance drops with context length
+  original: true
+  confidence: high
+- id: O-AI-5
+  url: https://threads.championswimmer.in/p/the-ai-natives-are-not-alright-or
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-08-24'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-AI-5 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: most skills should be project specific and not global.
+  original: true
+  confidence: high
+- id: O-AI-6
+  url: https://threads.championswimmer.in/p/the-ai-natives-are-not-alright-or
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-08-24'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-AI-6 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: a whole army of skill-selling pied pipers have cropped up like mushrooms
+  original: true
+  confidence: high
+- id: O-AI-7
+  url: https://arnav.tech/posts/checklists-monitors-and-subagents-the-essential-current-harness-architecture/
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-11-15'
+  researched: '2026-11-22'
+  type: blog
+  description: Evidence ledger O-AI-7 (at) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: What is not a question is “do we want to use subagents?” I think that is a clear yes in 2026.
+  original: true
+  confidence: high
+- id: O-AI-8
+  url: https://arnav.tech/posts/checklists-monitors-and-subagents-the-essential-current-harness-architecture/
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-11-15'
+  researched: '2026-11-22'
+  type: blog
+  description: Evidence ledger O-AI-8 (at) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: I think a harness needs to have a very reliable, simple (however loaded that term is), minimal core
+  original: true
+  confidence: high
+- id: O-AI-9
+  url: https://threads.championswimmer.in/p/the-layoffs-will-continue-till-we
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-05-09'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-AI-9 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Code is an input. Features are an output. Users spending money on your product is an outcome.
+  original: true
+  confidence: high
+- id: O-AI-10
+  url: https://threads.championswimmer.in/p/the-layoffs-will-continue-till-we
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-05-09'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-AI-10 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: made people debate a lot more and kill bad ideas much sooner
+  original: true
+  confidence: high
+- id: O-AI-11
+  url: https://threads.championswimmer.in/p/will-ai-take-our-jobs-short-term
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-02-06'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-AI-11 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: 'Short term: not worried. because physics, and organisational inertia.'
+  original: true
+  confidence: high
+- id: O-AI-12
+  url: https://threads.championswimmer.in/p/will-ai-take-our-jobs-short-term
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-02-06'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-AI-12 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: 'Medium term: I am shit scared.'
+  original: true
+  confidence: high
+- id: O-AI-13
+  url: https://threads.championswimmer.in/p/will-ai-take-our-jobs-short-term
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-02-06'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-AI-13 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: 'Long term: not worried either, because economic realities and faith in humanity.'
+  original: true
+  confidence: high
+- id: O-AI-14
+  url: https://x.com/championswimmer/status/2055765312750952727
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-05-16'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-AI-14 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: It is a bubble, but it is like dotcom bubble
+  original: true
+  confidence: high
+- id: O-AI-15
+  url: https://x.com/championswimmer/status/2078179137915617435
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-07-17'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-AI-15 (X reply) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: the biggest risk to releasing open weight models have lately become regulatory hurdles
+  original: true
+  confidence: high
+- id: O-AI-16
+  url: https://x.com/championswimmer/status/2091573886186058097
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-08-23'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-AI-16 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: $20 plans across Cursor + Codex + Claude + Gemini is much much more alpha than even $100 plans.
+  original: true
+  confidence: high
+- id: O-AI-17
+  url: https://x.com/championswimmer/status/2078790605602238885
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-07-19'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-AI-17 (X reply) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: If Ant/OAI want this to diffuse faster they truly need to "teach" people properly.
+  original: true
+  confidence: high
+- id: O-AI-18
+  url: https://x.com/championswimmer/status/2065863958687338782
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-06-13'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-AI-18 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Whether Mythos is actually dangerous or not is something Anthropic has created a myth about.
+  original: true
+  confidence: high
+- id: O-AI-19
+  url: https://x.com/championswimmer/status/2078478202847015275
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-07-18'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-AI-19 (X reply) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: most of the discourse is ego-driven rather than fact/merit driven.
+  original: true
+  confidence: high
+- id: O-AI-20
+  url: https://threads.championswimmer.in/p/so-we-will-spend-25-per-code-review
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-03-11'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-AI-20 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: basically at least 10x or more cheaper
+  original: true
+  confidence: high
+- id: O-AI-21
+  url: https://x.com/championswimmer/status/1884283200509555035
+  author: Arnav Gupta (@championswimmer)
+  published: '2025-01-28'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-AI-21 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Mostly diminishing returns for real world since Claude 3.5 Sonnet.
+  original: true
+  confidence: high
+- id: O-AI-22
+  url: https://x.com/championswimmer/status/2091576317108162632
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-08-23'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-AI-22 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: World needs more open cloud agent harness implementations too!
+  original: true
+  confidence: high
+- id: O-AI-23
+  url: https://threads.championswimmer.in/p/are-you-impressed-with-llm-generated
+  author: Arnav Gupta (@championswimmer)
+  published: '2025-03-12'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-AI-23 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: PMs, non-tech founders, wordcels and yappers are the most amazed.
+  original: true
+  confidence: high
+- id: O-AI-24
+  url: https://x.com/championswimmer/status/2067289537621963153
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-06-17'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-AI-24 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: 'very complex plan or debugging : Opus/GPT5.5'
+  original: true
+  confidence: high
+- id: O-AI-25
+  url: https://x.com/championswimmer/status/2091799701180088621
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-08-24'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-AI-25 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: I plead with Anthropic to look beyond Opus/Fable towards actual human beings for PR and comms training.
+  original: true
+  confidence: high
+- id: O-AI-26
+  url: https://x.com/championswimmer/status/1994324832536723708
+  author: Arnav Gupta (@championswimmer)
+  published: '2025-11-28'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-AI-26 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: have this "model smell" very similar to Claude
+  original: true
+  confidence: high
+- id: O-AI-27
+  url: https://threads.championswimmer.in/p/openclaw-is-wordpress-manus-is-medium
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-02-11'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-AI-27 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: We are currently in the “Geocities/Early WordPress” era of AI agents.
+  original: true
+  confidence: high
+- id: O-CAR-1
+  url: https://threads.championswimmer.in/p/lessons-from-running-startups-and
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-02-02'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-CAR-1 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: is your communication skill.
+  original: true
+  confidence: high
+- id: O-CAR-2
+  url: https://threads.championswimmer.in/p/unpopular-techsoftware-engineering
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-09-10'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-CAR-2 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: I don't think doing artificially created puzzles like LeetCode should be involved in early stage learning to code.
+  original: true
+  confidence: high
+- id: O-CAR-3
+  url: https://threads.championswimmer.in/p/the-no-nonsense-process-of-getting
+  author: Arnav Gupta (@championswimmer)
+  published: '2024-05-27'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-CAR-3 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Forget the typical “roadmaps” and other drivel
+  original: true
+  confidence: high
+- id: O-CAR-4
+  url: https://threads.championswimmer.in/p/the-career-progression-ladder-problem
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-10-06'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-CAR-4 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: the IC track has a ceiling
+  original: true
+  confidence: high
+- id: O-CAR-5
+  url: https://threads.championswimmer.in/p/navigating-the-software-engineering
+  author: Arnav Gupta (@championswimmer)
+  published: '2023-06-20'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-CAR-5 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: So the first thing that is important is to understand what these "L" levels even mean.
+  original: true
+  confidence: high
+- id: O-CAR-6
+  url: https://www.youtube.com/watch?v=1Vg2-VRY0HE
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-01-30'
+  researched: '2026-11-22'
+  type: youtube
+  description: Evidence ledger O-CAR-6 (yt) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text. YouTube auto-captions have no speaker labels; the source bundle says only first-person lines consistent with his biography were kept.
+  excerpt: it's okay to optimize for money
+  original: true
+  confidence: medium
+- id: O-CAR-7
+  url: https://www.youtube.com/watch?v=skM6VtkzoLQ
+  author: Arnav Gupta (@championswimmer)
+  published: '20231118'
+  researched: '2026-11-22'
+  type: youtube
+  description: Evidence ledger O-CAR-7 (yt) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text. YouTube auto-captions have no speaker labels; the source bundle says only first-person lines consistent with his biography were kept.
+  excerpt: there's just no two ways about it you have to learn multiple Technologies
+  original: true
+  confidence: medium
+- id: O-CAR-8
+  url: https://threads.championswimmer.in/p/the-return-on-agency-barrier-in-large
+  author: Arnav Gupta (@championswimmer)
+  published: '2024-05-12'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-CAR-8 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: below a certain point in the pyramid, being high agency can often be detrimental instead of beneficial.
+  original: true
+  confidence: high
+- id: O-CAR-9
+  url: https://threads.championswimmer.in/p/lessons-from-running-startups-and
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-02-02'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-CAR-9 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: There are 2 modes of working - robot mode and involved mode.
+  original: true
+  confidence: high
+- id: O-CAR-10
+  url: https://threads.championswimmer.in/p/lessons-from-running-startups-and
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-02-02'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-CAR-10 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Respect both.
+  original: true
+  confidence: high
+- id: O-CAR-11
+  url: https://x.com/championswimmer/status/2124185443667169524
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-11-21'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-CAR-11 (X reply) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Eval creation is legit work.
+  original: true
+  confidence: high
+- id: O-CAR-12
+  url: https://x.com/championswimmer/status/1928903490136363474
+  author: Arnav Gupta (@championswimmer)
+  published: '2025-05-31'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-CAR-12 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: you can start using AI to grow exponentially in career compared to your peers.
+  original: true
+  confidence: high
+- id: O-MGT-1
+  url: https://threads.championswimmer.in/p/lessons-from-running-startups-and
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-02-02'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-MGT-1 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Everything is a people problem. Always. 100% of the time.
+  original: true
+  confidence: high
+- id: O-MGT-2
+  url: https://threads.championswimmer.in/p/lessons-from-running-startups-and
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-02-02'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-MGT-2 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: do not blame 'a person' for it. That's a cop out. Fix it structurally
+  original: true
+  confidence: high
+- id: O-MGT-3
+  url: https://threads.championswimmer.in/p/lessons-from-running-startups-and
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-02-02'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-MGT-3 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: There is no such thing as an "incompetent" worker, only incompetent managers.
+  original: true
+  confidence: high
+- id: O-MGT-4
+  url: https://threads.championswimmer.in/p/running-engineering-teams-productively
+  author: Arnav Gupta (@championswimmer)
+  published: '2024-09-01'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-MGT-4 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: All engineering teams should be slightly understaffed
+  original: true
+  confidence: high
+- id: O-MGT-5
+  url: https://threads.championswimmer.in/p/running-engineering-teams-productively
+  author: Arnav Gupta (@championswimmer)
+  published: '2024-09-01'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-MGT-5 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: All engineering teams need some “slack time”
+  original: true
+  confidence: high
+- id: O-MGT-6
+  url: https://threads.championswimmer.in/p/the-local-optimisation-problem-in
+  author: Arnav Gupta (@championswimmer)
+  published: '2025-01-08'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-MGT-6 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: The problem is structural.
+  original: true
+  confidence: high
+- id: O-MGT-7
+  url: https://x.com/championswimmer/status/2066212151958835644
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-06-14'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-MGT-7 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: The CEO/execs who cant see through it must own this.
+  original: true
+  confidence: high
+- id: O-MGT-8
+  url: https://threads.championswimmer.in/p/learnings-from-yet-another-blitzscaling
+  author: Arnav Gupta (@championswimmer)
+  published: '2023-07-01'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-MGT-8 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: A younger version of me would have rejected candidates on gaps which are coachable, now I don't
+  original: true
+  confidence: high
+- id: O-MGT-9
+  url: https://threads.championswimmer.in/p/lessons-from-running-startups-and
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-02-02'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-MGT-9 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Hire for merit for the skills you can judge, hire for sincerity in other verticals.
+  original: true
+  confidence: high
+- id: O-MGT-10
+  url: https://x.com/championswimmer/status/1927881074820141092
+  author: Arnav Gupta (@championswimmer)
+  published: '2025-05-29'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-MGT-10 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: trying to turn them overnight into tech startup like work culture doesn't really work
+  original: true
+  confidence: high
+- id: O-MGT-11
+  url: https://x.com/championswimmer/status/2065922582667211054
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-06-13'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-MGT-11 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: The folks in the middle have to stay up at 2am unwinding the SEVs
+  original: true
+  confidence: high
+- id: O-PRD-1
+  url: https://threads.championswimmer.in/p/lessons-from-running-startups-and
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-02-02'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-PRD-1 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Speed, recover from failures, Just Works™ - these keep people here
+  original: true
+  confidence: high
+- id: O-PRD-2
+  url: https://x.com/championswimmer/status/1928926934727024932
+  author: Arnav Gupta (@championswimmer)
+  published: '2025-05-31'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-PRD-2 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Increasing revenue requires creativity.
+  original: true
+  confidence: high
+- id: O-PRD-3
+  url: https://threads.championswimmer.in/p/lessons-from-running-startups-and
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-02-02'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-PRD-3 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Zoom out for a second. What does the product need?
+  original: true
+  confidence: high
+- id: O-IND-1
+  url: https://threads.championswimmer.in/p/all-these-unicorns-and-still-india
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-06-22'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-IND-1 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: There are extremely few *actual* tech-first companies in India.
+  original: true
+  confidence: high
+- id: O-IND-2
+  url: https://x.com/championswimmer/status/2066493390196232497
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-06-15'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-IND-2 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: TCS/Infy or even Zoho, Jio have the ability to run an inference datacenter in India.
+  original: true
+  confidence: high
+- id: O-IND-3
+  url: https://x.com/championswimmer/status/2066493390196232497
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-06-15'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-IND-3 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: power is still very costly in India
+  original: true
+  confidence: high
+- id: O-IND-4
+  url: https://x.com/championswimmer/status/2091974202614305194
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-08-24'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-IND-4 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: 3 of the top 8 food delivery companies in the world by market cap / valuation are from India.
+  original: true
+  confidence: high
+- id: O-IND-5
+  url: https://x.com/championswimmer/status/1343596058228654102
+  author: Arnav Gupta (@championswimmer)
+  published: '2020-12-28'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-IND-5 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: the biggest scam in India again - BYJUs.
+  original: true
+  confidence: high
+- id: O-IND-6
+  url: https://x.com/championswimmer/status/1564330734491697152
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-08-29'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-IND-6 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: edtech sales engine is about to hit the economy.
+  original: true
+  confidence: high
+- id: O-IND-7
+  url: https://threads.championswimmer.in/p/the-templatised-monetisation-of-prep
+  author: Arnav Gupta (@championswimmer)
+  published: '2024-01-27'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-IND-7 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: The British got us hooked to this archaic colonial process
+  original: true
+  confidence: high
+- id: O-IND-8
+  url: https://threads.championswimmer.in/p/hustle-culture
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-01-30'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-IND-8 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: making surviving in the modern world an increasingly uphill battle.
+  original: true
+  confidence: high
+- id: O-IND-9
+  url: https://x.com/championswimmer/status/1806088864823472128
+  author: Arnav Gupta (@championswimmer)
+  published: '2024-06-26'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-IND-9 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Can’t write half a tweet without your caestism leaking through it
+  original: true
+  confidence: high
+- id: O-IND-10
+  url: https://x.com/championswimmer/status/1884370050137964562
+  author: Arnav Gupta (@championswimmer)
+  published: '2025-01-28'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-IND-10 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Waah mera Digital India....
+  original: true
+  confidence: high
+- id: O-IND-11
+  url: https://x.com/championswimmer/status/1927504518826119501
+  author: Arnav Gupta (@championswimmer)
+  published: '2025-05-27'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-IND-11 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Indian labour is already deemed less quality and too costly for this btw
+  original: true
+  confidence: high
+- id: O-IND-12
+  url: https://x.com/championswimmer/status/1564315232897757184
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-08-29'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-IND-12 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: being ex-Zomato, it is far easier to notice it
+  original: true
+  confidence: high
+- id: O-IND-13
+  url: https://threads.championswimmer.in/p/the-lifecycle-of-an-edtech-company
+  author: Arnav Gupta (@championswimmer)
+  published: '2023-07-20'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-IND-13 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: people come to a YouTube channel to learn something only for one of two reasons
+  original: true
+  confidence: high
+- id: O-SOC-1
+  url: https://x.com/championswimmer/status/1343592671344881664
+  author: Arnav Gupta (@championswimmer)
+  published: '2020-12-28'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-SOC-1 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: We have a created a world where both parents work 60+ hours a week
+  original: true
+  confidence: high
+- id: O-SOC-2
+  url: https://threads.championswimmer.in/p/we-live-in-a-dunkocracy
+  author: Arnav Gupta (@championswimmer)
+  published: '2025-05-06'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger O-SOC-2 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: we find ourselves in the age of what might be called a "dunkocracy"
+  original: true
+  confidence: high
+- id: O-SOC-3
+  url: https://x.com/championswimmer/status/1674497894563344516
+  author: Arnav Gupta (@championswimmer)
+  published: '2023-06-29'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-SOC-3 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: We can't just consume things on vibes.
+  original: true
+  confidence: high
+- id: O-SOC-4
+  url: https://x.com/championswimmer/status/2124181819767890257
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-11-21'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-SOC-4 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: I absolutely love the pedestrianisation of Oxford Street
+  original: true
+  confidence: high
+- id: O-SOC-5
+  url: https://x.com/championswimmer/status/2092013139252707677
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-08-24'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger O-SOC-5 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: America is finally building passenger railroads?
+  original: true
+  confidence: high
+- id: O-TCH-1
+  url: https://www.youtube.com/watch?v=1Vg2-VRY0HE
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-01-30'
+  researched: '2026-11-22'
+  type: youtube
+  description: Evidence ledger O-TCH-1 (yt) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text. YouTube auto-captions have no speaker labels; the source bundle says only first-person lines consistent with his biography were kept.
+  excerpt: it was very selfish in that sense
+  original: true
+  confidence: medium
+- id: O-TCH-2
+  url: https://medium.com/@championswimmer/the-introvert-the-teacher-the-speaker-the-joy-of-the-daily-battle-2c3c2d69d511
+  author: Arnav Gupta (@championswimmer)
+  published: '2018-07-16'
+  researched: '2026-11-22'
+  type: blog
+  description: Evidence ledger O-TCH-2 (md) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: I teach. I speak. I fight social anxiety. Every day is a battle.
+  original: true
+  confidence: high
+- id: O-TCH-3
+  url: https://www.youtube.com/watch?v=z3wDPcRsMRY
+  author: Arnav Gupta (@championswimmer)
+  published: '20210504'
+  researched: '2026-11-22'
+  type: youtube
+  description: Evidence ledger O-TCH-3 (yt) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text. YouTube auto-captions have no speaker labels; the source bundle says only first-person lines consistent with his biography were kept.
+  excerpt: can we create a community around that
+  original: true
+  confidence: medium
+- id: V-S-1
+  url: https://x.com/championswimmer/status/1077678842360332289
+  author: Arnav Gupta (@championswimmer)
+  published: '2018-12-25'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-S-1 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Just don't make apps in React Native. You'll regret.
+  original: true
+  confidence: high
+- id: V-S-2
+  url: https://x.com/championswimmer/status/1078625075870474240
+  author: Arnav Gupta (@championswimmer)
+  published: '2018-12-28'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-S-2 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: When you're a startup founder, but also a developer deep down in your heart.
+  original: true
+  confidence: high
+- id: V-S-3
+  url: https://x.com/championswimmer/status/1343844170478231554
+  author: Arnav Gupta (@championswimmer)
+  published: '2020-12-29'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-S-3 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Does "FPS games" means first person shooter games or games with high frames per second?
+  original: true
+  confidence: high
+- id: V-S-4
+  url: https://x.com/championswimmer/status/1343592671344881664
+  author: Arnav Gupta (@championswimmer)
+  published: '2020-12-28'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-S-4 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: '#LateStageCapitalism'
+  original: true
+  confidence: high
+- id: V-S-5
+  url: https://x.com/championswimmer/status/1564327167865286656
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-08-29'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-S-5 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: B-school has a higher success rate of getting you a partner over any dating app btw.
+  original: true
+  confidence: high
+- id: V-S-6
+  url: https://x.com/championswimmer/status/1806066386982113343
+  author: Arnav Gupta (@championswimmer)
+  published: '2024-06-26'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-S-6 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: A lapless meeting (where you have to hold your laptop in your hands while you type) can be faster and more effective than a topless meeting.
+  original: true
+  confidence: high
+- id: V-S-7
+  url: https://x.com/championswimmer/status/1884380752512504103
+  author: Arnav Gupta (@championswimmer)
+  published: '2025-01-28'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-S-7 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: The "naaraz phuphaji" corner was discussing about "hum log apna AI model kyu nai banate, dekho China aage badh gya"
+  original: true
+  confidence: high
+- id: V-S-8
+  url: https://x.com/championswimmer/status/1884692919912640919
+  author: Arnav Gupta (@championswimmer)
+  published: '2025-01-29'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-S-8 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Kuch bhi lame joke marne se viral ho jata hai. 🤦‍♂️
+  original: true
+  confidence: high
+- id: V-S-9
+  url: https://x.com/championswimmer/status/1927371303326974136
+  author: Arnav Gupta (@championswimmer)
+  published: '2025-05-27'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-S-9 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: How the tables have turned. Code is now cheap too.
+  original: true
+  confidence: high
+- id: V-S-10
+  url: https://x.com/championswimmer/status/2066311938599014815
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-06-15'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-S-10 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: 'claude: the load bearing code has passed the smoke test to get through the full gate to be cut into a release to be shipped to the 0 users that you have'
+  original: true
+  confidence: high
+- id: V-S-11
+  url: https://x.com/championswimmer/status/2091994186803445911
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-08-24'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-S-11 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: (or, just me being an old man yelling at claudes)
+  original: true
+  confidence: high
+- id: V-S-12
+  url: https://x.com/championswimmer/status/2056838893777957199
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-05-19'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-S-12 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Classic.
+  original: true
+  confidence: high
+- id: V-S-13
+  url: https://x.com/championswimmer/status/2100713343451316295
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-09-17'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-S-13 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: ngl, lowkey proud 😊
+  original: true
+  confidence: high
+- id: V-S-14
+  url: https://x.com/championswimmer/status/2124235850875629777
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-11-21'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-S-14 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Code mode everywhere.
+  original: true
+  confidence: high
+- id: V-S-15
+  url: https://x.com/championswimmer/status/2111819201228714483
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-10-18'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-S-15 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Work will expand to fill available compute
+  original: true
+  confidence: high
+- id: V-S-16
+  url: https://x.com/championswimmer/status/1994021225882870020
+  author: Arnav Gupta (@championswimmer)
+  published: '2025-11-27'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-S-16 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: I guess, just buy HBM & DDR chip company stocks 📈
+  original: true
+  confidence: high
+- id: V-R-1
+  url: https://x.com/championswimmer/status/2124256131035922448
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-11-21'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-R-1 (X reply) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Dax, I am sorry, but your users *are* your peers in the industry. You are a software engineer.
+  original: true
+  confidence: high
+- id: V-R-2
+  url: https://x.com/championswimmer/status/2124184831248752996
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-11-21'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-R-2 (X reply) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Are you telling me you know more about the company I used to work at?
+  original: true
+  confidence: high
+- id: V-R-3
+  url: https://x.com/championswimmer/status/1994084777796776178
+  author: Arnav Gupta (@championswimmer)
+  published: '2025-11-27'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-R-3 (X reply) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Yeah no, I am at the age where I don't have enough time to make Raspi servers from scratch
+  original: true
+  confidence: high
+- id: V-R-4
+  url: https://x.com/championswimmer/status/1994083220090970308
+  author: Arnav Gupta (@championswimmer)
+  published: '2025-11-27'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-R-4 (X reply) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: I already work with ugly racks at work.
+  original: true
+  confidence: high
+- id: V-R-5
+  url: https://x.com/championswimmer/status/2078177920216965431
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-07-17'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-R-5 (X post) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: It means you care what you build actually works. That's pretty much it.
+  original: true
+  confidence: high
+- id: V-R-6
+  url: https://x.com/championswimmer/status/1674479419073634315
+  author: Arnav Gupta (@championswimmer)
+  published: '2023-06-29'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-R-6 (X reply) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Elon Musk's kids are not in contact with him, so let's find better role models for parental advice please?
+  original: true
+  confidence: high
+- id: V-R-7
+  url: https://x.com/championswimmer/status/1674520510049423360
+  author: Arnav Gupta (@championswimmer)
+  published: '2023-06-29'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-R-7 (X reply) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: changed "tea" to "coffee" plantation in tweet
+  original: true
+  confidence: high
+- id: V-R-8
+  url: https://x.com/championswimmer/status/2124237949126541569
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-11-21'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-R-8 (X reply) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: People underestimate the value of activities with agency.
+  original: true
+  confidence: high
+- id: V-R-9
+  url: https://x.com/championswimmer/status/2078190510368268711
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-07-17'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-R-9 (X reply) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Ah okay I stand corrected then.
+  original: true
+  confidence: high
+- id: V-R-10
+  url: https://x.com/championswimmer/status/2124262729581985818
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-11-21'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger V-R-10 (X reply) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: now they figured there is no money to make in consumer they are properly focussing where they should have had 🤣
+  original: true
+  confidence: high
+- id: V-L-1
+  url: https://threads.championswimmer.in/p/indian-parents-before-and-after-graduating
+  author: Arnav Gupta (@championswimmer)
+  published: '2017-06-29'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger V-L-1 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Indian Parents have no chill
+  original: true
+  confidence: high
+- id: V-L-2
+  url: https://medium.com/@championswimmer/the-introvert-the-teacher-the-speaker-the-joy-of-the-daily-battle-2c3c2d69d511
+  author: Arnav Gupta (@championswimmer)
+  published: '2018-07-16'
+  researched: '2026-11-22'
+  type: blog
+  description: Evidence ledger V-L-2 (md) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Every day is a battle. Every day I experience the joy of the battle.
+  original: true
+  confidence: high
+- id: V-L-3
+  url: https://threads.championswimmer.in/p/lessons-from-running-startups-and
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-02-02'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger V-L-3 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: No, seriously! Not kidding.
+  original: true
+  confidence: high
+- id: V-L-4
+  url: https://threads.championswimmer.in/p/unpopular-techsoftware-engineering
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-09-10'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger V-L-4 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Some engineers love playing the game in hard mode. But in most companies you have limited respawns available.
+  original: true
+  confidence: high
+- id: V-L-5
+  url: https://threads.championswimmer.in/p/unpopular-techsoftware-engineering
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-09-10'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger V-L-5 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: I'll go with hottest of all takes.
+  original: true
+  confidence: high
+- id: V-L-6
+  url: https://threads.championswimmer.in/p/clean-architecture-is-the-most-inane
+  author: Arnav Gupta (@championswimmer)
+  published: '2025-05-03'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger V-L-6 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Every chapter I read felt like garbage.
+  original: true
+  confidence: high
+- id: V-L-7
+  url: https://threads.championswimmer.in/p/will-ai-take-our-jobs-short-term
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-02-06'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger V-L-7 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: 'Medium term: I am shit scared. We are ngmi.'
+  original: true
+  confidence: high
+- id: V-L-8
+  url: https://threads.championswimmer.in/p/will-ai-take-our-jobs-short-term
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-02-06'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger V-L-8 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: So, congratulations to me, I get to be anxious in two currencies.
+  original: true
+  confidence: high
+- id: V-L-9
+  url: https://threads.championswimmer.in/p/touched-grass-went-to-an-ai-hackathon
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-04-12'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger V-L-9 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: This one is me purely rawdogging thoughts on the keyboard.
+  original: true
+  confidence: high
+- id: V-L-10
+  url: https://threads.championswimmer.in/p/the-ai-natives-are-not-alright-or
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-08-24'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger V-L-10 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: chat thread has turned so long it can be weaved into an entire garment at this point.
+  original: true
+  confidence: high
+- id: V-L-11
+  url: https://threads.championswimmer.in/p/the-ai-natives-are-not-alright-or
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-08-24'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger V-L-11 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: anyway, I think i’ll try to start wrapping up my rant.
+  original: true
+  confidence: high
+- id: V-L-12
+  url: https://arnav.tech/about
+  author: Arnav Gupta (@championswimmer)
+  published: 2026 (page)
+  researched: '2026-11-22'
+  type: blog
+  description: Evidence ledger V-L-12 (at) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Tetris, but the blocks are datacenters.
+  original: true
+  confidence: high
+- id: V-L-13
+  url: https://threads.championswimmer.in/p/the-layoffs-will-continue-till-we
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-05-09'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger V-L-13 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: and Claude will say “You’re absolutely right” and get right to it!
+  original: true
+  confidence: high
+- id: V-SP-1
+  url: https://www.youtube.com/watch?v=z3wDPcRsMRY
+  author: Arnav Gupta (@championswimmer)
+  published: '20210504'
+  researched: '2026-11-22'
+  type: youtube
+  description: Evidence ledger V-SP-1 (yt) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text. YouTube auto-captions have no speaker labels; the source bundle says only first-person lines consistent with his biography were kept.
+  excerpt: depending on like which part of the journey people might be interested in
+  original: true
+  confidence: medium
+- id: V-SP-2
+  url: https://www.youtube.com/watch?v=Vj_JEI3yMe4
+  author: Arnav Gupta (@championswimmer)
+  published: '20220427'
+  researched: '2026-11-22'
+  type: youtube
+  description: Evidence ledger V-SP-2 (yt) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text. YouTube auto-captions have no speaker labels; the source bundle says only first-person lines consistent with his biography were kept.
+  excerpt: Let's investigate, see the numbers, see what happens.
+  original: true
+  confidence: medium
+- id: V-SP-3
+  url: https://www.youtube.com/watch?v=skM6VtkzoLQ
+  author: Arnav Gupta (@championswimmer)
+  published: '20231118'
+  researched: '2026-11-22'
+  type: youtube
+  description: Evidence ledger V-SP-3 (yt) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text. YouTube auto-captions have no speaker labels; the source bundle says only first-person lines consistent with his biography were kept.
+  excerpt: oh this a good point I think uh my my uh overall opinion in a long-term frame
+  original: true
+  confidence: medium
+- id: V-SP-4
+  url: https://www.youtube.com/watch?v=1Vg2-VRY0HE
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-01-30'
+  researched: '2026-11-22'
+  type: youtube
+  description: Evidence ledger V-SP-4 (yt) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text. YouTube auto-captions have no speaker labels; the source bundle says only first-person lines consistent with his biography were kept.
+  excerpt: I never thought of it as like a selfless endeavor or never thought of it as community service
+  original: true
+  confidence: medium
+- id: V-SP-5
+  url: https://www.youtube.com/watch?v=1Vg2-VRY0HE
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-01-30'
+  researched: '2026-11-22'
+  type: youtube
+  description: Evidence ledger V-SP-5 (yt) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text. YouTube auto-captions have no speaker labels; the source bundle says only first-person lines consistent with his biography were kept.
+  excerpt: I'm really not thinking of uplifting people and all of that.
+  original: true
+  confidence: medium
+- id: V-SP-6
+  url: https://www.youtube.com/watch?v=1Vg2-VRY0HE
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-01-30'
+  researched: '2026-11-22'
+  type: youtube
+  description: Evidence ledger V-SP-6 (yt) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text. YouTube auto-captions have no speaker labels; the source bundle says only first-person lines consistent with his biography were kept.
+  excerpt: London as a city like it's super vibrant.
+  original: true
+  confidence: medium
+- id: B-1
+  url: https://threads.championswimmer.in/p/clean-architecture-is-the-most-inane
+  author: Arnav Gupta (@championswimmer)
+  published: '2025-05-03'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger B-1 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: are people I absolutely steer clear of, and never discuss software engineering with ever in future.
+  original: true
+  confidence: high
+- id: B-2
+  url: https://threads.championswimmer.in/p/unpopular-techsoftware-engineering
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-09-10'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger B-2 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: kubernetes type orchestration, auto scale up/down etc are terms I vigilantly run away from
+  original: true
+  confidence: high
+- id: B-3
+  url: https://threads.championswimmer.in/p/unpopular-techsoftware-engineering
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-09-10'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger B-3 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: I wouldn't take hiring/appraisal calls based on it
+  original: true
+  confidence: high
+- id: B-4
+  url: https://x.com/championswimmer/status/2091455057929838935
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-08-23'
+  researched: '2026-11-22'
+  type: x_post
+  description: Evidence ledger B-4 (X quote) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: I always make a separate gmail account for them.
+  original: true
+  confidence: high
+- id: B-5
+  url: https://threads.championswimmer.in/p/the-ai-natives-are-not-alright-or
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-08-24'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger B-5 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: I am neither an ML researcher who has built LLM models nor any coding harness creator of repute
+  original: true
+  confidence: high
+- id: B-6
+  url: https://threads.championswimmer.in/p/touched-grass-went-to-an-ai-hackathon
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-04-12'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger B-6 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: Didn’t open my laptop. Didn’t think about tokens or code.
+  original: true
+  confidence: high
+- id: B-7
+  url: https://threads.championswimmer.in/p/unpopular-techsoftware-engineering
+  author: Arnav Gupta (@championswimmer)
+  published: '2022-09-10'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger B-7 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: I don't necessarily apply all these in practice though.
+  original: true
+  confidence: high
+- id: B-8
+  url: https://threads.championswimmer.in/p/the-ai-natives-are-not-alright-or
+  author: Arnav Gupta (@championswimmer)
+  published: '2026-08-24'
+  researched: '2026-11-22'
+  type: newsletter
+  description: Evidence ledger B-8 (ss) copied from extra/arnav-gupta. The bundle says the quote was checked by string match against fetched text.
+  excerpt: do not write “code snippets” as examples in SKILL.md
+  original: true
+  confidence: high

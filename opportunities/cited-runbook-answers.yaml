@@ -1,0 +1,52 @@
+id: cited-runbook-answers
+title: Cited answers over a team's own Linux and incident notes
+as_of: "2026-11-24"
+status: hypothesis
+disclaimer: "Opportunity scores are hypotheses with links to public evidence. They are not income projections, job offers, or proof that a business exists. Self-reported revenue in the sources belongs to those authors, not to Kishore."
+hypothesis: >
+  A small tool that answers only from a team's own runbooks and refuses when the notes do not contain
+  the answer. The grounding rule is Aravind Srinivas's public description of Perplexity. The safe-fetch
+  note in his later post is a reminder that pages an agent reads are untrusted. This is not a plan to
+  rebuild Perplexity, and it is not a plan to crawl sites that forbid crawling.
+domains: [ai-engineering-agents, careers-cloud-devops]
+dimensions:
+  market_pull:
+    score: 6
+    note: The principle is public and repeated. The corpus has no buyer for a runbook product specifically.
+  evidence_strength:
+    score: 7
+    note: The grounding sentence is a first-party interview transcript. Demand for this exact product is an interpretation.
+  fit_with_kishore_skills:
+    score: 9
+    note: Runbooks, Linux, and incident notes match the spec's DevOps context. Low capital if the corpus is the customer's own files.
+  time_to_value:
+    score: 5
+    note: A single-repo prototype is smaller than a company. Trust and evals take longer than a demo. No timeline is in the source.
+  competition_gap:
+    score: 3
+    note: Answer engines and the labs already ship cited answers. The gap, if any, is a private corpus with a refusal behaviour, and even that is contested.
+  monetization_clarity:
+    score: 5
+    note: A per-team install could be invoiced. No price or paid pilot is in the cited sources.
+  risk_inverse:
+    score: 5
+    note: The same corpus records crawler and copyright allegations against Perplexity. Copying that behaviour would break DISTILL's own source rules.
+evidence:
+  - profile: aravind-srinivas
+    source: S7
+    url: https://lexfridman.com/aravind-srinivas-transcript/
+    note: "Excerpt: the principle is you are not supposed to say anything you do not retrieve."
+  - profile: aravind-srinivas
+    source: S16
+    url: https://x.com/AravSrinivas/status/2123464412971635018
+    note: He describes shipping a safe-fetch score for agents the day after customer feedback.
+  - profile: aravind-srinivas
+    source: S13
+    url: https://en.wikipedia.org/wiki/Perplexity_AI
+    note: Secondary source in the bundle. Records crawler allegations. Included as a risk, not as a tactic to copy.
+risks:
+  - Scraping sites that disallow it conflicts with config/sources.yaml and with the bundle's own caveat.
+  - A cited answer over stale runbooks is still a wrong answer. The transcript does not remove that risk.
+non_claims:
+  - Not a plan to reproduce Perplexity's traffic, valuation, or $1B ARR line.
+  - Not an endorsement by Aravind Srinivas.

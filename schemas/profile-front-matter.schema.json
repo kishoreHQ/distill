@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://distill.local/schemas/profile-front-matter.schema.json",
+  "title": "Profile front matter",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "display_name",
+    "x_username",
+    "x_url",
+    "x_user_id",
+    "other_identities",
+    "website",
+    "organization",
+    "role",
+    "research_date",
+    "confidence",
+    "account_type",
+    "primary_domain",
+    "secondary_domains",
+    "board_eligibility",
+    "status"
+  ],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "display_name": { "type": "string", "minLength": 1 },
+    "x_username": { "type": "string", "minLength": 1 },
+    "x_url": { "type": "string", "minLength": 1 },
+    "x_user_id": { "type": "string", "minLength": 1 },
+    "other_identities": { "type": "array", "items": { "type": "string" } },
+    "website": { "type": ["string", "null"] },
+    "organization": { "type": ["string", "null"] },
+    "role": { "type": ["string", "null"] },
+    "research_date": { "type": "string", "minLength": 10 },
+    "confidence": { "enum": ["high", "medium", "low"] },
+    "account_type": { "enum": ["person", "org", "aggregator", "bot", "unknown"] },
+    "primary_domain": { "type": "string", "minLength": 1 },
+    "secondary_domains": { "type": "array", "items": { "type": "string" } },
+    "board_eligibility": { "type": "array", "items": { "type": "string" } },
+    "status": { "enum": ["verified", "partial", "blocked", "unverified", "excluded"] }
+  }
+}

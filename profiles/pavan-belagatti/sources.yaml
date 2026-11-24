@@ -1,0 +1,180 @@
+- id: S1
+  url: "https://x.com/Pavan_Belagatti/status/2102996933589753964"
+  author: "@Pavan_Belagatti"
+  published: "2026-09-24"
+  researched: "2026-11-24"
+  type: "blog"
+  description: "Pinned X Article: \"No BS Guide to Agent Harness Engineering\" (context, tools, guardrails, feedback; payment bug-fix + scorecard deploy-gate examples)"
+  excerpt: "ARTICLE: No BS Guide to Agent Harness Engineering! :: Harness Engineering is becoming essential because AI coding agents are getting very good at generating code, but code generation is only one small part of real software engineering. A useful agent…"
+  original: true
+  confidence: "high"
+- id: S2
+  url: "https://x.com/Pavan_Belagatti/status/2113152830815297694"
+  author: "@Pavan_Belagatti"
+  published: "2026-10-22"
+  researched: "2026-11-24"
+  type: "blog"
+  description: "X Article: built a small \"AI Software Factory\" (GitHub issue → Codex in isolated env → PR → human review) with GitHub, Port, GitHub Actions"
+  excerpt: "ARTICLE: I Built an AI Software Factory That Runs on Autopilot! :: Over the last few months, I have spent a lot of time playing with coding agents, and somewhere along the way I noticed that the agent itself was…"
+  original: true
+  confidence: "high"
+- id: S3
+  url: "https://x.com/Pavan_Belagatti/status/2121827267576050093"
+  author: "@Pavan_Belagatti"
+  published: "2026-11-15"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "\"Graph Engineering\": design agent systems as graphs of nodes/edges instead of one giant prompt"
+  excerpt: "Most agentic AI workflows still look like this: Developers write one giant prompt and hope the model/agent gets everything right in one go. That's a bad design while building agentic engineering systems. There is a better way & it's called…"
+  original: true
+  confidence: "high"
+- id: S4
+  url: "https://x.com/Pavan_Belagatti/status/2121639060993396786"
+  author: "@Pavan_Belagatti"
+  published: "2026-11-14"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Agents fail without context, harness, human gates, skills, guardrails"
+  excerpt: "Your agentic engineering systems quietly fail & you have know idea why? I think you are missing some critical layers/components. See, creating an agent is the easy part, but what makes agents useful in engineering is everything around them. You…"
+  original: true
+  confidence: "high"
+- id: S5
+  url: "https://x.com/Pavan_Belagatti/status/2122366599642685474"
+  author: "@Pavan_Belagatti"
+  published: "2026-11-16"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Spec-Driven Development: spec as source of truth; human clarity is the new bottleneck"
+  excerpt: "Spec-Driven Development - Instead of writing code first & documenting later, you make a structured Specification your primary source of truth. Historically, writing code was the hardest part of software engineering, so code became our source of truth. But now,…"
+  original: true
+  confidence: "high"
+- id: S6
+  url: "https://x.com/Pavan_Belagatti/status/2120558932993438019"
+  author: "@Pavan_Belagatti"
+  published: "2026-11-11"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "\"DevOps is dead\" → Agentic DevOps (provocative framing)"
+  excerpt: "Unpopular, but I think DevOps is dead. So, your next question is probably - what happens to the DevOps engineers now? Am I right? 😊 See, with AI agents and workflows taking over software development & delivery, agentic DevOps is…"
+  original: true
+  confidence: "high"
+- id: S7
+  url: "https://x.com/Pavan_Belagatti/status/2123450770834309298"
+  author: "@Pavan_Belagatti"
+  published: "2026-11-19"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Rejects idea that agents will run the whole SDLC alone; cites Anthropic AI-native SDLC playbook"
+  excerpt: "I laugh when some people say AI agents are going to replace developers and run the entire software development lifecycle on their own. Believe me, that's not how we want software engineering to work; that’s dangerous. Recently, Anthropic published its…"
+  original: true
+  confidence: "high"
+- id: S8
+  url: "https://x.com/Pavan_Belagatti/status/2122721263168938310"
+  author: "@Pavan_Belagatti"
+  published: "2026-11-17"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "\"Code is becoming cheap, but shipping reliable software is still very hard\""
+  excerpt: "I think code is becoming cheap, but shipping reliable software is still very hard. We have seen engineering teams wait on tickets, on reviews, on handoffs that add nothing but delay. Today, AI agents can remove that wait, but only…"
+  original: true
+  confidence: "high"
+- id: S9
+  url: "https://x.com/Pavan_Belagatti/status/2124006775339053114"
+  author: "@Pavan_Belagatti"
+  published: "2026-11-21"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Forward Deployed Engineer role as high-paying AI-era role"
+  excerpt: "Are developers today transitioning to become forward-deployed engineers (FDEs)? But why? What makes this role so interesting? Well, thanks to AI, the Forward Deployed Engineer (FDE) has become one of the highest-paying jobs around the globe today. The big boys…"
+  original: true
+  confidence: "high"
+- id: S10
+  url: "https://x.com/Pavan_Belagatti/status/1981760237792362857"
+  author: "@Pavan_Belagatti"
+  published: "2025-10-24"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "2025: explains AI Agents vs AI Workflows using n8n"
+  excerpt: "I tried to explain 'AI Agents vs AI Workflows' in my latest video! Here is the full video guide: I have used @n8n_io to explain both AI Agents and AI Workflows."
+  original: true
+  confidence: "high"
+- id: S11
+  url: "https://x.com/Pavan_Belagatti/status/1981963570364760287"
+  author: "@Pavan_Belagatti"
+  published: "2025-10-25"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "2025: context engineering > prompt engineering"
+  excerpt: "Prompt Engineering got us started, but it’s Context Engineering that’s propelling AI agents to the next level. Here is my complete video on context engineering: Know more about context engineering:"
+  original: true
+  confidence: "high"
+- id: S12
+  url: "https://x.com/Pavan_Belagatti/status/1980180147463712892"
+  author: "@Pavan_Belagatti"
+  published: "2025-10-20"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "2025: late chunking for RAG retrieval"
+  excerpt: "We are all chunking our documents the wrong way for our AI & RAG applications!🤔 Late chunking is the solution for proper context and retrieval. Here are some more chunking strategies you should know:"
+  original: true
+  confidence: "high"
+- id: S13
+  url: "https://x.com/Pavan_Belagatti/status/1790787434482909497"
+  author: "@Pavan_Belagatti"
+  published: "2024-05-15"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "2024 (while at SingleStore): \"MongoDB or SingleStore? ... I might be biased\""
+  excerpt: "A scalable database for your AI/ML applications. #MongoDB or #SingleStore? There you go. I might be biased but not these models."
+  original: true
+  confidence: "high"
+- id: S14
+  url: "https://x.com/Pavan_Belagatti/status/1788812376273244377"
+  author: "@Pavan_Belagatti"
+  published: "2024-05-10"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "2024: live RAG comparison Pinecone vs Mongo vs Postgres vs SingleStore"
+  excerpt: "Ready for a live #RAG comparison test? Let's see who wins🏆 #Pinecone vs #Mongo vs #Postgres vs #SingleStore."
+  original: true
+  confidence: "high"
+- id: S15
+  url: "https://github.com/pavanbelagatti"
+  author: "Pavan Belagatti (GitHub API)"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "github"
+  description: "GitHub: company Port.io, bio \"Developer advocate at Port\"; 225 repos; tutorials (Agentic-RAG-LangChain-CrewAI 46★, Multi-AI-Agent-Tutorial 38★); recent repos Token-Cost-Optimization, Spec-Driven-Development (Nov 2026)"
+  excerpt: "AI/ML/DevOps Enthusiast. Developer advocate at Port."
+  original: true
+  confidence: "high"
+- id: S16
+  url: "https://www.linkedin.com/posts/pavan-belagatti_im-excited-to-share-that-ive-joined-portio-activity-7441851663616868352-uj1E"
+  author: "Pavan Belagatti (LinkedIn, via search snippet)"
+  published: "2026-03-23"
+  researched: "2026-11-24"
+  type: "website"
+  description: "Announces joining Port.io as Agentic Engineering Advocate; prior roles SingleStore, Harness, JFrog (per LinkedIn summary)"
+  excerpt: "I'm excited to share that I've joined Port.io as an Agentic Engineering Advocate, where I'll be helping developers build intelligent AI systems."
+  original: true
+  confidence: "medium"
+- id: S17
+  url: "https://www.port.io/blog/how-to-set-up-a-software-factory-platform"
+  author: "Pavan Belagatti (Port blog)"
+  published: "2026-10-15"
+  researched: "2026-11-24"
+  type: "blog"
+  description: "Employer blog: how to set up a software factory; key takeaways"
+  excerpt: "Start with one recurring delivery problem and an outcome you can measure."
+  original: true
+  confidence: "high"
+- id: S18
+  url: "https://dzone.com/articles/how-ai-software-factory-works"
+  author: "Pavan Belagatti (DZone)"
+  published: "2026-10-23"
+  researched: "2026-11-24"
+  type: "blog"
+  description: "DZone analysis: AI software factory = assembly line of specialized agents + human-governed decisions; governance separates factory from \"agentic chaos\""
+  excerpt: "An agent should not decide what business risk is acceptable."
+  original: true
+  confidence: "high"

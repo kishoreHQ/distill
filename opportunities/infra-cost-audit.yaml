@@ -1,0 +1,48 @@
+id: infra-cost-audit
+title: Agent-assisted infra and vendor cost audit for a small SaaS
+as_of: "2026-11-24"
+status: hypothesis
+disclaimer: "Opportunity scores are hypotheses with links to public evidence. They are not income projections, job offers, or proof that a business exists. Self-reported revenue in the sources belongs to those authors, not to Kishore."
+hypothesis: >
+  A Linux/DevOps operator could offer a short, cited audit of cloud and vendor spend for a small SaaS team:
+  read the bills, propose routing and lifecycle changes, and show the commands. The shape comes from one
+  public write-up by Pieter Levels, not from a market study. The first version can be a fixed-scope service
+  before it is a product.
+domains: [careers-cloud-devops, ai-engineering-agents]
+dimensions:
+  market_pull:
+    score: 7
+    note: One detailed public write-up of a solo founder cutting vendor spend. No buyer interviews in the corpus.
+  evidence_strength:
+    score: 8
+    note: First-party blog. The ledger description itemises the savings and marks them self-reported. The excerpt confirms he used Claude Code to find cost cuts.
+  fit_with_kishore_skills:
+    score: 9
+    note: Matches the spec's Linux/DevOps context and the low-capital constraint. It uses skills the spec already names.
+  time_to_value:
+    score: 8
+    note: A single audit engagement can finish without building a multi-tenant product. No duration is stated in the source.
+  competition_gap:
+    score: 5
+    note: Labs and existing consultancies already do cost work. The corpus does not show an empty market.
+  monetization_clarity:
+    score: 7
+    note: A scoped invoice is a clear exchange. The source does not name a price for selling the audit itself.
+  risk_inverse:
+    score: 6
+    note: The dollar figure is self-reported. Quoting it as a promised saving would be a false claim. The method is still bounded.
+evidence:
+  - profile: pieter-levels
+    source: S3
+    url: https://levels.io/biz-expenses-dropped-to-300
+    note: Ledger says the post itemises about $34k/month of self-reported savings. Excerpt credits Claude Code with finding cost cuts.
+  - profile: pieter-levels
+    source: S4
+    url: https://levels.io/minimal-solo-founder-100-automation
+    note: Same author describes cron-scheduled LLM worker scripts and zero employees. Context for how he runs the stack, not a second audit.
+risks:
+  - The $34k figure is his result on his vendors. It is not a forecast for a client or for Kishore.
+  - Reading someone else's cloud account needs explicit access and a written scope. The source does not provide a contract.
+non_claims:
+  - Not a claim that Kishore can save a client $34k a month.
+  - Not a claim that Levels endorsed this offer.

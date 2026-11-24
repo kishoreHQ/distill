@@ -1,0 +1,140 @@
+- id: S1
+  url: https://x.com/HiTw93
+  author: HiTw93
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: X profile metadata via X API (id 1521688129559613440, ~166K followers, joined 2022-05-04); bio lists products Pake, MiaoYan, Kaku, Waza, Kami; links github.com/tw93.
+  excerpt: "Pake · MiaoYan · Kaku · Waza · Kami"
+  original: true
+  confidence: high
+- id: S2
+  url: https://github.com/tw93
+  author: Tw93
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: github
+  description: GitHub - Mole (~76K stars), Pake (~64K), Kami (~12.6K), MiaoYan (~8.8K), Waza (~7.6K), Kaku (~6.2K); all pushed within the last week.
+  excerpt: "Anything added dilutes everything else."
+  original: true
+  confidence: high
+- id: S3
+  url: https://tw93.fun/2026-10-29/practice.html
+  author: Tw93
+  published: 2026-10-29
+  researched: 2026-11-24
+  type: blog
+  description: 'Article "My 21 AI Coding best practices for 2026" (Chinese) - requirements, rules, coding, debugging, review, release, retrospective.'
+  excerpt: "对于 Agent 必须遵守的规则不要完全信 prompt，可能会拦不住，一定要用规则脚本去限制，让它真实跑一遍通过后才算完成了。"
+  original: true
+  confidence: high
+- id: S4
+  url: https://tw93.fun/2026-08-16/mole-mac.html
+  author: Tw93
+  published: 2026-08-16
+  researched: 2026-11-24
+  type: blog
+  description: How Mole went from free OSS CLI (60K stars) to a paid desktop app; manual support; automation threshold; refund rate <0.8%; no paid marketing.
+  excerpt: "CLI 没有任何变化，照旧开源免费，也会一直更新，付费的只有桌面版。"
+  original: true
+  confidence: high
+- id: S5
+  url: https://github.com/tw93/Waza
+  author: Tw93
+  published: 2026-11-18
+  researched: 2026-11-24
+  type: github
+  description: Waza README - engineering habits as agent skills (/think, /ui, /check, /hunt, /write, /learn, /read, /health) for Claude Code/Codex.
+  excerpt: "Challenges the problem, pressure-tests the design, and produces a decision-complete plan another agent can implement."
+  original: true
+  confidence: high
+- id: S6
+  url: https://github.com/tw93/Pake
+  author: Tw93
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: github
+  description: Pake README - turn any website into a lightweight desktop app (macOS/Windows/Linux); free OSS CLI plus paid desktop app.
+  excerpt: "Free open-source CLI, plus a desktop app."
+  original: true
+  confidence: high
+- id: S7
+  url: https://x.com/HiTw93/status/2122339080101060730
+  author: HiTw93
+  published: 2026-11-16
+  researched: 2026-11-24
+  type: x_post
+  description: Pinned launch post for Pake native app - OSS CLI stays free, native app is one-time purchase.
+  excerpt: "Pake's open-source CLI, 4 years and 63.6K, stays free. The native app is one purchase for Mac, Windows and Linux"
+  original: true
+  confidence: high
+- id: S8
+  url: https://x.com/HiTw93/status/2067851910464565374
+  author: HiTw93
+  published: 2026-06-19
+  researched: 2026-11-24
+  type: x_post
+  description: Index of his long-form articles on Claude Code architecture, agents, etc., reportedly used for AI-job interview prep.
+  excerpt: "你不知道的 Claude Code：架构、治理与工程实践"
+  original: true
+  confidence: high
+- id: S9
+  url: https://x.com/HiTw93/status/2122266871827398881
+  author: HiTw93
+  published: 2026-11-16
+  researched: 2026-11-24
+  type: x_post
+  description: Thread on turning old computers/phones plus main Mac into an agent dev/test environment.
+  excerpt: "我是怎么把家里的旧电脑旧手机和我的主力 Mac 搭建成一个非常好用 Agent 工作开发环境"
+  original: true
+  confidence: high
+- id: S10
+  url: https://x.com/HiTw93/status/2124843831141302316
+  author: HiTw93
+  published: 2026-11-23
+  researched: 2026-11-24
+  type: x_post
+  description: Annual list of 24 daily Mac apps; notes AI reduced the number of apps he uses; Claude Code CLI always running.
+  excerpt: "由于有了 AI 以后反而常用软件少了很多，只有这 24 个了"
+  original: true
+  confidence: high
+- id: S11
+  url: https://x.com/HiTw93/status/2123077605574472011
+  author: HiTw93
+  published: 2026-11-18
+  researched: 2026-11-24
+  type: x_post
+  description: Warns against using important accounts for promos or buying grey-market AI subscription accounts; trust matters in AI era.
+  excerpt: "我感觉 AI 年代平台和用户之间的信任非常重要"
+  original: true
+  confidence: high
+- id: S12
+  url: https://x.com/HiTw93/status/2068859501961503213
+  author: HiTw93
+  published: 2026-06-22
+  researched: 2026-11-24
+  type: x_post
+  description: Origin story of Pake - frustration with Electron RAM usage.
+  excerpt: "A Chinese developer got fed up with Electron apps eating his RAM, so he built Pake."
+  original: true
+  confidence: high
+- id: S13
+  url: https://x.com/HiTw93/status/1949986227564007664
+  author: HiTw93
+  published: 2025-07-29
+  researched: 2026-11-24
+  type: x_post
+  description: Advises AI-site builders to avoid the generic blue-purple "AI look" via a palette generator.
+  excerpt: "不要再整那种蓝紫色的风格了，一眼就被人看出来是 AI 生成的网站"
+  original: true
+  confidence: high
+- id: S14
+  url: https://tw93.fun/
+  author: Tw93
+  published: 2026-11-23
+  researched: 2026-11-24
+  type: blog
+  description: Blog index (Chinese) - posts on AI coding practices, indie product building, client dev choices, GEO, embodied AI; Weekly newsletter.
+  excerpt: "在快 AI 时代，我是怎么把 Mole 做成一款慢产品的？"
+  original: true
+  confidence: high

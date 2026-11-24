@@ -1,0 +1,64 @@
+{
+ "id": "pieter-levels",
+ "x_url": "https://x.com/levelsio",
+ "x_user_id": "1577241403",
+ "display_name": "@levelsio (Pieter Levels)",
+ "research_status": "verified",
+ "posts_read": 116,
+ "posts_by_band": {
+  "0-6mo": 51,
+  "6-24mo": 45,
+  "24mo+": 20
+ },
+ "longform_fetched": 8,
+ "sources_count": 17,
+ "last_post_id": "2125144248962162798",
+ "researched_at": "2026-11-24T14:25:00+05:30",
+ "x_calls_used_note": "batch A shared budget; see batch-A-summary.md",
+ "limitations": [
+  "X sampled in 5 date windows (25 consecutive posts each), not a full timeline; relevancy/min_likes filters unsupported by API so samples are chronological slices",
+  "Revenue figures self-reported (bio/posts), not independently verified",
+  "No podcasts/YouTube transcripts processed (Lex Fridman episode listed on blog, not fetched)",
+  "Large share of posts are non-business (politics, travel)"
+ ],
+ "completeness": {
+  "identity": {
+   "score": 2,
+   "reason": "blog names Pieter Levels; X/GitHub/blog consistent"
+  },
+  "source_coverage": {
+   "score": 2,
+   "reason": "116 posts + 8 blog posts"
+  },
+  "expertise": {
+   "score": 2,
+   "reason": "products and methods clearly documented"
+  },
+  "principles": {
+   "score": 2,
+   "reason": "multiple first-party principles"
+  },
+  "frameworks": {
+   "score": 2,
+   "reason": "validation, cron robots, cost audit"
+  },
+  "playbooks": {
+   "score": 2,
+   "reason": "3 playbooks from first-party sources"
+  },
+  "evidence": {
+   "score": 2,
+   "reason": "17 sources, mostly first-party"
+  },
+  "limitations": {
+   "score": 2,
+   "reason": "self-report, distribution advantage, prod-edit risk noted"
+  },
+  "applications": {
+   "score": 2,
+   "reason": "mapped to Kishore goals"
+  }
+ },
+ "completeness_total": 18,
+ "completeness_max": 18
+}

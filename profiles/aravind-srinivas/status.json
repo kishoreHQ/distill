@@ -1,0 +1,68 @@
+{
+ "id": "aravind-srinivas",
+ "x_url": "https://x.com/AravSrinivas",
+ "x_user_id": "759894532649545732",
+ "display_name": "Aravind Srinivas",
+ "research_status": "verified",
+ "posts_read": 130,
+ "posts_by_band": {
+  "0-6mo": 48,
+  "6-24mo": 50,
+  "24mo+": 32
+ },
+ "longform_fetched": 3,
+ "sources_count": 25,
+ "last_post_id": "2125011444358131842",
+ "researched_at": "2026-11-24T14:45:00+05:30",
+ "x_calls_used": 9,
+ "x_calls_used_note": "batch A follow-up (replacement for @aravind); see batch-A-summary.md",
+ "replaces": "x-aravind",
+ "limitations": [
+  "X sampled in 6 date windows of original posts (no replies/reposts); chronological slices, not top posts",
+  "Recent X content is mostly product announcements; reflective advice comes mainly from a June 2024 podcast",
+  "$1B ARR and market-share figures self-reported",
+  "perplexity.ai and research.perplexity.ai returned 403 to plain fetch; not bypassed, so company blog/research not read",
+  "Lawsuit/crawler context from Wikipedia (secondary), not primary filings",
+  "Long posts truncated in API text (note_tweet full text not returned)"
+ ],
+ "completeness": {
+  "identity": {
+   "score": 2,
+   "reason": "X affiliation badge + Berkeley/IITM pages + podcast consistent"
+  },
+  "source_coverage": {
+   "score": 2,
+   "reason": "130 posts + Lex #434 transcript + 2 institutional profiles"
+  },
+  "expertise": {
+   "score": 2,
+   "reason": "clear"
+  },
+  "principles": {
+   "score": 2,
+   "reason": "AI-complete, grounding, founder-fit, complaint signal"
+  },
+  "frameworks": {
+   "score": 2,
+   "reason": "AI-complete criterion, council, safe fetch"
+  },
+  "playbooks": {
+   "score": 2,
+   "reason": "3 playbooks"
+  },
+  "evidence": {
+   "score": 2,
+   "reason": "25 sources, mostly first-party"
+  },
+  "limitations": {
+   "score": 2,
+   "reason": "self-report, promotion, ethics/legal noted"
+  },
+  "applications": {
+   "score": 2,
+   "reason": "mapped to Kishore goals"
+  }
+ },
+ "completeness_total": 18,
+ "completeness_max": 18
+}

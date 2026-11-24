@@ -1,0 +1,130 @@
+- id: S1
+  url: https://x.com/DavidOndrej1
+  author: DavidOndrej1
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: X profile metadata (id 1648699406760255488, ~71K followers, joined 2023-04-19); links cloudroom.dev.
+  excerpt: "building Cloudroom"
+  original: true
+  confidence: high
+- id: S2
+  url: https://github.com/davidondrej/cloudroom
+  author: David Ondrej
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: github
+  description: Cloudroom README - runs any coding-agent harness (Claude Code, Codex, Pi, OpenCode...) in isolated cloud sandboxes, Rust core, Apache-2.0; ~1.8K stars.
+  excerpt: "Cloudroom runs any coding agent harness in the cloud."
+  original: true
+  confidence: high
+- id: S3
+  url: https://github.com/davidondrej/skills
+  author: David Ondrej
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: github
+  description: Personal agent skills repo (~4.4K stars) - 4x4 questioning, adr-verbatim, ask-then-build, before-building, better-prompt, codex-subagent, decisions etc.
+  excerpt: "Pull 16 fast decisions out of the user with 4 sets of 4 open questions, then present an implementation plan."
+  original: true
+  confidence: high
+- id: S4
+  url: https://www.skool.com/new-society/about
+  author: David Ondrej
+  published: 2026-11-23
+  researched: 2026-11-24
+  type: website
+  description: Paid community "New Society" ($37/mo) - claims 400K+ YouTube subscribers, 600+ videos, 3 startups, Cloudroom $70K ARR in under 1 month (self-reported). Seen via search result snippet.
+  excerpt: "3 startups built with AI. Cloudroom hit $70,000 ARR in under 1 month"
+  original: true
+  confidence: medium
+- id: S5
+  url: https://skool.community/c/new-society
+  author: skool.community (third-party tracker)
+  published: 2026-11-23
+  researched: 2026-11-24
+  type: secondary
+  description: Third-party tracker shows New Society member count fell from 372 to 305 over 88 days (Aug-Nov 2026); members != paying subscribers.
+  excerpt: "27 Aug · 372 23 Nov · 305"
+  original: false
+  confidence: medium
+- id: S6
+  url: https://rosetta.to/u/davidondrej/making-with-ai-saas-i-might-delete-this
+  author: David Ondrej (transcript hosted by Rosetta)
+  published: 2026-01-17
+  researched: 2026-11-24
+  type: youtube
+  description: Transcript excerpts of his YouTube video on building an AI SaaS - distribution-first, one channel, plus promotion of his paid community.
+  excerpt: "At least 50% of your time should be on distribution."
+  original: true
+  confidence: medium
+- id: S7
+  url: https://x.com/DavidOndrej1/status/2107637910929596618
+  author: DavidOndrej1
+  published: 2026-10-07
+  researched: 2026-11-24
+  type: x_post
+  description: Pinned launch of Cloudroom - cloud agents with any harness, Rust core, open source, use existing subscriptions.
+  excerpt: "introducing Cloudroom, the best app for heavy agent use"
+  original: true
+  confidence: high
+- id: S8
+  url: https://x.com/DavidOndrej1/status/2124487402857120062
+  author: DavidOndrej1
+  published: 2026-11-22
+  researched: 2026-11-24
+  type: x_post
+  description: Use models from different labs on the same project for idea diversity.
+  excerpt: "having Neon + Fable working on the same project will give you a much broader set of ideas than just having Claude models only."
+  original: true
+  confidence: high
+- id: S9
+  url: https://x.com/DavidOndrej1/status/2124856934331191369
+  author: DavidOndrej1
+  published: 2026-11-23
+  researched: 2026-11-24
+  type: x_post
+  description: Provocative claim about rewriting codebases on each frontier model release.
+  excerpt: "few people realize you should rewrite your entire codebase every time a new frontier model drops."
+  original: true
+  confidence: high
+- id: S10
+  url: https://x.com/DavidOndrej1/status/2071541330958807387
+  author: DavidOndrej1
+  published: 2026-06-29
+  researched: 2026-11-24
+  type: x_post
+  description: Harness-hopping when hitting usage limits (pi / droid / codex / cursor).
+  excerpt: "when I hit my Claude Code limit  I just switch to pi / droid / codex / cursor"
+  original: true
+  confidence: high
+- id: S11
+  url: https://x.com/DavidOndrej1/status/1949415117172732018
+  author: DavidOndrej1
+  published: 2025-07-27
+  researched: 2026-11-24
+  type: x_thread
+  description: Summary thread of a Claude Code best-practices article plus his testing notes.
+  excerpt: "Here are the main takeaways from the article, plus some hidden insights from testing it for hundreds of hours"
+  original: true
+  confidence: medium
+- id: S12
+  url: https://x.com/DavidOndrej1/status/2124148373301108783
+  author: DavidOndrej1
+  published: 2026-11-21
+  researched: 2026-11-24
+  type: x_post
+  description: Promotional post with discount link for a third-party AI tool alongside his own products (affiliate/sponsorship signal).
+  excerpt: "BLACK FRIDAY! Try Higgsfield at 63% OFF"
+  original: true
+  confidence: high
+- id: S13
+  url: https://x.com/DavidOndrej1/status/1950605684073980326
+  author: DavidOndrej1
+  published: 2025-07-30
+  researched: 2026-11-24
+  type: x_post
+  description: 2025 recommendation to learn n8n (automation phase).
+  excerpt: "Learn how to use n8n.  Trust me."
+  original: true
+  confidence: high

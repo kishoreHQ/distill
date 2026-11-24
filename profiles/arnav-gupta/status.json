@@ -1,0 +1,68 @@
+{
+  "id": "arnav-gupta",
+  "x_url": "https://x.com/championswimmer",
+  "x_user_id": "63066473",
+  "display_name": "Arnav Gupta",
+  "research_status": "partial",
+  "posts_read": 200,
+  "posts_read_note": "state/sync.json in the extra bundle reports 200 X posts read (100 in 0-6 months, 50 in 6-24 months, 30 in 2-5 years, 20 older) and 49 long-form fetches. The archive did not include those posts. posts.jsonl in this repo has 57 short quotes taken from X status URLs in the evidence ledger.",
+  "posts_in_repo": 57,
+  "posts_by_band": {
+    "0-6mo": 100,
+    "6-24mo": 50,
+    "2-5y": 30,
+    "gt5y": 20,
+    "note": "Counts are copied from state/sync.json. They are not recounts of posts.jsonl."
+  },
+  "longform_fetched": 49,
+  "sources_count": 144,
+  "last_post_id": "2124284312841580745",
+  "researched_at": "2026-11-22T10:53:00Z",
+  "limitations": [
+    "Full post metadata was not in extra/arnav-gupta. posts.jsonl holds short evidence quotes only, and metrics are null.",
+    "YouTube lines are auto-captions without speaker labels, per the bundle's skill README.",
+    "PROFILE.json says he is at Railway. skill/README.md's timeline from arnav.tech/about ends at Meta (from Dec 2024) and notes a LinkedIn headline that says Railway. This import does not pick a winner.",
+    "Hotstar is in the PROFILE.json summary and not in the skill README timeline.",
+    "No follower count was in the extra bundle."
+  ],
+  "completeness": {
+    "identity": {
+      "score": 1,
+      "reason": "Public links and a user confirmation date are in PROFILE.json; current employer wording disagrees inside the bundle."
+    },
+    "source_coverage": {
+      "score": 1,
+      "reason": "Evidence ledger imported; the 200-post pull was not in the archive."
+    },
+    "expertise": {
+      "score": 2,
+      "reason": "Engineering, AI, career, and management quotes are URL-backed in the ledger."
+    },
+    "principles": {
+      "score": 2,
+      "reason": "Repeated, cited positions in the ledger."
+    },
+    "frameworks": {
+      "score": 1,
+      "reason": "Harness notes are a handful of quotes, not a named framework with steps."
+    },
+    "playbooks": {
+      "score": 1,
+      "reason": "One derived playbook. Cost and time were not in the sources."
+    },
+    "evidence": {
+      "score": 2,
+      "reason": "Quotes kept with URLs."
+    },
+    "limitations": {
+      "score": 2,
+      "reason": "Gaps are written in this file and in section A."
+    },
+    "applications": {
+      "score": 1,
+      "reason": "Section H stays inside the spec's description of Kishore and the cited quotes."
+    }
+  },
+  "converted_from": "extra/arnav-gupta",
+  "companion_agent_id_in_source": "65a2e109-1c74-48c6-9800-5d094624c125"
+}

@@ -1,0 +1,67 @@
+{
+ "id": "x-aravind",
+ "x_url": "https://x.com/aravind",
+ "x_user_id": "14349184",
+ "display_name": "Aravind",
+ "research_status": "excluded",
+ "posts_read": 68,
+ "posts_by_band": {
+  "0-6mo": 24,
+  "6-24mo": 25,
+  "24mo+": 19
+ },
+ "longform_fetched": 0,
+ "sources_count": 5,
+ "last_post_id": "2125101982579056927",
+ "researched_at": "2026-11-24T14:25:00+05:30",
+ "x_calls_used_note": "batch A shared budget; see batch-A-summary.md",
+ "limitations": [
+  "Person not identified (no full name/website)",
+  "Bio disclaims accuracy",
+  "Not Aravind Srinivas (@AravSrinivas) - Kishore may have intended that handle",
+  "No relevant expertise found"
+ ],
+ "completeness": {
+  "identity": {
+   "score": 0,
+   "reason": "person not identified"
+  },
+  "source_coverage": {
+   "score": 1,
+   "reason": "68 posts"
+  },
+  "expertise": {
+   "score": 0,
+   "reason": "none"
+  },
+  "principles": {
+   "score": 0,
+   "reason": "none"
+  },
+  "frameworks": {
+   "score": 0,
+   "reason": "none"
+  },
+  "playbooks": {
+   "score": 0,
+   "reason": "none"
+  },
+  "evidence": {
+   "score": 1,
+   "reason": "5 sources"
+  },
+  "limitations": {
+   "score": 2,
+   "reason": "explicit"
+  },
+  "applications": {
+   "score": 0,
+   "reason": "none"
+  }
+ },
+ "completeness_total": 4,
+ "completeness_max": 18,
+ "reason": "wrong handle; user replaced with @AravSrinivas on 2026-11-24",
+ "replaced_by": "aravind-srinivas",
+ "excluded_at": "2026-11-24T14:45:00+05:30"
+}

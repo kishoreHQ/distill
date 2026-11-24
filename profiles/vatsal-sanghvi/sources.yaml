@@ -1,0 +1,90 @@
+- id: S1
+  url: https://x.com/vatsal_sanghvi
+  author: Vatsal Sanghvi
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: X profile via API; account created 2025-03-28; ~5.1k followers; Bengaluru; bio describes agent-led consumer app studio and distribution focus; past e-commerce and VC; BITS Pilani; links ugcpulse.app.
+  excerpt: "your chief distribution officer / agents of mass distribution / agent led consumer app studio / past life: ecommerce, vc / via @bitspilaniindia"
+  original: true
+  confidence: high
+- id: S2
+  url: https://ugcpulse.app
+  author: UGC Pulse (linked from his X bio; ownership not stated on page)
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: SaaS that tracks UGC content of 11K+ apps / 10M+ videos (self-reported), surfaces outlier videos, winning hooks and scripts, 7-day free trial.
+  excerpt: "The hook, the trend and the playbook behind every outlier. All of it turned into winning content for your app."
+  original: true
+  confidence: medium
+- id: S3
+  url: https://x.com/vatsal_sanghvi/status/2105183020919705784
+  author: Vatsal Sanghvi
+  published: 2026-09-30
+  researched: 2026-11-24
+  type: x_thread
+  description: Five lessons on cracking growth/distribution for consumer/prosumer products - execution first then automate, channel depth, bias-free analysis, avoid contextless advice, nonlinear outcomes.
+  excerpt: "automation can make an existing execution motion incredible. it cannot replace the process of figuring out what actually works."
+  original: true
+  confidence: high
+- id: S4
+  url: https://x.com/vatsal_sanghvi/status/2038284760225812668
+  author: Vatsal Sanghvi
+  published: 2026-03-29
+  researched: 2026-11-24
+  type: x_post
+  description: '"Anatomy of a TikTok viral app" - phase 1 build an AI-first version of a winning app, nail onboarding/paywall/core, optimise listing/ASO, test (rest truncated in API text).'
+  excerpt: "build an ai first version of a winner app in any category > crack the product & pricing trio - onboarding, paywalls & core product functionality"
+  original: true
+  confidence: medium
+- id: S5
+  url: https://x.com/vatsal_sanghvi/status/2038261831513575621
+  author: Vatsal Sanghvi
+  published: 2026-03-29
+  researched: 2026-11-24
+  type: x_post
+  description: Claims an AI UGC hook + demo ad-creative workflow, showing samples for AudionotesApp.
+  excerpt: "we have cracked the ai ugc hook + demo ad creatives workflow"
+  original: true
+  confidence: medium
+- id: S6
+  url: https://x.com/vatsal_sanghvi/status/2124178917141684576
+  author: Vatsal Sanghvi
+  published: 2026-11-21
+  researched: 2026-11-24
+  type: x_post
+  description: Solo/lean teams with agents still bottlenecked on human direction and course-correction.
+  excerpt: "it still takes a lot of human thinking and direction to decide what needs to be done"
+  original: true
+  confidence: high
+- id: S7
+  url: https://x.com/vatsal_sanghvi/status/2037454988323209653
+  author: Vatsal Sanghvi
+  published: 2026-03-27
+  researched: 2026-11-24
+  type: x_post
+  description: Bootstrapped cash-flow positivity is very hard.
+  excerpt: "productionizing and being cash flow +ve while being boostrapped is incredibly excruciatingly crazily hard"
+  original: true
+  confidence: high
+- id: S8
+  url: https://x.com/vatsal_sanghvi/status/2034156081463890158
+  author: Vatsal Sanghvi
+  published: 2026-03-18
+  researched: 2026-11-24
+  type: x_post
+  description: Distinguishes venture studios, product studios, holdcos (e.g., Tiny), conglomerates.
+  excerpt: "venture studios help co-build and then eventually spin-off > hold cos buy and generally let the business run"
+  original: true
+  confidence: high
+- id: S9
+  url: https://x.com/vatsal_sanghvi/status/2122688647782969690
+  author: Vatsal Sanghvi
+  published: 2026-11-17
+  researched: 2026-11-24
+  type: x_post
+  description: Prioritisation by urgency x importance, credited to Pranav Singhania.
+  excerpt: "every task needs to be evaluated on two dimensions urgency and importance"
+  original: true
+  confidence: high
