@@ -1,0 +1,60 @@
+{
+  "id": "akshay-saini",
+  "x_url": "https://x.com/akshaymarch7",
+  "x_user_id": "271467156",
+  "display_name": "Akshay Saini",
+  "research_status": "verified",
+  "posts_read": 92,
+  "posts_by_band": {
+    "last_6mo": 42,
+    "6_24mo": 24,
+    "older": 26
+  },
+  "longform_fetched": 2,
+  "last_post_id": "2125099828183237083",
+  "limitations": [
+    "YouTube content not reviewed",
+    "Business revenue not public",
+    "Mid band sample is Dec 2025 only"
+  ],
+  "completeness": {
+    "identity": {
+      "score": 2,
+      "reason": "site+GitHub"
+    },
+    "source_coverage": {
+      "score": 1,
+      "reason": "X + site + GitHub"
+    },
+    "expertise": {
+      "score": 2,
+      "reason": "clear"
+    },
+    "principles": {
+      "score": 2,
+      "reason": "stated"
+    },
+    "frameworks": {
+      "score": 1,
+      "reason": "light"
+    },
+    "playbooks": {
+      "score": 1,
+      "reason": "derived"
+    },
+    "evidence": {
+      "score": 2,
+      "reason": "cited"
+    },
+    "limitations": {
+      "score": 2,
+      "reason": "noted"
+    },
+    "applications": {
+      "score": 2,
+      "reason": "specific"
+    }
+  },
+  "sources_count": 18,
+  "researched_at": "2026-11-24T15:30:00+05:30"
+}

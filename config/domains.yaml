@@ -1,0 +1,74 @@
+# Five operating domains. Research bundles use a different tag set (SPEC.md).
+# build_matrix.py maps those tags, then applies the overrides below.
+# Overrides exist because the research tag "automation" covers both DevOps
+# educators and agent builders. Each override cites fields that are already
+# in the imported profile.
+version: 1
+domains:
+  - id: ai-engineering-agents
+    title: AI engineering & agents
+    summary: Agent harnesses, model use, RAG, and AI product engineering.
+  - id: developer-tools-oss
+    title: Developer tools & open source
+    summary: CLIs, libraries, devtools, and open-source product shape.
+  - id: indie-hacking
+    title: Indie hacking & solopreneurship
+    summary: Solo or tiny-team products, pricing, and distribution of software.
+  - id: creator-economy
+    title: Creator economy & audience building
+    summary: Audience, courses, newsletters, and content as distribution.
+  - id: careers-cloud-devops
+    title: Careers, education & cloud/DevOps
+    summary: DevOps and cloud practice, teaching, and engineering careers.
+research_domain_map:
+  ai-engineering: ai-engineering-agents
+  content-creation: creator-economy
+  startup-building: indie-hacking
+  productivity: indie-hacking
+  software-engineering: developer-tools-oss
+  developer-community: careers-cloud-devops
+  security: careers-cloud-devops
+  # Ambiguous in this corpus. Keyword and explicit overrides may replace it.
+  automation: ai-engineering-agents
+# If the research primary tag is automation and any field contains one of
+# these substrings, the operating primary becomes careers-cloud-devops and
+# the mapped AI tag is kept as a secondary.
+automation_primary_keywords:
+  fields: [role, organization, website, display_name]
+  any: ["devops", "kubernetes", "platform engineer", "instructor"]
+  then_primary: careers-cloud-devops
+primary_overrides:
+  suman-chakraborty:
+    domain: careers-cloud-devops
+    because: "Role in the imported front matter is Solutions Architect at Platform9, and the public talks in sources S2 and S3 are Kubernetes operations. The research primary tag is automation."
+  akhilesh-mishra:
+    domain: careers-cloud-devops
+    because: "Role in the imported front matter is Living DevOps instructor and DevOps lead. The research primary tag is automation."
+keyword_secondaries:
+  - domain: developer-tools-oss
+    via: keyword:github-identity
+    account_types: [person]
+    fields: [other_identities]
+    any: ["github.com"]
+  - domain: careers-cloud-devops
+    via: keyword:education-role
+    account_types: [person]
+    fields: [role, organization]
+    any: ["teacher", "educator", "instructor", "bootcamp"]
+  - domain: careers-cloud-devops
+    via: keyword:devops-text
+    account_types: [person]
+    fields: [role, organization, website]
+    any: ["devops", "kubernetes", "kubecon"]
+extra_secondaries:
+  piyush-sachdeva:
+    - domain: careers-cloud-devops
+      because: "Sources S5, S11, and S16 describe a DevOps teaching and Docker/Terraform practice alongside the ReelDrop product."
+  pavan-belagatti:
+    - domain: careers-cloud-devops
+      because: "Source S6 is his public 'agentic DevOps' framing. Research secondary tags are automation and content-creation, which do not name this domain on their own."
+  arnav-gupta:
+    - domain: careers-cloud-devops
+      because: "The evidence ledger has a careers group (O-CAR-*) grounded in his public essays."
+# Aggregators stay in the matrix as signal feeds. They are not given keyword secondaries.
+aggregator_note: "Signal feed. Not a person and not eligible for a simulated board."

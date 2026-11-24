@@ -1,0 +1,65 @@
+{
+  "id": "x-wojakcodes",
+  "x_url": "https://x.com/wojakcodes",
+  "x_user_id": "1621489864540852224",
+  "display_name": "Wojak Codes (pseudonymous)",
+  "research_status": "partial",
+  "posts_read": 75,
+  "posts_by_band": {
+    "recent": 25,
+    "mid": 25,
+    "old": 25
+  },
+  "posts_date_range": [
+    "2024-08-28",
+    "2026-11-23"
+  ],
+  "longform_fetched": 0,
+  "sources_count": 7,
+  "last_post_id": "2124838628736340200",
+  "researched_at": "2026-11-24T14:45:00+05:30",
+  "limitations": [
+    "Pseudonymous; identity unverifiable",
+    "No public code or website (blog empty, 0 repos)",
+    "Majority of posts non-technical",
+    "Some post text truncated by API"
+  ],
+  "completeness": {
+    "identity": {
+      "score": 0,
+      "reason": "pseudonymous"
+    },
+    "source_coverage": {
+      "score": 1,
+      "reason": "75 posts, no long-form"
+    },
+    "expertise": {
+      "score": 0,
+      "reason": "unproven"
+    },
+    "principles": {
+      "score": 1,
+      "reason": "a few"
+    },
+    "frameworks": {
+      "score": 0,
+      "reason": "none"
+    },
+    "playbooks": {
+      "score": 1,
+      "reason": "1 generic"
+    },
+    "evidence": {
+      "score": 1,
+      "reason": "7 sources"
+    },
+    "limitations": {
+      "score": 2,
+      "reason": "stated"
+    },
+    "applications": {
+      "score": 0,
+      "reason": "minimal"
+    }
+  }
+}

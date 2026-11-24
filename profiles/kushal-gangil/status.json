@@ -1,0 +1,66 @@
+{
+  "id": "kushal-gangil",
+  "x_url": "https://x.com/techyoutbe",
+  "x_user_id": "1677266359636439040",
+  "display_name": "Kushal Gangil (Tech Fusionist)",
+  "research_status": "partial",
+  "posts_read": 75,
+  "posts_by_band": {
+    "recent": 25,
+    "old": 25,
+    "mid": 25
+  },
+  "posts_date_range": [
+    "2025-08-29",
+    "2026-11-23"
+  ],
+  "longform_fetched": 2,
+  "sources_count": 8,
+  "last_post_id": "2124882245785968942",
+  "researched_at": "2026-11-24T14:45:00+05:30",
+  "limitations": [
+    "Real name only from X display name; role/employer unverified",
+    "Majority of posts are image/link posts; image content not analysed",
+    "Gumroad page returned no readable content",
+    "YouTube/Substack not read",
+    "Originality of infographics not verified"
+  ],
+  "completeness": {
+    "identity": {
+      "score": 1,
+      "reason": "handle+linktree; real identity thin"
+    },
+    "source_coverage": {
+      "score": 1,
+      "reason": "75 posts, little long-form"
+    },
+    "expertise": {
+      "score": 1,
+      "reason": "content-only evidence"
+    },
+    "principles": {
+      "score": 0,
+      "reason": "little stated philosophy"
+    },
+    "frameworks": {
+      "score": 1,
+      "reason": "infographic workflow"
+    },
+    "playbooks": {
+      "score": 1,
+      "reason": "2 thin"
+    },
+    "evidence": {
+      "score": 1,
+      "reason": "8 sources"
+    },
+    "limitations": {
+      "score": 2,
+      "reason": "stated"
+    },
+    "applications": {
+      "score": 1,
+      "reason": "creator format only"
+    }
+  }
+}

@@ -1,0 +1,190 @@
+- id: S1
+  url: https://x.com/theo
+  author: theo
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: X profile metadata via X API (user id 786375418685165568, ~443K followers, joined 2016-10-13).
+  excerpt: "Full time CEO @t3dotcodes & @t3dotchat. Part time YouTuber, investor, and developer"
+  original: true
+  confidence: high
+- id: S2
+  url: https://github.com/t3dotgg
+  author: Theo Browne
+  published: 2026-11-11
+  researched: 2026-11-24
+  type: github
+  description: GitHub profile shows name Theo Browne, company "CEO @ Ping.gg", blog t3.gg; top repos stripe-recommendations (~6.5K stars), tstack (~4.3K), quickpic.
+  excerpt: "CEO @ Ping.gg"
+  original: true
+  confidence: high
+- id: S3
+  url: https://github.com/pingdotgg/t3code
+  author: Ping / T3 team
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: github
+  description: T3 Code README - open-source (MIT) control plane for coding agents; ~76K stars at research time; supports many harnesses (Claude Code, Codex, Cursor, OpenCode, Antigravity, Pi, ...).
+  excerpt: "The open-source control plane for coding agents."
+  original: true
+  confidence: high
+- id: S4
+  url: https://t3.gg/blog/post/what-is-a-harness
+  author: Theo Browne
+  published: 2026-10-22
+  researched: 2026-11-24
+  type: blog
+  description: Explainer separating interface from harness (tools + call syntax + parser + result return + tool list).
+  excerpt: "Claude Code and Codex both bake the harness into their apps."
+  original: true
+  confidence: high
+- id: S5
+  url: https://github.com/t3dotgg/tstack
+  author: Theo Browne
+  published: 2026-11-11
+  researched: 2026-11-24
+  type: github
+  description: Daily agent skills (full-send, council, sol-loop, file-pr, babysit-pr, takeover, modernize) for Claude Code/Codex.
+  excerpt: "Gets review from three models from different providers, and loops until they agree."
+  original: true
+  confidence: high
+- id: S6
+  url: https://github.com/t3dotgg/stripe-recommendations
+  author: Theo Browne
+  published: 2025-02-07
+  researched: 2026-11-24
+  type: github
+  description: Opinionated Stripe integration guide - avoid webhook split-brain by a single syncStripeDataToKV(customerId) function.
+  excerpt: "IMO, the biggest issue with Stripe is the \"split brain\" it inherently introduces to your code base."
+  original: true
+  confidence: high
+- id: S7
+  url: https://x.com/theo/status/2123273253850628260
+  author: theo
+  published: 2026-11-19
+  researched: 2026-11-24
+  type: x_post
+  description: Assigns different models different roles inside T3 Code (implementation, playtesting, copywriting).
+  excerpt: "Fable leading implementation - GPT-6.2 Astra as a playtester - Gemini 4 Neon as the exclusive copy writer"
+  original: true
+  confidence: high
+- id: S8
+  url: https://x.com/theo/status/2123529106965004788
+  author: theo
+  published: 2026-11-19
+  researched: 2026-11-24
+  type: x_post
+  description: Argues benchmarks show only capability, not usability of a model.
+  excerpt: "Capability is the only thing you see on benchmarks, and it’s not even a complete picture of it"
+  original: true
+  confidence: high
+- id: S9
+  url: https://x.com/theo/status/2124356471219769466
+  author: theo
+  published: 2026-11-22
+  researched: 2026-11-24
+  type: x_post
+  description: Provocation on career positioning in the agent era.
+  excerpt: "If you still have your tech stack in your bio, you're probably gonna be unemployed in 6 months"
+  original: true
+  confidence: high
+- id: S10
+  url: https://x.com/theo/status/2123901093751280052
+  author: theo
+  published: 2026-11-20
+  researched: 2026-11-24
+  type: x_post
+  description: Wants granular repo permissions/secret management.
+  excerpt: "Source control being 100% or 0% access feels stupider than ever."
+  original: true
+  confidence: high
+- id: S11
+  url: https://x.com/theo/status/2115969105048359204
+  author: theo
+  published: 2026-10-30
+  researched: 2026-11-24
+  type: x_post
+  description: Computes value of AI subscription plans vs API-equivalent usage.
+  excerpt: "$500 plan nets to ~$10.5k/month of usage $200 plan nets to ~$4.3k/month of usage"
+  original: true
+  confidence: medium
+- id: S12
+  url: https://x.com/theo/status/2088057260807532867
+  author: theo
+  published: 2026-08-14
+  researched: 2026-11-24
+  type: x_post
+  description: Recommends a "grill-me" skill to align agents before work.
+  excerpt: "Matt's \"grill-me\" skill is exceptional and helps a ton with getting agents aligned with my brain"
+  original: true
+  confidence: high
+- id: S13
+  url: https://x.com/theo/status/2087277201213517860
+  author: theo
+  published: 2026-08-11
+  researched: 2026-11-24
+  type: x_post
+  description: Workflow tip - dedicated Mac with computer use + simulator for iOS app building by agent.
+  excerpt: "Give it a dedicated Mac with computer use and let it run the simulator."
+  original: true
+  confidence: high
+- id: S14
+  url: https://x.com/theo/status/2058111912324558871
+  author: theo
+  published: 2026-05-23
+  researched: 2026-11-24
+  type: x_post
+  description: Self-reported X creator revenue share payouts (~$5K range per payout) - monetization of audience.
+  excerpt: "Slight dip but still holding in the $5k range"
+  original: true
+  confidence: medium
+- id: S15
+  url: https://x.com/theo/status/2116453151377350975
+  author: theo
+  published: 2026-10-31
+  researched: 2026-11-24
+  type: x_post
+  description: On product scope discipline.
+  excerpt: "Do you guys know how hard it is to add every feature people want without making your shit feel bloated and overwhelming?"
+  original: true
+  confidence: high
+- id: S16
+  url: https://x.com/theo/status/2123753984569864630
+  author: theo
+  published: 2026-11-20
+  researched: 2026-11-24
+  type: x_post
+  description: Describes his triage loop - screenshot good feedback, send to agent, merge.
+  excerpt: "how to give feedback that Theo will screenshot, send to his agent and get merged pretty quick"
+  original: true
+  confidence: high
+- id: S17
+  url: https://x.com/theo/status/2124666181147881504
+  author: theo
+  published: 2026-11-23
+  researched: 2026-11-24
+  type: x_post
+  description: Pinned post with 40-min video - claims open-weight models are further behind frontier than ever (video not watched).
+  excerpt: "Open weight models have never been so behind. At this point, I'm not sure they can catch up."
+  original: true
+  confidence: high
+- id: S18
+  url: https://x.com/theo/status/2057642235932643744
+  author: theo
+  published: 2026-05-22
+  researched: 2026-11-24
+  type: x_post
+  description: Signals move away from IDEs toward agent interfaces.
+  excerpt: "You guys still use IDEs?"
+  original: true
+  confidence: high
+- id: S19
+  url: https://t3.gg/blog
+  author: Theo Browne
+  published: 2026-10-22
+  researched: 2026-11-24
+  type: blog
+  description: Blog index - sparse (most writing goes to X/YouTube); posts back to 2020 incl. "Why We're Building Ping" (2022).
+  excerpt: "thoughts on tech and content. usually goes to twitter, sometimes here."
+  original: true
+  confidence: high

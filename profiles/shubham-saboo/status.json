@@ -1,0 +1,64 @@
+{
+ "id": "shubham-saboo",
+ "x_url": "https://x.com/Saboo_Shubham_",
+ "x_user_id": "1275333333724000257",
+ "display_name": "Shubham Saboo",
+ "research_status": "verified",
+ "posts_read": 86,
+ "posts_by_band": {
+  "0-6mo": 51,
+  "6-24mo": 20,
+  "24mo+": 15
+ },
+ "longform_fetched": 3,
+ "sources_count": 13,
+ "last_post_id": "2124938655651569954",
+ "researched_at": "2026-11-24T14:25:00+05:30",
+ "x_calls_used_note": "batch A shared budget; see batch-A-summary.md",
+ "limitations": [
+  "Many posts amplify third-party tools/claims (not his own testing)",
+  "Employer (Google) bias in late-2026 content",
+  "Books and newsletter archive not read in depth",
+  "X sampled in 4 windows"
+ ],
+ "completeness": {
+  "identity": {
+   "score": 2,
+   "reason": "X/GitHub/employer post consistent"
+  },
+  "source_coverage": {
+   "score": 1,
+   "reason": "86 posts + repo + newsletter index; no deep long-form read"
+  },
+  "expertise": {
+   "score": 2,
+   "reason": "clear"
+  },
+  "principles": {
+   "score": 1,
+   "reason": "few explicit principles"
+  },
+  "frameworks": {
+   "score": 2,
+   "reason": "agent company, model tiers"
+  },
+  "playbooks": {
+   "score": 2,
+   "reason": "2 playbooks"
+  },
+  "evidence": {
+   "score": 2,
+   "reason": "13 sources"
+  },
+  "limitations": {
+   "score": 2,
+   "reason": "COI noted"
+  },
+  "applications": {
+   "score": 2,
+   "reason": "mapped"
+  }
+ },
+ "completeness_total": 16,
+ "completeness_max": 18
+}

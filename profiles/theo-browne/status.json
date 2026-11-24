@@ -1,0 +1,63 @@
+{
+ "id": "theo-browne",
+ "x_url": "https://x.com/theo",
+ "x_user_id": "786375418685165568",
+ "display_name": "Theo Browne (Theo - t3.gg)",
+ "research_status": "verified",
+ "posts_read": 165,
+ "posts_by_band": {
+  "0-6mo": 100,
+  "6-24mo": 28,
+  "24mo+": 37
+ },
+ "longform_fetched": 5,
+ "sources_count": 19,
+ "last_post_id": "2125103716143673764",
+ "researched_at": "2026-11-24T14:25:00+05:30",
+ "x_calls_used_note": "batch A shared budget; see batch-A-summary.md",
+ "limitations": [
+  "X sampled in 7 date windows; very high volume (~70K posts) so coverage is thin per period",
+  "YouTube videos (main long-form channel) not transcribed; pinned 40-min video not watched",
+  "T3 business revenue not disclosed in sources"
+ ],
+ "completeness": {
+  "identity": {
+   "score": 2,
+   "reason": "GitHub name + company + blog consistent"
+  },
+  "source_coverage": {
+   "score": 2,
+   "reason": "165 posts + blog + 3 repos"
+  },
+  "expertise": {
+   "score": 2,
+   "reason": "clear"
+  },
+  "principles": {
+   "score": 1,
+   "reason": "principles mostly short posts"
+  },
+  "frameworks": {
+   "score": 2,
+   "reason": "harness model, council, Stripe sync"
+  },
+  "playbooks": {
+   "score": 2,
+   "reason": "3 playbooks"
+  },
+  "evidence": {
+   "score": 2,
+   "reason": "19 sources"
+  },
+  "limitations": {
+   "score": 2,
+   "reason": "COI and hot-take risk noted"
+  },
+  "applications": {
+   "score": 2,
+   "reason": "mapped"
+  }
+ },
+ "completeness_total": 17,
+ "completeness_max": 18
+}

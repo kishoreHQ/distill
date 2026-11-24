@@ -1,0 +1,38 @@
+# Limitations and caveats
+
+These are limits of the 2026-11-24 snapshot and of Phase 1 code. They are also copied, in shorter form, into `knowledge/risks.yaml` and the daily briefing.
+
+## The sample is not the whole account
+
+Batch A, B, and C each say the search returned chronological slices. Theo, Levels, Julian Goldie, and other high-volume accounts are under-sampled relative to how much they post. Older bands are narrow. Some pinned posts returned "Not Found". Some long posts are truncated at 280 characters in `posts.jsonl`.
+
+## Numbers are mostly self-reported
+
+ARR, MRR, follower counts inside profile essays, placement rates, and refund rates came from the person or from their own site, unless a source is marked secondary. Phase 1 scripts do not re-verify them. Opportunity scores refuse to treat them as Kishore's expected income. The scoring notes say this per file.
+
+Follower counts that appear inside an imported `profile.md` were written by the research bundles. This phase did not add new ones. Arnav Gupta's extra bundle had none, so his profile has none.
+
+## Identity gaps
+
+- `x-aravind` is excluded. The bio in that bundle disclaims its own accuracy.
+- `x-wojakcodes` is a pseudonym with no products found. Research status partial. Not on a board.
+- Swanand and Ojasvika have no surname in the sources. Ojasvika's product site was JS-rendered and only the title was stored.
+- Suman Chakraborty's useful sources are talk listings. His X sample is thin. Status partial.
+- Arnav Gupta: Railway versus Meta is unresolved inside the source bundle. YouTube lines lack speaker labels. `posts.jsonl` is quotes, while `sync.json` says 200 posts were read.
+- GitHub logins for some handles could not be tied to the person. The batches say those logins were not used. This phase does not retry that tie.
+
+## Aggregators
+
+`gittrend` (operated by @0xKingsKuan, per the profile) and `x-githubprojects` post other people's repositories. They are in the matrix as signal feeds. A high impression count on an aggregator post is not a person's reach.
+
+## Ethics and terms
+
+The Srinivas ledger includes a secondary source on crawler allegations against Perplexity. DISTILL does not copy that behaviour. `config/sources.yaml` forbids login-wall scraping and anti-bot bypasses. Tom Dörr's feed links dual-use security tools. The devtools board says those links are not build instructions.
+
+## Conflicts of interest
+
+Course sellers, community sellers, and vendor employees are identified on their profiles when the bundle identified them. Boards repeat the conflict next to the advice. That is not a claim about their motives beyond what they sell in public.
+
+## What Phase 1 does not know
+
+Anything posted after the snapshot, except rows a later refresh actually appended. Private conversations. Paywalled newsletters that were not fetched. Whether a sponsorship was paid when the bundle says the field was not requested. The dashboard has no UI.

@@ -1,0 +1,20 @@
+{
+  "slug": "arnav-gupta",
+  "display_name": "Arnav Gupta",
+  "skill_slug": "arnav-gupta",
+  "identity": {
+    "status": "found",
+    "confirmed_by_user": "2026-11-22",
+    "summary": "Arnav Gupta, London-based engineer at Railway; ex Meta, Zomato, Hotstar, Scaler; ex EM/PM/founder."
+  },
+  "official_links": {
+    "x": "https://x.com/championswimmer",
+    "x_user_id": "63066473",
+    "website": "http://arnav.tech",
+    "linktree": "https://linktr.ee/championswimmer"
+  },
+  "companion_agent_id": "65a2e109-1c74-48c6-9800-5d094624c125",
+  "github_mirror": false,
+  "github_owner": "",
+  "github_repo": ""
+}

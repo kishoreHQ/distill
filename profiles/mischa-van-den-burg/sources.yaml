@@ -1,0 +1,120 @@
+- id: S1
+  url: https://x.com/mischavdburg
+  author: Mischa van den Burg
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: X profile via API; ~27.5k followers; since 2023-03; bio "I help IT professionals land six-figure DevOps jobs with Kubernetes. 120K subs on YouTube. Founder @ KubeCraft".
+  excerpt: "I help IT professionals land six-figure DevOps jobs with Kubernetes. 120K subs on YouTube."
+  original: true
+  confidence: high
+- id: S2
+  url: https://kubecraft.dev
+  author: KubeCraft
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: KubeCraft sales page - DevOps career program (roadmap, homelab projects, personal brand, interview prep, coaching); claims 1,000+ members, "2-20 weeks to hired", "$158K+ typical US salary"; sells via strategy-call application; member testimonials.
+  excerpt: "KubeCraft gives you the A-to-Z DevOps path, deep hands-on skills, real projects, a Personal Brand attracting jobs and interview preparation"
+  original: true
+  confidence: high
+- id: S3
+  url: https://roadmap.kubecraft.dev/
+  author: KubeCraft
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: Free 6-question quiz lead magnet producing a personalized DevOps roadmap (six stages); names Mischa van den Burg as founder; includes "individual results vary" disclaimer.
+  excerpt: "Get your free personalized DevOps Career Roadmap in under 30 seconds. Answer six questions"
+  original: true
+  confidence: high
+- id: S4
+  url: https://x.com/mischavdburg/status/2027415016454955319
+  author: Mischa van den Burg
+  published: 2026-02-27
+  researched: 2026-11-24
+  type: x_post
+  description: Says Kubernetes made him an entrepreneur and raised income beyond employee pay in the Netherlands.
+  excerpt: "Kubernetes is the skill that made me an entrepreneur and pushed my income far beyond what I could make as an employee here in the Netherlands."
+  original: true
+  confidence: high
+- id: S5
+  url: https://x.com/mischavdburg/status/2027336253515919444
+  author: Mischa van den Burg
+  published: 2026-02-27
+  researched: 2026-11-24
+  type: x_post
+  description: Product evolution - YouTube from 10k to 80k subs; products from a vim course to a DevOps career program.
+  excerpt: "my products scaled from a cute vim course to a tech career program that lands DevOps jobs weekly"
+  original: true
+  confidence: high
+- id: S6
+  url: https://x.com/mischavdburg/status/2026284303605256496
+  author: Mischa van den Burg
+  published: 2026-02-24
+  researched: 2026-11-24
+  type: x_post
+  description: Homelab/projects over tutorials and certifications.
+  excerpt: "It's procrastination with documentation. I learned more from 3 failed homelab projects than 40 hours of courses."
+  original: true
+  confidence: high
+- id: S7
+  url: https://x.com/mischavdburg/status/2025964479263944835
+  author: Mischa van den Burg
+  published: 2026-02-23
+  researched: 2026-11-24
+  type: x_post
+  description: Career change from nursing to tech at 32.
+  excerpt: "I changed my career from nursing to tech when I was 32."
+  original: true
+  confidence: high
+- id: S8
+  url: https://x.com/mischavdburg/status/2119817850269397498
+  author: Mischa van den Burg
+  published: 2026-11-09
+  researched: 2026-11-24
+  type: x_post
+  description: Runs his business infra on self-managed servers incl. Hetzner dedicated; 9 servers, 6 Kubernetes clusters, 278GB RAM.
+  excerpt: "Servers: 9 Kubernetes clusters: 6 Total RAM: 278GB"
+  original: true
+  confidence: high
+- id: S9
+  url: https://x.com/mischavdburg/status/2122017089422582242
+  author: Mischa van den Burg
+  published: 2026-11-15
+  researched: 2026-11-24
+  type: x_post
+  description: Argues DevOps is a safe career bet because infra context exceeds what fits in an LLM context window.
+  excerpt: "There is only so much you can get into a 1M context window"
+  original: true
+  confidence: high
+- id: S10
+  url: https://x.com/mischavdburg/status/1862785275207852267
+  author: Mischa van den Burg
+  published: 2024-11-30
+  researched: 2026-11-24
+  type: x_post
+  description: 2024 homelab-on-resume advice.
+  excerpt: "'I run a 5-node Kubernetes cluster in my basement' This single line in your resume will make you stand out from 99% of candidates."
+  original: true
+  confidence: high
+- id: S11
+  url: https://x.com/mischavdburg/status/2124737306561020104
+  author: Mischa van den Burg
+  published: 2026-11-23
+  researched: 2026-11-24
+  type: x_post
+  description: Comments on AI subscription vs API pricing; would pay double for his $200 subscription.
+  excerpt: "Get them hooked, then raise the prices I would pay double for my 200 sub. API prices are no joke"
+  original: true
+  confidence: high
+- id: S12
+  url: https://x.com/mischavdburg/status/2120070306534695271
+  author: Mischa van den Burg
+  published: 2026-11-10
+  researched: 2026-11-24
+  type: x_post
+  description: Switched some clusters from Talos Linux to Rancher.
+  excerpt: "After several years of using mainly Talos Linux I have now switched some of my clusters to Rancher"
+  original: true
+  confidence: high

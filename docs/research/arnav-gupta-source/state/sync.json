@@ -1,0 +1,16 @@
+{
+ "last_successful_sync": "2026-11-22T10:53:00Z",
+ "last_post_id": "2124284312841580745",
+ "last_post_created_at": "2026-11-21T23:30:22Z",
+ "status": "ok",
+ "mode": "bootstrap",
+ "posts_read": {
+  "total": 200,
+  "band_0_6mo": 100,
+  "band_6_24mo": 50,
+  "band_2_5y": 30,
+  "band_gt5y": 20
+ },
+ "long_form_fetched": 49,
+ "evidence_entries": 144
+}

@@ -1,0 +1,70 @@
+- id: S1
+  url: https://x.com/GithubProjects
+  author: GitHub Projects Community (account)
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: X profile via API; display name "GitHub Projects Community"; ~350k followers; created 2020-10-12; describes itself as unofficial showcase of GitHub repos; links ko-fi.
+  excerpt: "We're sharing/showcasing best of @github projects/repos. Follow to stay in loop. Promoting Open-Source Contributions. UNOFFICIAL, but followed by github"
+  original: true
+  confidence: high
+- id: S2
+  url: https://ko-fi.com/githubprojects
+  author: GitHub Projects Community (account)
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: Ko-fi tip page with the same description; ~211 Ko-fi followers; no named operator.
+  excerpt: "We're sharing/showcasing best of github projects/repos."
+  original: true
+  confidence: high
+- id: S3
+  url: https://x.com/GithubProjects/status/2124934260612366668
+  author: GitHub Projects Community (account)
+  published: 2026-11-23
+  researched: 2026-11-24
+  type: x_post
+  description: Typical recent post format - one-line description of an open-source agent skill + link.
+  excerpt: "An open-source agent skill that turns a plain description into a polished diagram file."
+  original: true
+  confidence: high
+- id: S4
+  url: https://x.com/GithubProjects/status/2038911715979719151
+  author: GitHub Projects Community (account)
+  published: 2026-03-31
+  researched: 2026-11-24
+  type: x_post
+  description: Repo share - tool converting documentation into Claude skills.
+  excerpt: "The open-source tool to convert documentation into claude ai skills"
+  original: true
+  confidence: high
+- id: S5
+  url: https://x.com/GithubProjects/status/2038579521704874386
+  author: GitHub Projects Community (account)
+  published: 2026-03-30
+  researched: 2026-11-24
+  type: x_post
+  description: Repo share - personal intelligence agent that watches data sources and pings on change (relevant to DISTILL design).
+  excerpt: "Your personal intelligence agent. watches the world from multiple data sources and pings you when something changes."
+  original: true
+  confidence: high
+- id: S6
+  url: https://x.com/GithubProjects/status/2038549322682544213
+  author: GitHub Projects Community (account)
+  published: 2026-03-30
+  researched: 2026-11-24
+  type: x_post
+  description: '"Stop paying for X, use this open-source" framing - common hook format.'
+  excerpt: "Stop paying for ai game dev tools. use this open-source toolkit instead."
+  original: true
+  confidence: high
+- id: S7
+  url: https://x.com/GithubProjects/status/1928360732338573421
+  author: GitHub Projects Community (account)
+  published: 2025-05-30
+  researched: 2026-11-24
+  type: x_post
+  description: Recurring meme posts (e.g., "Don't Push To Production On Friday") mixed into repo shares; reposted again 2026-11-20.
+  excerpt: "Don't Push To Production On Friday"
+  original: true
+  confidence: high

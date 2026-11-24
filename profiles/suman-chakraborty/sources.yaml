@@ -1,0 +1,90 @@
+- id: S1
+  url: https://x.com/itsmesumanc
+  author: Suman Chakraborty
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: X profile via API; "Solutions Architect @Platform9Sys | ex-VMware, ex-SAP, talks about Opensource, Kubernetes, Cloud native, MLOps"; ~1.2k followers; account since 2008; links LinkedIn schakraborty007 and topmate.
+  excerpt: "Solutions Architect @Platform9Sys | ex-VMware,ex-SAP, talks about Opensource, Kubernetes,Cloud native, MLOps"
+  original: true
+  confidence: high
+- id: S2
+  url: https://kccncind2026.sched.com/event/2IW4Z/kubernetes-api-server-performance-clinic-auditing-and-priority-fairness-in-production-neel-shah-middleware-suman-chakraborty-platform9-systems
+  author: KubeCon + CloudNativeCon India 2026 (CNCF schedule)
+  published: 2026-06-19
+  researched: 2026-11-24
+  type: secondary
+  description: Talk listing co-presented with Neel Shah - API server performance at 10k+ pods; audit logs + Prometheus latency metrics; Priority & Fairness flow control; WatchList API streaming; client caching. Speaker bio - Solutions Architect, Platform9.
+  excerpt: "This talk is a deep-dive operational clinic for SREs running high-throughput clusters (10k+ pods) who need to move beyond default configurations."
+  original: false
+  confidence: high
+- id: S3
+  url: https://cast.ai/blog/kubecon-india-2025/
+  author: Kunal Das (Cast AI)
+  published: 2025-08-15
+  researched: 2026-11-24
+  type: secondary
+  description: Third-party recap naming Suman Chakraborty's KubeCon India 2025 talk on forensic container checkpointing with CRIU as a standout.
+  excerpt: "Freeze, Investigate, Recover: Unlocking Forensic Container Checkpointing With CRI-U by Suman Chakraborty (Platform9 Systems) and Neel Shah (Middleware)"
+  original: false
+  confidence: high
+- id: S4
+  url: https://www.linkedin.com/in/schakraborty007
+  author: Suman Chakraborty (via search-engine snippet; LinkedIn not opened)
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: secondary
+  description: Search snippet of LinkedIn profile - Kolkata; ~42k followers; ~16 years experience; Platform9 since Feb 2025; prior Broadcom (Tanzu), VMware, SAP. Upcoming OpenSource CON India talk (Dec 2026) on AI cost governance with CNCF agentgateway.
+  excerpt: "how #CNCF project agentgateway can help teams bring #governance and cost visibility into this increasingly fragmented AI landscape"
+  original: false
+  confidence: medium
+- id: S5
+  url: https://x.com/itsmesumanc/status/2099853285213794701
+  author: Suman Chakraborty
+  published: 2026-09-15
+  researched: 2026-11-24
+  type: x_post
+  description: Earned Model Context Protocol Associate (MCPA) certificate from Agentic AI Foundation / Linux Foundation; also beta-tested the exam.
+  excerpt: "Excited to earn the newly introduced Model Context Protocol Associate (MCPA) certificate"
+  original: true
+  confidence: high
+- id: S6
+  url: https://x.com/itsmesumanc/status/2111980863013711945
+  author: Suman Chakraborty
+  published: 2026-10-19
+  researched: 2026-11-24
+  type: x_post
+  description: CKS renewed with 91%; notes exam emphasizes supply chain security, hardening, troubleshooting.
+  excerpt: "The updated CKS tested more than commands: Supply Chain Security, Cluster Hardening & troubleshooting under pressure."
+  original: true
+  confidence: high
+- id: S7
+  url: https://x.com/itsmesumanc/status/2016389480685699484
+  author: Suman Chakraborty
+  published: 2026-01-28
+  researched: 2026-11-24
+  type: x_post
+  description: KCD Delhi 2026 talk on managing multi-cluster add-on sprawl with Project Sveltos.
+  excerpt: "speak at @kcddelhi on how you can effectively manage Multi-cluster add-on sprawl with @projectsveltos"
+  original: true
+  confidence: high
+- id: S8
+  url: https://x.com/itsmesumanc/status/1918900792439746660
+  author: Suman Chakraborty
+  published: 2025-05-04
+  researched: 2026-11-24
+  type: x_post
+  description: Promotes vJailbreak open-source tool for VMware-to-other-hypervisor migration (his employer Platform9's area).
+  excerpt: "vJailbreak is an #opensource tool featuring a user-friendly interface designed to simplify and accelerat"
+  original: true
+  confidence: high
+- id: S9
+  url: https://x.com/itsmesumanc/status/1922272757527576688
+  author: Suman Chakraborty
+  published: 2025-05-13
+  researched: 2026-11-24
+  type: x_post
+  description: Shares a collection of real production Kubernetes issues (highest-engagement post in sample).
+  excerpt: "A very detailed collection of #production #kuberenetes issues"
+  original: true
+  confidence: high

@@ -1,0 +1,170 @@
+- id: S1
+  url: https://x.com/levelsio
+  author: levelsio
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: X profile metadata via X API (user id 1577241403, ~994.6K followers, ~183K posts, joined 2013-07-08). Bio lists self-reported monthly revenue per project.
+  excerpt: "📸https://t.co/lAyoqmSBRX $68K/m 🎮https://t.co/tF49atJ396 $44K/m 🏡https://t.co/1oqUgfD6CZ $23K/m"
+  original: true
+  confidence: high
+- id: S2
+  url: https://levels.io/
+  author: Pieter Levels
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: blog
+  description: Blog homepage; self-description and list of products.
+  excerpt: "I build internet startups by myself: Nomads.com, Remote OK, Hoodmaps, Photo AI and Interior AI. All bootstrapped without funding and just me coding everything on my laptop."
+  original: true
+  confidence: high
+- id: S3
+  url: https://levels.io/biz-expenses-dropped-to-300
+  author: Pieter Levels
+  published: 2026-11-03
+  researched: 2026-11-24
+  type: blog
+  description: Using Claude Code to audit infra/vendor spend; itemised ~$34K/mo savings (GPU model routing, Hetzner consolidation, backup lifecycle policies, domain pruning, plan downgrade).
+  excerpt: "Claude Code helped me to find smart ways to save more money, AI is just really really really good at finding cost savings by itself"
+  original: true
+  confidence: high
+- id: S4
+  url: https://levels.io/minimal-solo-founder-100-automation
+  author: Pieter Levels
+  published: 2024-11-22
+  researched: 2026-11-24
+  type: blog
+  description: Minimal solo-founder stack - 0 employees, Stripe, cron-scheduled LLM "worker robot" scripts, feedback board, self-service billing and refunds.
+  excerpt: "Worker robot scripts that use ChatGPT API to do stuff regularly that humans would do normally (think moderation, sales) schedule them hourly, daily, weekly, monthly (like cron jobs)"
+  original: true
+  confidence: high
+- id: S5
+  url: https://levels.io/coding-on-vps-with-claude-code-for-a-year
+  author: Pieter Levels
+  published: 2026-06-28
+  researched: 2026-11-24
+  type: blog
+  description: Coding almost solely via Claude Code running on a VPS, editing production directly; caveat that teams should use staging; 3-2-1 backups.
+  excerpt: "If I wasn't working solo, like at a big company, I' think I'd recommend the same workflow but with a staging server, so it wouldn't touch production"
+  original: true
+  confidence: high
+- id: S6
+  url: https://levels.io/saas-companies-cannot-survive-ai
+  author: Pieter Levels
+  published: 2026-11-17
+  researched: 2026-11-24
+  type: blog
+  description: Argument that "riches in the niches" no longer protects SaaS because general AI from big labs fills niches.
+  excerpt: "Everyone's been checkmated by big tech and big AI"
+  original: true
+  confidence: high
+- id: S7
+  url: https://levels.io/projects-started-by-messing-around
+  author: Pieter Levels
+  published: 2026-11-17
+  researched: 2026-11-24
+  type: blog
+  description: Most projects began as goal-free play; imposing success requirements early kills them.
+  excerpt: "the moment you start putting a requirement of success on to something new, the thing instantly dies"
+  original: true
+  confidence: high
+- id: S8
+  url: https://levels.io/only-4-out-of-70-projects-made-money
+  author: Pieter Levels
+  published: 2021-11-07
+  researched: 2026-11-24
+  type: blog
+  description: Hit-rate post - roughly 5% of 70+ projects made money.
+  excerpt: "Only 4 out of 70+ projects I ever did made money and grew"
+  original: true
+  confidence: high
+- id: S9
+  url: https://x.com/levelsio/status/2027566773814403448
+  author: levelsio
+  published: 2026-02-28
+  researched: 2026-11-24
+  type: x_post
+  description: Switched to running Claude Code on the server in bypass-permissions mode via a shell alias.
+  excerpt: "This week I decided to just permanently switch to running Claude Code on the server mostly on bypass permissions mode"
+  original: true
+  confidence: high
+- id: S10
+  url: https://x.com/levelsio/status/2094426696036339724
+  author: levelsio
+  published: 2026-08-31
+  researched: 2026-11-24
+  type: x_post
+  description: Proposes routing every inbound email through an LLM to score/approve/reject and rank by importance.
+  excerpt: "There is no reason NOT to have every single email you get routed through an agent / LLM / API to be scored and approved or rejected"
+  original: true
+  confidence: high
+- id: S11
+  url: https://x.com/levelsio/status/1630587182493892609
+  author: levelsio
+  published: 2023-02-28
+  researched: 2026-11-24
+  type: x_post
+  description: Validation-first launch of an AI jobs board as a Notion page with a Stripe Payment Link at $10/post.
+  excerpt: "Just a @Notion page for now but I'll build it our more if it's validated  Stripe Payment Link @ $10 per job post"
+  original: true
+  confidence: high
+- id: S12
+  url: https://x.com/levelsio/status/1630270774794915840
+  author: levelsio
+  published: 2023-02-27
+  researched: 2026-11-24
+  type: x_post
+  description: Public revenue/cost disclosure for an early AI product (MRR, customers, costs, profit). Self-reported.
+  excerpt: "$9,000 MRR w/ 283 customers"
+  original: true
+  confidence: medium
+- id: S13
+  url: https://x.com/levelsio/status/2094113698453360663
+  author: levelsio
+  published: 2026-08-30
+  researched: 2026-11-24
+  type: x_post
+  description: Built and shipped a project from his phone via Termius SSH into a Hetzner VPS running Claude Code.
+  excerpt: "completely on my phone with @TermiusHQ on my @Hetzner_Online VPS with @claudeai Code in the sauna"
+  original: true
+  confidence: high
+- id: S14
+  url: https://x.com/levelsio/status/2124586276489695710
+  author: levelsio
+  published: 2026-11-22
+  researched: 2026-11-24
+  type: x_post
+  description: Runs a public block list of accounts posting automated AI replies on X (Nov 2026 project).
+  excerpt: "Nobody likes AI replies but they're defending each other"
+  original: true
+  confidence: high
+- id: S15
+  url: https://x.com/levelsio/status/2027091417408184494
+  author: levelsio
+  published: 2026-02-26
+  researched: 2026-11-24
+  type: x_post
+  description: Integrates new third-party image model (Nano Banana 2) into Photo AI shortly after release - pattern of riding model upgrades.
+  excerpt: "Nano Banana 2 is now live on 📸 Photo AI"
+  original: true
+  confidence: high
+- id: S16
+  url: https://x.com/levelsio/status/2094373113819476183
+  author: levelsio
+  published: 2026-08-31
+  researched: 2026-11-24
+  type: x_post
+  description: Uses Cloudflare API token so his coding agent can do infra tasks such as registering domains.
+  excerpt: "all you have to do is add an API token and you can do almost everything you'd do by hand"
+  original: true
+  confidence: high
+- id: S17
+  url: https://github.com/levelsio
+  author: levelsio
+  published: 2026-11-12
+  researched: 2026-11-24
+  type: github
+  description: GitHub account - only 3 public repos (superlevels Chrome extension ~572 stars, xdr-boost ~191). Products themselves are closed-source.
+  excerpt: "Chief Shitposting Officer @ Levels Synergies & Co"
+  original: true
+  confidence: high

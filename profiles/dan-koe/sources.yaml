@@ -1,0 +1,160 @@
+- id: S1
+  url: https://x.com/thedankoe
+  author: Dan Koe
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: X profile via API; display name "DAN KOE"; ~1.09M followers; since 2011; bio promotes @edendotso; link thedankoe.eden.so.
+  excerpt: "if you're a creator, you should probably be using @edendotso"
+  original: true
+  confidence: high
+- id: S2
+  url: https://thedankoe.com
+  author: Dan Koe
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: Homepage - newsletter "The Koe Letters" (claims 196,000+ readers, 2 letters/week); products - Future Proof premium guides (content/marketing/AI systems), Eden AI canvas & drive, books "Purpose & Profit" and "The Art Of Focus" (keepsake pre-order); tagline "Work Less. Earn More. Enjoy Life."
+  excerpt: "Future Proof - Premium Guides My personal content creation, marketing, and AI systems I used as a creator and founder, updated 2-4x a month."
+  original: true
+  confidence: high
+- id: S3
+  url: https://thedankoe.com/letters/you-dont-need-a-niche-you-need-a-point-of-view/
+  author: Dan Koe
+  published: 2025-07-31
+  researched: 2026-11-24
+  type: newsletter
+  description: Argues niche-based "content factory" strategies are replicable by AI; creators should own a point of view that synthesizes multiple interests.
+  excerpt: "If your content strategy can be written down as a series of steps on a piece of paper ... anyone can spin up an AI avatar and outcompete you"
+  original: true
+  confidence: high
+- id: S4
+  url: https://thedankoe.com/letters/the-death-of-thoughtful-creation-how-to-get-ahead-of-everyone-else/
+  author: Dan Koe
+  published: 2025-06-19
+  researched: 2026-11-24
+  type: newsletter
+  description: Argues for 6-12 months of focused skill development (2-4 h/day) building real projects; AI makes speed/output cheap so humans win on meaning, story, signal; "less" output of higher quality.
+  excerpt: "The easiest way to get ahead in life is to commit to a period of skill development. 6-12 months. Pure focus for 2-4 hours a day."
+  original: true
+  confidence: high
+- id: S5
+  url: https://x.com/thedankoe/status/2116921689426583713
+  author: Dan Koe
+  published: 2026-11-01
+  researched: 2026-11-24
+  type: x_post
+  description: Influencer vs personal brand vs artisan incentive model.
+  excerpt: "A personal brand is incentivized by money, so their content must be optimized to move you down their sales funnel... Become an artisan."
+  original: true
+  confidence: high
+- id: S6
+  url: https://x.com/thedankoe/status/2105288204483997980
+  author: Dan Koe
+  published: 2026-09-30
+  researched: 2026-11-24
+  type: x_post
+  description: Three things you can sell - time, things, mind; social media removes the cap on selling your mind.
+  excerpt: "1) Your time, capped at 24 hours 2) Your things, capped by inventory 3) Your mind"
+  original: true
+  confidence: high
+- id: S7
+  url: https://x.com/thedankoe/status/2052774290387595609
+  author: Dan Koe
+  published: 2026-05-08
+  researched: 2026-11-24
+  type: x_post
+  description: Project-based skill learning loop.
+  excerpt: "stop studying - outline a project - start building it - hit a roadblock - figure out how to overcome it - repeat 4 and 5"
+  original: true
+  confidence: high
+- id: S8
+  url: https://x.com/thedankoe/status/2107822003377803381
+  author: Dan Koe
+  published: 2026-10-07
+  researched: 2026-11-24
+  type: x_post
+  description: Writing as thinking; write for the person you were 2 years ago.
+  excerpt: "Write to think. Write until you're no longer confused. Write about the problems you already solved. Write for the person you were 2 years ago."
+  original: true
+  confidence: high
+- id: S9
+  url: https://x.com/thedankoe/status/2111083500430295493
+  author: Dan Koe
+  published: 2026-10-16
+  researched: 2026-11-24
+  type: x_post
+  description: Marketing is most of a creative's success.
+  excerpt: "They hate marketing, but marketing is 80% of their success."
+  original: true
+  confidence: high
+- id: S10
+  url: https://x.com/thedankoe/status/2094094502495396350
+  author: Dan Koe
+  published: 2026-08-30
+  researched: 2026-11-24
+  type: x_post
+  description: AI commoditizes average skill; become exceptional.
+  excerpt: "AI makes being average at any skill available to everyone, which makes average work worthless."
+  original: true
+  confidence: high
+- id: S11
+  url: https://x.com/thedankoe/status/2090759574370332981
+  author: Dan Koe
+  published: 2026-08-21
+  researched: 2026-11-24
+  type: x_post
+  description: Proof of work over resume, audience over employer, taste over credentials.
+  excerpt: "proof of work replaces the resume, an audience replaces the employer, and taste replaces credentials."
+  original: true
+  confidence: high
+- id: S12
+  url: https://x.com/thedankoe/status/2040447927441854493
+  author: Dan Koe
+  published: 2026-04-04
+  researched: 2026-11-24
+  type: x_post
+  description: Write without AI/templates to preserve thinking ability.
+  excerpt: "You need to write more. Without AI. Without templates."
+  original: true
+  confidence: high
+- id: S13
+  url: https://x.com/thedankoe/status/2111808270591537381
+  author: Dan Koe
+  published: 2026-10-18
+  researched: 2026-11-24
+  type: x_post
+  description: Daily 1-hour distraction-free morning writing block.
+  excerpt: "block off 1 hour every morning and stick to it. Absolutely no exposure to other opinions or distractions"
+  original: true
+  confidence: high
+- id: S14
+  url: https://x.com/thedankoe/status/1792967492702228692
+  author: Dan Koe
+  published: 2024-05-21
+  researched: 2026-11-24
+  type: x_post
+  description: 2024 position - wealth requires controlling product and price rather than trading hours.
+  excerpt: "You need to be in control of the product, the price"
+  original: true
+  confidence: high
+- id: S15
+  url: https://x.com/thedankoe/status/1794438742867865863
+  author: Dan Koe
+  published: 2024-05-25
+  researched: 2026-11-24
+  type: x_post
+  description: 1 hour/day beats 0; side projects viable without 12-hour days.
+  excerpt: "Working for 1 hour a day will get you ahead of those who work 0 hours a day."
+  original: true
+  confidence: high
+- id: S16
+  url: https://x.com/thedankoe/status/2040853354931446145
+  author: Dan Koe
+  published: 2026-04-05
+  researched: 2026-11-24
+  type: x_post
+  description: One person with internet + social + AI leverage rivals a past 20-person company.
+  excerpt: "You as a single person have more power today than a 20 person company of the past."
+  original: true
+  confidence: high

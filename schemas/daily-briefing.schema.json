@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://distill.local/schemas/daily-briefing.schema.json",
+  "title": "Daily briefing",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["date", "mode", "snapshot_date", "disclaimer", "sections"],
+  "properties": {
+    "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "mode": { "enum": ["offline-snapshot", "offline-after-refresh"] },
+    "snapshot_date": { "type": "string" },
+    "disclaimer": { "type": "string", "minLength": 20 },
+    "xai_api_key_present": { "type": "boolean" },
+    "live_refresh_ran": { "type": "boolean" },
+    "sections": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "top_signals",
+        "per_domain_moves",
+        "notable_posts",
+        "emerging_tools",
+        "opportunities",
+        "board_take",
+        "risks_and_caveats",
+        "next_actions"
+      ],
+      "properties": {
+        "top_signals": { "type": "string", "minLength": 20 },
+        "per_domain_moves": { "type": "string", "minLength": 20 },
+        "notable_posts": { "type": "string", "minLength": 20 },
+        "emerging_tools": { "type": "string", "minLength": 20 },
+        "opportunities": { "type": "string", "minLength": 20 },
+        "board_take": { "type": "string", "minLength": 20 },
+        "risks_and_caveats": { "type": "string", "minLength": 20 },
+        "next_actions": { "type": "string", "minLength": 20 }
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+- id: S1
+  url: https://x.com/wojakcodes
+  author: Wojak Codes (pseudonymous)
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: X profile via API; display name "Wojak Codes"; ~52.9k followers; ~27.5k posts since 2023-02; bio "building and breaking stuff in AI and web3"; location field "anti fragile"; no URL.
+  excerpt: "building and breaking stuff in AI and web3"
+  original: true
+  confidence: high
+- id: S2
+  url: https://api.github.com/users/wojakcodes
+  author: GitHub (profile data)
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: github
+  description: GitHub account wojakcodes with twitter_username wojakcodes, bio "just a guy who codes for fun", blog wojak.codes (returned empty), 0 public repos.
+  excerpt: "just a guy who codes for fun"
+  original: true
+  confidence: medium
+- id: S3
+  url: https://x.com/wojakcodes/status/2122355235440173510
+  author: Wojak Codes
+  published: 2026-11-16
+  researched: 2026-11-24
+  type: x_post
+  description: Describes AI coding workflow - plan with tips and worked examples by Opus, plan reviewed in a new session with fresh context, then human review (rest truncated).
+  excerpt: "plan + tips and worked examples first, by Opus. the plan is reviewed in a new session with fresh context. then I review"
+  original: true
+  confidence: medium
+- id: S4
+  url: https://x.com/wojakcodes/status/2121453253405929644
+  author: Wojak Codes
+  published: 2026-11-14
+  researched: 2026-11-24
+  type: x_post
+  description: Uses an AI model to audit and fix his agents, skills and context files for agentic coding/QA efficiency.
+  excerpt: "audit and fix my AI agents, skills, context files, etc. to improve the efficiency of my agentic coding and agentic QA workflows"
+  original: true
+  confidence: high
+- id: S5
+  url: https://x.com/wojakcodes/status/1829499987136516133
+  author: Wojak Codes
+  published: 2024-08-30
+  researched: 2026-11-24
+  type: x_post
+  description: Advice - skip most courses/certs, master one area by building projects.
+  excerpt: "Don't run after every online course and certificate. You don't need most of them."
+  original: true
+  confidence: high
+- id: S6
+  url: https://x.com/wojakcodes/status/1829784235336417379
+  author: Wojak Codes
+  published: 2024-08-31
+  researched: 2026-11-24
+  type: x_post
+  description: Freelancing framed as cash income with option to form a company/agency (tax claim unverified).
+  excerpt: "Freelance income is like a chocolate bar. As a freelancer, you earn pure cash."
+  original: true
+  confidence: high
+- id: S7
+  url: https://x.com/wojakcodes/status/2021625094884536668
+  author: Wojak Codes
+  published: 2026-02-11
+  researched: 2026-11-24
+  type: x_post
+  description: Highest-engagement post in sample (~89k likes) is lifestyle/anti-cubicle bait, not technical.
+  excerpt: "the world looks like this and mfers want you to spend your life in a cubicle??"
+  original: true
+  confidence: high

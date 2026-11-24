@@ -1,0 +1,79 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://distill.local/schemas/opportunity.schema.json",
+  "title": "Opportunity hypothesis",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "title",
+    "as_of",
+    "status",
+    "disclaimer",
+    "hypothesis",
+    "domains",
+    "dimensions",
+    "evidence",
+    "risks",
+    "non_claims"
+  ],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "title": { "type": "string" },
+    "as_of": { "type": "string" },
+    "status": { "enum": ["hypothesis"] },
+    "disclaimer": { "type": "string", "minLength": 20 },
+    "hypothesis": { "type": "string", "minLength": 40 },
+    "domains": { "type": "array", "minItems": 1, "items": { "type": "string" } },
+    "dimensions": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "market_pull",
+        "evidence_strength",
+        "fit_with_kishore_skills",
+        "time_to_value",
+        "competition_gap",
+        "monetization_clarity",
+        "risk_inverse"
+      ],
+      "properties": {
+        "market_pull": { "$ref": "#/$defs/dimension" },
+        "evidence_strength": { "$ref": "#/$defs/dimension" },
+        "fit_with_kishore_skills": { "$ref": "#/$defs/dimension" },
+        "time_to_value": { "$ref": "#/$defs/dimension" },
+        "competition_gap": { "$ref": "#/$defs/dimension" },
+        "monetization_clarity": { "$ref": "#/$defs/dimension" },
+        "risk_inverse": { "$ref": "#/$defs/dimension" }
+      }
+    },
+    "evidence": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["profile", "source", "url", "note"],
+        "properties": {
+          "profile": { "type": "string" },
+          "source": { "type": "string" },
+          "url": { "type": "string" },
+          "note": { "type": "string" }
+        }
+      }
+    },
+    "risks": { "type": "array", "minItems": 1, "items": { "type": "string" } },
+    "non_claims": { "type": "array", "minItems": 1, "items": { "type": "string" } }
+  },
+  "$defs": {
+    "dimension": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["score", "note"],
+      "properties": {
+        "score": { "type": "integer", "minimum": 0, "maximum": 10 },
+        "note": { "type": "string", "minLength": 5 }
+      }
+    }
+  }
+}

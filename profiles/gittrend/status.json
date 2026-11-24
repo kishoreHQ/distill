@@ -1,0 +1,63 @@
+{
+ "id": "gittrend",
+ "x_url": "https://x.com/GitTrend0x",
+ "x_user_id": "1536620289123295232",
+ "display_name": "GitTrend",
+ "research_status": "verified",
+ "posts_read": 66,
+ "posts_by_band": {
+  "0-6mo": 51,
+  "6-24mo": 3,
+  "24mo+": 12
+ },
+ "longform_fetched": 1,
+ "sources_count": 5,
+ "last_post_id": "2125122377369432463",
+ "researched_at": "2026-11-24T14:25:00+05:30",
+ "x_calls_used_note": "batch A shared budget; see batch-A-summary.md",
+ "limitations": [
+  "Aggregator, not a person-expert",
+  "Operator identity only a handle (@0xKingsKuan)",
+  "Possibly automated; not confirmed"
+ ],
+ "completeness": {
+  "identity": {
+   "score": 1,
+   "reason": "account type clear; operator unverified"
+  },
+  "source_coverage": {
+   "score": 1,
+   "reason": "66 posts + linked repo"
+  },
+  "expertise": {
+   "score": 0,
+   "reason": "none"
+  },
+  "principles": {
+   "score": 0,
+   "reason": "none"
+  },
+  "frameworks": {
+   "score": 0,
+   "reason": "none"
+  },
+  "playbooks": {
+   "score": 1,
+   "reason": "1 replication playbook"
+  },
+  "evidence": {
+   "score": 1,
+   "reason": "5 sources"
+  },
+  "limitations": {
+   "score": 2,
+   "reason": "explicit"
+  },
+  "applications": {
+   "score": 1,
+   "reason": "signal feed only"
+  }
+ },
+ "completeness_total": 7,
+ "completeness_max": 18
+}

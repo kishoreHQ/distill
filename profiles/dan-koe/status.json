@@ -1,0 +1,66 @@
+{
+  "id": "dan-koe",
+  "x_url": "https://x.com/thedankoe",
+  "x_user_id": "256523056",
+  "display_name": "Dan Koe",
+  "research_status": "verified",
+  "posts_read": 96,
+  "posts_by_band": {
+    "recent": 46,
+    "mid": 25,
+    "old": 25
+  },
+  "posts_date_range": [
+    "2024-05-21",
+    "2026-11-17"
+  ],
+  "longform_fetched": 3,
+  "sources_count": 16,
+  "last_post_id": "2122717500014022904",
+  "researched_at": "2026-11-24T14:45:00+05:30",
+  "limitations": [
+    "Pinned post not retrievable via API",
+    "Older band limited to May 2024",
+    "No YouTube/podcast transcripts fetched",
+    "Eden ownership not verified",
+    "Newsletter subscriber counts self-reported and inconsistent (196k vs 120k)"
+  ],
+  "completeness": {
+    "identity": {
+      "score": 2,
+      "reason": "site+X cross-linked"
+    },
+    "source_coverage": {
+      "score": 2,
+      "reason": "96 posts + 3 long-form"
+    },
+    "expertise": {
+      "score": 2,
+      "reason": "clear"
+    },
+    "principles": {
+      "score": 2,
+      "reason": "first-party letters"
+    },
+    "frameworks": {
+      "score": 1,
+      "reason": "mostly aphorisms; few explicit frameworks"
+    },
+    "playbooks": {
+      "score": 2,
+      "reason": "2 derived"
+    },
+    "evidence": {
+      "score": 2,
+      "reason": "16 sources"
+    },
+    "limitations": {
+      "score": 2,
+      "reason": "COI noted"
+    },
+    "applications": {
+      "score": 2,
+      "reason": "direct creator fit"
+    }
+  }
+}

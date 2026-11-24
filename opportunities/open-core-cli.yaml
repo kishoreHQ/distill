@@ -1,0 +1,52 @@
+id: open-core-cli
+title: Free DevOps CLI with a paid desktop app, shipped slowly
+as_of: "2026-11-24"
+status: hypothesis
+disclaimer: "Opportunity scores are hypotheses with links to public evidence. They are not income projections, job offers, or proof that a business exists. Self-reported revenue in the sources belongs to those authors, not to Kishore."
+hypothesis: >
+  Keep a small DevOps or agent utility as a free open-source CLI, and charge once for a desktop app
+  for people who do not live in the terminal. Tw93 describes that split for Mole and for Pake.
+  He also says he answered support by hand and automated a reply only after the question repeated.
+  That is a slow path. It fits low capital. It does not fit a wish for fast revenue.
+domains: [developer-tools-oss, indie-hacking]
+dimensions:
+  market_pull:
+    score: 6
+    note: Two of his products use the free-CLI / paid-app split. Star counts in the ledger are not purchase counts.
+  evidence_strength:
+    score: 8
+    note: First-party launch post and a first-party essay. The refund-rate line is in the ledger description and is self-reported.
+  fit_with_kishore_skills:
+    score: 8
+    note: A CLI is close to the spec's Linux/DevOps skills. A native desktop app is extra scope he has not been shown doing.
+  time_to_value:
+    score: 4
+    note: The ledger description of the Mole essay calls it a slow product with no paid marketing. Do not score this as a quick win.
+  competition_gap:
+    score: 4
+    note: Devtools CLIs are crowded. The corpus does not show a protected niche.
+  monetization_clarity:
+    score: 8
+    note: The Pake launch post states the CLI stays free and the native app is a one-time purchase.
+  risk_inverse:
+    score: 7
+    note: Low capital if support stays manual. Reputation risk if the paid app is a thin wrapper. Refund behaviour is his, not a template.
+evidence:
+  - profile: tw93
+    source: S7
+    url: https://x.com/HiTw93/status/2122339080101060730
+    note: Launch post. CLI stays free. Native app is one purchase.
+  - profile: tw93
+    source: S4
+    url: https://tw93.fun/2026-08-16/mole-mac.html
+    note: Mole essay. Ledger description records manual support, a later automation threshold, and a self-reported refund rate under 0.8%.
+  - profile: tw93
+    source: S6
+    url: https://github.com/tw93/Pake
+    note: README line in the ledger. Free open-source CLI plus a desktop app.
+risks:
+  - Star counts are not revenue. The ledger does not disclose his sales total.
+  - Copying the shape without a painful workflow of one's own is how this becomes a wrapper.
+non_claims:
+  - Not a claim that a DevOps CLI will reach Mole's star count or refund rate.
+  - Not a claim that Tw93 advised Kishore.

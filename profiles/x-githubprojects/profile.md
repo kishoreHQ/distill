@@ -1,0 +1,65 @@
+---
+id: x-githubprojects
+display_name: GitHub Projects Community
+x_username: GithubProjects
+x_url: https://x.com/GithubProjects
+x_user_id: "1315639147248246785"
+other_identities: [https://ko-fi.com/githubprojects]
+website: https://ko-fi.com/githubprojects
+organization:            # unofficial; operator not identified
+role:
+research_date: 2026-11-24
+confidence: medium
+account_type: aggregator
+primary_domain: ai-engineering
+secondary_domains: [automation]
+board_eligibility: []
+status: verified
+---
+
+# GitHub Projects Community (@GithubProjects) - aggregator / signal feed
+
+
+## A. Identity
+- Account: "GitHub Projects Community", X @GithubProjects (id 1315639147248246785, created 2020-10-12), ~350k followers [S1].
+- Self-description: UNOFFICIAL showcase of GitHub projects; not GitHub Inc. [S1]. Ko-fi tip page with same text [S2].
+- Operator: not identified - no named person on X bio or Ko-fi. Not a person profile.
+- Confidence: medium (account nature is clear; ownership unknown).
+
+## B. Expertise map
+- Function: curation of open-source repositories, increasingly AI/agent tools (in a 75-post sample, ~30 mention AI/agents/LLM/MCP/Claude; others: self-hosting/homelab, dev tools, media tools) [S3][S4][S5].
+- No first-party expertise, philosophy or products evidenced.
+
+## C. Core philosophy
+- No evidence found (aggregator). Implicit editorial stance: "open-source alternative to paid tool" [S6].
+
+## D. Distilled knowledge
+- [our interpretation] Useful as a discovery feed for: agent skills, doc->skill converters, local/private AI agents, self-hostable ops tools [S3][S4][S5].
+- [observed statement] Hook format used repeatedly: "<capability> + open-source + link", or "Stop paying for X, use this" [S6]. Recycled memes for engagement [S7].
+- No principles/frameworks attributable to a person.
+
+## E. Implementation playbooks
+### E1. Repo-trend signal ingestion for DISTILL (derived from [S3]-[S6], our interpretation)
+- Problem: Finding new open-source AI/automation tools without manual scrolling.
+- Preconditions: DISTILL daily pipeline with X read access.
+- Tools: X API (search from:GithubProjects since_id), GitHub API (resolve t.co -> repo, fetch stars/pushed_at/license).
+- Steps: 1) Pull new posts since last_post_id. 2) Expand links to GitHub repos. 3) Enrich with stars, last commit, license. 4) Filter: AI/agents/automation/self-host + active in last 30 days. 5) Add to intelligence/signals with "aggregator, unverified quality" label.
+- Expected output: 3-10 candidate tools/day.
+- Cost: API calls only. Time: automated. Complexity: low.
+- Risks: Hype/low-quality repos, possible paid promotion (undisclosed), duplicates.
+- Success metric: % of surfaced tools Kishore actually trials.
+
+## F. Evidence summary
+- 75 X posts (25 Nov 2026, 25 Mar 2026, 25 May 2025); 1 long-form (Ko-fi page). 7 sources.
+
+## G. Strengths and weaknesses
+- Strengths: high-volume, fast discovery of trending repos; strong AI-tool coverage.
+- Weaknesses: no evaluation depth; posts are one-liners; meme/filler content; no disclosure policy for sponsored shares; anonymous operator.
+- Popularity ≠ expertise: large follower count does not imply vetted recommendations.
+
+## H. Practical applications for Kishore
+- Use as a raw signal source for the daily "new tools" section; never as an advisor.
+- Board eligibility: none (aggregator; not an expert). Signal-feed only.
+
+## I. Profile evolution
+- 2026-11-24 baseline. 2025 sample: broader dev/DB/AI tools (Dify, Whisper, Airflow); 2026: more agent skills, Claude-related tools, local AI agents, self-hosting.

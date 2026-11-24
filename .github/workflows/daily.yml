@@ -1,0 +1,43 @@
+name: daily
+
+on:
+  schedule:
+    # 23:30 UTC is 05:00 IST (UTC+5:30).
+    - cron: "30 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: pip install -r requirements.txt
+      - name: Refresh if secrets exist
+        env:
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+        run: python scripts/refresh_profiles.py
+      - name: Briefing from repo data
+        env:
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+        run: python scripts/generate_daily_briefing.py --date "$(date -u +%F)"
+      - name: Dashboard data
+        run: python scripts/generate_dashboard.py
+      - name: Commit results
+        run: |
+          git config user.name "distill-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add intelligence dashboard/data.json profiles
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Daily briefing $(date -u +%F)"
+            git push
+          fi

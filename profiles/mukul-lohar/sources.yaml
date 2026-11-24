@@ -1,0 +1,110 @@
+- id: S1
+  url: "https://x.com/ironfisto/status/2108250593810899278"
+  author: "@ironfisto"
+  published: "2026-10-08"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Shares his published CVE-2025-66021 (XSS bypass in OWASP Java HTML Sanitizer)"
+  excerpt: "Published CVE-2025-66021 a while back and realized I never shared it here. It’s an XSS bypass in @owasp Java HTML Sanitizer. PoC:"
+  original: true
+  confidence: "high"
+- id: S2
+  url: "https://x.com/ironfisto/status/2117668653684629608"
+  author: "@ironfisto"
+  published: "2026-11-03"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Long post: AI agents should not identify via bearer tokens; argues for owner-attributable agent identity (Web Bot Auth-style)"
+  excerpt: "Right now, most AI agents prove who they are the way scripts did fifteen years ago: with a bearer token. Someone creates an API key, pastes it into the agent's config, and from then on, whoever holds that string is…"
+  original: true
+  confidence: "high"
+- id: S3
+  url: "https://x.com/ironfisto/status/2118622922843766844"
+  author: "@ironfisto"
+  published: "2026-11-06"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "\"We are live on Product Hunt\" (product not named in post text)"
+  excerpt: "We are live on @ProductHunt. Please go upvote"
+  original: true
+  confidence: "medium"
+- id: S4
+  url: "https://x.com/ironfisto/status/2119400579722317828"
+  author: "@ironfisto"
+  published: "2026-11-08"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "\"This one is for mould designers\" — closed.sh teaser"
+  excerpt: "This one is for mould designers"
+  original: true
+  confidence: "high"
+- id: S5
+  url: "https://x.com/ironfisto/status/2121194146157514896"
+  author: "@ironfisto"
+  published: "2026-11-13"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "closed: first version coming, then Android/iOS apps for remote mould designing/sharing"
+  excerpt: "first version is coming out soon, followed by Android and iOS apps for remote designing/sharing of mould"
+  original: true
+  confidence: "high"
+- id: S6
+  url: "https://x.com/ironfisto/status/2122704247066423672"
+  author: "@ironfisto"
+  published: "2026-11-17"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "\"Open sourced it, PR and issues welcomed\" (reply; project not identified in text)"
+  excerpt: "Yes !! Open sourced it , PR and issues welcomed"
+  original: true
+  confidence: "low"
+- id: S7
+  url: "https://lohar.me"
+  author: "Mukul Lohar"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "website"
+  description: "Personal site: Sr Product Security Engineer (ServiceNow 2023—Present per site), Tokopedia 2021-23, LoginSoft, Orbigo; bug bounty for Facebook/Google; reading list on secure design"
+  excerpt: "I am a Senior Product Security Engineer with expertise in threat modeling, secure code review, and penetration testing across large-scale cloud and on-prem systems."
+  original: true
+  confidence: "high"
+- id: S8
+  url: "https://github.com/advisories/GHSA-g9gq-3pfx-2gw2"
+  author: "GitHub Advisory Database"
+  published: "2025-11-26"
+  researched: "2026-11-24"
+  type: "website"
+  description: "GHSA-g9gq-3pfx-2gw2 / CVE-2025-66021, severity high; credits ironfisto and ilyanep"
+  excerpt: "OWASP Java HTML Sanitizer is vulnerable to XSS via noscript tag and improper style tag sanitization"
+  original: true
+  confidence: "high"
+- id: S9
+  url: "https://liveshortly.com"
+  author: "LiveShortly"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "website"
+  description: "LiveShortly: `live` CLI streams Claude Code/Codex/Gemini CLI/Antigravity/Ollama sessions to a shareable link; counters 426 sessions, 4,081 views; self-hostable. Linked from his X bio; his exact role not stated on page"
+  excerpt: "Stream Claude Code, Codex, Gemini CLI, Antigravity or Ollama sessions from your terminal to a link others can watch, comment on and replay."
+  original: true
+  confidence: "medium"
+- id: S10
+  url: "https://closed.sh"
+  author: "closed (@ironfisto, Founder)"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "website"
+  description: "closed: AI agent drafts injection-mould design stages from a STEP file, stops for human decisions, every dimension has a traceable non-AI source; waitlist only"
+  excerpt: "A dimension in closed comes from one of six places, and the AI is never one of them."
+  original: true
+  confidence: "high"
+- id: S11
+  url: "https://github.com/ironfisto"
+  author: "Mukul Lohar (GitHub API)"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "github"
+  description: "GitHub ironfisto: 42 public repos; ping (sound when Claude asks permission), sha1rs/sha2rs/md5rs (Rust hash impls), forks of ag-ui, gpui-component"
+  excerpt: "Plays a sound notification whenever Claude asks for your permission to run a tool."
+  original: true
+  confidence: "high"

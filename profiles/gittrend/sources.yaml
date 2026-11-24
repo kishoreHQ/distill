@@ -1,0 +1,50 @@
+- id: S1
+  url: https://x.com/GitTrend0x
+  author: GitTrend0x
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: X profile metadata (id 1536620289123295232, ~27.7K followers, ~40.6K posts, joined 2022-06-14, location "World of AI"); bio says run by @0xKingsKuan, daily AI tools, crypto signal bounty platform, contract audits, open-source Claude bot; links github.com/kingskuan/Claudebot-vibe.
+  excerpt: "by @0xKingsKuan 🔴 每日分享 Ai 前沿工具 🟣 AI 实盘信号价值发现赏金平台"
+  original: true
+  confidence: high
+- id: S2
+  url: https://x.com/GitTrend0x/status/2114152481881989579
+  author: GitTrend0x
+  published: 2026-10-25
+  researched: 2026-11-24
+  type: x_post
+  description: Pinned example of the format - "today's GitHub daily chart, top 5 star-surge projects" with short Chinese breakdowns (design skills against generic AI UI).
+  excerpt: "今天 GitHub 日榜：AI 审美觉醒日，设计 Skill 集体起义，专治\"一眼 AI 味\"！"
+  original: true
+  confidence: high
+- id: S3
+  url: https://x.com/GitTrend0x/status/2124465468299677851
+  author: GitTrend0x
+  published: 2026-11-22
+  researched: 2026-11-24
+  type: x_post
+  description: Ecosystem roundup format for agent skills/extensions (Pi, Hermes plugins) - recurring templated series.
+  excerpt: "AI Agent 技能圈又燃爆了 🔥"
+  original: true
+  confidence: high
+- id: S4
+  url: https://x.com/GitTrend0x/status/1729034147124195390
+  author: GitTrend0x
+  published: 2023-11-27
+  researched: 2026-11-24
+  type: x_post
+  description: Older crypto-market commentary (USTC) - shows account previously focused on crypto before AI/GitHub trend content.
+  excerpt: "浅谈暴涨 𝟯𝟬𝟬% 的 $USTC 😱"
+  original: true
+  confidence: high
+- id: S5
+  url: https://github.com/kingskuan/Claudebot-vibe
+  author: kingskuan
+  published: 2026-05-28
+  researched: 2026-11-24
+  type: github
+  description: Linked repo - Telegram personal assistant on Claude with 4-layer memory; one-click Railway deploy button carries a referral code. Owner account kingskuan created 2026-03, ~68 repos mostly crypto tooling (arb dashboards, prediction markets).
+  excerpt: "A personal AI assistant powered by Claude, running on Telegram."
+  original: true
+  confidence: high

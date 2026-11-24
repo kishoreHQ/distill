@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://distill.local/schemas/sources.schema.json",
+  "title": "Evidence ledger",
+  "type": "array",
+  "minItems": 1,
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "id",
+      "url",
+      "author",
+      "published",
+      "researched",
+      "type",
+      "description",
+      "excerpt",
+      "original",
+      "confidence"
+    ],
+    "properties": {
+      "id": { "type": "string", "pattern": "^[A-Za-z0-9][A-Za-z0-9_-]*$" },
+      "url": { "type": "string", "minLength": 4 },
+      "author": { "type": "string" },
+      "published": { "type": "string" },
+      "researched": { "type": "string" },
+      "type": {
+        "enum": [
+          "x_post",
+          "x_thread",
+          "blog",
+          "github",
+          "youtube",
+          "podcast",
+          "newsletter",
+          "interview",
+          "website",
+          "secondary",
+          "article"
+        ]
+      },
+      "description": { "type": "string" },
+      "excerpt": { "type": "string" },
+      "original": { "type": "boolean" },
+      "confidence": { "enum": ["high", "medium", "low"] }
+    }
+  }
+}

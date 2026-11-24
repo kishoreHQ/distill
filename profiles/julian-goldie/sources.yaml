@@ -1,0 +1,180 @@
+- id: S1
+  url: "https://x.com/JulianGoldieSEO/status/2124744757062651907"
+  author: "@JulianGoldieSEO"
+  published: "2026-11-23"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Claims his site went from 328 to 18,036 Google clicks/month in 11 months using a 5-bot SEO setup"
+  excerpt: "Grok Bot now runs your whole SEO playbook every week And this is way more important than you might think. My site went from 328 Google clicks a month to 18,036 in 11 months. And Google's AI now shows it…"
+  original: true
+  confidence: "medium"
+- id: S2
+  url: "https://x.com/JulianGoldieSEO/status/2124510947700285742"
+  author: "@JulianGoldieSEO"
+  published: "2026-11-22"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "\"SEO is not dead\" argument; claims to have built a 7-figure SEO agency"
+  excerpt: "Every year someone tells me SEO is dead. And every year Google gets more searches than the year before. I've been doing SEO for 10+ years, so I've heard it a LOT. 2012: Penguin will end it. 2015: RankBrain will…"
+  original: true
+  confidence: "medium"
+- id: S3
+  url: "https://x.com/JulianGoldieSEO/status/2124850459857088893"
+  author: "@JulianGoldieSEO"
+  published: "2026-11-23"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Engagement post: \"I'm a millionaire... 7 income ideas\""
+  excerpt: "I'm a millionaire. If I wanted to get rich with AI in 2027, I'd start one of these 7 income ideas:"
+  original: true
+  confidence: "high"
+- id: S4
+  url: "https://x.com/JulianGoldieSEO/status/2124661160289108378"
+  author: "@JulianGoldieSEO"
+  published: "2026-11-23"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Template hype post: \"BREAKING: ... PASSIVE INCOME ... 10 prompts\""
+  excerpt: "🚨 BREAKING: Grok Bot can now help you BUILD PASSIVE INCOME from zero. Here are 10 prompts to MAKE MONEY WHILE YOU SLEEP:"
+  original: true
+  confidence: "high"
+- id: S5
+  url: "https://x.com/JulianGoldieSEO/status/2124578665938006456"
+  author: "@JulianGoldieSEO"
+  published: "2026-11-22"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Claims an AI-run GTA 6 clipping page \"can make up to $10k per month\""
+  excerpt: "GTA 6 is about to create a brand new wave of AI millionaires. Here's how to get AI to set up and run a GTA 6 clipping page that can make up to $10k per month: (Just paste these images…"
+  original: true
+  confidence: "low"
+- id: S6
+  url: "https://x.com/JulianGoldieSEO/status/2124941052305920202"
+  author: "@JulianGoldieSEO"
+  published: "2026-11-23"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Promotes \"Polar Rank MCP connector\" for Claude Code (Polar Rank is his team's product per his site)"
+  excerpt: "HUGE NEWS SEOS!!!!! There's a FREE Claude Code connector that reverse engineers any website's Google traffic + AI traffic. Most people look at a competitor and copy their keywords. This connector tells you what NOT to copy. It's called the…"
+  original: true
+  confidence: "high"
+- id: S7
+  url: "https://x.com/JulianGoldieSEO/status/2124443381015495158"
+  author: "@JulianGoldieSEO"
+  published: "2026-11-22"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "\"YOU MISSED BITCOIN ... DON'T MISS POLAR RANK\" promo"
+  excerpt: "YOU MISSED BITCOIN IN 2017 DON’T MISS POLAR RANK IN 2026 FREE AI VISIBILITY QUIZ TO START TODAY ↓"
+  original: true
+  confidence: "high"
+- id: S8
+  url: "https://x.com/JulianGoldieSEO/status/2123382206131273905"
+  author: "@JulianGoldieSEO"
+  published: "2026-11-19"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Uses OpenAI SEO-manager job salary as evidence SEO is not dead"
+  excerpt: "“AI killed SEO.” Meanwhile OpenAI are paying $265,000 for an SEO manager! The people saying SEO is dead aren’t the ones hiring. OpenAI could use AI to do their SEO. Instead they’re paying a human $239k–$265k. Let that sink in.…"
+  original: true
+  confidence: "high"
+- id: S9
+  url: "https://x.com/JulianGoldieSEO/status/2110483735695257806"
+  author: "@JulianGoldieSEO"
+  published: "2026-10-14"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Describes a 5-step idea→plan→human approval→agent build flow (\"The Foundry\", Hermes Agent)"
+  excerpt: "Give your next app idea a clear path to the build. The Foundry uses five steps to move it forward. 1. Capture the idea as a line, link, or voice note. 2. Let the agent decide where it belongs. 3.…"
+  original: true
+  confidence: "high"
+- id: S10
+  url: "https://x.com/JulianGoldieSEO/status/2110481927769932010"
+  author: "@JulianGoldieSEO"
+  published: "2026-10-14"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Setup: connect Obsidian vault via MCP as shared business context for agents"
+  excerpt: "Give Hermes the context to start working sooner. Your business notes can become its starting point. Here’s the setup from my video: → Connect your Obsidian vault through MCP. → Add useful business and client notes. → Let Hermes read…"
+  original: true
+  confidence: "high"
+- id: S11
+  url: "https://x.com/JulianGoldieSEO/status/2110478816993046644"
+  author: "@JulianGoldieSEO"
+  published: "2026-10-14"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Claims 750k Google impressions from an \"Agentic OS\" SEO workflow connected to Search Console"
+  excerpt: "My site appeared in Google search over 750,000 times. This is the Agentic OS workflow behind that example. The SEO agent connects to my Search Console data. It shows winning pages, keywords, and positions. I can filter the last seven…"
+  original: true
+  confidence: "medium"
+- id: S12
+  url: "https://x.com/JulianGoldieSEO/status/1795709877291282545"
+  author: "@JulianGoldieSEO"
+  published: "2024-05-29"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "2024 lead-gen tactic: \"Follow, like and reply YES\" for free AI lead-gen resource"
+  excerpt: "Want to scale your SEO agency sales? 📈 Get hundreds of free leads each week using AI. 🤖 No need for paid ads or marketing channels. Intrigued? 🤔 Follow, like and reply \"YES\" and I'll send it to the first…"
+  original: true
+  confidence: "high"
+- id: S13
+  url: "https://x.com/JulianGoldieSEO/status/1962234785629446239"
+  author: "@JulianGoldieSEO"
+  published: "2025-08-31"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Aug 2025 sample of high-frequency AI-news hype posts"
+  excerpt: "🚨 BREAKING: Chinese AI just MURDERED Google Veo 3! 😱 Silent videos? NOT ANYMORE! 🔥 This thing turns ANY video into Hollywood audio in 10 seconds No studio needed. No fancy gear. Just BOOM - cinema sounds! 🎬 Google is…"
+  original: true
+  confidence: "high"
+- id: S14
+  url: "https://x.com/JulianGoldieSEO/status/1796043862450053190"
+  author: "@JulianGoldieSEO"
+  published: "2024-05-30"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "2024 agency advice: make more money by keeping clients longer (retention)"
+  excerpt: "How to make more money with your agency? 💵 It's simple, keep clients longer. 🔄 That's customer retention, a topic for another time. ⏳"
+  original: true
+  confidence: "high"
+- id: S15
+  url: "https://x.com/JulianGoldieSEO/status/2124329493146050565"
+  author: "@JulianGoldieSEO"
+  published: "2026-11-22"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Describes an offline local \"JARVIS\" setup (Ollama, Qwen/Gemma/GPT-OSS, Kokoro voice)"
+  excerpt: "100% FREE Offline JARVIS AI (My Setup) Main model: Qwen 2.5 7B running on Ollama Fast fallback: Gemma 3 4B Heavy lifter: GPT-OSS 20B Voice: Kokoro, open source and runs on device Memory: one simple notes file Search brain: mxbai-embed-large…"
+  original: true
+  confidence: "high"
+- id: S16
+  url: "https://juliangoldie.com/"
+  author: "Julian Goldie / Goldie Agency"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "website"
+  description: "Agency homepage: backlink \"Gameplan\" service, Polar Rank AI SEO software ($99/mo after 3-day trial; tiers to $2,000+/mo), \"found or refund 90 days\", self-reported 1,000+ sites ranked, 240+ Upwork clients, 70+ team; Hong Kong-registered company"
+  excerpt: "Polar Rank is software my team built. It works on your website every day, so more people find you on Google and ChatGPT."
+  original: true
+  confidence: "high"
+- id: S17
+  url: "https://juliangoldie.com/julian-goldie/"
+  author: "Julian Goldie"
+  published: "2026-10"
+  researched: "2026-11-24"
+  type: "website"
+  description: "Self-published bio: started with cold-email link-building outreach; 7-figure agency, 70+ team; 430K+ YouTube subs; AI Profit Boardroom (paid), AI Money Lab (free), SEO Elite Circle; ~20 keyword-domain websites listed"
+  excerpt: "He committed to an hour of outreach every morning, built a process around great linkable content, consistent follow-ups and outreach at scale, and it worked."
+  original: true
+  confidence: "high"
+- id: S18
+  url: "https://juliangoldie.com/julian-goldie/"
+  author: "Julian Goldie"
+  published: "2026-10"
+  researched: "2026-11-24"
+  type: "website"
+  description: "Same page: explicit statement that the figures are self-published"
+  excerpt: "These are Julian Goldie’s own published figures, and the results behind them are shown on his YouTube channel."
+  original: true
+  confidence: "high"

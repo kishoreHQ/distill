@@ -1,0 +1,180 @@
+- id: S1
+  url: "https://x.com/tom_doerr/status/2123955189270880748"
+  author: "@tom_doerr"
+  published: "2026-11-21"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Typical repo post: open-source meeting recorder/transcriber; 1,615 bookmarks"
+  excerpt: "Open-source desktop application that records, transcribes, and analyzes meetings using real-time AI."
+  original: true
+  confidence: "high"
+- id: S2
+  url: "https://x.com/tom_doerr/status/2115405924646985924"
+  author: "@tom_doerr"
+  published: "2026-10-28"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Repo post: 42 video-editing tools for Claude Code/Cursor/MCP via npx ffmpeg-skill; 3,051 bookmarks"
+  excerpt: "Add 42 video editing tools to Claude Code, Cursor, and MCP clients with npx ffmpeg-skill."
+  original: true
+  confidence: "high"
+- id: S3
+  url: "https://x.com/tom_doerr/status/2121290353730883747"
+  author: "@tom_doerr"
+  published: "2026-11-13"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Repo post: project-based course on harness engineering for AI coding agents"
+  excerpt: "Learn harness engineering with a project-based course covering environment, state management, verification, and control mechanisms for AI coding agents."
+  original: true
+  confidence: "high"
+- id: S4
+  url: "https://x.com/tom_doerr/status/2111291280802095294"
+  author: "@tom_doerr"
+  published: "2026-10-17"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Repo post: Stealth Browser MCP to bypass Cloudflare/bot checks (dual-use)"
+  excerpt: "Bypass Cloudflare challenges and bot checks by automating real Chrome browser instances with Stealth Browser MCP."
+  original: true
+  confidence: "high"
+- id: S5
+  url: "https://x.com/tom_doerr/status/2121135111009628643"
+  author: "@tom_doerr"
+  published: "2026-11-13"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Repo post: Rust WiFi auditing tool incl. deauthentication attacks (dual-use)"
+  excerpt: "Airgorah is a Rust-based WiFi security auditing tool that captures nearby network traffic, identifies connected clients, performs deauthentication attacks to capture handshakes, and assists in cracking router passwords."
+  original: true
+  confidence: "high"
+- id: S6
+  url: "https://x.com/tom_doerr/status/2110799916239077735"
+  author: "@tom_doerr"
+  published: "2026-10-15"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Own opinion: lower-effort reasoning often best because you iterate faster"
+  excerpt: "Lower-effort reasoning is often the best reasoning, just because you can iterate so much faster"
+  original: true
+  confidence: "high"
+- id: S7
+  url: "https://x.com/tom_doerr/status/2109090573294739516"
+  author: "@tom_doerr"
+  published: "2026-10-11"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Own observation: Claude is good at using Codex (agent-driving-agent)"
+  excerpt: "It's odd to me how good Claude is at using Codex"
+  original: true
+  confidence: "high"
+- id: S8
+  url: "https://x.com/tom_doerr/status/2104900778326626545"
+  author: "@tom_doerr"
+  published: "2026-09-29"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Own observation: Claude Code instances can message each other"
+  excerpt: "Claude Code instances can message each other"
+  original: true
+  confidence: "high"
+- id: S9
+  url: "https://x.com/tom_doerr/status/1962286436239003926"
+  author: "@tom_doerr"
+  published: "2025-08-31"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Aug 2025 sample of 30-minute-cadence repo feed (face recognition REST API)"
+  excerpt: "open-source face recognition REST API with docker support"
+  original: true
+  confidence: "high"
+- id: S10
+  url: "https://x.com/tom_doerr/status/1635769136797155329"
+  author: "@tom_doerr"
+  published: "2023-03-14"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "2023: GPT-4 configured bridge/NAT/port forwarding on his Proxmox server by copy-pasting terminal output"
+  excerpt: "GPT-4 just set up a virtual bridge, NAT and port forwarding for my proxmox server. I'm basically just copying text from my terminal to GPT-4 and from GPT-4 to the terminal. #gpt4"
+  original: true
+  confidence: "high"
+- id: S11
+  url: "https://x.com/tom_doerr/status/1648151819028246530"
+  author: "@tom_doerr"
+  published: "2023-04-18"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "2023: compares Replicate vs Lambda GPU per-minute cost (10x)"
+  excerpt: "GPU time on replicate costs 10x the cost of lambda GPUs. (0.192$ per minute vs 0.018$). Why not just run the replicate cog environments on lambda on demand instances? Replicating Replicate seems trivial"
+  original: true
+  confidence: "high"
+- id: S12
+  url: "https://x.com/tom_doerr/status/1625313357820461057"
+  author: "@tom_doerr"
+  published: "2023-02-14"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "2023: built a service with several hundred requests/day; asks how to monetize"
+  excerpt: "@marckohlbrugge I built a service that gets multiple hundred requests per day (). Any tips on how to monetize?"
+  original: true
+  confidence: "high"
+- id: S13
+  url: "https://x.com/tom_doerr/status/2105025968612028419"
+  author: "@tom_doerr"
+  published: "2026-09-29"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Repo post: Obsidian Mind - persistent memory for coding agents via Obsidian vault"
+  excerpt: "Obsidian Mind gives AI coding agents persistent memory by connecting Claude Code, Codex CLI, and Gemini CLI to an Obsidian vault. Agents retain notes, links, and context across sessions instead of starting from zero."
+  original: true
+  confidence: "high"
+- id: S14
+  url: "https://x.com/tom_doerr/status/2103276140479615272"
+  author: "@tom_doerr"
+  published: "2026-09-25"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Repo post: file-system knowledge agent using grep/find/cat instead of a vector DB"
+  excerpt: "Deploy the Knowledge Agent template to build a file-system based AI agent that searches across your sources using grep, find, and cat without requiring a vector database."
+  original: true
+  confidence: "high"
+- id: S15
+  url: "https://github.com/tom-doerr"
+  author: "Tom Dörr (GitHub API)"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "github"
+  description: "GitHub: twitter_username tom_doerr; 309 public repos; zsh_codex 1,733★ (2021), repo_posts 330★, dotfiles 280★, simpledspy 114★, dspy-tweet-optimizer; active pushes Nov 2026"
+  excerpt: "This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line."
+  original: true
+  confidence: "high"
+- id: S16
+  url: "https://github.com/tom-doerr/repo_posts"
+  author: "tom-doerr/repo_posts README"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "github"
+  description: "repo_posts README: auto-curated GitHub-repo showcase site, rebuilt by scheduled GitHub Actions; ~48.6k commits by tom-doerr"
+  excerpt: "We don't accept repository suggestions via Issues/PRs. The site is curated automatically."
+  original: true
+  confidence: "high"
+- id: S17
+  url: "https://tom-doerr.github.io/repo_posts/"
+  author: "Tom Dörr"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "website"
+  description: "Live repo feed site (\"MAGI//ARCHIVE\") listing one-line summaries of discovered repos, some flagged REC"
+  excerpt: "Discovered repositories from the open source frontier"
+  original: true
+  confidence: "high"
+- id: S18
+  url: "https://github.com/tom-doerr/awesome-dspy"
+  author: "tom-doerr/awesome-dspy"
+  published: "2024-05-14"
+  researched: "2026-11-24"
+  type: "github"
+  description: "Curated DSPy examples list (28★)"
+  excerpt: "A curated list of awesome examples and resources for DSPy."
+  original: true
+  confidence: "high"

@@ -1,0 +1,130 @@
+- id: S1
+  url: "https://x.com/imJenal/status/1725472850205892851"
+  author: "@imJenal"
+  published: "2023-11-17"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Pinned: presented \"WebAssembly with Go\" at GopherConAU Sydney (Nov 2023)"
+  excerpt: "Recently, I had the incredible opportunity to present on ‘WebAssembly with Go’ at GopherConAU Sydney!🇮🇳✈️🇦🇺 Travelling across continents was truly rewarding as it allowed me to connect with fellow tech enthusiasts, exchange valuable insights, and learn from the best in…"
+  original: true
+  confidence: "high"
+- id: S2
+  url: "https://x.com/imJenal/status/1206312423872847872"
+  author: "@imJenal"
+  published: "2019-12-15"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Dec 2019: Go workshop at NIT-K (second visit; earlier on web extensions)"
+  excerpt: "Recently, I was at NIT-K to give a workshop on #golang. It was my second visit to NIT-K: last year I talked about #webextensions Going to colleges for giving workshop is always refreshing 😍 The enthusiasm for tech I see…"
+  original: true
+  confidence: "high"
+- id: S3
+  url: "https://x.com/imJenal/status/1216068316973826049"
+  author: "@imJenal"
+  published: "2020-01-11"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Jan 2020: Women Who Go meetup hosted at Gojek"
+  excerpt: "And that's a wrap from today's Meet-up at @gojektech #golang #Gophers #womenwhogo #womenintech #momwhococe #goblr"
+  original: true
+  confidence: "high"
+- id: S4
+  url: "https://x.com/imJenal/status/1203304104002408449"
+  author: "@imJenal"
+  published: "2019-12-07"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Dec 2019: Women Who Go Bangalore invitation for women/non-binary folks to learn Go"
+  excerpt: "Do you identify yourself as a woman or non-binary? Do you wanna learn #golang? Did you say 'Yes' and 'Yes' or may be ' Yasssss' ? then join us before you hit your vacations Date: Dec 21 Venue: @GoogleIndia Register…"
+  original: true
+  confidence: "high"
+- id: S5
+  url: "https://x.com/imJenal/status/2098674276408999988"
+  author: "@imJenal"
+  published: "2026-09-12"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Most-liked sampled post (1,868 likes): friend's Swiggy delivery stint and cloud-kitchen hygiene observations"
+  excerpt: "My friend got himself onboarded as a Swiggy delivery partner in Indiranagar, Bangalore, just for fun. He came back with some serious cloud kitchen stories. Same kitchen Two different brands Same chef But apparently, the bigger concern was the hygiene.…"
+  original: true
+  confidence: "high"
+- id: S6
+  url: "https://x.com/imJenal/status/2099753979865612499"
+  author: "@imJenal"
+  published: "2026-09-15"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Layoffs joke (\"survived another round\" on resume)"
+  excerpt: "Tech layoffs have become so common that 'survived another round' deserves to be added to your resume."
+  original: true
+  confidence: "high"
+- id: S7
+  url: "https://x.com/imJenal/status/2099479112658125071"
+  author: "@imJenal"
+  published: "2026-09-14"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "\"LinkedOut\" idea for people who have left LinkedIn/corporate life"
+  excerpt: "Someday, I want to build LinkedOut for people who have left LinkedIn, retired from corporate life, and are just out there living. No job updates. No meetings. No hustle. Just life"
+  original: true
+  confidence: "high"
+- id: S8
+  url: "https://x.com/imJenal/status/2001375476858982449"
+  author: "@imJenal"
+  published: "2025-12-17"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "\"Best language for DSA is the one where you forget the language and focus on the problem\""
+  excerpt: "The best language for DSA is the one where you forget the language and focus on the problem."
+  original: true
+  confidence: "high"
+- id: S9
+  url: "https://x.com/imJenal/status/2100494943596998770"
+  author: "@imJenal"
+  published: "2026-09-17"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Shares a friend's backend SDE-II opening in Lucknow (₹8-10 LPA)"
+  excerpt: "My friend is hiring a Backend Engineer (SDE-II) at a fintech company in Lucknow Requirements: - 3+ years experience - Node.js / NestJS - Fintech or related background - ₹8-10 LPA - On-site, Lucknow If you or someone in your…"
+  original: true
+  confidence: "high"
+- id: S10
+  url: "https://x.com/imJenal/status/2105648124861772010"
+  author: "@imJenal"
+  published: "2026-10-01"
+  researched: "2026-11-24"
+  type: "x_post"
+  description: "Oct 2026: announces \"last event of the year\" (community event; org not named in text)"
+  excerpt: "And this will be our last event of the year 💙 See y’all next Saturday, 10th October!"
+  original: true
+  confidence: "medium"
+- id: S11
+  url: "https://imjenal.github.io/"
+  author: "Jyotsna Gupta"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "website"
+  description: "Personal site (outdated: still lists Gojek Jan 2021-Present, 3.8 yrs exp.): Mozilla TechSpeaker/Rep since 2015-19, Women Who Go Bangalore founder (Aug 2019), backend Go work at CoffeeBeans, Exotel"
+  excerpt: "Initiated the Women Who Go chapter in Bangalore, Women Who Go are women of the Go community."
+  original: true
+  confidence: "high"
+- id: S12
+  url: "https://github.com/imjenal"
+  author: "Jyotsna Gupta (GitHub API)"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "github"
+  description: "GitHub imjenal: company Visa; bio lists Staff Engineer @visa, ex-Gojek/GoPay/GoTo Financial, Exotel, Docker Captain; recent activity mostly forks (opentelemetry-go)"
+  excerpt: "Staff Engineer @visa | Ex- ( @gojek / @gopaytech / GoTo Financial ; @exotel) | Founder: Women Who Go Bangalore | Docker Captain | Contributor : Mozilla"
+  original: true
+  confidence: "high"
+- id: S13
+  url: "https://golangjobs.tech"
+  author: "Golang Jobs"
+  published: "2026-11-24"
+  researched: "2026-11-24"
+  type: "website"
+  description: "Remote Go job board linked as her co-founded project from X bio (t.co link); page shows only title and contact — co-founder role not stated on page"
+  excerpt: "Golang Jobs - Find Remote Go Developer Positions Worldwide"
+  original: true
+  confidence: "medium"

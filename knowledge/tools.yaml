@@ -1,0 +1,62 @@
+# Tools and stacks named in the imported sources. A row is not a recommendation.
+- name: Claude Code
+  note: >
+    Levels uses it for a vendor-spend audit and for coding on a VPS [pieter-levels S3] [pieter-levels S5].
+    Tw93's annual app list says the Claude Code CLI is part of a smaller daily set [tw93 S10].
+  evidence:
+    - profile: pieter-levels
+      source: S3
+    - profile: pieter-levels
+      source: S5
+    - profile: tw93
+      source: S10
+- name: Codex CLI
+  note: >
+    Steinberger describes running many Codex instances for review [peter-steinberger S7].
+    Dörr notes, as his own observation, that Claude is good at driving Codex [tom-dorr S7].
+  evidence:
+    - profile: peter-steinberger
+      source: S7
+    - profile: tom-dorr
+      source: S7
+- name: OpenClaw
+  note: >
+    The OpenClaw README in Steinberger's ledger calls it an agent that acts across platforms [peter-steinberger S3].
+    Saboo says his agent group started on OpenClaw and later also used Hermes, both from Telegram [shubham-saboo S7].
+  evidence:
+    - profile: peter-steinberger
+      source: S3
+    - profile: shubham-saboo
+      source: S7
+- name: MCP servers
+  note: >
+    Mishra's post comments on AWS shipping an official EKS MCP server [akhilesh-mishra S10].
+    That is a cloud-operations surface, not a general endorsement of every MCP server in the feeds.
+  evidence:
+    - profile: akhilesh-mishra
+      source: S10
+- name: Cron-scheduled LLM scripts
+  note: >
+    Levels describes worker scripts on an hourly, daily, weekly, or monthly schedule for work he says humans used to do, including moderation and sales [pieter-levels S4].
+  evidence:
+    - profile: pieter-levels
+      source: S4
+- name: Hetzner VPS
+  note: >
+    Levels posts that he shipped from a phone via SSH onto a Hetzner VPS running Claude Code [pieter-levels S13].
+    The ledger's description of his cost post also names Hetzner consolidation. That figure is self-reported.
+  evidence:
+    - profile: pieter-levels
+      source: S13
+- name: GitHub Actions as a curator
+  note: >
+    Dörr's repo_posts README says a scheduled GitHub Actions workflow rebuilds the showcase and that suggestions via issues are not accepted [tom-dorr S16].
+  evidence:
+    - profile: tom-dorr
+      source: S16
+- name: Kestra
+  note: >
+    Mishra's essay walks through a ServiceNow-triggered Kestra flow (repo, Terraform, approval, Ansible, Slack). The ledger says the sponsorship status of that post was not established [akhilesh-mishra S4].
+  evidence:
+    - profile: akhilesh-mishra
+      source: S4

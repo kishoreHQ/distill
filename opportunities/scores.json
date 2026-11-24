@@ -1,0 +1,387 @@
+{
+  "disclaimer": "Opportunity scores are hypotheses with links to public evidence. They are not income projections, job offers, or proof that a business exists. Self-reported revenue in the sources belongs to those authors, not to Kishore.",
+  "weight_sum": 100,
+  "method": "sum((dimension score / scale_max) * weight)",
+  "opportunities": [
+    {
+      "id": "infra-cost-audit",
+      "title": "Agent-assisted infra and vendor cost audit for a small SaaS",
+      "file": "opportunities/infra-cost-audit.yaml",
+      "as_of": "2026-11-24",
+      "status": "hypothesis",
+      "domains": [
+        "careers-cloud-devops",
+        "ai-engineering-agents"
+      ],
+      "disclaimer": "Opportunity scores are hypotheses with links to public evidence. They are not income projections, job offers, or proof that a business exists. Self-reported revenue in the sources belongs to those authors, not to Kishore.",
+      "total": 74.0,
+      "scale_max": 10,
+      "breakdown": {
+        "market_pull": {
+          "score": 7,
+          "weight": 25,
+          "contribution": 17.5
+        },
+        "evidence_strength": {
+          "score": 8,
+          "weight": 20,
+          "contribution": 16.0
+        },
+        "fit_with_kishore_skills": {
+          "score": 9,
+          "weight": 15,
+          "contribution": 13.5
+        },
+        "time_to_value": {
+          "score": 8,
+          "weight": 15,
+          "contribution": 12.0
+        },
+        "competition_gap": {
+          "score": 5,
+          "weight": 10,
+          "contribution": 5.0
+        },
+        "monetization_clarity": {
+          "score": 7,
+          "weight": 10,
+          "contribution": 7.0
+        },
+        "risk_inverse": {
+          "score": 6,
+          "weight": 5,
+          "contribution": 3.0
+        }
+      },
+      "evidence": [
+        {
+          "profile": "pieter-levels",
+          "source": "S3",
+          "url": "https://levels.io/biz-expenses-dropped-to-300",
+          "note": "Ledger says the post itemises about $34k/month of self-reported savings. Excerpt credits Claude Code with finding cost cuts."
+        },
+        {
+          "profile": "pieter-levels",
+          "source": "S4",
+          "url": "https://levels.io/minimal-solo-founder-100-automation",
+          "note": "Same author describes cron-scheduled LLM worker scripts and zero employees. Context for how he runs the stack, not a second audit."
+        }
+      ],
+      "non_claims": [
+        "Not a claim that Kishore can save a client $34k a month.",
+        "Not a claim that Levels endorsed this offer."
+      ],
+      "rank": 1
+    },
+    {
+      "id": "agentic-devops-pipeline",
+      "title": "Issue-to-PR pipeline with a human gate and owner-attributable identity",
+      "file": "opportunities/agentic-devops-pipeline.yaml",
+      "as_of": "2026-11-24",
+      "status": "hypothesis",
+      "domains": [
+        "careers-cloud-devops",
+        "ai-engineering-agents"
+      ],
+      "disclaimer": "Opportunity scores are hypotheses with links to public evidence. They are not income projections, job offers, or proof that a business exists. Self-reported revenue in the sources belongs to those authors, not to Kishore.",
+      "total": 66.5,
+      "scale_max": 10,
+      "breakdown": {
+        "market_pull": {
+          "score": 6,
+          "weight": 25,
+          "contribution": 15.0
+        },
+        "evidence_strength": {
+          "score": 8,
+          "weight": 20,
+          "contribution": 16.0
+        },
+        "fit_with_kishore_skills": {
+          "score": 9,
+          "weight": 15,
+          "contribution": 13.5
+        },
+        "time_to_value": {
+          "score": 6,
+          "weight": 15,
+          "contribution": 9.0
+        },
+        "competition_gap": {
+          "score": 4,
+          "weight": 10,
+          "contribution": 4.0
+        },
+        "monetization_clarity": {
+          "score": 6,
+          "weight": 10,
+          "contribution": 6.0
+        },
+        "risk_inverse": {
+          "score": 6,
+          "weight": 5,
+          "contribution": 3.0
+        }
+      },
+      "evidence": [
+        {
+          "profile": "pavan-belagatti",
+          "source": "S2",
+          "url": "https://x.com/Pavan_Belagatti/status/2113152830815297694",
+          "note": "Ledger describes a GitHub issue to Codex to PR path with human review."
+        },
+        {
+          "profile": "mukul-lohar",
+          "source": "S2",
+          "url": "https://x.com/ironfisto/status/2117668653684629608",
+          "note": "Excerpt says most agents still prove identity with a bearer token."
+        },
+        {
+          "profile": "peter-steinberger",
+          "source": "S8",
+          "url": "https://x.com/steipete/status/2058240758801420530",
+          "note": "Autotriage reads VISION.md and acts when the change is inferable, has a clear fix, and can be tested live."
+        },
+        {
+          "profile": "theo-browne",
+          "source": "S5",
+          "url": "https://github.com/t3dotgg/tstack",
+          "note": "Ledger excerpt says a skill gets review from three models and loops until they agree."
+        }
+      ],
+      "non_claims": [
+        "Not a claim of a signed pipeline customer.",
+        "Not a claim that these four people agreed with each other or with this offer."
+      ],
+      "rank": 2
+    },
+    {
+      "id": "open-core-cli",
+      "title": "Free DevOps CLI with a paid desktop app, shipped slowly",
+      "file": "opportunities/open-core-cli.yaml",
+      "as_of": "2026-11-24",
+      "status": "hypothesis",
+      "domains": [
+        "developer-tools-oss",
+        "indie-hacking"
+      ],
+      "disclaimer": "Opportunity scores are hypotheses with links to public evidence. They are not income projections, job offers, or proof that a business exists. Self-reported revenue in the sources belongs to those authors, not to Kishore.",
+      "total": 64.5,
+      "scale_max": 10,
+      "breakdown": {
+        "market_pull": {
+          "score": 6,
+          "weight": 25,
+          "contribution": 15.0
+        },
+        "evidence_strength": {
+          "score": 8,
+          "weight": 20,
+          "contribution": 16.0
+        },
+        "fit_with_kishore_skills": {
+          "score": 8,
+          "weight": 15,
+          "contribution": 12.0
+        },
+        "time_to_value": {
+          "score": 4,
+          "weight": 15,
+          "contribution": 6.0
+        },
+        "competition_gap": {
+          "score": 4,
+          "weight": 10,
+          "contribution": 4.0
+        },
+        "monetization_clarity": {
+          "score": 8,
+          "weight": 10,
+          "contribution": 8.0
+        },
+        "risk_inverse": {
+          "score": 7,
+          "weight": 5,
+          "contribution": 3.5
+        }
+      },
+      "evidence": [
+        {
+          "profile": "tw93",
+          "source": "S7",
+          "url": "https://x.com/HiTw93/status/2122339080101060730",
+          "note": "Launch post. CLI stays free. Native app is one purchase."
+        },
+        {
+          "profile": "tw93",
+          "source": "S4",
+          "url": "https://tw93.fun/2026-08-16/mole-mac.html",
+          "note": "Mole essay. Ledger description records manual support, a later automation threshold, and a self-reported refund rate under 0.8%."
+        },
+        {
+          "profile": "tw93",
+          "source": "S6",
+          "url": "https://github.com/tw93/Pake",
+          "note": "README line in the ledger. Free open-source CLI plus a desktop app."
+        }
+      ],
+      "non_claims": [
+        "Not a claim that a DevOps CLI will reach Mole's star count or refund rate.",
+        "Not a claim that Tw93 advised Kishore."
+      ],
+      "rank": 3
+    },
+    {
+      "id": "cited-runbook-answers",
+      "title": "Cited answers over a team's own Linux and incident notes",
+      "file": "opportunities/cited-runbook-answers.yaml",
+      "as_of": "2026-11-24",
+      "status": "hypothesis",
+      "domains": [
+        "ai-engineering-agents",
+        "careers-cloud-devops"
+      ],
+      "disclaimer": "Opportunity scores are hypotheses with links to public evidence. They are not income projections, job offers, or proof that a business exists. Self-reported revenue in the sources belongs to those authors, not to Kishore.",
+      "total": 60.5,
+      "scale_max": 10,
+      "breakdown": {
+        "market_pull": {
+          "score": 6,
+          "weight": 25,
+          "contribution": 15.0
+        },
+        "evidence_strength": {
+          "score": 7,
+          "weight": 20,
+          "contribution": 14.0
+        },
+        "fit_with_kishore_skills": {
+          "score": 9,
+          "weight": 15,
+          "contribution": 13.5
+        },
+        "time_to_value": {
+          "score": 5,
+          "weight": 15,
+          "contribution": 7.5
+        },
+        "competition_gap": {
+          "score": 3,
+          "weight": 10,
+          "contribution": 3.0
+        },
+        "monetization_clarity": {
+          "score": 5,
+          "weight": 10,
+          "contribution": 5.0
+        },
+        "risk_inverse": {
+          "score": 5,
+          "weight": 5,
+          "contribution": 2.5
+        }
+      },
+      "evidence": [
+        {
+          "profile": "aravind-srinivas",
+          "source": "S7",
+          "url": "https://lexfridman.com/aravind-srinivas-transcript/",
+          "note": "Excerpt: the principle is you are not supposed to say anything you do not retrieve."
+        },
+        {
+          "profile": "aravind-srinivas",
+          "source": "S16",
+          "url": "https://x.com/AravSrinivas/status/2123464412971635018",
+          "note": "He describes shipping a safe-fetch score for agents the day after customer feedback."
+        },
+        {
+          "profile": "aravind-srinivas",
+          "source": "S13",
+          "url": "https://en.wikipedia.org/wiki/Perplexity_AI",
+          "note": "Secondary source in the bundle. Records crawler allegations. Included as a risk, not as a tactic to copy."
+        }
+      ],
+      "non_claims": [
+        "Not a plan to reproduce Perplexity's traffic, valuation, or $1B ARR line.",
+        "Not an endorsement by Aravind Srinivas."
+      ],
+      "rank": 4
+    },
+    {
+      "id": "narrow-workflow-saas",
+      "title": "One narrow workflow tool, kept beside a day job",
+      "file": "opportunities/narrow-workflow-saas.yaml",
+      "as_of": "2026-11-24",
+      "status": "hypothesis",
+      "domains": [
+        "indie-hacking",
+        "careers-cloud-devops"
+      ],
+      "disclaimer": "Opportunity scores are hypotheses with links to public evidence. They are not income projections, job offers, or proof that a business exists. Self-reported revenue in the sources belongs to those authors, not to Kishore.",
+      "total": 58.0,
+      "scale_max": 10,
+      "breakdown": {
+        "market_pull": {
+          "score": 6,
+          "weight": 25,
+          "contribution": 15.0
+        },
+        "evidence_strength": {
+          "score": 6,
+          "weight": 20,
+          "contribution": 12.0
+        },
+        "fit_with_kishore_skills": {
+          "score": 7,
+          "weight": 15,
+          "contribution": 10.5
+        },
+        "time_to_value": {
+          "score": 5,
+          "weight": 15,
+          "contribution": 7.5
+        },
+        "competition_gap": {
+          "score": 4,
+          "weight": 10,
+          "contribution": 4.0
+        },
+        "monetization_clarity": {
+          "score": 7,
+          "weight": 10,
+          "contribution": 7.0
+        },
+        "risk_inverse": {
+          "score": 4,
+          "weight": 5,
+          "contribution": 2.0
+        }
+      },
+      "evidence": [
+        {
+          "profile": "piyush-sachdeva",
+          "source": "S1",
+          "url": "https://x.com/techie_piyush/status/2122927926895370692",
+          "note": "Day 104 post. Excerpt includes 56 paid users, net revenue $3793 CAD, MRR $694. Self-reported and truncated."
+        },
+        {
+          "profile": "piyush-sachdeva",
+          "source": "S4",
+          "url": "https://x.com/techie_piyush/status/2122147206358798626",
+          "note": "Platform-dependent tools need the platform's approval. He says you cannot just ship a wrapper."
+        },
+        {
+          "profile": "piyush-sachdeva",
+          "source": "S8",
+          "url": "https://x.com/techie_piyush/status/2121323534370865285",
+          "note": "He says Claude shipped a similar Instagram scheduler and that indie hackers are exposed."
+        }
+      ],
+      "non_claims": [
+        "Not a recommendation to build an Instagram DM product.",
+        "Not a claim that $694 MRR is typical, transferable, or desirable as a forecast."
+      ],
+      "rank": 5
+    }
+  ]
+}

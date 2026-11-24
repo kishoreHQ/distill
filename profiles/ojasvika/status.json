@@ -1,0 +1,63 @@
+{
+ "id": "ojasvika",
+ "x_url": "https://x.com/Ozacle23",
+ "x_user_id": "1460656460103258122",
+ "display_name": "Ojasvika (Oz)",
+ "research_status": "partial",
+ "posts_read": 76,
+ "posts_by_band": {
+  "0-6mo": 51,
+  "6-24mo": 25
+ },
+ "longform_fetched": 1,
+ "sources_count": 11,
+ "last_post_id": "2125111914527408234",
+ "researched_at": "2026-11-24T14:25:00+05:30",
+ "x_calls_used_note": "batch A shared budget; see batch-A-summary.md",
+ "limitations": [
+  "Surname not found",
+  "Product site JS-rendered; only title retrievable",
+  "Early-stage; traction metrics self-reported",
+  "X sample only reaches back to Oct 2025 (3 windows)"
+ ],
+ "completeness": {
+  "identity": {
+   "score": 1,
+   "reason": "founder role self-described"
+  },
+  "source_coverage": {
+   "score": 1,
+   "reason": "76 posts + site title"
+  },
+  "expertise": {
+   "score": 1,
+   "reason": "early-stage"
+  },
+  "principles": {
+   "score": 1,
+   "reason": "heuristics only"
+  },
+  "frameworks": {
+   "score": 1,
+   "reason": "user-testing pattern"
+  },
+  "playbooks": {
+   "score": 1,
+   "reason": "1 playbook"
+  },
+  "evidence": {
+   "score": 1,
+   "reason": "11 sources"
+  },
+  "limitations": {
+   "score": 2,
+   "reason": "explicit"
+  },
+  "applications": {
+   "score": 1,
+   "reason": "limited"
+  }
+ },
+ "completeness_total": 10,
+ "completeness_max": 18
+}

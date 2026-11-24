@@ -1,0 +1,120 @@
+- id: S1
+  url: https://x.com/lennysan
+  author: Lenny Rachitsky
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: X profile via API; "Deeply researched product, growth, and career advice"; Bay Area; ~463k followers; since 2007; links linktr.ee/lennyspodcast.
+  excerpt: "Deeply researched product, growth, and career advice"
+  original: true
+  confidence: high
+- id: S2
+  url: https://www.lennysnewsletter.com/about
+  author: Lenny Rachitsky
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: newsletter
+  description: About page - Lenny's Newsletter and Podcast, claims 1,000,000+ subscribers; paid tier includes archive, interviews, private Slack (30k+), free year of 15+ premium products ("Product pass"); also Lenny's Jobs, How I AI, Lennybot; suggests readers expense it via L&D budget.
+  excerpt: "I publish a deeply researched advice column about building product, driving growth, and advancing your career."
+  original: true
+  confidence: high
+- id: S3
+  url: https://x.com/lennysan/status/2110059109685113206
+  author: Lenny Rachitsky (introducing guest post by Dan Hockenmaier)
+  published: 2026-10-13
+  researched: 2026-11-24
+  type: x_post
+  description: Moat framework - distribution, execution, brand are not moats; four compounding advantages are switching costs, network effects, scale economies, data effects; 1-hour check for a startup's moat.
+  excerpt: "There are only four compounding advantages that really matter."
+  original: true
+  confidence: high
+- id: S4
+  url: https://x.com/lennysan/status/2109058392044224785
+  author: Lenny Rachitsky (citing Atlassian CPO Tamar Yehoshua)
+  published: 2026-10-10
+  researched: 2026-11-24
+  type: x_post
+  description: '"Row, then steer" playbook for zero-to-one at big companies.'
+  excerpt: "1. Row: PM + designer vibe-code a working alpha 2. Once it shows pull, bring on engineers 3. Steer"
+  original: false
+  confidence: high
+- id: S5
+  url: https://x.com/lennysan/status/2124880663149002996
+  author: Lenny Rachitsky (quoting Sherif Mansour, Atlassian)
+  published: 2026-11-23
+  researched: 2026-11-24
+  type: podcast
+  description: Atlassian "everyone is an AI builder" experiment reverted after a month; direction not throughput is the bottleneck.
+  excerpt: "Throughput's not our problem. Direction's our problem."
+  original: false
+  confidence: high
+- id: S6
+  url: https://x.com/lennysan/status/2110443116604137888
+  author: Lenny Rachitsky
+  published: 2026-10-14
+  researched: 2026-11-24
+  type: x_post
+  description: Launches "Hype(less)" crowdsourced research on genuine, repeatable AI workflows.
+  excerpt: "There's way too much AI hype right now."
+  original: true
+  confidence: high
+- id: S7
+  url: https://x.com/lennysan/status/2107554838150275106
+  author: Lenny Rachitsky
+  published: 2026-10-06
+  researched: 2026-11-24
+  type: x_post
+  description: Trend - teams using AI "simulations" (synthetic users) to test product ideas.
+  excerpt: "Teams using AI \"simulations\" to quickly test product ideas and flow tweaks."
+  original: true
+  confidence: high
+- id: S8
+  url: https://x.com/lennysan/status/2110128301004185817
+  author: Lenny Rachitsky
+  published: 2026-10-13
+  researched: 2026-11-24
+  type: x_post
+  description: Ships a plug-and-play "moat check" AI skill alongside the newsletter post (content packaged as an agent skill).
+  excerpt: "Hot off the presses: A plug-and-play moat check skill"
+  original: true
+  confidence: high
+- id: S9
+  url: https://x.com/lennysan/status/2027535415692218425
+  author: Lenny Rachitsky
+  published: 2026-02-28
+  researched: 2026-11-24
+  type: x_post
+  description: '"AI-Native PM" live workshops with Maven passed 75,000 registrations.'
+  excerpt: "Over 75,000 workshop registrations so far"
+  original: true
+  confidence: high
+- id: S10
+  url: https://x.com/lennysan/status/1792965161109926264
+  author: Lenny Rachitsky
+  published: 2024-05-21
+  researched: 2026-11-24
+  type: x_post
+  description: On saying no to sustain a weekly newsletter + 1-2 podcast episodes per week; templates shared.
+  excerpt: "to consistently produce a high-caliber newsletter and 1-2 podcast episodes a week, I've had to build this skill."
+  original: true
+  confidence: high
+- id: S11
+  url: https://x.com/lennysan/status/2109779532089794899
+  author: Lenny Rachitsky (quoting Josh Woodward, Google Labs)
+  published: 2026-10-12
+  researched: 2026-11-24
+  type: podcast
+  description: Companies need frontier people with many AI subscriptions plugged into the "hive mind".
+  excerpt: "Every company right now needs a set of people who's job is to be at the frontier."
+  original: false
+  confidence: high
+- id: S12
+  url: https://x.com/lennysan/status/2107879927962124427
+  author: Lenny Rachitsky (quoting Karri Saarinen, Linear CEO)
+  published: 2026-10-07
+  researched: 2026-11-24
+  type: podcast
+  description: Counterpoint - after a break from AI news, "nothing has really changed".
+  excerpt: "I took a break this summer from paying attention to AI. I thought that when I came back, I'd feel left behind."
+  original: false
+  confidence: high

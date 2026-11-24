@@ -1,0 +1,61 @@
+{
+  "id": "julian-goldie",
+  "x_url": "https://x.com/JulianGoldieSEO",
+  "x_user_id": "1405031034",
+  "display_name": "Julian Goldie",
+  "research_status": "verified",
+  "posts_read": 141,
+  "posts_by_band": {
+    "last_6mo": 91,
+    "6_24mo": 25,
+    "older": 25
+  },
+  "longform_fetched": 3,
+  "last_post_id": "2125137350216806605",
+  "limitations": [
+    "All traffic/income figures self-reported",
+    "Posting volume extremely high; samples cover narrow date windows (Aug 2025, May 2024)",
+    "YouTube/Skool content not fetched (no transcripts)",
+    "Several posts are near-duplicate templates"
+  ],
+  "completeness": {
+    "identity": {
+      "score": 2,
+      "reason": "site links back to X"
+    },
+    "source_coverage": {
+      "score": 1,
+      "reason": "X + 2 site pages; no video"
+    },
+    "expertise": {
+      "score": 1,
+      "reason": "SEO expertise self-described"
+    },
+    "principles": {
+      "score": 1,
+      "reason": "few principled statements"
+    },
+    "frameworks": {
+      "score": 1,
+      "reason": "funnel + agent crew reconstructed"
+    },
+    "playbooks": {
+      "score": 2,
+      "reason": "two grounded playbooks"
+    },
+    "evidence": {
+      "score": 1,
+      "reason": "claims unverified, labeled"
+    },
+    "limitations": {
+      "score": 2,
+      "reason": "COI and hype documented"
+    },
+    "applications": {
+      "score": 2,
+      "reason": "specific"
+    }
+  },
+  "sources_count": 18,
+  "researched_at": "2026-11-24T15:30:00+05:30"
+}

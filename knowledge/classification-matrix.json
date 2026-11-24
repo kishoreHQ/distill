@@ -1,0 +1,823 @@
+{
+  "snapshot_date": "2026-11-24",
+  "active_count": 32,
+  "domains": [
+    {
+      "id": "ai-engineering-agents",
+      "title": "AI engineering & agents"
+    },
+    {
+      "id": "developer-tools-oss",
+      "title": "Developer tools & open source"
+    },
+    {
+      "id": "indie-hacking",
+      "title": "Indie hacking & solopreneurship"
+    },
+    {
+      "id": "creator-economy",
+      "title": "Creator economy & audience building"
+    },
+    {
+      "id": "careers-cloud-devops",
+      "title": "Careers, education & cloud/DevOps"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "akhilesh-mishra",
+      "display_name": "Akhilesh Mishra",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "automation",
+      "primary": "careers-cloud-devops",
+      "primary_via": "override",
+      "note": "Role in the imported front matter is Living DevOps instructor and DevOps lead. The research primary tag is automation.",
+      "secondary": [
+        {
+          "domain": "ai-engineering-agents",
+          "via": "research-primary-demoted:automation"
+        },
+        {
+          "domain": "creator-economy",
+          "via": "research:content-creation"
+        },
+        {
+          "domain": "indie-hacking",
+          "via": "research:startup-building"
+        },
+        {
+          "domain": "developer-tools-oss",
+          "via": "keyword:github-identity"
+        }
+      ],
+      "board_eligibility": [
+        "automation",
+        "creator"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "akshay-saini",
+      "display_name": "Akshay Saini",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "content-creation",
+      "primary": "creator-economy",
+      "primary_via": "research:content-creation",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "ai-engineering-agents",
+          "via": "research:ai-engineering"
+        },
+        {
+          "domain": "indie-hacking",
+          "via": "research:startup-building"
+        },
+        {
+          "domain": "developer-tools-oss",
+          "via": "keyword:github-identity"
+        },
+        {
+          "domain": "careers-cloud-devops",
+          "via": "keyword:education-role"
+        }
+      ],
+      "board_eligibility": [
+        "creator",
+        "startup"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "alex-finn",
+      "display_name": "Alex Finn",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "content-creation",
+      "primary": "creator-economy",
+      "primary_via": "research:content-creation",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "indie-hacking",
+          "via": "research:startup-building"
+        },
+        {
+          "domain": "ai-engineering-agents",
+          "via": "research:automation"
+        }
+      ],
+      "board_eligibility": [
+        "creator",
+        "startup"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "aravind-srinivas",
+      "display_name": "Aravind Srinivas",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "ai-engineering",
+      "primary": "ai-engineering-agents",
+      "primary_via": "research:ai-engineering",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "indie-hacking",
+          "via": "research:startup-building"
+        }
+      ],
+      "board_eligibility": [
+        "ai-engineering",
+        "startup",
+        "master"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "arnav-gupta",
+      "display_name": "Arnav Gupta",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "ai-engineering",
+      "primary": "ai-engineering-agents",
+      "primary_via": "research:ai-engineering",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "developer-tools-oss",
+          "via": "research:software-engineering"
+        },
+        {
+          "domain": "creator-economy",
+          "via": "research:content-creation"
+        },
+        {
+          "domain": "careers-cloud-devops",
+          "via": "extra",
+          "because": "The evidence ledger has a careers group (O-CAR-*) grounded in his public essays."
+        }
+      ],
+      "board_eligibility": [
+        "ai-engineering"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "dan-koe",
+      "display_name": "Dan Koe",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "content-creation",
+      "primary": "creator-economy",
+      "primary_via": "research:content-creation",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "indie-hacking",
+          "via": "research:productivity"
+        }
+      ],
+      "board_eligibility": [
+        "creator",
+        "master"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "david-ondrej",
+      "display_name": "David Ondrej",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "ai-engineering",
+      "primary": "ai-engineering-agents",
+      "primary_via": "research:ai-engineering",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "creator-economy",
+          "via": "research:content-creation"
+        },
+        {
+          "domain": "indie-hacking",
+          "via": "research:startup-building"
+        },
+        {
+          "domain": "developer-tools-oss",
+          "via": "keyword:github-identity"
+        }
+      ],
+      "board_eligibility": [
+        "ai-engineering",
+        "creator"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "gittrend",
+      "display_name": "GitTrend",
+      "account_type": "aggregator",
+      "registry_status": "active",
+      "research_primary": "ai-engineering",
+      "primary": "ai-engineering-agents",
+      "primary_via": "research:ai-engineering",
+      "note": "",
+      "secondary": [],
+      "board_eligibility": [],
+      "aggregator": true
+    },
+    {
+      "id": "harkirat-singh",
+      "display_name": "Harkirat Singh",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "startup-building",
+      "primary": "indie-hacking",
+      "primary_via": "research:startup-building",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "creator-economy",
+          "via": "research:content-creation"
+        },
+        {
+          "domain": "ai-engineering-agents",
+          "via": "research:ai-engineering"
+        },
+        {
+          "domain": "developer-tools-oss",
+          "via": "keyword:github-identity"
+        },
+        {
+          "domain": "careers-cloud-devops",
+          "via": "keyword:education-role"
+        }
+      ],
+      "board_eligibility": [
+        "startup",
+        "creator",
+        "master"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "julian-goldie",
+      "display_name": "Julian Goldie",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "content-creation",
+      "primary": "creator-economy",
+      "primary_via": "research:content-creation",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "ai-engineering-agents",
+          "via": "research:automation"
+        },
+        {
+          "domain": "indie-hacking",
+          "via": "research:startup-building"
+        }
+      ],
+      "board_eligibility": [
+        "creator",
+        "automation"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "jyotsna-gupta",
+      "display_name": "Jyotsna Gupta",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "software-engineering",
+      "primary": "developer-tools-oss",
+      "primary_via": "research:software-engineering",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "careers-cloud-devops",
+          "via": "research:developer-community"
+        }
+      ],
+      "board_eligibility": [],
+      "aggregator": false
+    },
+    {
+      "id": "kushal-gangil",
+      "display_name": "Kushal Gangil (Tech Fusionist)",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "content-creation",
+      "primary": "creator-economy",
+      "primary_via": "research:content-creation",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "ai-engineering-agents",
+          "via": "research:automation"
+        },
+        {
+          "domain": "developer-tools-oss",
+          "via": "keyword:github-identity"
+        }
+      ],
+      "board_eligibility": [
+        "creator"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "lenny-rachitsky",
+      "display_name": "Lenny Rachitsky",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "startup-building",
+      "primary": "indie-hacking",
+      "primary_via": "research:startup-building",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "creator-economy",
+          "via": "research:content-creation"
+        }
+      ],
+      "board_eligibility": [
+        "startup",
+        "creator",
+        "master"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "mckay-wrigley",
+      "display_name": "Mckay Wrigley",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "ai-engineering",
+      "primary": "ai-engineering-agents",
+      "primary_via": "research:ai-engineering",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "creator-economy",
+          "via": "research:content-creation"
+        },
+        {
+          "domain": "indie-hacking",
+          "via": "research:startup-building"
+        },
+        {
+          "domain": "developer-tools-oss",
+          "via": "keyword:github-identity"
+        }
+      ],
+      "board_eligibility": [
+        "ai-engineering",
+        "creator",
+        "startup",
+        "master"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "mischa-van-den-burg",
+      "display_name": "Mischa van den Burg",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "content-creation",
+      "primary": "creator-economy",
+      "primary_via": "research:content-creation",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "indie-hacking",
+          "via": "research:startup-building"
+        },
+        {
+          "domain": "ai-engineering-agents",
+          "via": "research:automation"
+        },
+        {
+          "domain": "careers-cloud-devops",
+          "via": "keyword:devops-text"
+        }
+      ],
+      "board_eligibility": [
+        "creator",
+        "startup"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "mukul-lohar",
+      "display_name": "Mukul Lohar",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "ai-engineering",
+      "primary": "ai-engineering-agents",
+      "primary_via": "research:ai-engineering",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "careers-cloud-devops",
+          "via": "research:security"
+        },
+        {
+          "domain": "developer-tools-oss",
+          "via": "keyword:github-identity"
+        }
+      ],
+      "board_eligibility": [
+        "ai-engineering"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "nav-toor",
+      "display_name": "Nav Toor",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "content-creation",
+      "primary": "creator-economy",
+      "primary_via": "research:content-creation",
+      "note": "",
+      "secondary": [],
+      "board_eligibility": [
+        "creator"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "neo-kim",
+      "display_name": "Neo Kim",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "content-creation",
+      "primary": "creator-economy",
+      "primary_via": "research:content-creation",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "ai-engineering-agents",
+          "via": "research:ai-engineering"
+        }
+      ],
+      "board_eligibility": [
+        "creator"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "ojasvika",
+      "display_name": "Ojasvika (Oz)",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "startup-building",
+      "primary": "indie-hacking",
+      "primary_via": "research:startup-building",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "creator-economy",
+          "via": "research:content-creation"
+        }
+      ],
+      "board_eligibility": [
+        "startup"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "pavan-belagatti",
+      "display_name": "Pavan Belagatti",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "ai-engineering",
+      "primary": "ai-engineering-agents",
+      "primary_via": "research:ai-engineering",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "creator-economy",
+          "via": "research:content-creation"
+        },
+        {
+          "domain": "developer-tools-oss",
+          "via": "keyword:github-identity"
+        },
+        {
+          "domain": "careers-cloud-devops",
+          "via": "extra",
+          "because": "Source S6 is his public 'agentic DevOps' framing. Research secondary tags are automation and content-creation, which do not name this domain on their own."
+        }
+      ],
+      "board_eligibility": [
+        "ai-engineering",
+        "automation"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "peter-steinberger",
+      "display_name": "Peter Steinberger",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "ai-engineering",
+      "primary": "ai-engineering-agents",
+      "primary_via": "research:ai-engineering",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "indie-hacking",
+          "via": "research:productivity"
+        },
+        {
+          "domain": "developer-tools-oss",
+          "via": "keyword:github-identity"
+        }
+      ],
+      "board_eligibility": [
+        "master",
+        "ai-engineering",
+        "automation"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "pieter-levels",
+      "display_name": "@levelsio (Pieter Levels)",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "startup-building",
+      "primary": "indie-hacking",
+      "primary_via": "research:startup-building",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "ai-engineering-agents",
+          "via": "research:automation"
+        },
+        {
+          "domain": "developer-tools-oss",
+          "via": "keyword:github-identity"
+        }
+      ],
+      "board_eligibility": [
+        "master",
+        "startup",
+        "automation"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "piyush-sachdeva",
+      "display_name": "Piyush Sachdeva",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "startup-building",
+      "primary": "indie-hacking",
+      "primary_via": "research:startup-building",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "creator-economy",
+          "via": "research:content-creation"
+        },
+        {
+          "domain": "ai-engineering-agents",
+          "via": "research:automation"
+        },
+        {
+          "domain": "developer-tools-oss",
+          "via": "keyword:github-identity"
+        },
+        {
+          "domain": "careers-cloud-devops",
+          "via": "extra",
+          "because": "Sources S5, S11, and S16 describe a DevOps teaching and Docker/Terraform practice alongside the ReelDrop product."
+        }
+      ],
+      "board_eligibility": [
+        "startup",
+        "creator",
+        "automation"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "shubham-saboo",
+      "display_name": "Shubham Saboo",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "ai-engineering",
+      "primary": "ai-engineering-agents",
+      "primary_via": "research:ai-engineering",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "creator-economy",
+          "via": "research:content-creation"
+        },
+        {
+          "domain": "developer-tools-oss",
+          "via": "keyword:github-identity"
+        }
+      ],
+      "board_eligibility": [
+        "ai-engineering",
+        "automation",
+        "creator"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "suman-chakraborty",
+      "display_name": "Suman Chakraborty",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "automation",
+      "primary": "careers-cloud-devops",
+      "primary_via": "override",
+      "note": "Role in the imported front matter is Solutions Architect at Platform9, and the public talks in sources S2 and S3 are Kubernetes operations. The research primary tag is automation.",
+      "secondary": [
+        {
+          "domain": "ai-engineering-agents",
+          "via": "research-primary-demoted:automation"
+        }
+      ],
+      "board_eligibility": [
+        "automation"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "swanand",
+      "display_name": "Swanand",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "automation",
+      "primary": "ai-engineering-agents",
+      "primary_via": "research:automation",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "indie-hacking",
+          "via": "research:startup-building"
+        }
+      ],
+      "board_eligibility": [
+        "automation"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "theo-browne",
+      "display_name": "Theo Browne (Theo - t3.gg)",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "ai-engineering",
+      "primary": "ai-engineering-agents",
+      "primary_via": "research:ai-engineering",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "creator-economy",
+          "via": "research:content-creation"
+        },
+        {
+          "domain": "indie-hacking",
+          "via": "research:startup-building"
+        },
+        {
+          "domain": "developer-tools-oss",
+          "via": "keyword:github-identity"
+        }
+      ],
+      "board_eligibility": [
+        "ai-engineering",
+        "creator",
+        "master"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "tom-dorr",
+      "display_name": "Tom Dörr",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "ai-engineering",
+      "primary": "ai-engineering-agents",
+      "primary_via": "research:ai-engineering",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "creator-economy",
+          "via": "research:content-creation"
+        },
+        {
+          "domain": "developer-tools-oss",
+          "via": "keyword:github-identity"
+        }
+      ],
+      "board_eligibility": [
+        "ai-engineering",
+        "automation"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "tw93",
+      "display_name": "Tw93",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "ai-engineering",
+      "primary": "ai-engineering-agents",
+      "primary_via": "research:ai-engineering",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "indie-hacking",
+          "via": "research:startup-building"
+        },
+        {
+          "domain": "developer-tools-oss",
+          "via": "keyword:github-identity"
+        }
+      ],
+      "board_eligibility": [
+        "ai-engineering",
+        "startup",
+        "automation"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "vatsal-sanghvi",
+      "display_name": "Vatsal Sanghvi",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "startup-building",
+      "primary": "indie-hacking",
+      "primary_via": "research:startup-building",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "creator-economy",
+          "via": "research:content-creation"
+        },
+        {
+          "domain": "ai-engineering-agents",
+          "via": "research:automation"
+        }
+      ],
+      "board_eligibility": [
+        "startup",
+        "creator"
+      ],
+      "aggregator": false
+    },
+    {
+      "id": "x-githubprojects",
+      "display_name": "GitHub Projects Community",
+      "account_type": "aggregator",
+      "registry_status": "active",
+      "research_primary": "ai-engineering",
+      "primary": "ai-engineering-agents",
+      "primary_via": "research:ai-engineering",
+      "note": "",
+      "secondary": [],
+      "board_eligibility": [],
+      "aggregator": true
+    },
+    {
+      "id": "x-wojakcodes",
+      "display_name": "Wojak Codes (pseudonymous)",
+      "account_type": "person",
+      "registry_status": "active",
+      "research_primary": "ai-engineering",
+      "primary": "ai-engineering-agents",
+      "primary_via": "research:ai-engineering",
+      "note": "",
+      "secondary": [
+        {
+          "domain": "developer-tools-oss",
+          "via": "keyword:github-identity"
+        }
+      ],
+      "board_eligibility": [],
+      "aggregator": false
+    }
+  ],
+  "excluded": [
+    {
+      "id": "x-aravind",
+      "display_name": "Aravind",
+      "exclusion_reason": "wrong handle; user replaced with @AravSrinivas on 2026-11-24",
+      "replaced_by": "aravind-srinivas"
+    }
+  ]
+}

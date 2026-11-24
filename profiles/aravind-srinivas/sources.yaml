@@ -1,0 +1,250 @@
+- id: S1
+  url: https://x.com/AravSrinivas
+  author: AravSrinivas
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: X profile metadata via X API (id 759894532649545732, joined 2016-07-31, ~1.17M followers, ~9.4K posts, blue check, affiliation badge Perplexity @perplexity_ai, location SF, link pplx.ai/mobile).
+  excerpt: "cofounder and ceo @perplexity_ai"
+  original: true
+  confidence: high
+- id: S2
+  url: https://x.com/AravSrinivas/status/2122734422445445629
+  author: AravSrinivas
+  published: 2026-11-17
+  researched: 2026-11-24
+  type: x_post
+  description: Pinned post - says Perplexity crossed $1B ARR with strong margins (self-reported; ~7.4K likes, ~938K impressions).
+  excerpt: "Yesterday, I revealed that Perplexity crossed $1B ARR. We have strong margins and a healthy growth rate."
+  original: true
+  confidence: medium
+- id: S3
+  url: https://lexfridman.com/aravind-srinivas-transcript/
+  author: Lex Fridman / Aravind Srinivas
+  published: 2024-06-19
+  researched: 2026-11-24
+  type: podcast
+  description: Lex Fridman Podcast #434 transcript (human-generated) - origin story section; "AI-complete" company criterion borrowed from Larry Page (product improves automatically as AI improves; usage creates data flywheel).
+  excerpt: "one property I wanted for a company I started was it has to be AI-complete. This was something I took from Larry Page"
+  original: true
+  confidence: high
+- id: S4
+  url: https://lexfridman.com/aravind-srinivas-transcript/
+  author: Lex Fridman / Aravind Srinivas
+  published: 2024-06-19
+  researched: 2026-11-24
+  type: podcast
+  description: Lex #434 - first investor Elad Gil's advice to narrow to an edge (they started with text-to-SQL search over scraped Twitter data) before the grand vision.
+  excerpt: "Identify a edge right now and create something, and then you can work towards the grander vision"
+  original: true
+  confidence: high
+- id: S5
+  url: https://lexfridman.com/aravind-srinivas-transcript/
+  author: Lex Fridman / Aravind Srinivas
+  published: 2024-06-19
+  researched: 2026-11-24
+  type: podcast
+  description: Lex #434 - launch signal - launched Dec 7 2022, people kept using it over Christmas; conversational version with suggested questions a week after New Year then usage grew.
+  excerpt: "we put it out on December 7th, 2022, and people were using it even in the Christmas vacation. I thought that was a very powerful signal."
+  original: true
+  confidence: high
+- id: S6
+  url: https://lexfridman.com/aravind-srinivas-transcript/
+  author: Lex Fridman / Aravind Srinivas
+  published: 2024-06-19
+  researched: 2026-11-24
+  type: podcast
+  description: Lex #434 - admits the early Twitter-search demo used data collected via many fake academic API accounts (pre-2023 Twitter API). Ethics/conflict note.
+  excerpt: "create all these fake academic accounts, collect a lot of tweets"
+  original: true
+  confidence: high
+- id: S7
+  url: https://lexfridman.com/aravind-srinivas-transcript/
+  author: Lex Fridman / Aravind Srinivas
+  published: 2024-06-19
+  researched: 2026-11-24
+  type: podcast
+  description: Lex #434 RAG section - stricter-than-RAG grounding principle; if retrieval is insufficient, say so.
+  excerpt: "The principle in Perplexity is you’re not supposed to say anything that you don’t retrieve"
+  original: true
+  confidence: high
+- id: S8
+  url: https://lexfridman.com/aravind-srinivas-transcript/
+  author: Lex Fridman / Aravind Srinivas
+  published: 2024-06-19
+  researched: 2026-11-24
+  type: podcast
+  description: Lex #434 - tests the app on bad flight wifi and benchmarks speed vs ChatGPT (Larry Page "crappy laptop" insight).
+  excerpt: "I always that test Perplexity on the flight wifi because flight wifi usually sucks and I want to make sure the app is fast even on that"
+  original: true
+  confidence: high
+- id: S9
+  url: https://lexfridman.com/aravind-srinivas-transcript/
+  author: Lex Fridman / Aravind Srinivas
+  published: 2024-06-19
+  researched: 2026-11-24
+  type: podcast
+  description: Lex #434 "Advice for startups" - start from an idea you genuinely obsess over and use yourself, not what you think the market/VCs want; know your "dopamine system".
+  excerpt: "So you need to know what your dopamine system is. Where do you get your dopamine from? Truly understand yourself"
+  original: true
+  confidence: high
+- id: S10
+  url: https://engineering.berkeley.edu/news/2025/03/berkeley-alum-wants-to-make-the-planet-smarter/
+  author: Marni Ellery (Berkeley Engineering)
+  published: 2025-03-10
+  researched: 2026-11-24
+  type: article
+  description: Berkeley Engineering profile - Ph.D.'21 CS (Abbeel lab/BAIR), IIT Madras, MILA internship, OpenAI summer intern then OpenAI year post-PhD; "Ph.D. student that cites sources" framing; advice to start with a vision and persist.
+  excerpt: "From them I learned that software engineering is critical to doing great work in AI."
+  original: false
+  confidence: high
+- id: S11
+  url: https://acr.iitm.ac.in/latestyaas/dr-aravind-srinivas/
+  author: IIT Madras Alumni & Corporate Relations
+  published: unknown
+  researched: 2026-11-24
+  type: website
+  description: IIT Madras alumni award page - Dual Degree EE 2017; Berkeley PhD CS; internships at OpenAI, DeepMind, Google; OpenAI research scientist; co-founded Perplexity Aug 2022.
+  excerpt: "He earned his Dual Degree in Electrical Engineering from the Indian Institute of Technology Madras in 2017."
+  original: false
+  confidence: high
+- id: S12
+  url: https://en.wikipedia.org/wiki/Perplexity_AI
+  author: Wikipedia contributors
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: article
+  description: Perplexity AI article (fetched via the Aravind_Srinivas title) - founders, funding/valuation history, Feb 2026 shift to subscription-first (ads dropped), copyright lawsuits, Wired/Cloudflare crawler allegations. Secondary/tertiary source.
+  excerpt: "In February 2026, Perplexity transitioned to a subscription-first model by discontinuing its AI-integrated advertising strategy."
+  original: false
+  confidence: medium
+- id: S13
+  url: https://en.wikipedia.org/wiki/Perplexity_AI
+  author: Wikipedia contributors
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: article
+  description: Same article - crawler/scraping allegations by Wired and Cloudflare (company-level controversy relevant to trust and source-permission ethics).
+  excerpt: "Perplexity uses undisclosed web crawlers with spoofed user-agent strings to scrape the content of websites that prohibit or explicitly block web scraping."
+  original: false
+  confidence: medium
+- id: S14
+  url: https://x.com/AravSrinivas/status/2061575845056278971
+  author: AravSrinivas
+  published: 2026-06-01
+  researched: 2026-11-24
+  type: x_post
+  description: Moving from search-as-a-tool-call to search-as-codegen inside agent harnesses (code execution as the substrate for knowledge work).
+  excerpt: "We’re moving away from search as a web fetch tool call to search as codegen to be future proof"
+  original: true
+  confidence: high
+- id: S15
+  url: https://x.com/AravSrinivas/status/2123478424761368980
+  author: AravSrinivas
+  published: 2026-11-19
+  researched: 2026-11-24
+  type: x_post
+  description: Keeps Decider models free on OpenRouter; claims ~20% share of decision-model requests; attributes ability to owning the full stack.
+  excerpt: "We're able to do this because we own the full stack: model, inference, compute, search."
+  original: true
+  confidence: medium
+- id: S16
+  url: https://x.com/AravSrinivas/status/2123464412971635018
+  author: AravSrinivas
+  published: 2026-11-19
+  researched: 2026-11-24
+  type: x_post
+  description: Shipped customer (Tobi) feedback in a day - decision models scoring fetched content for prompt injection ("safe fetch for agents").
+  excerpt: "Basically a safe fetch for agents with scores based on custom criteria. We’ve shipped that today"
+  original: true
+  confidence: high
+- id: S17
+  url: https://x.com/AravSrinivas/status/2019444331006791847
+  author: AravSrinivas
+  published: 2026-02-05
+  researched: 2026-11-24
+  type: x_post
+  description: Model Council - several frontier reasoning models work async; a chair LLM synthesizes the answer.
+  excerpt: "Council Mode lets you delegate to a swarm of frontier reasoning LLMs, where they work async, and a chair LLM synthesizes a more accurate answer"
+  original: true
+  confidence: high
+- id: S18
+  url: https://x.com/AravSrinivas/status/2057873563156402448
+  author: AravSrinivas
+  published: 2026-05-22
+  researched: 2026-11-24
+  type: x_post
+  description: Enterprise adoption of agents requires continuous security engineering; running tools inside agentic sandboxes.
+  excerpt: "To get Perplexity Computer and similar tools deeply embedded in enterprises, a continuous investment in security engineering is necessary."
+  original: true
+  confidence: high
+- id: S19
+  url: https://x.com/AravSrinivas/status/2062548410478334091
+  author: AravSrinivas
+  published: 2026-06-04
+  researched: 2026-11-24
+  type: x_post
+  description: Thesis that small high-agency teams can run whole businesses with agent connectors (product promotion for Perplexity Computer).
+  excerpt: "anyone with an idea and a small team of high agency people to build fast growing valuable companies faster than ever before"
+  original: true
+  confidence: medium
+- id: S20
+  url: https://x.com/AravSrinivas/status/1933508237934145989
+  author: AravSrinivas
+  published: 2025-06-13
+  researched: 2026-11-24
+  type: x_post
+  description: Treats daily user complaints and feature demands (Perplexity Finance) as a product-market signal.
+  excerpt: "It’s rare to see people complaining about things almost every day asking for features and changes. That’s a signal that you’ve shipped something good"
+  original: true
+  confidence: high
+- id: S21
+  url: https://x.com/AravSrinivas/status/2123993205624770776
+  author: AravSrinivas
+  published: 2026-11-21
+  researched: 2026-11-24
+  type: x_post
+  description: Default-model decisions driven by retention stats; model-neutral product.
+  excerpt: "We might even switch the default model to it, based on retention stats."
+  original: true
+  confidence: high
+- id: S22
+  url: https://x.com/AravSrinivas/status/2122353569903128921
+  author: AravSrinivas
+  published: 2026-11-16
+  researched: 2026-11-24
+  type: x_post
+  description: Announces Perplexity Frontier Research - at least 10,000 GPUs for multi-agent orchestration and continual learning; goal an automated researcher; promises open evals/models.
+  excerpt: "We are committing at least 10,000 GPUs to work on multi-agent orchestration and continual learning systems with the goal of building an automated researcher."
+  original: true
+  confidence: high
+- id: S23
+  url: https://x.com/AravSrinivas/status/1800210005498728531
+  author: AravSrinivas
+  published: 2024-06-10
+  researched: 2026-11-24
+  type: x_post
+  description: Claims Perplexity was #2 referral source for Forbes and top referrer for other publishers; announces publisher-incentive products (context - the Forbes plagiarism dispute of June 2024 was not researched here).
+  excerpt: "Perplexity has been the #2 referral source for Forbes (behind only Wikipedia) and the top referrer for other publishers."
+  original: true
+  confidence: medium
+- id: S24
+  url: https://x.com/AravSrinivas/status/2015880901440504008
+  author: AravSrinivas
+  published: 2026-01-26
+  researched: 2026-11-24
+  type: x_post
+  description: Long-horizon agents - aiming for thousands of reliable browsing steps.
+  excerpt: "We're already working on things that will be equivalent to thousands of steps (with reliability, not just vibes)."
+  original: true
+  confidence: high
+- id: S25
+  url: https://x.com/AravSrinivas/status/1933283015586951623
+  author: AravSrinivas
+  published: 2025-06-12
+  researched: 2026-11-24
+  type: x_post
+  description: Ambition post using Google's vertical integration as the model (~6.3K likes).
+  excerpt: "So, don’t aim low. Be ambitious. Shoot for the stars. Life is short."
+  original: true
+  confidence: high

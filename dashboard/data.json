@@ -1,0 +1,523 @@
+{
+  "ui": "deferred",
+  "snapshot_date": "2026-11-24",
+  "note": "Data only. No dashboard UI is implemented in Phase 1.",
+  "counts": {
+    "registry": 33,
+    "active": 32,
+    "excluded": 1,
+    "posts_imported": 2961,
+    "arnav_evidence_sources": 144,
+    "arnav_evidence_posts": 57
+  },
+  "domains": [
+    {
+      "id": "ai-engineering-agents",
+      "title": "AI engineering & agents"
+    },
+    {
+      "id": "developer-tools-oss",
+      "title": "Developer tools & open source"
+    },
+    {
+      "id": "indie-hacking",
+      "title": "Indie hacking & solopreneurship"
+    },
+    {
+      "id": "creator-economy",
+      "title": "Creator economy & audience building"
+    },
+    {
+      "id": "careers-cloud-devops",
+      "title": "Careers, education & cloud/DevOps"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "akhilesh-mishra",
+      "display_name": "Akhilesh Mishra",
+      "x_username": "livingdevops",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 66,
+      "primary_domain": "careers-cloud-devops"
+    },
+    {
+      "id": "akshay-saini",
+      "display_name": "Akshay Saini",
+      "x_username": "akshaymarch7",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 92,
+      "primary_domain": "creator-economy"
+    },
+    {
+      "id": "alex-finn",
+      "display_name": "Alex Finn",
+      "x_username": "AlexFinn",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 85,
+      "primary_domain": "creator-economy"
+    },
+    {
+      "id": "aravind-srinivas",
+      "display_name": "Aravind Srinivas",
+      "x_username": "AravSrinivas",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 130,
+      "primary_domain": "ai-engineering-agents"
+    },
+    {
+      "id": "arnav-gupta",
+      "display_name": "Arnav Gupta",
+      "x_username": "championswimmer",
+      "registry_status": "active",
+      "research_status": "partial",
+      "account_type": "person",
+      "posts_imported": 57,
+      "primary_domain": "ai-engineering-agents"
+    },
+    {
+      "id": "dan-koe",
+      "display_name": "Dan Koe",
+      "x_username": "thedankoe",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 96,
+      "primary_domain": "creator-economy"
+    },
+    {
+      "id": "david-ondrej",
+      "display_name": "David Ondrej",
+      "x_username": "DavidOndrej1",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 86,
+      "primary_domain": "ai-engineering-agents"
+    },
+    {
+      "id": "gittrend",
+      "display_name": "GitTrend",
+      "x_username": "GitTrend0x",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "aggregator",
+      "posts_imported": 66,
+      "primary_domain": "ai-engineering-agents"
+    },
+    {
+      "id": "harkirat-singh",
+      "display_name": "Harkirat Singh",
+      "x_username": "kirat_tw",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 96,
+      "primary_domain": "indie-hacking"
+    },
+    {
+      "id": "julian-goldie",
+      "display_name": "Julian Goldie",
+      "x_username": "JulianGoldieSEO",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 141,
+      "primary_domain": "creator-economy"
+    },
+    {
+      "id": "jyotsna-gupta",
+      "display_name": "Jyotsna Gupta",
+      "x_username": "imJenal",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 100,
+      "primary_domain": "developer-tools-oss"
+    },
+    {
+      "id": "kushal-gangil",
+      "display_name": "Kushal Gangil (Tech Fusionist)",
+      "x_username": "techyoutbe",
+      "registry_status": "active",
+      "research_status": "partial",
+      "account_type": "person",
+      "posts_imported": 75,
+      "primary_domain": "creator-economy"
+    },
+    {
+      "id": "lenny-rachitsky",
+      "display_name": "Lenny Rachitsky",
+      "x_username": "lennysan",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 100,
+      "primary_domain": "indie-hacking"
+    },
+    {
+      "id": "mckay-wrigley",
+      "display_name": "Mckay Wrigley",
+      "x_username": "mckaywrigley",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 89,
+      "primary_domain": "ai-engineering-agents"
+    },
+    {
+      "id": "mischa-van-den-burg",
+      "display_name": "Mischa van den Burg",
+      "x_username": "mischavdburg",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 75,
+      "primary_domain": "creator-economy"
+    },
+    {
+      "id": "mukul-lohar",
+      "display_name": "Mukul Lohar",
+      "x_username": "ironfisto",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 65,
+      "primary_domain": "ai-engineering-agents"
+    },
+    {
+      "id": "nav-toor",
+      "display_name": "Nav Toor",
+      "x_username": "heynavtoor",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 69,
+      "primary_domain": "creator-economy"
+    },
+    {
+      "id": "neo-kim",
+      "display_name": "Neo Kim",
+      "x_username": "systemdesignone",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 97,
+      "primary_domain": "creator-economy"
+    },
+    {
+      "id": "ojasvika",
+      "display_name": "Ojasvika (Oz)",
+      "x_username": "Ozacle23",
+      "registry_status": "active",
+      "research_status": "partial",
+      "account_type": "person",
+      "posts_imported": 76,
+      "primary_domain": "indie-hacking"
+    },
+    {
+      "id": "pavan-belagatti",
+      "display_name": "Pavan Belagatti",
+      "x_username": "Pavan_Belagatti",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 96,
+      "primary_domain": "ai-engineering-agents"
+    },
+    {
+      "id": "peter-steinberger",
+      "display_name": "Peter Steinberger",
+      "x_username": "steipete",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 99,
+      "primary_domain": "ai-engineering-agents"
+    },
+    {
+      "id": "pieter-levels",
+      "display_name": "@levelsio (Pieter Levels)",
+      "x_username": "levelsio",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 116,
+      "primary_domain": "indie-hacking"
+    },
+    {
+      "id": "piyush-sachdeva",
+      "display_name": "Piyush Sachdeva",
+      "x_username": "techie_piyush",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 94,
+      "primary_domain": "indie-hacking"
+    },
+    {
+      "id": "shubham-saboo",
+      "display_name": "Shubham Saboo",
+      "x_username": "Saboo_Shubham_",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 86,
+      "primary_domain": "ai-engineering-agents"
+    },
+    {
+      "id": "suman-chakraborty",
+      "display_name": "Suman Chakraborty",
+      "x_username": "itsmesumanc",
+      "registry_status": "active",
+      "research_status": "partial",
+      "account_type": "person",
+      "posts_imported": 64,
+      "primary_domain": "careers-cloud-devops"
+    },
+    {
+      "id": "swanand",
+      "display_name": "Swanand",
+      "x_username": "_swanand",
+      "registry_status": "active",
+      "research_status": "partial",
+      "account_type": "person",
+      "posts_imported": 86,
+      "primary_domain": "ai-engineering-agents"
+    },
+    {
+      "id": "theo-browne",
+      "display_name": "Theo Browne (Theo - t3.gg)",
+      "x_username": "theo",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 165,
+      "primary_domain": "ai-engineering-agents"
+    },
+    {
+      "id": "tom-dorr",
+      "display_name": "Tom Dörr",
+      "x_username": "tom_doerr",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 120,
+      "primary_domain": "ai-engineering-agents"
+    },
+    {
+      "id": "tw93",
+      "display_name": "Tw93",
+      "x_username": "HiTw93",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "person",
+      "posts_imported": 85,
+      "primary_domain": "ai-engineering-agents"
+    },
+    {
+      "id": "vatsal-sanghvi",
+      "display_name": "Vatsal Sanghvi",
+      "x_username": "vatsal_sanghvi",
+      "registry_status": "active",
+      "research_status": "partial",
+      "account_type": "person",
+      "posts_imported": 71,
+      "primary_domain": "indie-hacking"
+    },
+    {
+      "id": "x-aravind",
+      "display_name": "Aravind",
+      "x_username": "aravind",
+      "registry_status": "excluded",
+      "research_status": "excluded",
+      "account_type": "person",
+      "posts_imported": 68,
+      "primary_domain": null
+    },
+    {
+      "id": "x-githubprojects",
+      "display_name": "GitHub Projects Community",
+      "x_username": "GithubProjects",
+      "registry_status": "active",
+      "research_status": "verified",
+      "account_type": "aggregator",
+      "posts_imported": 75,
+      "primary_domain": "ai-engineering-agents"
+    },
+    {
+      "id": "x-wojakcodes",
+      "display_name": "Wojak Codes (pseudonymous)",
+      "x_username": "wojakcodes",
+      "registry_status": "active",
+      "research_status": "partial",
+      "account_type": "person",
+      "posts_imported": 75,
+      "primary_domain": "ai-engineering-agents"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "infra-cost-audit",
+      "title": "Agent-assisted infra and vendor cost audit for a small SaaS",
+      "total": 74.0,
+      "rank": 1
+    },
+    {
+      "id": "agentic-devops-pipeline",
+      "title": "Issue-to-PR pipeline with a human gate and owner-attributable identity",
+      "total": 66.5,
+      "rank": 2
+    },
+    {
+      "id": "open-core-cli",
+      "title": "Free DevOps CLI with a paid desktop app, shipped slowly",
+      "total": 64.5,
+      "rank": 3
+    },
+    {
+      "id": "cited-runbook-answers",
+      "title": "Cited answers over a team's own Linux and incident notes",
+      "total": 60.5,
+      "rank": 4
+    },
+    {
+      "id": "narrow-workflow-saas",
+      "title": "One narrow workflow tool, kept beside a day job",
+      "total": 58.0,
+      "rank": 5
+    }
+  ],
+  "boards": [
+    {
+      "id": "ai-engineering-agents",
+      "title": "Simulated board — AI engineering & agents",
+      "members": [
+        "aravind-srinivas",
+        "peter-steinberger",
+        "theo-browne",
+        "shubham-saboo",
+        "mckay-wrigley"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "careers-cloud-devops",
+      "title": "Simulated board — careers, education & cloud/DevOps",
+      "members": [
+        "akhilesh-mishra",
+        "suman-chakraborty",
+        "pavan-belagatti",
+        "mukul-lohar",
+        "arnav-gupta"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "creator-economy",
+      "title": "Simulated board — creator economy & audience building",
+      "members": [
+        "dan-koe",
+        "david-ondrej",
+        "alex-finn",
+        "akshay-saini",
+        "harkirat-singh"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "developer-tools-oss",
+      "title": "Simulated board — developer tools & open source",
+      "members": [
+        "tw93",
+        "peter-steinberger",
+        "theo-browne",
+        "tom-dorr",
+        "david-ondrej"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "indie-hacking",
+      "title": "Simulated board — indie hacking & solopreneurship",
+      "members": [
+        "pieter-levels",
+        "piyush-sachdeva",
+        "alex-finn",
+        "lenny-rachitsky",
+        "vatsal-sanghvi"
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "notable_posts": [
+    {
+      "profile": "mckay-wrigley",
+      "url": "https://x.com/mckaywrigley/status/1707101465922453701",
+      "impressions": 11473198,
+      "created_at": "2023-09-27T18:34:40.000Z"
+    },
+    {
+      "profile": "mckay-wrigley",
+      "url": "https://x.com/mckaywrigley/status/1707408491110080602",
+      "impressions": 11109371,
+      "created_at": "2023-09-28T14:54:41.000Z"
+    },
+    {
+      "profile": "gittrend",
+      "url": "https://x.com/GitTrend0x/status/2114152481881989579",
+      "impressions": 10068189,
+      "created_at": "2026-10-25T00:30:05.000Z"
+    },
+    {
+      "profile": "dan-koe",
+      "url": "https://x.com/thedankoe/status/2098813973714149757",
+      "impressions": 5375628,
+      "created_at": "2026-09-12T16:40:20.000Z"
+    },
+    {
+      "profile": "mckay-wrigley",
+      "url": "https://x.com/mckaywrigley/status/2041651309758275609",
+      "impressions": 3959746,
+      "created_at": "2026-04-07T22:56:18.000Z"
+    },
+    {
+      "profile": "dan-koe",
+      "url": "https://x.com/thedankoe/status/2101361833940791607",
+      "impressions": 3501946,
+      "created_at": "2026-09-19T17:24:37.000Z"
+    },
+    {
+      "profile": "dan-koe",
+      "url": "https://x.com/thedankoe/status/2093051293078261973",
+      "impressions": 3096160,
+      "created_at": "2026-08-27T19:01:29.000Z"
+    },
+    {
+      "profile": "dan-koe",
+      "url": "https://x.com/thedankoe/status/2117664712532123680",
+      "impressions": 2949598,
+      "created_at": "2026-11-03T17:06:26.000Z"
+    },
+    {
+      "profile": "peter-steinberger",
+      "url": "https://x.com/steipete/status/2055346265869721905",
+      "impressions": 2750026,
+      "created_at": "2026-05-15T17:55:10.000Z"
+    },
+    {
+      "profile": "nav-toor",
+      "url": "https://x.com/heynavtoor/status/2124499523976483021",
+      "impressions": 2683425,
+      "created_at": "2026-11-22T13:45:32.000Z"
+    }
+  ]
+}

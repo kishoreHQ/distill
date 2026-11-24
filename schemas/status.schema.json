@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://distill.local/schemas/status.schema.json",
+  "title": "Profile research status",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "id",
+    "x_url",
+    "x_user_id",
+    "display_name",
+    "research_status",
+    "posts_read",
+    "limitations",
+    "completeness"
+  ],
+  "properties": {
+    "id": { "type": "string" },
+    "x_url": { "type": "string" },
+    "x_user_id": { "type": "string" },
+    "display_name": { "type": "string" },
+    "research_status": {
+      "enum": ["verified", "partial", "blocked", "unverified", "excluded"]
+    },
+    "posts_read": { "type": "integer", "minimum": 0 },
+    "limitations": { "type": "array", "items": { "type": "string" } },
+    "completeness": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["score", "reason"],
+        "additionalProperties": false,
+        "properties": {
+          "score": { "type": "integer", "minimum": 0, "maximum": 2 },
+          "reason": { "type": "string" }
+        }
+      }
+    }
+  }
+}

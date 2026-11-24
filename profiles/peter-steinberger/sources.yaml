@@ -1,0 +1,200 @@
+- id: S1
+  url: https://x.com/steipete
+  author: Peter Steinberger
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: website
+  description: X profile (API lookup). Bio "Polyagentmorous ClawFather... @OpenClaw + @OpenAI"; San Francisco; ~617k followers; account since 2009; links steipete.me.
+  excerpt: "Came back from retirement to mess with AI and help a lobster take over the world. @OpenClaw🦞 + @OpenAI"
+  original: true
+  confidence: high
+- id: S2
+  url: https://api.github.com/users/steipete
+  author: GitHub (first-party profile data)
+  published: 2026-11-24
+  researched: 2026-11-24
+  type: github
+  description: GitHub profile; company OpenAI; bio says previously founder of PSPDFKit; 228 public repos. Top repos by stars - CodexBar (~23.3k), Aspects (~8.4k), agent-scripts (~7.6k), summarize (~6.9k), agent-rules (~5.7k), oracle (~4.1k), RepoBar (~2.2k), birdclaw (~1.7k); most pushed Nov 2026.
+  excerpt: "Came back from retirement to mess with AI. Clawdfather @OpenClaw. Previously: Founder of @PSPDFKit."
+  original: true
+  confidence: high
+- id: S3
+  url: https://github.com/openclaw/openclaw
+  author: OpenClaw project
+  published: 2025-11-24
+  researched: 2026-11-24
+  type: github
+  description: OpenClaw repo, created 2025-11-24, ~395k stars at research time, actively pushed (2026-11-24).
+  excerpt: "The AI that really does things. Any OS. Any Platform. The lobster way."
+  original: true
+  confidence: high
+- id: S4
+  url: https://steipete.me/posts/2026/openclaw
+  author: Peter Steinberger
+  published: 2026-02-15
+  researched: 2026-11-24
+  type: blog
+  description: Announces joining OpenAI; OpenClaw moves to a foundation and stays open source; says he already built a company for 13 years and prefers building over another company.
+  excerpt: "I'm joining OpenAI to work on bringing agents to everyone. OpenClaw will move to a foundation and stay open and independent."
+  original: true
+  confidence: high
+- id: S5
+  url: https://steipete.me/posts/2025/shipping-at-inference-speed
+  author: Peter Steinberger
+  published: 2025-12-28
+  researched: 2026-11-24
+  type: blog
+  description: Long-form workflow post - CLI-first, rarely reads code, 3-8 parallel projects, commit to main, docs folder + global AGENTS.md, codex vs Opus comparison, oracle CLI, config.toml.
+  excerpt: "Whatever you build, start with the model and a CLI first."
+  original: true
+  confidence: high
+- id: S6
+  url: https://steipete.me/posts/2025/shipping-at-inference-speed
+  author: Peter Steinberger
+  published: 2025-12-28
+  researched: 2026-11-24
+  type: blog
+  description: Same post - claim that most software is boring data-shuffling and output is limited by inference time and hard thinking; design codebases for agents.
+  excerpt: "I don't design codebases to be easy to navigate for me, I engineer them so agents can work in it efficiently."
+  original: true
+  confidence: high
+- id: S7
+  url: https://x.com/steipete/status/2055405041843052792
+  author: Peter Steinberger
+  published: 2026-05-15
+  researched: 2026-11-24
+  type: x_post
+  description: Responds to criticism of his AI spend; frames OpenClaw as an experiment in building software as if tokens don't matter; ~100 codex instances in the cloud reviewing.
+  excerpt: "How would we build software in the future if tokens don't matter? We constant run ~100 codex in the cloud, reviewing"
+  original: true
+  confidence: high
+- id: S8
+  url: https://x.com/steipete/status/2058240758801420530
+  author: Peter Steinberger
+  published: 2026-05-23
+  researched: 2026-11-24
+  type: x_post
+  description: Autotriage skill - guidelines + VISION.md; issues/PRs that fit vision, are inferable, have a clear fix and can be live-tested are worked on autonomously.
+  excerpt: "I built an autotriage skill for codex that has a set of guidelines + reads VISION.md from my repos"
+  original: true
+  confidence: high
+- id: S9
+  url: https://x.com/steipete/status/2055364630709448970
+  author: Peter Steinberger
+  published: 2026-05-15
+  researched: 2026-11-24
+  type: x_post
+  description: Launch of clawpatch 0.1.0 - maps codebase into feature slices, reviews for bugs, records fix attempts with validation.
+  excerpt: "Clawpatch maps codebases into semantic feature slices, reviews them for bugs and quality issues, and records explicit fix attempts with validation."
+  original: true
+  confidence: high
+- id: S10
+  url: https://x.com/steipete/status/2116153238563242385
+  author: Peter Steinberger
+  published: 2026-10-30
+  researched: 2026-11-24
+  type: x_post
+  description: Argues for owning your agent harness rather than relying on vendor-controlled ones.
+  excerpt: "Another reason why you wanna use your own harness and not one where companies change what you can or can't do at will."
+  original: true
+  confidence: high
+- id: S11
+  url: https://x.com/steipete/status/2104305554760114488
+  author: Peter Steinberger
+  published: 2026-09-27
+  researched: 2026-11-24
+  type: x_post
+  description: Plans to let codex decide which tests need to run, cut CI drastically and run tests hourly.
+  excerpt: "My plan is to let codex decide which tests actually need to run and drastically nix CI and run tests hourly."
+  original: true
+  confidence: high
+- id: S12
+  url: https://x.com/steipete/status/2107697554448421160
+  author: Peter Steinberger
+  published: 2026-10-07
+  researched: 2026-11-24
+  type: x_post
+  description: Team claw hooked to X; agent routes unassigned sessions by finding who last touched the related code; built via a prompt and hot-reloadable plugins.
+  excerpt: "Our agent looks who worked on the related code last and pings people on the server. Whole thing was a prompt"
+  original: true
+  confidence: high
+- id: S13
+  url: https://x.com/steipete/status/2118116514700386439
+  author: Peter Steinberger
+  published: 2026-11-04
+  researched: 2026-11-24
+  type: x_post
+  description: Suggests projects should be represented by an agent that runs loops and evolves the codebase while humans curate automations.
+  excerpt: "The humans merely curate the automations."
+  original: true
+  confidence: high
+- id: S14
+  url: https://x.com/steipete/status/2121009372470067544
+  author: Peter Steinberger
+  published: 2026-11-12
+  researched: 2026-11-24
+  type: x_post
+  description: Warns that marketers pay creators to praise a launching agent on X; look for honest reviews.
+  excerpt: "marketers offer a lot of money to say nice things about it on X. Keep a lookout on honest reviews"
+  original: true
+  confidence: high
+- id: S15
+  url: https://x.com/steipete/status/2109724776168300631
+  author: Peter Steinberger
+  published: 2026-10-12
+  researched: 2026-11-24
+  type: x_post
+  description: Rejects the "vibe coding" label for agentic engineering.
+  excerpt: "said that last year, saying it again. vibes coding is a slur."
+  original: true
+  confidence: high
+- id: S16
+  url: https://x.com/steipete/status/2112913060709228764
+  author: Peter Steinberger
+  published: 2026-10-21
+  researched: 2026-11-24
+  type: x_post
+  description: Claims a major PHP vulnerability was found using an OpenAI model (he is an OpenAI employee).
+  excerpt: "That PHP vulnerability that's gonna cause havoc this week was found with… GPT‑5.6 Sol."
+  original: true
+  confidence: medium
+- id: S17
+  url: https://x.com/steipete/status/2058093406874689770
+  author: Peter Steinberger
+  published: 2026-05-23
+  researched: 2026-11-24
+  type: x_post
+  description: Tool split - codex mac app for knowledge work/learning/reading; cmux + codex CLI for coding.
+  excerpt: "current split: codex mac app: knowledege work, learning, reading cmux + codex cli: coding"
+  original: true
+  confidence: high
+- id: S18
+  url: https://x.com/steipete/status/2055402519841411165
+  author: Peter Steinberger
+  published: 2026-05-15
+  researched: 2026-11-24
+  type: x_post
+  description: Recommends Svelte as simpler alternative to React that Codex handles well.
+  excerpt: "it's quite a nice alternative to React, fewer gotchas and complexity and Codex handles it really well."
+  original: true
+  confidence: high
+- id: S19
+  url: https://x.com/steipete/status/1856987547001327856
+  author: Peter Steinberger
+  published: 2024-11-14
+  researched: 2026-11-24
+  type: x_post
+  description: Late-2024 sample - posts mostly about Apple platform/dev tooling, gaming, politics; early AI tool praise ("Cursor really pushes the industry forward").
+  excerpt: "Cursor really pushes the industry forward."
+  original: true
+  confidence: high
+- id: S20
+  url: https://x.com/steipete/status/2105712707592679619
+  author: Peter Steinberger
+  published: 2026-10-01
+  researched: 2026-11-24
+  type: x_post
+  description: Notes platform dependency risk - Apple's new dev agreement blocked lockstep OSS releases across platforms.
+  excerpt: "All my oss releases stopped because Apple put up a new dev agreement."
+  original: true
+  confidence: high

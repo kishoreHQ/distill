@@ -1,0 +1,61 @@
+{
+  "id": "mckay-wrigley",
+  "x_url": "https://x.com/mckaywrigley",
+  "x_user_id": "2786431437",
+  "display_name": "Mckay Wrigley",
+  "research_status": "verified",
+  "posts_read": 89,
+  "posts_by_band": {
+    "last_6mo": 13,
+    "6_24mo": 25,
+    "older": 51
+  },
+  "longform_fetched": 4,
+  "last_post_id": "2123961058532757790",
+  "limitations": [
+    "Only 13 original posts found in last 6 months (low volume or search coverage)",
+    "Takeoff→MagicLearn rename from third-party source only",
+    "No podcast/YouTube transcripts fetched",
+    "X min_likes filter appeared unreliable; older bands are date-window samples"
+  ],
+  "completeness": {
+    "identity": {
+      "score": 2,
+      "reason": "X↔GitHub↔site cross-linked"
+    },
+    "source_coverage": {
+      "score": 1,
+      "reason": "X across 2020-2026 + GitHub/site; no transcripts"
+    },
+    "expertise": {
+      "score": 2,
+      "reason": "clear from repos + posts"
+    },
+    "principles": {
+      "score": 2,
+      "reason": "repeated across years"
+    },
+    "frameworks": {
+      "score": 1,
+      "reason": "mostly tactics, few explicit frameworks"
+    },
+    "playbooks": {
+      "score": 1,
+      "reason": "derived, not from his long-form courses"
+    },
+    "evidence": {
+      "score": 2,
+      "reason": "every claim cited"
+    },
+    "limitations": {
+      "score": 2,
+      "reason": "hype/prediction + COI noted"
+    },
+    "applications": {
+      "score": 2,
+      "reason": "specific to Kishore"
+    }
+  },
+  "sources_count": 24,
+  "researched_at": "2026-11-24T15:30:00+05:30"
+}

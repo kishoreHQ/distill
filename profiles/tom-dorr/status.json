@@ -1,0 +1,60 @@
+{
+  "id": "tom-dorr",
+  "x_url": "https://x.com/tom_doerr",
+  "x_user_id": "1326180756310331399",
+  "display_name": "Tom Dörr",
+  "research_status": "verified",
+  "posts_read": 120,
+  "posts_by_band": {
+    "last_6mo": 70,
+    "6_24mo": 25,
+    "older": 25
+  },
+  "longform_fetched": 4,
+  "last_post_id": "2123955189270880748",
+  "limitations": [
+    "Timeline is mostly automated repo summaries; very few first-party opinions",
+    "No verified employer/role",
+    "Older bands are narrow date samples (min_likes filter unreliable)"
+  ],
+  "completeness": {
+    "identity": {
+      "score": 2,
+      "reason": "GitHub↔X cross-link"
+    },
+    "source_coverage": {
+      "score": 1,
+      "reason": "X + GitHub + site; no interviews"
+    },
+    "expertise": {
+      "score": 1,
+      "reason": "inferred mostly from repos"
+    },
+    "principles": {
+      "score": 1,
+      "reason": "few first-party opinions"
+    },
+    "frameworks": {
+      "score": 1,
+      "reason": "pipeline reconstructed from README"
+    },
+    "playbooks": {
+      "score": 2,
+      "reason": "E1 grounded in README + observed cadence"
+    },
+    "evidence": {
+      "score": 2,
+      "reason": "all claims cited"
+    },
+    "limitations": {
+      "score": 2,
+      "reason": "feed nature + dual-use risk noted"
+    },
+    "applications": {
+      "score": 2,
+      "reason": "specific"
+    }
+  },
+  "sources_count": 18,
+  "researched_at": "2026-11-24T15:30:00+05:30"
+}

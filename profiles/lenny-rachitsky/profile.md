@@ -1,0 +1,81 @@
+---
+id: lenny-rachitsky
+display_name: Lenny Rachitsky
+x_username: lennysan
+x_url: https://x.com/lennysan
+x_user_id: "7958322"
+other_identities: [https://www.lennysnewsletter.com, https://linktr.ee/lennyspodcast]
+website: https://www.lennysnewsletter.com
+organization: Lenny's Newsletter / Lenny's Podcast
+role: Author and podcast host (newsletter + podcast)
+research_date: 2026-11-24
+confidence: high
+account_type: person
+primary_domain: startup-building
+secondary_domains: [content-creation, productivity]
+board_eligibility: [startup, creator, master]
+status: verified
+---
+
+# Lenny Rachitsky (@lennysan)
+
+## A. Identity
+- X @lennysan (id 7958322, since 2007), Bay Area, ~463k followers; "Deeply researched product, growth, and career advice" [S1].
+- Runs Lenny's Newsletter + Podcast (claims 1,000,000+ subscribers; paid tier with Slack community 30k+, Product Pass bundle, jobs board, "How I AI", Lennybot) [S2].
+- Confidence: high.
+
+## B. Expertise map
+- Primary: product management, growth, startup strategy - mostly as curator/interviewer of operators [S2][S3].
+- Secondary: building a media business (paid newsletter + podcast + workshops + bundles) [S2][S9]; creator productivity (saying no) [S10].
+- Communities: product managers, founders, growth leaders; AI-native product teams.
+- Note: Much of his content transmits guests' ideas (Atlassian, Google Labs, Linear). Those are labelled as guest statements.
+
+## C. Core philosophy
+- AI: Skeptical of hype; collects "genuine, repeatable" AI workflows [S6]; showcases both "operate like a labs team" [S11] and "nothing has really changed" [S12].
+- Entrepreneurship: Durable moats = compounding advantages; distribution/execution/brand are not moats [S3].
+- Product: Direction > throughput in the AI era [S5]; prototype-first ("row, then steer") [S4]; AI simulations for idea testing [S7].
+- Productivity: Protect output cadence by saying no [S10].
+- Monetization: Paid subscription + bundled perks + workshops + jobs [S2][S9].
+
+## D. Distilled knowledge
+- Framework (guest, Dan Hockenmaier): four compounding advantages - switching costs, network effects, scale economies, data effects; check which one a startup could build, how strong, and whether it's working [observed statement] [S3].
+- Framework (guest, Tamar Yehoshua): Row (vibe-code alpha) -> show pull -> add engineers -> Steer [observed statement, secondary] [S4].
+- Insight (guest, Sherif Mansour): All-builder teams reverted because direction, not throughput, was the bottleneck [observed statement, secondary] [S5].
+- Tactic: Package content as runnable AI skills (moat-check skill) [demonstrated result - shipped] [S8].
+- Tactic: Crowdsource real workflows to cut hype (Hype(less)) [observed statement] [S6].
+- Business result: 75,000+ workshop registrations for AI-Native PM series [demonstrated result - registrations, not revenue] [S9]; 1M+ subscribers (self-reported) [S2].
+- Trend: synthetic users/AI simulations for product testing [observed statement] [S7].
+
+## E. Implementation playbooks
+### E1. One-hour moat check before building or joining (derived from [S3])
+- Problem: Building products that are easy to copy in the AI era.
+- Preconditions: A product idea or company.
+- Tools: Spreadsheet or the moat-check skill [S8].
+- Steps: 1) Which of the 4 compounding advantages could exist? 2) How strong could it become? 3) What metric proves it (retention for switching costs, engagement per user for network effects, unit cost trend for scale, model quality gains for data)? 4) No credible advantage -> treat as cash-flow micro-product, not a venture.
+- Cost: 0. Time: 1 h. Complexity: low.
+- Risks: False confidence; benchmarks are directional.
+- Success metric: Every DISTILL opportunity has a documented moat verdict.
+
+### E2. Content -> skill packaging (derived from [S8])
+- Problem: Turning articles into reusable, shareable value.
+- Steps: For each strong framework article, publish a SKILL.md/prompt that runs it; link both ways. Cost: 0. Time: 1-2 h per skill. Metric: skill downloads, signups.
+
+### E3. Row-then-steer prototyping (derived from [S4])
+- Steps: Vibe-code alpha alone -> test with 5-10 users -> only add effort/engineers when pull is measurable.
+
+## F. Evidence summary
+- 100 X posts (50 recent Jun-Nov 2026, 25 Feb 2026, 25 May 2024); 1 long-form page fetched + several long X notes; podcast transcripts not fetched. 12 sources.
+
+## G. Strengths and weaknesses
+- Strengths: breadth of operator access; curation quality; demonstrated media-business scale [S2][S9].
+- Limitations: many insights are second-hand (guests); not a hands-on engineer; Bay Area/big-company bias (e.g., jobs concentration posts).
+- Conflicts: sponsors, paid bundle partners (Product Pass), workshop partner Maven - promotional posts interleaved [S2][S9].
+
+## H. Practical applications for Kishore
+1. Startup: Run the moat check on every DISTILL opportunity; label no-moat ideas as cash-flow experiments [S3].
+2. Content: Ship frameworks as runnable skills - DISTILL's skills could be public lead magnets [S8].
+3. AI workflows: Use "direction > throughput" as a guardrail - DISTILL should prioritize decision quality, not more output [S5].
+- Board eligibility: startup (frameworks), creator (proven newsletter/podcast business), master (synthesizes many operators; skeptic voice on hype).
+
+## I. Profile evolution
+- 2026-11-24 baseline. May 2024: classic PM/growth content, podcast logistics, saying no [S10]. Feb 2026: heavy AI-PM focus (Claude Code team, AI-Native PM workshops) [S9]. Oct-Nov 2026: AI-era moats, hype skepticism, AI simulations, packaging content as skills, role-convergence debate [S3][S5][S6][S7][S8].
