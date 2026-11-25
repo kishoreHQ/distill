@@ -8,7 +8,7 @@ other_identities: [https://levels.io, https://github.com/levelsio, https://readm
 website: https://levels.io
 organization: Solo founder (Nomads.com, Remote OK, Photo AI, Interior AI, Hoodmaps)
 role: Solo bootstrapped founder / developer
-research_date: 2026-11-24
+research_date: 2026-11-25
 confidence: high
 account_type: person
 primary_domain: startup-building
@@ -35,6 +35,7 @@ status: verified
 - **Communities:** indie hackers / build-in-public X, digital nomads.
 
 ## C. Core philosophy
+- **2026-11-25.** The anti-AI-reply-spam line is now a spend he states, not only a block list. He writes that he is spending about $600/day to block AI spammers [S18]. That number is his, and it is not a forecast. He says he will submit a detection algorithm to X [S19], and he credits an X delay on auto-replies as a first fix [S20]. [observed statement]
 - **Entrepreneurship:** ship many small bets; most fail (~5% hit rate) so volume matters [S8]. Projects should start as play without success pressure [S7].
 - **Monetization:** charge early via simple payment links; validate before building out [S11]. Self-serve billing and refunds to avoid human support [S4].
 - **Automation:** aim for "100% automation" with zero employees; scheduled LLM scripts replace roles such as moderation and sales [S4]. Every inbound email should be LLM-triaged [S10].
@@ -42,6 +43,7 @@ status: verified
 - **AI and markets (2026 view):** most SaaS cannot survive general AI from big labs; "riches in the niches" no longer a moat — and he says he is unsure even of survivors [S6].
 
 ## D. Distilled knowledge
+- **Tools, 2026-11-25.** An AI-spam detector he says he will hand to X [S19]. No code for it is in this repo. Do not treat the $600/day line [S18] as a cost-audit result. It is a different spend from the vendor-bill post [S3].
 - **Principles**
   - Ship more; expect ~95% of projects to fail [observed statement][S8].
   - Do not put success requirements on new projects; let them start as play [observed statement][S7].
@@ -91,7 +93,8 @@ status: verified
 - **Success metric:** monthly spend delta.
 
 ## F. Evidence summary
-- 17 sources in sources.yaml (8 blog/website, 8 X posts, 1 GitHub). 116 X posts read (posts.jsonl) across 2023-02 → 2026-11.
+- **2026-11-25 refresh.** Appended 106 posts (106 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 1 collected ids were already stored. `posts.jsonl` now has 222 rows.
+- Baseline sample: 17 sources (8 blog/website, 8 X posts, 1 GitHub) and 116 X posts across 2023-02 → 2026-11. S18–S20 were added 2026-11-25.
 - Top sources: [S3] cost audit, [S4] automation stack, [S5] VPS agent workflow, [S8] hit rate, [S6] SaaS-vs-AI view.
 
 ## G. Strengths and weaknesses
@@ -116,3 +119,4 @@ status: verified
 - 2023: riding image models (Photo AI) with public MRR posts; validation-first micro launches [S11][S12].
 - 2024: formalized "0 humans, 100% automation" stack [S4].
 - 2026: moved to agent-on-VPS coding, bypass permissions [S5][S9]; agent-led cost cutting [S3]; new pessimism that most SaaS can't survive AI [S6]; anti-AI-reply-spam campaign on X [S14].
+- **2026-11-25.** Focus shift within the same anti-spam theme: from the block list [S14] to a self-reported $600/day block (https://x.com/levelsio/status/2125196511126737341) [S18] and a promised detector submission (https://x.com/levelsio/status/2125207815132434577) [S19]. The nomad-wave post in this collection was already in `posts.jsonl`, so it is not a new position.

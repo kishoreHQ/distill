@@ -188,3 +188,13 @@
   excerpt: "This repository contains the notes and code snippets of the CKA 2025 YouTube Playlist."
   original: true
   confidence: "high"
+- id: S20
+  url: https://x.com/techie_piyush/status/2125300162746814712
+  author: "Piyush Sachdeva"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "Reply pitching his tool as a Manychat alternative that is also Buffer, analytics, and a carousel builder, and cheaper than Manychat. No new MRR figure in the text. Self-promotion."
+  excerpt: "its not only Manychat alternative, its manychat + buffer + analytics + carousel builder"
+  original: true
+  confidence: high

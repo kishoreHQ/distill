@@ -1,61 +1,66 @@
 {
-  "id": "mukul-lohar",
-  "x_url": "https://x.com/ironfisto",
-  "x_user_id": "990528957953986562",
-  "display_name": "Mukul Lohar",
-  "research_status": "verified",
-  "posts_read": 65,
-  "posts_by_band": {
-    "last_6mo": 40,
-    "6_24mo": 0,
-    "older": 25
+ "id": "mukul-lohar",
+ "x_url": "https://x.com/ironfisto",
+ "x_user_id": "990528957953986562",
+ "display_name": "Mukul Lohar",
+ "research_status": "verified",
+ "posts_read": 68,
+ "posts_by_band": {
+  "last_6mo": 40,
+  "6_24mo": 0,
+  "older": 25,
+  "refresh_2026_11_25_daily": 3,
+  "refresh_2026_11_25_deepen": 0
+ },
+ "longform_fetched": 4,
+ "last_post_id": "2125252188113191170",
+ "limitations": [
+  "No 6-24mo X posts retrieved (search returned none for the window)",
+  "ServiceNow current vs former conflicts between site and X bio",
+  "LiveShortly role not explicitly stated",
+  "Medium blog not read",
+  "2026-11-25 append is a date window, not a full timeline. Added 3; 0 collected ids were already in the file."
+ ],
+ "completeness": {
+  "identity": {
+   "score": 2,
+   "reason": "site+GitHub+X"
   },
-  "longform_fetched": 4,
-  "last_post_id": "2124901701161476504",
-  "limitations": [
-    "No 6-24mo X posts retrieved (search returned none for the window)",
-    "ServiceNow current vs former conflicts between site and X bio",
-    "LiveShortly role not explicitly stated",
-    "Medium blog not read"
-  ],
-  "completeness": {
-    "identity": {
-      "score": 2,
-      "reason": "site+GitHub+X"
-    },
-    "source_coverage": {
-      "score": 1,
-      "reason": "thin X"
-    },
-    "expertise": {
-      "score": 2,
-      "reason": "CVE verified"
-    },
-    "principles": {
-      "score": 1,
-      "reason": "few statements"
-    },
-    "frameworks": {
-      "score": 1,
-      "reason": "product-derived"
-    },
-    "playbooks": {
-      "score": 1,
-      "reason": "inferred"
-    },
-    "evidence": {
-      "score": 2,
-      "reason": "cited"
-    },
-    "limitations": {
-      "score": 2,
-      "reason": "noted"
-    },
-    "applications": {
-      "score": 2,
-      "reason": "DevOps-specific"
-    }
+  "source_coverage": {
+   "score": 1,
+   "reason": "thin X"
   },
-  "sources_count": 11,
-  "researched_at": "2026-11-24T15:30:00+05:30"
+  "expertise": {
+   "score": 2,
+   "reason": "CVE verified"
+  },
+  "principles": {
+   "score": 1,
+   "reason": "few statements"
+  },
+  "frameworks": {
+   "score": 1,
+   "reason": "product-derived"
+  },
+  "playbooks": {
+   "score": 1,
+   "reason": "inferred"
+  },
+  "evidence": {
+   "score": 2,
+   "reason": "cited"
+  },
+  "limitations": {
+   "score": 2,
+   "reason": "noted"
+  },
+  "applications": {
+   "score": 2,
+   "reason": "DevOps-specific"
+  }
+ },
+ "sources_count": 11,
+ "researched_at": "2026-11-24T15:30:00+05:30",
+ "last_refresh": "2026-11-25T00:25:39Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-25. Window start 2026-11-23T22:21:18Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters."
 }

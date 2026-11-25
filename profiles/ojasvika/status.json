@@ -4,21 +4,24 @@
  "x_user_id": "1460656460103258122",
  "display_name": "Ojasvika (Oz)",
  "research_status": "partial",
- "posts_read": 76,
+ "posts_read": 77,
  "posts_by_band": {
   "0-6mo": 51,
-  "6-24mo": 25
+  "6-24mo": 25,
+  "refresh_2026_11_25_daily": 1,
+  "refresh_2026_11_25_deepen": 0
  },
  "longform_fetched": 1,
  "sources_count": 11,
- "last_post_id": "2125111914527408234",
+ "last_post_id": "2125128168520798453",
  "researched_at": "2026-11-24T14:25:00+05:30",
  "x_calls_used_note": "batch A shared budget; see batch-A-summary.md",
  "limitations": [
   "Surname not found",
   "Product site JS-rendered; only title retrievable",
   "Early-stage; traction metrics self-reported",
-  "X sample only reaches back to Oct 2025 (3 windows)"
+  "X sample only reaches back to Oct 2025 (3 windows)",
+  "2026-11-25 append is a date window, not a full timeline. Added 1; 1 collected ids were already in the file."
  ],
  "completeness": {
   "identity": {
@@ -59,5 +62,7 @@
   }
  },
  "completeness_total": 10,
- "completeness_max": 18
+ "completeness_max": 18,
+ "last_refresh": "2026-11-25T00:25:39Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-25. Window start 2026-11-23T22:21:18Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters."
 }

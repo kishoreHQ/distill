@@ -88,3 +88,13 @@
   excerpt: "every task needs to be evaluated on two dimensions urgency and importance"
   original: true
   confidence: high
+- id: S10
+  url: https://x.com/vatsal_sanghvi/status/2125270499425243214
+  author: "Vatsal Sanghvi"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "One line. The other new rows in this window are replies and personal notes, not a product update."
+  excerpt: "It’s okay to have work as a primary identity"
+  original: true
+  confidence: high

@@ -188,3 +188,43 @@
   excerpt: "thoughts on tech and content. usually goes to twitter, sometimes here."
   original: true
   confidence: high
+- id: S20
+  url: https://x.com/theo/status/2125316769858683312
+  author: "Theo Browne (Theo - t3.gg)"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He says T3 Code's source will be closed that night because people are not responsible with open source."
+  excerpt: "Lesson learned. We will close the source of T3 Code tonight."
+  original: true
+  confidence: high
+- id: S21
+  url: https://x.com/theo/status/2125317722552889353
+  author: "Theo Browne (Theo - t3.gg)"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "Minutes later he walks the close-source line back and calls it an overreaction."
+  excerpt: "We won’t actually do this btw. It would be a massive overreaction."
+  original: true
+  confidence: high
+- id: S22
+  url: https://x.com/theo/status/2125318643357745548
+  author: "Theo Browne (Theo - t3.gg)"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He says the invasive telemetry was removed and points at a PR. The PR body is not stored here."
+  excerpt: "I just removed all the invasive telemetry from T3 Code."
+  original: true
+  confidence: high
+- id: S23
+  url: https://x.com/theo/status/2125325775247376693
+  author: "Theo Browne (Theo - t3.gg)"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He treats remote code execution as the purpose of T3 Code, in reply to concern about that capability."
+  excerpt: "you know the point of T3 Code is to execute code remotely, right?"
+  original: true
+  confidence: high

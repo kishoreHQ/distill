@@ -26,3 +26,13 @@ Drawn from `knowledge/tools.yaml` and the source ledger. A name here means a cit
 ## Not a buying list
 
 Julian Goldie, Nav Toor, and the aggregator accounts name many tools in a promotional or feed format. Those mentions are not copied into this list unless a first-party source above also discusses the tool. Sponsored-post status is often unknown because the bundles say the paid-partnership field was not requested.
+
+## 2026-11-25 names
+
+- **Gemini 4 Neon.** Srinivas says usage inside Perplexity crossed 120B tokens and that the harness will be adjusted for formatting and duration [aravind-srinivas S26]. His number.
+- **Workspace MCP.** Saboo's GA post includes human-in-the-loop and DLP [shubham-saboo S14].
+- **Mole.** Cleanup of AI-tool residue [tw93 S15]. The same day he says he wants a no-AI editor for reading code and diffs [tw93 S16].
+- **snowOps.** Mishra's Kubernetes incident games [akhilesh-mishra S15].
+- **OpenClaw memory.** Steinberger describes an early fork he says uses much less memory [peter-steinberger S21], and he says to read the git repo rather than rename rumors [peter-steinberger S22].
+
+Aggregator posts also named Cursor rule packs, local search, and agent-skill repos. Those stay in the aggregator profiles. They are not recommendations.

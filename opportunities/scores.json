@@ -68,6 +68,7 @@
         }
       ],
       "non_claims": [
+        "Levels' 2026-11-24 line of about $600/day to block AI spammers is a different, self-reported spend. It is not an audit result and does not change this score.",
         "Not a claim that Kishore can save a client $34k a month.",
         "Not a claim that Levels endorsed this offer."
       ],
@@ -77,7 +78,7 @@
       "id": "agentic-devops-pipeline",
       "title": "Issue-to-PR pipeline with a human gate and owner-attributable identity",
       "file": "opportunities/agentic-devops-pipeline.yaml",
-      "as_of": "2026-11-24",
+      "as_of": "2026-11-25",
       "status": "hypothesis",
       "domains": [
         "careers-cloud-devops",
@@ -147,6 +148,18 @@
           "source": "S5",
           "url": "https://github.com/t3dotgg/tstack",
           "note": "Ledger excerpt says a skill gets review from three models and loops until they agree."
+        },
+        {
+          "profile": "suman-chakraborty",
+          "source": "S10",
+          "url": "https://x.com/itsmesumanc/status/2125179626670711003",
+          "note": "He asks who is paged if an agent can write, review, and click Approve."
+        },
+        {
+          "profile": "shubham-saboo",
+          "source": "S14",
+          "url": "https://x.com/Saboo_Shubham_/status/2125298072188231810",
+          "note": "Employer post. Workspace MCP GA includes a human-in-the-loop control."
         }
       ],
       "non_claims": [

@@ -88,3 +88,13 @@
   excerpt: "A very detailed collection of #production #kuberenetes issues"
   original: true
   confidence: high
+- id: S10
+  url: https://x.com/itsmesumanc/status/2125179626670711003
+  author: "Suman Chakraborty"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He says Anthropic launched Claude Ship so agents can write, review, and click Approve on GitHub, and asks who is paged in an incident."
+  excerpt: "when production catches fire at 3 AM on a Friday, is Claude getting paged or am I?"
+  original: true
+  confidence: high

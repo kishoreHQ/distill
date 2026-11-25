@@ -1,7 +1,7 @@
 id: developer-tools-oss
 title: Simulated board — developer tools & open source
 domain: developer-tools-oss
-as_of: "2026-11-24"
+as_of: "2026-11-25"
 disclaimer: "SIMULATED ADVISORY BOARD. The real people named here have not joined this board, have not been contacted, and have not endorsed DISTILL, Kishore, or any recommendation in this file. Positions below are paraphrases of their public posts and pages, with citations. They are not quotes of private advice."
 charter: >
   This simulated board looks at public notes on CLIs, open source, and agent
@@ -14,7 +14,7 @@ members:
   - profile_id: tw93
     reason: First-party account of Mole and Pake. The free CLI / paid app split is in his own words.
     position: >
-      The Pake launch post says the open-source CLI stays free and the native app is one purchase [tw93 S7]. The Mole essay, in the ledger's description, says he did support by hand first [tw93 S4]. The Chinese excerpt at [tw93 S3] says not to trust a prompt alone for a rule the agent must obey.
+      The Pake launch post says the open-source CLI stays free and the native app is one purchase [tw93 S7]. The Mole essay, in the ledger's description, says he did support by hand first [tw93 S4]. The Chinese excerpt at [tw93 S3] says not to trust a prompt alone for a rule the agent must obey. On 2026-11-24 he says Mole now cleans leftover AI-tool state [tw93 S15], and he says he wants a no-AI editor for reading code and diffs [tw93 S16].
     evidence:
       - source: S7
         url: https://x.com/HiTw93/status/2122339080101060730
@@ -22,6 +22,10 @@ members:
         url: https://tw93.fun/2026-08-16/mole-mac.html
       - source: S3
         url: https://tw93.fun/2026-10-29/practice.html
+      - source: S15
+        url: https://x.com/HiTw93/status/2125172384202371402
+      - source: S16
+        url: https://x.com/HiTw93/status/2125150540837650573
   - profile_id: peter-steinberger
     reason: CLI-first essay and a large open-source agent project in the ledger.
     position: >
@@ -34,12 +38,16 @@ members:
   - profile_id: theo-browne
     reason: T3 Code is an open-source control plane for coding agents in the ledger.
     position: >
-      The T3 Code README excerpt calls it an open-source control plane for coding agents [theo-browne S3]. He also asks, in a short post, whether people still use IDEs [theo-browne S18]. That is a stance, not a survey.
+      The T3 Code README excerpt calls it an open-source control plane for coding agents [theo-browne S3]. On 2026-11-24 he said the source would close and then said it would not [theo-browne S20] [theo-browne S21], and he said invasive telemetry was removed [theo-browne S22]. He also asks, in a short post, whether people still use IDEs [theo-browne S18]. That is a stance, not a survey.
     evidence:
       - source: S3
         url: https://github.com/pingdotgg/t3code
       - source: S18
         url: https://x.com/theo/status/2057642235932643744
+      - source: S21
+        url: https://x.com/theo/status/2125317722552889353
+      - source: S22
+        url: https://x.com/theo/status/2125318643357745548
   - profile_id: tom-dorr
     reason: Most of his timeline is an automated repository feed, which is itself a devtool, and he has a few first-party opinions.
     position: >

@@ -178,3 +178,23 @@
   excerpt: "These are Julian Goldie’s own published figures, and the results behind them are shown on his YouTube channel."
   original: true
   confidence: "high"
+- id: S19
+  url: https://x.com/JulianGoldieSEO/status/2125363847003533703
+  author: "Julian Goldie"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "His own disclaimer on an AI SEO thread: educational only, results not typical, no promise of results."
+  excerpt: "No rankings or income are guaranteed."
+  original: true
+  confidence: high
+- id: S20
+  url: https://x.com/JulianGoldieSEO/status/2125227948261462092
+  author: "Julian Goldie"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He opens a Grok Bot income-ideas thread with this line. It is his claim. This repo does not treat it as verified wealth."
+  excerpt: "I'm a millionaire."
+  original: true
+  confidence: medium

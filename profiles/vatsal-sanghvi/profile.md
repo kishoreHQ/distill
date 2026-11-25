@@ -8,7 +8,7 @@ other_identities: [https://ugcpulse.app]
 website: https://ugcpulse.app
 organization:            # self-described agent-led consumer app studio; name not verified
 role:                    # self-described "chief distribution officer" (bio wording); not verified
-research_date: 2026-11-24
+research_date: 2026-11-25
 confidence: medium
 account_type: person
 primary_domain: startup-building
@@ -31,6 +31,7 @@ status: partial
 - Communities: Bengaluru startup scene; Gujarat manufacturing contacts (offers RL-data access) (see posts.jsonl 2026-11-15).
 
 ## C. Core philosophy
+- **2026-11-25.** "It’s okay to have work as a primary identity" [S10] (https://x.com/vatsal_sanghvi/status/2125270499425243214). The other new rows are weather, replies, and a personal note about a friendship. None of them update the automation rule [S3]. Research status stays partial. [observed statement]
 - Growth: a muscle, not a hack; do the work manually first, then automate [S3].
 - Automation/AI: agents amplify an execution motion; human direction remains the bottleneck [S3][S6].
 - Entrepreneurship: bootstrapped cash-flow positivity is hard [S7]; app-factory approach (clone a winning category with AI-first version) [S4].
@@ -60,6 +61,7 @@ status: partial
 - Cost: AI video tools + small ad spend. Complexity: medium. Risks: platform policy on AI UGC; ad fatigue. Metric: CTR, install CPA.
 
 ## F. Evidence summary
+- **2026-11-25 refresh.** Appended 11 posts (11 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 2 collected ids were already stored. `posts.jsonl` now has 82 rows.
 - 71 X posts (46 Sep-Nov 2026, 25 Mar 2026); account only since Mar 2025 so no older band. 1 long-form (ugcpulse.app). 9 sources.
 
 ## G. Strengths and weaknesses
@@ -75,3 +77,4 @@ status: partial
 
 ## I. Profile evolution
 - 2026-11-24 baseline. Mar 2026: studio/holdco models, viral-app anatomy, AI UGC creative workflow, bootstrapping pain [S4][S5][S7][S8]. Sep-Nov 2026: growth-as-muscle thread, solo-with-agents bottleneck, manufacturing RL-data offer, more personal posts [S3][S6].
+- **2026-11-25.** Not promoted. The window does not add a product or a revenue line.

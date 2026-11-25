@@ -8,7 +8,7 @@ other_identities: [https://ko-fi.com/githubprojects]
 website: https://ko-fi.com/githubprojects
 organization:            # unofficial; operator not identified
 role:
-research_date: 2026-11-24
+research_date: 2026-11-25
 confidence: medium
 account_type: aggregator
 primary_domain: ai-engineering
@@ -34,6 +34,7 @@ status: verified
 - No evidence found (aggregator). Implicit editorial stance: "open-source alternative to paid tool" [S6].
 
 ## D. Distilled knowledge
+- **2026-11-25.** Feed, not a biography. One fresh item is Awesome Cursor Rules, ready-made `.mdc` files [S8] (https://x.com/GithubProjects/status/2125204795527205362). Other fresh blurbs name a local full-text search engine, macOS-on-arm64-Linux without a hypervisor, and porting slow functions to Rust. Those repos were not reviewed. OpenComputer in the collection was already stored. [observed statement]
 - [our interpretation] Useful as a discovery feed for: agent skills, doc->skill converters, local/private AI agents, self-hostable ops tools [S3][S4][S5].
 - [observed statement] Hook format used repeatedly: "<capability> + open-source + link", or "Stop paying for X, use this" [S6]. Recycled memes for engagement [S7].
 - No principles/frameworks attributable to a person.
@@ -50,6 +51,7 @@ status: verified
 - Success metric: % of surfaced tools Kishore actually trials.
 
 ## F. Evidence summary
+- **2026-11-25 refresh.** Appended 7 posts (7 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 3 collected ids were already stored. `posts.jsonl` now has 82 rows.
 - 75 X posts (25 Nov 2026, 25 Mar 2026, 25 May 2025); 1 long-form (Ko-fi page). 7 sources.
 
 ## G. Strengths and weaknesses
@@ -63,3 +65,4 @@ status: verified
 
 ## I. Profile evolution
 - 2026-11-24 baseline. 2025 sample: broader dev/DB/AI tools (Dify, Whisper, Airflow); 2026: more agent skills, Claude-related tools, local AI agents, self-hosting.
+- **2026-11-25.** Aggregator cadence unchanged. Three of ten collected ids were duplicates.

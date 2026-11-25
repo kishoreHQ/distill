@@ -1,7 +1,7 @@
 id: careers-cloud-devops
 title: Simulated board — careers, education & cloud/DevOps
 domain: careers-cloud-devops
-as_of: "2026-11-24"
+as_of: "2026-11-25"
 disclaimer: "SIMULATED ADVISORY BOARD. The real people named here have not joined this board, have not been contacted, and have not endorsed DISTILL, Kishore, or any recommendation in this file. Positions below are paraphrases of their public posts and pages, with citations. They are not quotes of private advice."
 charter: >
   This simulated board is for the DevOps and career slice of the corpus.
@@ -27,21 +27,25 @@ members:
   - profile_id: suman-chakraborty
     reason: Solutions architect with public Kubernetes talks. X itself is marked low-signal in the batch summary. Research status is partial.
     position: >
-      The KubeCon listing is a clinic on API-server performance past default settings for clusters the listing describes as 10k+ pods [suman-chakraborty S2]. A separate recap names a CRIU checkpointing talk [suman-chakraborty S3]. His X posts in the ledger are mostly certificates and talk announcements. The partial status stands.
+      The KubeCon listing is a clinic on API-server performance past default settings for clusters the listing describes as 10k+ pods [suman-chakraborty S2]. A separate recap names a CRIU checkpointing talk [suman-chakraborty S3]. His X posts in the ledger are mostly certificates and talk announcements. On 2026-11-24 he asks who is paged if an agent can click Approve [suman-chakraborty S10]. The partial status stands.
     evidence:
       - source: S2
         url: https://kccncind2026.sched.com/event/2IW4Z/kubernetes-api-server-performance-clinic-auditing-and-priority-fairness-in-production-neel-shah-middleware-suman-chakraborty-platform9-systems
       - source: S3
         url: https://cast.ai/blog/kubecon-india-2025/
+      - source: S10
+        url: https://x.com/itsmesumanc/status/2125179626670711003
   - profile_id: pavan-belagatti
     reason: Public "agentic DevOps" framing and an issue-to-PR write-up. He is a developer advocate at Port in the front matter.
     position: >
-      He posted that DevOps is dead and that agentic DevOps replaces it [pavan-belagatti S6]. The software-factory article describes issue, isolated agent, pull request, human review [pavan-belagatti S2]. The employer in the front matter is Port. Advocacy and employment point the same way.
+      He posted that DevOps is dead and that agentic DevOps replaces it [pavan-belagatti S6]. On 2026-11-24 the first sentence is that DevOps is not dead and is evolving into agentic DevOps [pavan-belagatti S19]. The software-factory article describes issue, isolated agent, pull request, human review [pavan-belagatti S2]. The employer in the front matter is Port. Advocacy and employment point the same way.
     evidence:
       - source: S6
         url: https://x.com/Pavan_Belagatti/status/2120558932993438019
       - source: S2
         url: https://x.com/Pavan_Belagatti/status/2113152830815297694
+      - source: S19
+        url: https://x.com/Pavan_Belagatti/status/2125240504648597894
   - profile_id: mukul-lohar
     reason: Security engineer with a direct post on agent identity. Confidence on the profile is medium.
     position: >
@@ -52,7 +56,7 @@ members:
   - profile_id: arnav-gupta
     reason: Evidence-ledger quotes on monoliths, runbooks, and Kubernetes rhetoric. Profile is partial. Employer wording in the bundle disagrees with itself.
     position: >
-      "99% of info-system software should be just Postgres (and Redis)." [arnav-gupta O-ENG-1]. "Microservices and distributed computing just makes things unnecessarily hard." [arnav-gupta O-ENG-4]. He says he runs from Kubernetes-style orchestration language [arnav-gupta B-2]. A caption line says you need a runbook for the failures [arnav-gupta O-ENG-14]. The caption has no speaker label, per his profile.
+      "99% of info-system software should be just Postgres (and Redis)." [arnav-gupta O-ENG-1]. "Microservices and distributed computing just makes things unnecessarily hard." [arnav-gupta O-ENG-4]. He says he runs from Kubernetes-style orchestration language [arnav-gupta B-2]. A caption line says you need a runbook for the failures [arnav-gupta O-ENG-14]. The caption has no speaker label, per his profile. A 2026-11-24 post speaks of Railway in the first person [arnav-gupta R-1]. The README timeline ending at Meta is still not retracted. Status stays partial.
     evidence:
       - source: O-ENG-1
         url: https://threads.championswimmer.in/p/unpopular-techsoftware-engineering
@@ -62,9 +66,11 @@ members:
         url: https://threads.championswimmer.in/p/unpopular-techsoftware-engineering
       - source: O-ENG-14
         url: https://www.youtube.com/watch?v=1Vg2-VRY0HE
+      - source: R-1
+        url: https://x.com/championswimmer/status/2125067688510632309
 disagreements:
   - "Mishra teaches Kubernetes as a production skill and sells that teaching [akhilesh-mishra S2]. Gupta says he avoids Kubernetes orchestration talk [arnav-gupta B-2]. Both statements are public. A DevOps engineer can know clusters and still not put Kubernetes in a product that does not need it."
-  - "Belagatti's 'DevOps is dead' [pavan-belagatti S6] is a slogan. Mishra's 'DevOps is not a tool list' [akhilesh-mishra S5] keeps the practice and drops the logo list. They are not the same claim."
+  - "Belagatti's 'DevOps is dead' [pavan-belagatti S6] is a slogan, and his 2026-11-24 sentence says DevOps is not dead [pavan-belagatti S19]. Mishra's 'DevOps is not a tool list' [akhilesh-mishra S5] keeps the practice and drops the logo list."
   - "Suman's talk is for people who already run large clusters [suman-chakraborty S2]. It is not evidence that a first product should be a Kubernetes distribution."
 synthesis: >
   The supported offer is operational and narrow. Take a team that already has tickets and a cluster or a bill, and sell a gated agent path plus an identity story that is not a shared API key. Do not sell a bootcamp, do not quote Mishra's rupee prices as a market rate, and do not quote placement statistics. Gupta's monolith quote is a constraint on the product's own architecture, not a heckle aimed at every client who already runs Kubernetes.

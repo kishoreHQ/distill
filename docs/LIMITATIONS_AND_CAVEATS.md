@@ -18,7 +18,7 @@ Follower counts that appear inside an imported `profile.md` were written by the 
 - `x-wojakcodes` is a pseudonym with no products found. Research status partial. Not on a board.
 - Swanand and Ojasvika have no surname in the sources. Ojasvika's product site was JS-rendered and only the title was stored.
 - Suman Chakraborty's useful sources are talk listings. His X sample is thin. Status partial.
-- Arnav Gupta: Railway versus Meta is unresolved inside the source bundle. YouTube lines lack speaker labels. `posts.jsonl` is quotes, while `sync.json` says 200 posts were read.
+- Arnav Gupta: a 2026-11-24 post speaks of Railway in the first person, including self-reported template payouts. The bundle README timeline that ends at Meta is still in the sources and is not retracted. YouTube lines still lack speaker labels. `sync.json` still says 200 posts were read; that file was not in the archive. `posts.jsonl` now has the original quotes plus the 2026-11-25 official-API sample, not those 200 rows.
 - GitHub logins for some handles could not be tied to the person. The batches say those logins were not used. This phase does not retry that tie.
 
 ## Aggregators
@@ -36,3 +36,7 @@ Course sellers, community sellers, and vendor employees are identified on their 
 ## What Phase 1 does not know
 
 Anything posted after the snapshot, except rows a later refresh actually appended. Private conversations. Paywalled newsletters that were not fetched. Whether a sponsorship was paid when the bundle says the field was not requested. The dashboard has no UI.
+
+## 2026-11-25 refresh
+
+Rows appended that day come from an official public X read. The window starts 2026-11-23T22:21:18Z. Two partial profiles also received older rows marked deepen. Theo's file was capped at 125 posts in the collection. Post text in `posts.jsonl` is capped at 280 characters. Dollar figures and token counts in that window are the authors' own.

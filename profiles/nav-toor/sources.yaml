@@ -78,3 +78,13 @@
   excerpt: "🚨BREAKING: The Next-level AI agent has entered the game."
   original: true
   confidence: high
+- id: S9
+  url: https://x.com/heynavtoor/status/2125244041805877392
+  author: "Nav Toor"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "Opening of a business-history thread. The historical claims are his post. They were not checked against another source here."
+  excerpt: "In 1996, Apple wanted to buy a tiny company called Be."
+  original: true
+  confidence: medium

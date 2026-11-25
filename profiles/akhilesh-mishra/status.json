@@ -1,66 +1,71 @@
 {
-  "id": "akhilesh-mishra",
-  "x_url": "https://x.com/livingdevops",
-  "x_user_id": "1623980420235948034",
-  "display_name": "Akhilesh Mishra",
-  "research_status": "verified",
-  "posts_read": 66,
-  "posts_by_band": {
-    "recent": 25,
-    "mid": 25,
-    "old": 16
+ "id": "akhilesh-mishra",
+ "x_url": "https://x.com/livingdevops",
+ "x_user_id": "1623980420235948034",
+ "display_name": "Akhilesh Mishra",
+ "research_status": "verified",
+ "posts_read": 75,
+ "posts_by_band": {
+  "recent": 25,
+  "mid": 25,
+  "old": 16,
+  "refresh_2026_11_25_daily": 9,
+  "refresh_2026_11_25_deepen": 0
+ },
+ "posts_date_range": [
+  "2025-05-27",
+  "2026-11-24"
+ ],
+ "longform_fetched": 2,
+ "sources_count": 16,
+ "last_post_id": "2125357198700384277",
+ "researched_at": "2026-11-24T14:45:00+05:30",
+ "limitations": [
+  "Pinned post not retrievable via API",
+  "Old band only 16 posts from late May 2025",
+  "No YouTube/podcast reviewed",
+  "Sponsorship status of Kestra post unknown",
+  "Experience/years self-reported",
+  "2026-11-25 append is a date window, not a full timeline. Added 9; 1 collected ids were already in the file."
+ ],
+ "completeness": {
+  "identity": {
+   "score": 2,
+   "reason": "site+GitHub+X"
   },
-  "posts_date_range": [
-    "2025-05-27",
-    "2026-11-24"
-  ],
-  "longform_fetched": 2,
-  "sources_count": 13,
-  "last_post_id": "2125116534662246775",
-  "researched_at": "2026-11-24T14:45:00+05:30",
-  "limitations": [
-    "Pinned post not retrievable via API",
-    "Old band only 16 posts from late May 2025",
-    "No YouTube/podcast reviewed",
-    "Sponsorship status of Kestra post unknown",
-    "Experience/years self-reported"
-  ],
-  "completeness": {
-    "identity": {
-      "score": 2,
-      "reason": "site+GitHub+X"
-    },
-    "source_coverage": {
-      "score": 1,
-      "reason": "66 posts, 2 long-form"
-    },
-    "expertise": {
-      "score": 2,
-      "reason": "clear DevOps evidence"
-    },
-    "principles": {
-      "score": 2,
-      "reason": "first-party"
-    },
-    "frameworks": {
-      "score": 1,
-      "reason": "orchestration, golden signals (borrowed)"
-    },
-    "playbooks": {
-      "score": 2,
-      "reason": "2 derived"
-    },
-    "evidence": {
-      "score": 2,
-      "reason": "13 sources"
-    },
-    "limitations": {
-      "score": 2,
-      "reason": "COI noted"
-    },
-    "applications": {
-      "score": 2,
-      "reason": "direct DevOps fit"
-    }
+  "source_coverage": {
+   "score": 1,
+   "reason": "66 posts, 2 long-form"
+  },
+  "expertise": {
+   "score": 2,
+   "reason": "clear DevOps evidence"
+  },
+  "principles": {
+   "score": 2,
+   "reason": "first-party"
+  },
+  "frameworks": {
+   "score": 1,
+   "reason": "orchestration, golden signals (borrowed)"
+  },
+  "playbooks": {
+   "score": 2,
+   "reason": "2 derived"
+  },
+  "evidence": {
+   "score": 2,
+   "reason": "13 sources"
+  },
+  "limitations": {
+   "score": 2,
+   "reason": "COI noted"
+  },
+  "applications": {
+   "score": 2,
+   "reason": "direct DevOps fit"
   }
+ },
+ "last_refresh": "2026-11-25T00:25:39Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-25. Window start 2026-11-23T22:21:18Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters."
 }

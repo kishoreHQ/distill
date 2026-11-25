@@ -128,3 +128,13 @@
   excerpt: "Microsoft just released 18 FREE courses on Generative AI for beginners."
   original: true
   confidence: high
+- id: S14
+  url: https://x.com/Saboo_Shubham_/status/2125298072188231810
+  author: "Shubham Saboo"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He says the Workspace MCP server and CLI are GA, with DLP checks and human-in-the-loop controls. He works on Google's agent products in the existing profile, so this is an employer announcement."
+  excerpt: "Google Workspace MCP server and CLI are now generally available."
+  original: true
+  confidence: high

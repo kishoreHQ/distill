@@ -8,7 +8,7 @@ other_identities: ["https://github.com/ironfisto", "https://lohar.me", "https://
 website: "https://lohar.me"
 organization: "closed (founder); LiveShortly (building); ex-ServiceNow"
 role: "Product security engineer / indie builder"
-research_date: "2026-11-24"
+research_date: 2026-11-25
 confidence: "medium"
 account_type: "person"
 primary_domain: "ai-engineering"
@@ -55,6 +55,7 @@ status: "verified"
 - **Steps:** stream/record coding-agent sessions for team review and client demos; add notifications for permission prompts. **Cost:** free tier. **Risk:** leaking secrets in streamed terminals.
 
 ## F. Evidence summary
+- **2026-11-25 refresh.** Appended 3 posts (3 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 68 rows.
 11 sources; 65 X posts (2022 and 2026 only; no 2023-2025 sample). Strongest: [S8] advisory, [S10] closed.sh, [S2] agent-identity post, [S7] site.
 
 ## G. Strengths and weaknesses
@@ -72,3 +73,4 @@ status: "verified"
 - **2022:** security-engineer chatter (Burp, bug bounty) and casual posts.
 - **2023-2025:** gap in our X sample; CVE published Nov 2025 [S8].
 - **2026:** shift to building AI-agent tooling (LiveShortly, ping) and a vertical AI product (closed) [S9][S10][S11].
+- **2026-11-25.** Three new rows: a birthday wish, a VFX line, and a bare link. The bearer-token argument [S2] is not updated. No section A–H change.

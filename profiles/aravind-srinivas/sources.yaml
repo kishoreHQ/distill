@@ -248,3 +248,33 @@
   excerpt: "So, don’t aim low. Be ambitious. Shoot for the stars. Life is short."
   original: true
   confidence: high
+- id: S26
+  url: https://x.com/AravSrinivas/status/2125328996221231313
+  author: "Aravind Srinivas"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He states Gemini 4 Neon token volume inside Perplexity and says the harness will be optimized for Neon's formatting and task duration. Figures are his post, not an audit. The post ends mid-sentence."
+  excerpt: "We've passed 120B tokens of Gemini 4 Neon usage inside Perplexity, doubling daily token volume in just 3 days."
+  original: true
+  confidence: high
+- id: S27
+  url: https://x.com/AravSrinivas/status/2125357895856582690
+  author: "Aravind Srinivas"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He says Ask and Computer model usage is paid by users, and that Perplexity charges tokens above list price while switching cost is zero. Self-reported. Sentence is cut off after that."
+  excerpt: "no growth through free subsidies here. Model usage on both Ask and Computer is paid for by users."
+  original: true
+  confidence: high
+- id: S28
+  url: https://x.com/AravSrinivas/status/2125364190802227680
+  author: "Aravind Srinivas"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He says slide decks made in Perplexity Computer now have a native viewer with in-place edit, for PowerPoint and Google Slides."
+  excerpt: "Perplexity is turning into a work operating system."
+  original: true
+  confidence: high

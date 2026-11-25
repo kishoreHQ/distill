@@ -1,65 +1,70 @@
 {
-  "id": "vatsal-sanghvi",
-  "x_url": "https://x.com/vatsal_sanghvi",
-  "x_user_id": "1905455468346310658",
-  "display_name": "Vatsal Sanghvi",
-  "research_status": "partial",
-  "posts_read": 71,
-  "posts_by_band": {
-    "recent": 46,
-    "mid": 25
+ "id": "vatsal-sanghvi",
+ "x_url": "https://x.com/vatsal_sanghvi",
+ "x_user_id": "1905455468346310658",
+ "display_name": "Vatsal Sanghvi",
+ "research_status": "partial",
+ "posts_read": 82,
+ "posts_by_band": {
+  "recent": 46,
+  "mid": 25,
+  "refresh_2026_11_25_daily": 11,
+  "refresh_2026_11_25_deepen": 0
+ },
+ "posts_date_range": [
+  "2026-03-18",
+  "2026-11-24"
+ ],
+ "longform_fetched": 1,
+ "sources_count": 10,
+ "last_post_id": "2125293793025183849",
+ "researched_at": "2026-11-24T14:45:00+05:30",
+ "limitations": [
+  "Account only since 2025-03; no older band",
+  "Ownership of ugcpulse.app not verified",
+  "No independent sources (LinkedIn/press) checked",
+  "Many low-signal personal posts",
+  "Some post text truncated at 280 chars by API",
+  "2026-11-25 append is a date window, not a full timeline. Added 11; 2 collected ids were already in the file."
+ ],
+ "completeness": {
+  "identity": {
+   "score": 1,
+   "reason": "X only + linked site"
   },
-  "posts_date_range": [
-    "2026-03-18",
-    "2026-11-24"
-  ],
-  "longform_fetched": 1,
-  "sources_count": 9,
-  "last_post_id": "2125127817944015190",
-  "researched_at": "2026-11-24T14:45:00+05:30",
-  "limitations": [
-    "Account only since 2025-03; no older band",
-    "Ownership of ugcpulse.app not verified",
-    "No independent sources (LinkedIn/press) checked",
-    "Many low-signal personal posts",
-    "Some post text truncated at 280 chars by API"
-  ],
-  "completeness": {
-    "identity": {
-      "score": 1,
-      "reason": "X only + linked site"
-    },
-    "source_coverage": {
-      "score": 1,
-      "reason": "71 posts, 1 page"
-    },
-    "expertise": {
-      "score": 1,
-      "reason": "self-described, few results"
-    },
-    "principles": {
-      "score": 2,
-      "reason": "growth thread"
-    },
-    "frameworks": {
-      "score": 1,
-      "reason": "viral app anatomy (truncated)"
-    },
-    "playbooks": {
-      "score": 2,
-      "reason": "2 derived"
-    },
-    "evidence": {
-      "score": 1,
-      "reason": "9 sources"
-    },
-    "limitations": {
-      "score": 2,
-      "reason": "stated"
-    },
-    "applications": {
-      "score": 2,
-      "reason": "relevant to AI app income"
-    }
+  "source_coverage": {
+   "score": 1,
+   "reason": "71 posts, 1 page"
+  },
+  "expertise": {
+   "score": 1,
+   "reason": "self-described, few results"
+  },
+  "principles": {
+   "score": 2,
+   "reason": "growth thread"
+  },
+  "frameworks": {
+   "score": 1,
+   "reason": "viral app anatomy (truncated)"
+  },
+  "playbooks": {
+   "score": 2,
+   "reason": "2 derived"
+  },
+  "evidence": {
+   "score": 1,
+   "reason": "9 sources"
+  },
+  "limitations": {
+   "score": 2,
+   "reason": "stated"
+  },
+  "applications": {
+   "score": 2,
+   "reason": "relevant to AI app income"
   }
+ },
+ "last_refresh": "2026-11-25T00:25:39Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-25. Window start 2026-11-23T22:21:18Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters."
 }

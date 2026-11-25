@@ -175,7 +175,7 @@ def test_no_token_files():
     assert "30 23 * * *" in daily
 
 
-def test_arnav_posts_are_quotes_not_a_fake_timeline():
+def test_arnav_posts_keep_quote_rows_and_record_the_gap():
     registry = load_registry()
     row = next(item for item in registry["profiles"] if item["id"] == "arnav-gupta")
     posts = [
@@ -183,10 +183,18 @@ def test_arnav_posts_are_quotes_not_a_fake_timeline():
         for line in (ROOT / "profiles" / "arnav-gupta" / "posts.jsonl").read_text(encoding="utf-8").split("\n")
         if line.strip()
     ]
+    quotes = [post for post in posts if post.get("origin") == "evidence-quote"]
+    refreshed = [post for post in posts if post.get("origin") == "refresh"]
     assert row["posts_imported"] == len(posts)
-    assert all(post.get("origin") == "evidence-quote" for post in posts)
-    assert all(post["metrics"] is None for post in posts)
+    assert len(quotes) == 57
+    assert all(post["metrics"] is None for post in quotes)
+    assert refreshed
+    assert all(
+        isinstance(post.get("metrics"), dict) and "impression_count" in post["metrics"]
+        for post in refreshed
+    )
     status = json.loads((ROOT / "profiles" / "arnav-gupta" / "status.json").read_text(encoding="utf-8"))
-    assert status["posts_read"] == 200
+    assert status["posts_read"] == len(posts)
     assert status["posts_in_repo"] == len(posts)
     assert "did not include those posts" in status["posts_read_note"]
+    assert "200" in status["posts_read_note"]

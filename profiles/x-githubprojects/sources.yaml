@@ -68,3 +68,13 @@
   excerpt: "Don't Push To Production On Friday"
   original: true
   confidence: high
+- id: S8
+  url: https://x.com/GithubProjects/status/2125204795527205362
+  author: "GitHub Projects Community"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "Aggregator feed item: drop-in Cursor rules so a model follows a framework's conventions. The repo was not reviewed here."
+  excerpt: "Awesome Cursor Rules offers ready-made .mdc rule files"
+  original: true
+  confidence: medium

@@ -8,7 +8,7 @@ other_identities: ["https://github.com/piyushsachdeva", "https://youtube.com/tec
 website: "https://www.reeldrop.io"
 organization: "Google (technical solutions, per X bio/GitHub); founder of ReelDrop"
 role: "Technical solutions at Google; founder ReelDrop + CannerAI (self-described)"
-research_date: "2026-11-24"
+research_date: 2026-11-25
 confidence: "high"
 account_type: "person"
 primary_domain: "startup-building"
@@ -36,6 +36,7 @@ status: "verified"
 - **Distribution:** SEO as moat [S17]; transparent build-in-public numbers [S1][S18].
 
 ## D. Distilled knowledge
+- **2026-11-25.** A reply calls his tool a Manychat alternative plus Buffer, analytics, and a carousel builder, and says it is cheaper than Manychat [S20] (https://x.com/techie_piyush/status/2125300162746814712). No new user or MRR number. The day-104 figures stay [S1]. [observed statement]
 1. **Price-structure wedge:** incumbents (ManyChat) price per contact; a flat-priced bundle of scheduler + DM automation solved his own creator pain [S18]. [observed statement]
 2. **Customer-pull roadmap:** scheduler → DM automation → AI replies → carousels → analytics → MCP [S2]. [demonstrated: product exists; usage counters on site [S18]]
 3. **Traction benchmark (self-reported):** ~98-104 days to ~50-56 paying users, ~$700 MRR, lifetime deals inflate revenue vs MRR [S1][S2]. [demonstrated result, self-reported]
@@ -58,6 +59,7 @@ status: "verified"
 - **Steps:** use existing teaching audience (YouTube/GitHub repos) to seed first users; dogfood product on own content. **Metric:** % of first 50 customers from own audience.
 
 ## F. Evidence summary
+- **2026-11-25 refresh.** Appended 3 posts (3 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 97 rows.
 19 sources; 94 X posts (2025-05 → 2026-11; no pre-2024 posts sampled). Top: [S18] ReelDrop live metrics + founder story, [S1] metrics post, [S2] roadmap story, [S4] platform approval lesson, [S19] GitHub.
 
 ## G. Strengths and weaknesses
@@ -76,3 +78,4 @@ status: "verified"
 - **2025-05:** DevOps educator; first Udemy Docker/K8s course [S16]; personal/news posts.
 - **2026-05:** CannerAI at $219 MRR [S9]; DevOps/observability video series; free LinkedIn tool [S10].
 - **2026-08 → 11:** ReelDrop public launch, Meta approval, ~1.4k users / ~56 paying / ~$700 MRR [S1][S3][S18]; shift of identity from DevOps creator to SaaS founder.
+- **2026-11-25.** Product positioning in a reply. The other two new rows are "all the best" and "sounds about right".

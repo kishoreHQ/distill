@@ -1438,3 +1438,83 @@
   excerpt: do not write “code snippets” as examples in SKILL.md
   original: true
   confidence: high
+- id: R-1
+  url: https://x.com/championswimmer/status/2125067688510632309
+  author: "Arnav Gupta"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "First person: he describes Railway bounties for fixing issues and template commissions. The same post says '5M users run close to 20M' and then the collected text ends, so the 20M object is not stated."
+  excerpt: "At Railway"
+  original: true
+  confidence: high
+- id: R-2
+  url: https://x.com/championswimmer/status/2125114950284980535
+  author: "Arnav Gupta"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He says template payouts were already above $1M at the end of last year and that 'our revenue has 5x-ed since then'. Both figures are his, self-reported, and he says he would have to see the latest numbers."
+  excerpt: "end of last year it was already above $1M paid out for the templates."
+  original: true
+  confidence: high
+- id: R-3
+  url: https://x.com/championswimmer/status/2124995643584229558
+  author: "Arnav Gupta"
+  published: 2026-11-23
+  researched: 2026-11-25
+  type: x_post
+  description: "He says competent teams he knows want multiple models so they can use the best, and therefore independent workflows. The collected text ends at 'for this'."
+  excerpt: "all competent teams I know want to keep using multiple models"
+  original: true
+  confidence: high
+- id: R-4
+  url: https://x.com/championswimmer/status/2124966907019411608
+  author: "Arnav Gupta"
+  published: 2026-11-23
+  researched: 2026-11-25
+  type: x_post
+  description: "He calls an enterprise feature enshittification and says cutting-edge teams would already have a human plus AI plus CI process. The following sentence is cut off."
+  excerpt: "The enterpriseyness is starting to happen this is more enshittification."
+  original: true
+  confidence: high
+- id: R-5
+  url: https://x.com/championswimmer/status/2124323467180785873
+  author: "Arnav Gupta"
+  published: 2026-11-22
+  researched: 2026-11-25
+  type: x_post
+  description: "He says he made a benchmark for decision models from a real use case, and a pi plugin that filters skills by whether the prompt needs them. Rankings in the post are past the cutoff."
+  excerpt: "Reporting a new benchmark I created for evaluating decision models"
+  original: true
+  confidence: high
+- id: R-6
+  url: https://x.com/championswimmer/status/2124983487249670203
+  author: "Arnav Gupta"
+  published: 2026-11-23
+  researched: 2026-11-25
+  type: x_post
+  description: "He says Neon is the best for everything he is doing and that Argon is no longer needed. 'Carbon' gets a partial caveat in the same post."
+  excerpt: "We are all Neonmaxxing, I don't see anything that even needs Argon anymore."
+  original: true
+  confidence: high
+- id: R-7
+  url: https://x.com/championswimmer/status/2125027492969001433
+  author: "Arnav Gupta"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He says Claude subscriptions are not the subsidised ones, and that Codex and Gemini get more work done per subscription. His comparison, not a price study."
+  excerpt: "Claude's models are heavily \"overpriced\"."
+  original: true
+  confidence: high
+- id: R-8
+  url: https://x.com/championswimmer/status/2125299278440480850
+  author: "Arnav Gupta"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He says Rust is best at runtime and worst at build performance, and that typical TypeScript-to-Rust moves see 10-20x slower builds. Stated as his experience, not a benchmark paper."
+  excerpt: "Actually Rust is the worst for CI/CD no?"
+  original: true
+  confidence: medium

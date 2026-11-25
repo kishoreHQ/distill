@@ -4,21 +4,24 @@
  "x_user_id": "1536620289123295232",
  "display_name": "GitTrend",
  "research_status": "verified",
- "posts_read": 66,
+ "posts_read": 69,
  "posts_by_band": {
   "0-6mo": 51,
   "6-24mo": 3,
-  "24mo+": 12
+  "24mo+": 12,
+  "refresh_2026_11_25_daily": 3,
+  "refresh_2026_11_25_deepen": 0
  },
  "longform_fetched": 1,
- "sources_count": 5,
- "last_post_id": "2125122377369432463",
+ "sources_count": 6,
+ "last_post_id": "2125220584623640879",
  "researched_at": "2026-11-24T14:25:00+05:30",
  "x_calls_used_note": "batch A shared budget; see batch-A-summary.md",
  "limitations": [
   "Aggregator, not a person-expert",
   "Operator identity only a handle (@0xKingsKuan)",
-  "Possibly automated; not confirmed"
+  "Possibly automated; not confirmed",
+  "2026-11-25 append is a date window, not a full timeline. Added 3; 4 collected ids were already in the file."
  ],
  "completeness": {
   "identity": {
@@ -59,5 +62,7 @@
   }
  },
  "completeness_total": 7,
- "completeness_max": 18
+ "completeness_max": 18,
+ "last_refresh": "2026-11-25T00:25:39Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-25. Window start 2026-11-23T22:21:18Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters."
 }

@@ -168,3 +168,33 @@
   excerpt: "Chief Shitposting Officer @ Levels Synergies & Co"
   original: true
   confidence: high
+- id: S18
+  url: https://x.com/levelsio/status/2125196511126737341
+  author: "@levelsio (Pieter Levels)"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "Self-reported daily spend to block AI spammers. He says the start of the project is the expensive part. Not an audited cost."
+  excerpt: "I'm spending about $600/day now to block AI spammers"
+  original: true
+  confidence: high
+- id: S19
+  url: https://x.com/levelsio/status/2125207815132434577
+  author: "@levelsio (Pieter Levels)"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He says he will submit an AI-detection algorithm to X. No submission receipt is in this repo."
+  excerpt: "I will submit my AI detection algorithm to @X's team to implement it soon"
+  original: true
+  confidence: high
+- id: S20
+  url: https://x.com/levelsio/status/2125280594544431203
+  author: "@levelsio (Pieter Levels)"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He says an X change that adds delay is aimed at automated reply spam, and calls it a first fix."
+  excerpt: "This is directly to stop AI spammers auto replying"
+  original: true
+  confidence: high

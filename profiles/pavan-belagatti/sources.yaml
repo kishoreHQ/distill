@@ -178,3 +178,13 @@
   excerpt: "An agent should not decide what business risk is acceptable."
   original: true
   confidence: "high"
+- id: S19
+  url: https://x.com/Pavan_Belagatti/status/2125240504648597894
+  author: "Pavan Belagatti"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "Explicit later wording. The post continues that a DevOps engineer should learn agentic automation. The last sentence is cut off."
+  excerpt: "DevOps isn't dead; it's evolving into Agentic DevOps!"
+  original: true
+  confidence: high

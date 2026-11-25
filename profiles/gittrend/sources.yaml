@@ -48,3 +48,13 @@
   excerpt: "A personal AI assistant powered by Claude, running on Telegram."
   original: true
   confidence: high
+- id: S6
+  url: https://x.com/GitTrend0x/status/2125220584623640879
+  author: "GitTrend"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "Aggregator post in the usual hype template, naming Jev-related repos including a code search tool. Not a person's recommendation. Chinese."
+  excerpt: "Jev 应用圈又燃爆了"
+  original: true
+  confidence: medium

@@ -8,7 +8,7 @@ other_identities: [https://www.linkedin.com/in/schakraborty007, http://topmate.i
 website:
 organization: Platform9 Systems
 role: Solutions Architect (per X bio and KubeCon India 2026 speaker bio)
-research_date: 2026-11-24
+research_date: 2026-11-25
 confidence: high
 account_type: person
 primary_domain: automation
@@ -31,6 +31,7 @@ status: partial
 - Communities: CNCF India (KubeCon India, KCD Delhi, Cloud Native Kolkata), conference speaker.
 
 ## C. Core philosophy
+- **2026-11-25.** One substantive post. He says Claude Ship lets an agent write, review, and click Approve, and asks whether Claude or he is paged at 3 AM [S10] (https://x.com/itsmesumanc/status/2125179626670711003). That is a human-on-call objection, not a tutorial. The other new row is a reply about bottled water and is not used. [observed statement]
 - Little opinion content on X; mostly event announcements, certifications, news shares, and some personal/national commentary. Operational philosophy inferred from talk abstracts: move beyond defaults, measure (audit logs, latency metrics) before tuning [S2]. Other areas: No evidence found.
 
 ## D. Distilled knowledge
@@ -52,6 +53,7 @@ status: partial
 - Steps: enable audit logs -> dashboard apiserver latency by verb/user agent -> identify noisy controllers -> configure APF FlowSchemas -> fix heavy LIST clients. Complexity: high; for large clusters only.
 
 ## F. Evidence summary
+- **2026-11-25 refresh.** Appended 2 posts (2 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 66 rows.
 - 64 X posts (25 Mar-Nov 2026, 25 Jan-Feb 2026, 14 May 2025); 3 long-form/secondary (CNCF sched, Cast AI recap, LinkedIn snippet). 9 sources. LinkedIn (his main channel) not opened due to login wall.
 
 ## G. Strengths and weaknesses
@@ -67,3 +69,4 @@ status: partial
 
 ## I. Profile evolution
 - 2026-11-24 baseline. 2025: VMware-migration and K8s production content, KubeCon India 2025 checkpointing talk [S3][S8]. 2026: multi-cluster add-ons, API server performance, MCP certification and AI-cost governance - moving toward AI platform infrastructure [S2][S4][S5][S7].
+- **2026-11-25.** X is still thin. This post is the first incident-pager objection in the file. Research status stays partial. Talk listings remain the stronger sources [S2][S3].

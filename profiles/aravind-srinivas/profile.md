@@ -8,7 +8,7 @@ other_identities: [https://www.perplexity.ai, https://x.com/perplexity_ai, https
 website: https://www.perplexity.ai
 organization: Perplexity AI, Inc.
 role: Co-founder and CEO, Perplexity; ex-OpenAI research scientist; UC Berkeley CS PhD (2021)
-research_date: 2026-11-24
+research_date: 2026-11-25
 confidence: high
 account_type: person
 primary_domain: ai-engineering
@@ -34,6 +34,7 @@ status: verified
 - **Not a fit for:** solo or bootstrapped income tactics. His playbook depends on VC money and frontier-lab access.
 
 ## C. Core philosophy
+- **2026-11-25.** Current product focus, in his posts: Gemini 4 Neon inside Perplexity, and Perplexity as a work surface. He says Neon usage passed 120B tokens and doubled in three days, and that they will tune the harness for formatting and task duration [S26]. He says that usage is paid by users, not grown with free subsidies [S27]. He says Perplexity is turning into a work operating system, with in-place slide editing [S28]. Token and pricing lines are his statements. [observed statement]
 - **Choose "AI-complete" problems.** The product should get better automatically as models improve, and usage should feed data back into it (borrowed from Larry Page) [S3].
 - **Grounding over fluency:** "not supposed to say anything that you don't retrieve". If retrieval is insufficient, say so [S7].
 - **Founder fit comes from obsession,** not from what the market or VCs seem to want: "know what your dopamine system is" [S9]. Start with a vision and persist through the uncertain phase [S10].
@@ -43,6 +44,7 @@ status: verified
 - **Model-neutral product:** picks default models by retention stats and swaps orchestrators freely [S21][S17].
 
 ## D. Distilled knowledge
+- **2026-11-25.** Harness work he names is concrete and narrow: smooth Neon's formatting and task duration [S26]. That is an observed plan, not a published design doc. [observed statement]
 - **Principles**
   - Read daily user complaints and feature demands as a sign you shipped something people need [observed statement][S20].
   - Test the product in bad conditions (flight wifi) and benchmark speed against the leading competitor [observed statement][S8].
@@ -82,6 +84,7 @@ status: verified
 - Log every complaint and feature request per vertical. Ship the most frequent fix fast and announce it publicly. Choose defaults (models, UX) by retention data, not opinion. Metric: complaint-to-ship time and retention change after each default switch.
 
 ## F. Evidence summary
+- **2026-11-25 refresh.** Appended 10 posts (10 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 1 collected ids were already stored. `posts.jsonl` now has 140 rows.
 - 25 sources: 12 X posts, 7 excerpts from the Lex Fridman #434 transcript (one URL), 1 X profile, 2 institutional or press profiles (Berkeley, IIT Madras), 2 Wikipedia excerpts (one URL) and 1 pinned post.
 - 130 X posts read (original posts, no replies or reposts) in 6 windows: Nov 2026, Feb 2026, May–Jun 2026, Jun 2025, May–Jun 2024, Feb–Mar 2023, plus a topical search and the pinned post.
 - The strongest first-party long-form source is [S3]–[S9] (Lex #434, June 2024).
@@ -104,3 +107,4 @@ status: verified
 - 2024: consumer search push (NBA Finals ad, Pages, publisher relations) [S23].
 - 2025: verticals (Finance), Comet browser, Labs and Deep Research; ambition posts [S20][S25].
 - 2026: agent harness era (Computer, Model Council, Teammates, search-as-codegen), $1B ARR claim and Frontier Research lab [S2][S14][S17][S22].
+- **2026-11-25.** The baseline harness notes were the chair model [S17] and safe-fetch [S16]. This window adds a live model-specific harness pass on Gemini 4 Neon (https://x.com/AravSrinivas/status/2125328996221231313) [S26] and a product claim that Perplexity is becoming a work OS (https://x.com/AravSrinivas/status/2125364190802227680) [S28]. No contradiction with the grounding rule is stated in these posts.

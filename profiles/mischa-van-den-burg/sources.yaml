@@ -118,3 +118,23 @@
   excerpt: "After several years of using mainly Talos Linux I have now switched some of my clusters to Rancher"
   original: true
   confidence: high
+- id: S13
+  url: https://x.com/mischavdburg/status/2125307048283808162
+  author: "Mischa van den Burg"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He says not to run 'this' on the main machine, and to work inside containers. The linked target was not fetched."
+  excerpt: "Never install locally"
+  original: true
+  confidence: high
+- id: S14
+  url: https://x.com/mischavdburg/status/2125258178354962768
+  author: "Mischa van den Burg"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He describes a three-server layout where a drain, reboot, and return of copies is one button, then the same for the other machines. A narrative of his setup, not a lab report."
+  excerpt: "So the upgrade is a button."
+  original: true
+  confidence: high

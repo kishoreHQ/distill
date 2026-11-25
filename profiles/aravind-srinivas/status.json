@@ -4,15 +4,17 @@
  "x_user_id": "759894532649545732",
  "display_name": "Aravind Srinivas",
  "research_status": "verified",
- "posts_read": 130,
+ "posts_read": 140,
  "posts_by_band": {
   "0-6mo": 48,
   "6-24mo": 50,
-  "24mo+": 32
+  "24mo+": 32,
+  "refresh_2026_11_25_daily": 10,
+  "refresh_2026_11_25_deepen": 0
  },
  "longform_fetched": 3,
- "sources_count": 25,
- "last_post_id": "2125011444358131842",
+ "sources_count": 28,
+ "last_post_id": "2125368170995454320",
  "researched_at": "2026-11-24T14:45:00+05:30",
  "x_calls_used": 9,
  "x_calls_used_note": "batch A follow-up (replacement for @aravind); see batch-A-summary.md",
@@ -23,7 +25,8 @@
   "$1B ARR and market-share figures self-reported",
   "perplexity.ai and research.perplexity.ai returned 403 to plain fetch; not bypassed, so company blog/research not read",
   "Lawsuit/crawler context from Wikipedia (secondary), not primary filings",
-  "Long posts truncated in API text (note_tweet full text not returned)"
+  "Long posts truncated in API text (note_tweet full text not returned)",
+  "2026-11-25 append is a date window, not a full timeline. Added 10; 1 collected ids were already in the file."
  ],
  "completeness": {
   "identity": {
@@ -64,5 +67,7 @@
   }
  },
  "completeness_total": 18,
- "completeness_max": 18
+ "completeness_max": 18,
+ "last_refresh": "2026-11-25T00:25:39Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-25. Window start 2026-11-23T22:21:18Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters."
 }

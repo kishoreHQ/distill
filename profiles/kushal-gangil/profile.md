@@ -8,7 +8,7 @@ other_identities: [https://linktr.ee/techfusionist, http://t3pacademy.gumroad.co
 website: https://linktr.ee/techfusionist
 organization:            # "Tech Fusionist" brand; no company verified
 role:                    # not verified
-research_date: 2026-11-24
+research_date: 2026-11-25
 confidence: medium
 account_type: person
 primary_domain: content-creation
@@ -30,12 +30,14 @@ status: partial
 - Technical depth: not established from evidence; content is mostly summaries/visuals. 47 of 75 sampled posts have <80 characters of text (image/link posts).
 
 ## C. Core philosophy
+- **2026-11-25.** Two short lines in the deepen sample, not in the earlier essay: "AI agents are becoming the new microservices. overused and misunderstood." [S9] (https://x.com/techyoutbe/status/2124384632506610144) and "kubernetes won't fix your broken application architecture." [S10] (https://x.com/techyoutbe/status/2124475481332633634). They are slogans. No essay under them was in the new rows. [observed statement]
 - Content: "Simplify into visuals"; high-frequency posting [S1].
 - Monetization: low-ticket bundles + sponsorships/collabs [S2][S3][S6].
 - Building: "No overthinking... building -> shipping -> learning" [S5].
 - Other areas: No evidence found.
 
 ## D. Distilled knowledge
+- **2026-11-25.** The rest of the new rows are the same visual pattern: interview scenarios, roadmaps, and link posts. Images were not read. A "2 FAANG companies" line in the collection was already in `posts.jsonl` and is still only a title, not a verified job history.
 - Workflow: infographic pipeline - research trend (Udemy) -> ChatGPT summary/TOC -> Claude prompt generation -> (image generation, truncated) [observed statement] [S4].
 - Monetization model: 50+ guides bundled at ~$7.49 promo with future updates included [observed statement] [S3].
 - Content format insight: roadmaps and cheat sheets draw the most engagement in his sample (DevOps roadmap ~600 likes, Linux cheat sheet ~550) [demonstrated result - engagement only] [S8][S7].
@@ -55,6 +57,7 @@ status: partial
 - Steps: Bundle existing guides/cheat sheets -> Gumroad -> discount events -> pin + reply links. Cost: platform fees. Risk: low price = needs volume. Metric: sales/week.
 
 ## F. Evidence summary
+- **2026-11-25 refresh.** Appended 19 posts (0 in the daily window from 2026-11-23T22:21:18Z, 19 deepen). 6 collected ids were already stored. `posts.jsonl` now has 94 rows.
 - 75 X posts (25 Nov 2026, 25 Apr 2026, 25 Aug 2025); 2 long-form attempts (Linktree read; Gumroad page returned no content). 8 sources.
 
 ## G. Strengths and weaknesses
@@ -70,3 +73,4 @@ status: partial
 
 ## I. Profile evolution
 - 2026-11-24 baseline. Aug 2025: DevOps roadmaps, free certs, cheat sheets. Apr 2026: more AI tools, app-building experiments, guide bundle sales, sponsored AI tool promos. Nov 2026: AI engineering roadmaps, MCP, AI FDE, RAG debugging visuals - shift toward AI topics.
+- **2026-11-25.** Deepen sample (older than the daily window) adds the two slogans above. Identity is still unverified. Research status stays partial. Principles were thin; these two lines are the first explicit cautions, and they are one sentence each.

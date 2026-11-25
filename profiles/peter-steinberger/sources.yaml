@@ -198,3 +198,23 @@
   excerpt: "All my oss releases stopped because Apple put up a new dev agreement."
   original: true
   confidence: high
+- id: S21
+  url: https://x.com/steipete/status/2125344148496769362
+  author: "Peter Steinberger"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He says that in claw/node he spawns a copy early and forks it, and that this is usually about 30x smaller in memory. A workaround he reports, not a benchmark suite."
+  excerpt: "usually a factor 30x smaller mem footprint"
+  original: true
+  confidence: high
+- id: S22
+  url: https://x.com/steipete/status/2125066430857220265
+  author: "Peter Steinberger"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He tells people to check the git repo instead of posts that rename what OpenClaw is."
+  excerpt: "These random “openclaw is now x” are so tiring. Look at our git repo."
+  original: true
+  confidence: high

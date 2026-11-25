@@ -1,7 +1,7 @@
 id: ai-engineering-agents
 title: Simulated board — AI engineering & agents
 domain: ai-engineering-agents
-as_of: "2026-11-24"
+as_of: "2026-11-25"
 disclaimer: "SIMULATED ADVISORY BOARD. The real people named here have not joined this board, have not been contacted, and have not endorsed DISTILL, Kishore, or any recommendation in this file. Positions below are paraphrases of their public posts and pages, with citations. They are not quotes of private advice."
 charter: >
   This simulated board reads public material from people whose imported profiles
@@ -15,7 +15,7 @@ members:
   - profile_id: aravind-srinivas
     reason: High-confidence profile, board_eligibility includes ai-engineering, and the transcript states a grounding rule.
     position: >
-      Say only what you retrieved [aravind-srinivas S7]. Score a fetched page before an agent trusts it [aravind-srinivas S16]. For a high-stakes answer, let several models work and have a chair model synthesize [aravind-srinivas S17].
+      Say only what you retrieved [aravind-srinivas S7]. Score a fetched page before an agent trusts it [aravind-srinivas S16]. For a high-stakes answer, let several models work and have a chair model synthesize [aravind-srinivas S17]. On 2026-11-24 he says the harness will be tuned for Gemini 4 Neon and states a 120B token figure that is his own [aravind-srinivas S26].
     evidence:
       - source: S7
         url: https://lexfridman.com/aravind-srinivas-transcript/
@@ -23,6 +23,8 @@ members:
         url: https://x.com/AravSrinivas/status/2123464412971635018
       - source: S17
         url: https://x.com/AravSrinivas/status/2019444331006791847
+      - source: S26
+        url: https://x.com/AravSrinivas/status/2125328996221231313
   - profile_id: peter-steinberger
     reason: First-party posts on CLI-first agent work and a four-check gate before autonomous edits.
     position: >
@@ -37,16 +39,18 @@ members:
   - profile_id: theo-browne
     reason: Writes about harnesses versus chat apps, and ships a multi-model review skill.
     position: >
-      The harness is the tools, the call syntax, and the return path, and some products bake it into the app [theo-browne S4]. His tstack skill asks three models from different providers and loops until they agree [theo-browne S5].
+      The harness is the tools, the call syntax, and the return path, and some products bake it into the app [theo-browne S4]. His tstack skill asks three models from different providers and loops until they agree [theo-browne S5]. On 2026-11-24 he threatened to close T3 Code's source and walked it back the same hour [theo-browne S20] [theo-browne S21].
     evidence:
       - source: S4
         url: https://t3.gg/blog/post/what-is-a-harness
       - source: S5
         url: https://github.com/t3dotgg/tstack
+      - source: S21
+        url: https://x.com/theo/status/2125317722552889353
   - profile_id: shubham-saboo
     reason: Publishes open-source agent examples and describes a cron-driven agent group. He is also a Google Cloud AI PM in this snapshot.
     position: >
-      He describes a one-person setup as folders, markdown job descriptions, and cron jobs [shubham-saboo S6], operated from Telegram on OpenClaw and later Hermes [shubham-saboo S7]. The pinned post in the ledger promotes his employer's agent features [shubham-saboo S10].
+      He describes a one-person setup as folders, markdown job descriptions, and cron jobs [shubham-saboo S6], operated from Telegram on OpenClaw and later Hermes [shubham-saboo S7]. The pinned post in the ledger promotes his employer's agent features [shubham-saboo S10]. He later says Workspace MCP is generally available and includes a human-in-the-loop control [shubham-saboo S14].
     evidence:
       - source: S6
         url: https://x.com/Saboo_Shubham_/status/2071639897669267922
@@ -54,6 +58,8 @@ members:
         url: https://x.com/Saboo_Shubham_/status/2071293463447097625
       - source: S10
         url: https://x.com/Saboo_Shubham_/status/2108265508223193319
+      - source: S14
+        url: https://x.com/Saboo_Shubham_/status/2125298072188231810
   - profile_id: mckay-wrigley
     reason: Public posts warn against competing head-on with labs, and one post jokes about approving agent diffs unread.
     position: >

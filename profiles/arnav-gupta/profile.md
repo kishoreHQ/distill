@@ -6,9 +6,9 @@ x_url: https://x.com/championswimmer
 x_user_id: "63066473"
 other_identities: [https://arnav.tech, https://linktr.ee/championswimmer, https://threads.championswimmer.in]
 website: http://arnav.tech
-organization: "Railway is what PROFILE.json's summary states; the bundle's skill README also records a timeline ending at Meta. See section A."
+organization: "First-person posts on 2026-11-24 say Railway. PROFILE.json said Railway. The bundle README timeline still ends at Meta. See section A."
 role: "Engineer; ex EM/PM/founder (wording of PROFILE.json summary)"
-research_date: 2026-11-22
+research_date: 2026-11-25
 confidence: medium
 account_type: person
 primary_domain: ai-engineering
@@ -19,9 +19,10 @@ status: partial
 
 # Arnav Gupta (@championswimmer)
 
-Converted from `extra/arnav-gupta/` on the 2026-11-24 import. This file does not add facts that are not in that folder. 144 evidence rows were copied into `sources.yaml`. 57 of them are X status URLs and are stored in `posts.jsonl` as the short quote only. The bundle's `state/sync.json` says 200 X posts were read; those full posts are not in the archive, so they are not in this repo.
+Converted from `extra/arnav-gupta/` on the 2026-11-24 import. That import did not add facts that were not in the extra bundle. 144 evidence rows were copied into `sources.yaml`. 57 of them are X status URLs and were stored in `posts.jsonl` as the short quote only. The bundle's `state/sync.json` says 200 X posts were read; those full posts are not in the archive. Lines marked 2026-11-25 cite the official-API rows appended after that import.
 
 ## A. Identity
+- **2026-11-25.** A reply uses first person for Railway: bounties for fixes and commissions on templates [R-1] (https://x.com/championswimmer/status/2125067688510632309). A follow-up says template payouts were above $1M at the end of last year and that "our revenue has 5x-ed since then" [R-2] (https://x.com/championswimmer/status/2125114950284980535). Those figures are his and are not audited. The sentence "5M users run close to 20M" is cut off in the collected text, so the 20M is not given an object here. This is stronger than the PROFILE.json summary alone. It does not delete the bundle README timeline that still ends at Meta. Current affiliation is best read as Railway, with that older timeline unresolved. Status stays partial. [observed statement]
 - Display name Arnav Gupta, X @championswimmer, user id 63066473, links http://arnav.tech and https://linktr.ee/championswimmer. Source: `PROFILE.json` in the extra bundle. Identity status in that file is `found`, with `confirmed_by_user` 2026-11-22.
 - `PROFILE.json` summary, quoted: "Arnav Gupta, London-based engineer at Railway; ex Meta, Zomato, Hotstar, Scaler; ex EM/PM/founder."
 - The bundle's `skill/README.md` records a different career timeline taken from arnav.tech/about: Coding Blocks co-founder, Zomato (mobile platform lead, 2019–20), Target (lead engineer, 2020–21), Scaler (product & strategy, 2021–23), Viacom18/JioCinema (Director of Engineering, 2023–24), and Meta (EM, hardware placement, London, from Dec 2024). The same README says the user's profile and his LinkedIn headline say he is now at Railway. This import does not resolve the two wordings.
@@ -35,12 +36,14 @@ Converted from `extra/arnav-gupta/` on the 2026-11-24 import. This file does not
 - Gap: no list of communities he runs was in PROFILE.json. The skill README mentions teaching and talks; see [O-TCH-2].
 
 ## C. Core philosophy
+- **2026-11-25.** He wants teams to keep several models and separate workflows [R-3]. He calls an enterprise agent feature enshittification when cutting-edge teams already have human plus AI plus CI [R-4]. He says he is "Neonmaxxing" and does not need Argon [R-6]. He says Claude is overpriced relative to work done on Codex and Gemini subscriptions [R-7]. [observed statement]
 - Software: "99% of info-system software should be just Postgres (and Redis)." [O-ENG-1] [observed statement]
 - He rejects microservices as a default: "Microservices and distributed computing just makes things unnecessarily hard." [O-ENG-4] [observed statement]
 - AI: "Code is now cheap too." [O-AI-1] [observed statement] He wants a minimal harness and says subagents are a yes in 2026 [O-AI-8] [O-AI-7] [observed statement].
 - Monetization of attention: the evidence includes "skill-selling pied pipers" as a criticism [O-AI-6] [observed statement]. No price list for a product of his was in the extra bundle.
 
 ## D. Distilled knowledge
+- **2026-11-25.** He reports a decision-model benchmark and a pi plugin that filters skills by the current prompt [R-5]. The score table is past the stored cutoff, so no ranking is copied. He says Rust builds got much slower in migrations he has in mind, while runtime is the strong side [R-8]. Treat the 10-20x build line as his statement. [observed statement]
 - Boring storage and a monolith are the stated default [O-ENG-1] [O-ENG-4] [observed statement]. Clean Architecture is called an anti-pattern in his words [O-ENG-6] [observed statement].
 - Documentation is "a culture", and communication "should be public by default, private by exception." [O-ENG-12] [O-ENG-13] [observed statement]
 - Skills should be project specific, not global [O-AI-5] [observed statement]. The bundle's own OPINIONS.md also says to use scripts for deterministic parts. That sentence is the bundle's synthesis; the evidence quote on [O-AI-5] is only the project-specific line. [our interpretation of the bundle, not a new fact]
@@ -61,12 +64,14 @@ Converted from `extra/arnav-gupta/` on the 2026-11-24 import. This file does not
 - Success metric: no evidence found.
 
 ## F. Evidence summary
+- **2026-11-25 refresh.** Appended 54 posts (29 in the daily window from 2026-11-23T22:21:18Z, 25 deepen). 0 collected ids were already stored. `posts.jsonl` now has 111 rows.
 - Ledger: `sources.yaml`, 144 rows, researched 2026-11-22 by the source bundle.
 - X quotes in `posts.jsonl`: 57. Metrics are null because the extra bundle did not include metric fields. Do not read null as zero.
 - `state/sync.json` reports posts_read.total 200, long_form_fetched 49, evidence_entries 144. This import found the evidence entries it parsed; it did not re-fetch the 200 posts.
 - Top sources to read first: [O-ENG-1], [O-ENG-4], [O-AI-7], [O-AI-8], [O-CAR-1].
 
 ## G. Strengths and weaknesses
+- **2026-11-25.** The Railway revenue and payout lines [R-1][R-2] are a conflict of interest if someone treats them as a market size. They stay attached to him. The Meta-versus-Railway gap is narrower, not closed.
 - Strength: the bundle ties opinions to URLs and short exact quotes, and it separates YouTube lines that lack speaker labels.
 - Strength: he states a limit on his own authority [B-5].
 - Conflict of interest: no course price or sponsorship list was in PROFILE.json. Gap, not a clean bill of health.
@@ -82,3 +87,4 @@ Kishore, in the research spec, is a Linux/DevOps-capable engineer in India who w
 ## I. Profile evolution
 - 2026-11-22 baseline from the extra bundle. Earlier vs later, as that bundle's OPINIONS.md states and [O-AI-21] supports in part: the 2025-01-28 post says "Mostly diminishing returns for real world since Claude 3.5 Sonnet." Later 2026 lines treat subagents as settled [O-AI-7]. The sentence "by 2026 I was fully agentic" is the bundle's synthesis in OPINIONS.md, not a single post.
 - Gap: the skill README says the 2016–2019 X history was only sampled from December 2018, and there is no speaker-labelled transcript.
+- **2026-11-25.** Employer wording: before, PROFILE.json said Railway and the README timeline ended at Meta (section A, baseline). After, his own posts say "At Railway" and "our revenue" [R-1][R-2]. Model stance in this sample is multi-model workflows [R-3] and Neon over Argon [R-6], which fits the later agentic lines already in the ledger rather than a reversal. The missing 200-post file is still missing. Research status stays partial.

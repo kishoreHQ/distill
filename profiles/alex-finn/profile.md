@@ -8,7 +8,7 @@ other_identities: [https://www.alexfinn.ai, https://www.skool.com/vibe-coding-ac
 website: https://www.alexfinn.ai
 organization: Henry Intelligent Machines (HIM); Creator Buddy
 role: Founder/CEO (self-described)
-research_date: 2026-11-24
+research_date: 2026-11-25
 confidence: high
 account_type: person
 primary_domain: content-creation
@@ -62,6 +62,7 @@ status: verified
 - Problem: API spend/limits. Steps: run an open-weight coding model locally (or on a rented GPU), point agent runtime at it for bulk tasks, keep frontier models for hard steps. Cost: hardware is expensive ($ thousands) — for Kishore prefer rented GPU/cheap APIs. Risk: his quality claims are personal tests. Metric: $/task, success rate.
 
 ## F. Evidence summary
+- **2026-11-25 refresh.** Appended 3 posts (3 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 88 rows.
 - 13 sources (10 X posts, 1 newsletter, 1 Skool page, 1 profile). 85 X posts read (50 last 6 months, 21 6–24 mo, 14 older).
 - Top: [S5][S6] growth method, [S3] Creator Buddy story, [S2] HIM.
 
@@ -82,3 +83,4 @@ status: verified
 - 2024: pure X-growth teacher (algorithm tips, cadence, 200K milestone) [S5][S7].
 - 2025: vibe-coding + Creator Buddy founder story; "build an app with Claude Code" messaging [S3][S8].
 - 2026: VC-backed HIM (Apr) [S2]; local/open-weights "sovereignty" turn (Jun) [S10]; agent tutorials (Hermes, GrokBot) [S11].
+- **2026-11-25.** Three new rows, all replies about a video game. No Creator Buddy, distribution, or model claim. No section A–H change.

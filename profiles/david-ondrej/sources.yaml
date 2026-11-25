@@ -128,3 +128,23 @@
   excerpt: "Learn how to use n8n.  Trust me."
   original: true
   confidence: high
+- id: S14
+  url: https://x.com/DavidOndrej1/status/2125338006047654149
+  author: "David Ondrej"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "Self-reported growth with no figure in the text. The link was not fetched."
+  excerpt: "Cloudroom is growing faster than ever."
+  original: true
+  confidence: medium
+- id: S15
+  url: https://x.com/DavidOndrej1/status/2125186109407724018
+  author: "David Ondrej"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He does not name the model in the text. The link was not opened. Do not fill in a model name."
+  excerpt: "most underrated model out right now."
+  original: true
+  confidence: high

@@ -8,7 +8,7 @@ other_identities: [https://projectminimi.com]
 website: https://projectminimi.com
 organization: minimi (@minimi_ai / @project_minimi)
 role: Founder (self-described)
-research_date: 2026-11-24
+research_date: 2026-11-25
 confidence: medium
 account_type: person
 primary_domain: startup-building
@@ -55,6 +55,7 @@ status: partial
 - **Success metric:** onboarding completion rate; % "very disappointed" answers.
 
 ## F. Evidence summary
+- **2026-11-25 refresh.** Appended 1 posts (1 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 1 collected ids were already stored. `posts.jsonl` now has 77 rows.
 - 11 sources (9 X posts, 1 website, 1 profile). 76 X posts read (51 last 6 months, 25 6–13 months; account posts heavily personal/lifestyle).
 - Top: [S2] launch, [S5] user testing, [S4] IG traction.
 
@@ -73,3 +74,4 @@ status: partial
 - Late 2025: hardware day, office/team-building posts, career switch story [S10].
 - Aug 2026: minimi launch, IG growth, unicorn-founder users (self-reported) [S2][S4].
 - Nov 2026: AI-thinking stance (don't delegate thinking), writing-tool frustration [S7].
+- **2026-11-25.** The only new row is a one-word reply. A routine-and-founders line in the collection was already in `posts.jsonl`. No section A–H change. Research status stays partial.

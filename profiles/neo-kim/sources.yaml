@@ -178,3 +178,13 @@
   excerpt: "I Teach You AI Engineering & System Design • 0.5M+ Audience"
   original: true
   confidence: "medium"
+- id: S19
+  url: https://x.com/systemdesignone/status/2125227908952097169
+  author: "Neo Kim"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He discloses a CodeRabbit partnership on a thread that walks a 2027 ship path through CodeRabbit checks."
+  excerpt: "I’m happy to partner with CodeRabbit on this post."
+  original: true
+  confidence: high

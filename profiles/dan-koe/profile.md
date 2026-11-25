@@ -8,7 +8,7 @@ other_identities: [https://thedankoe.com, https://thedankoe.eden.so]
 website: https://thedankoe.com
 organization:            # not verified (promotes Eden; ownership not verified)
 role: Writer/creator; publisher of The Koe Letters newsletter (self-described)
-research_date: 2026-11-24
+research_date: 2026-11-25
 confidence: high
 account_type: person
 primary_domain: content-creation
@@ -33,6 +33,7 @@ status: verified
 - Communities: creator economy, "one-person business" audience.
 
 ## C. Core philosophy
+- **2026-11-25.** One post: modern food is engineered to be overeaten, and "the next big trend will be diets for the mind" [S17] (https://x.com/thedankoe/status/2125216627029373342). The post is cut off. It extends the attention/meaning theme. It is not a product metric. [observed statement]
 - AI: AI commoditizes average output; value moves to taste, point of view, story and quality [S3][S4][S10]. Writes without AI to keep thinking ability [S12].
 - Entrepreneurship: Sell your mind (ideas) via social leverage rather than time or inventory [S6]; individuals now rival small companies [S16].
 - Content: Point of view > niche [S3]; marketing is "80%" of a creative's success [S9]; be an "artisan," not an influencer [S5].
@@ -72,6 +73,7 @@ status: verified
 - Success metric: email->paid conversion rate.
 
 ## F. Evidence summary
+- **2026-11-25 refresh.** Appended 1 posts (1 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 97 rows.
 - 96 X posts (46 last 6 months, 25 Mar-May 2026, 25 May 2024); 3 long-form (homepage + 2 letters). 16 sources.
 - Top: [S3], [S4], [S2], [S6], [S5].
 
@@ -93,3 +95,4 @@ status: verified
 - May 2024 sample: self-education, "control the product and price", 1 hour/day, anti-"side hustle" framing [S14][S15].
 - 2025 letters: AI makes output cheap -> point of view and thoughtful creation [S3][S4].
 - 2026: stronger AI framing (individual = 20-person company; "AI makes average worthless"; Purists/Automatons/Renaissance) and "artisan" positioning; bio shifts to promoting Eden [S1][S5][S10][S16].
+- **2026-11-25.** Single post. No shift in the niche-versus-point-of-view letter [S3].

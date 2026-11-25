@@ -1,7 +1,7 @@
 id: creator-economy
 title: Simulated board — creator economy & audience building
 domain: creator-economy
-as_of: "2026-11-24"
+as_of: "2026-11-25"
 disclaimer: "SIMULATED ADVISORY BOARD. The real people named here have not joined this board, have not been contacted, and have not endorsed DISTILL, Kishore, or any recommendation in this file. Positions below are paraphrases of their public posts and pages, with citations. They are not quotes of private advice."
 charter: >
   This simulated board is about distribution and teaching in public. It seats
@@ -26,12 +26,14 @@ members:
   - profile_id: david-ondrej
     reason: A transcript line gives a numeric split, and he sells a community.
     position: >
-      "At least 50% of your time should be on distribution." [david-ondrej S6]. The same profile shows a paid Skool and a falling third-party member count [david-ondrej S5]. The distribution line can be true and still be a funnel.
+      "At least 50% of your time should be on distribution." [david-ondrej S6]. The same profile shows a paid Skool and a falling third-party member count [david-ondrej S5]. The distribution line can be true and still be a funnel. On 2026-11-24 he says Cloudroom is growing faster than ever and gives no number [david-ondrej S14].
     evidence:
       - source: S6
         url: https://rosetta.to/u/davidondrej/making-with-ai-saas-i-might-delete-this
       - source: S5
         url: https://skool.community/c/new-society
+      - source: S14
+        url: https://x.com/DavidOndrej1/status/2125338006047654149
   - profile_id: alex-finn
     reason: A specific reply cadence, and a product that is itself an X-growth tool.
     position: >

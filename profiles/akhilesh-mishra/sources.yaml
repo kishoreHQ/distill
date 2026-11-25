@@ -128,3 +128,33 @@
   excerpt: "AI has killed the value of GITHUB commits - AI bots have killed the value of GITHUB Stars"
   original: true
   confidence: high
+- id: S14
+  url: https://x.com/livingdevops/status/2125231968195629225
+  author: "Akhilesh Mishra"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He lists production Kubernetes questions (NotReady node, pod DNS, and the post continues). Teaching post. The list is longer than the excerpt."
+  excerpt: "Don’t mention Kubernetes in your resume if you can’t explain"
+  original: true
+  confidence: high
+- id: S15
+  url: https://x.com/livingdevops/status/2125270308353610233
+  author: "Akhilesh Mishra"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He describes snowOps: each game is one incident, with commands, logs, a dashboard, a diagnosis, and a fix. He says no signups and no payment; the rest of that sentence is cut off."
+  excerpt: "You can learn Kubernetes troubleshooting by playing a series of games."
+  original: true
+  confidence: high
+- id: S16
+  url: https://x.com/livingdevops/status/2125357198700384277
+  author: "Akhilesh Mishra"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "Build versus buy for observability on 80 microservices on EKS. He says the decision is cost, risk, and focus. The answer list is cut off."
+  excerpt: "Most candidates say \"Open source is free, so we build.\" That answer fails the interview."
+  original: true
+  confidence: high

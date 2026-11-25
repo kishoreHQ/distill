@@ -60,3 +60,31 @@
   evidence:
     - profile: akhilesh-mishra
       source: S4
+- name: Gemini 4 Neon harness
+  note: >
+    Srinivas says Perplexity passed 120B Neon tokens in three days and will tune the harness
+    for formatting and task duration [aravind-srinivas S26]. The token count is his statement.
+  evidence:
+    - profile: aravind-srinivas
+      source: S26
+- name: Google Workspace MCP
+  note: >
+    Saboo says the Workspace MCP server and CLI are generally available, with DLP and
+    human-in-the-loop controls [shubham-saboo S14]. He already promotes his employer's agent work.
+  evidence:
+    - profile: shubham-saboo
+      source: S14
+- name: Mole
+  note: >
+    Tw93 says Mole can now clean idle AI tools, dead hooks, finished worktrees, and leftovers
+    from uninstalled AI tools [tw93 S15].
+  evidence:
+    - profile: tw93
+      source: S15
+- name: snowOps
+  note: >
+    Mishra points at snowOps as a game per Kubernetes incident [akhilesh-mishra S15].
+    A learning drill he is promoting, not a production control plane.
+  evidence:
+    - profile: akhilesh-mishra
+      source: S15

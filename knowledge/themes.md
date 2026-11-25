@@ -37,3 +37,18 @@ Srinivas: do not say what you did not retrieve [aravind-srinivas S7]. Lohar: a b
 ## Gaps
 
 YouTube and podcast transcripts were mostly not fetched. The batch summaries say so. LinkedIn was not opened behind a login. Swanand, Ojasvika, Nav Toor, Vatsal, Suman, and Wojak are thin or partial in the registry. Arnav Gupta's full 200-post pull is not in the archive. This page does not fill those gaps.
+
+
+## 2026-11-25 refresh
+
+The daily window starts 2026-11-23T22:21:18Z. Lines below are only profiles that received new rows.
+
+Theo threatened to close T3 Code's source and walked it back the same hour, then said invasive telemetry was removed [theo-browne S20] [theo-browne S21] [theo-browne S22]. Srinivas says the Perplexity harness will be tuned for Gemini 4 Neon [aravind-srinivas S26]. Saboo says Workspace MCP is generally available with a human-in-the-loop control [shubham-saboo S14]. Suman asks who is paged when an agent can click Approve [suman-chakraborty S10]. The human gate is still the overlapping safety note.
+
+Levels states about $600/day, his figure, to block AI reply spam, and says he will submit a detector to X [pieter-levels S18] [pieter-levels S19]. That spend is not the vendor-bill audit.
+
+Pavan's new first sentence is that DevOps is not dead and is evolving into agentic DevOps [pavan-belagatti S19]. The earlier "DevOps is dead" line remains in the ledger [pavan-belagatti S6].
+
+Goldie's window repeats income prompts, including a millionaire line that is his claim, next to his own "no income guaranteed" disclaimer [julian-goldie S20] [julian-goldie S19]. Those lines are not opportunities.
+
+Arnav Gupta's 200-post file is still absent. New rows do include first-person Railway wording [arnav-gupta R-1]. Kushal's deepen sample adds two slogans and does not verify an employer [kushal-gangil S9].

@@ -1,61 +1,66 @@
 {
-  "id": "neo-kim",
-  "x_url": "https://x.com/systemdesignone",
-  "x_user_id": "1646445864796184578",
-  "display_name": "Neo Kim",
-  "research_status": "verified",
-  "posts_read": 97,
-  "posts_by_band": {
-    "last_6mo": 47,
-    "6_24mo": 25,
-    "older": 25
+ "id": "neo-kim",
+ "x_url": "https://x.com/systemdesignone",
+ "x_user_id": "1646445864796184578",
+ "display_name": "Neo Kim",
+ "research_status": "verified",
+ "posts_read": 132,
+ "posts_by_band": {
+  "last_6mo": 47,
+  "6_24mo": 25,
+  "older": 25,
+  "refresh_2026_11_25_daily": 35,
+  "refresh_2026_11_25_deepen": 0
+ },
+ "longform_fetched": 3,
+ "last_post_id": "2125335704314012104",
+ "limitations": [
+  "Real-name/background beyond brand not verified",
+  "LinkedIn & Substack counts via search snippets",
+  "Sponsorship status of promo posts unknown (paid_partnership field not requested)",
+  "Newsletter issues not read in full",
+  "2026-11-25 append is a date window, not a full timeline. Added 35; 0 collected ids were already in the file."
+ ],
+ "completeness": {
+  "identity": {
+   "score": 1,
+   "reason": "brand verified; person details thin"
   },
-  "longform_fetched": 3,
-  "last_post_id": "2124986860988465654",
-  "limitations": [
-    "Real-name/background beyond brand not verified",
-    "LinkedIn & Substack counts via search snippets",
-    "Sponsorship status of promo posts unknown (paid_partnership field not requested)",
-    "Newsletter issues not read in full"
-  ],
-  "completeness": {
-    "identity": {
-      "score": 1,
-      "reason": "brand verified; person details thin"
-    },
-    "source_coverage": {
-      "score": 1,
-      "reason": "X + newsletter pages"
-    },
-    "expertise": {
-      "score": 1,
-      "reason": "educational"
-    },
-    "principles": {
-      "score": 1,
-      "reason": "implicit"
-    },
-    "frameworks": {
-      "score": 2,
-      "reason": "interview + content formats"
-    },
-    "playbooks": {
-      "score": 2,
-      "reason": "grounded"
-    },
-    "evidence": {
-      "score": 2,
-      "reason": "cited"
-    },
-    "limitations": {
-      "score": 2,
-      "reason": "COI noted"
-    },
-    "applications": {
-      "score": 2,
-      "reason": "specific"
-    }
+  "source_coverage": {
+   "score": 1,
+   "reason": "X + newsletter pages"
   },
-  "sources_count": 18,
-  "researched_at": "2026-11-24T15:30:00+05:30"
+  "expertise": {
+   "score": 1,
+   "reason": "educational"
+  },
+  "principles": {
+   "score": 1,
+   "reason": "implicit"
+  },
+  "frameworks": {
+   "score": 2,
+   "reason": "interview + content formats"
+  },
+  "playbooks": {
+   "score": 2,
+   "reason": "grounded"
+  },
+  "evidence": {
+   "score": 2,
+   "reason": "cited"
+  },
+  "limitations": {
+   "score": 2,
+   "reason": "COI noted"
+  },
+  "applications": {
+   "score": 2,
+   "reason": "specific"
+  }
+ },
+ "sources_count": 19,
+ "researched_at": "2026-11-24T15:30:00+05:30",
+ "last_refresh": "2026-11-25T00:25:39Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-25. Window start 2026-11-23T22:21:18Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters."
 }

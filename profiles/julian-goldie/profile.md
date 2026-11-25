@@ -8,7 +8,7 @@ other_identities: ["https://juliangoldie.com", "https://www.skool.com/ai-seo-wit
 website: "https://juliangoldie.com"
 organization: "Goldie Agency Limited (self-described)"
 role: "Founder (self-described)"
-research_date: "2026-11-24"
+research_date: 2026-11-25
 confidence: "medium"
 account_type: "person"
 primary_domain: "content-creation"
@@ -63,9 +63,11 @@ status: "verified"
 - **Risks:** thin/AI-spam content penalties; link schemes violating Google policies; unverified claims of 55x growth [S1]. **Success metric:** Search Console clicks & impressions vs a 90-day baseline.
 
 ## F. Evidence summary
+- **2026-11-25 refresh.** Appended 108 posts (108 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 2 collected ids were already stored. `posts.jsonl` now has 249 rows.
 18 sources; 141 X posts read (2024-05 to 2026-11 samples). Top: [S16] agency/SaaS page, [S17] self-bio, [S1] traffic claim, [S9] agent flow, [S12] lead-magnet tactic.
 
 ## G. Strengths and weaknesses
+- **2026-11-25.** The window is the same income-prompt format. He writes "I'm a millionaire" at the start of a Grok Bot thread [S20] (https://x.com/JulianGoldieSEO/status/2125227948261462092). That is his claim, not a verified figure, and it is not an opportunity score. The same day he posts that no rankings or income are guaranteed and that results are not typical [S19] (https://x.com/JulianGoldieSEO/status/2125363847003533703). [observed statement]
 - **Strong:** distribution mechanics, funnel design, productized SEO services; long tenure in link-building (self-reported 10+ yrs) [S17].
 - **Weak / risky:** results are self-published [S18]; extreme hype framing [S3][S4][S13]; promotes own products as "free"/"breaking" [S6][S7]; very high automated posting volume means low signal per post.
 - **Conflicts of interest:** sells communities, SaaS (Polar Rank), agency services — nearly all AI posts funnel there [S16][S17].
@@ -81,3 +83,4 @@ status: "verified"
 - **2024:** agency/LinkedIn/Facebook-ads lead-gen tips, "reply YES" magnets [S12][S14].
 - **Aug 2025:** AI-news hype at very high frequency ("Chinese AI MURDERED Google Veo 3") [S13].
 - **2026:** "Agent OS"/Hermes Agent and Grok Bot SEO crews, Polar Rank SaaS promotion, GEO/AEO positioning [S9][S11][S6].
+- **2026-11-25.** Volume stays high and the funnel is unchanged. The new item is his own disclaimer sitting next to the income hooks [S19][S20].

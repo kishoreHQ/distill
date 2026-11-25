@@ -138,3 +138,23 @@
   excerpt: "在快 AI 时代，我是怎么把 Mole 做成一款慢产品的？"
   original: true
   confidence: high
+- id: S15
+  url: https://x.com/HiTw93/status/2125172384202371402
+  author: "Tw93"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He says Mole can now clean idle AI tools, dead hooks, finished worktrees, orphaned conversations, and leftovers from uninstalled AI tools. Chinese post. The description is a reading of that post, not a second source."
+  excerpt: "Mole 的 AI 清理与维护更好用了"
+  original: true
+  confidence: high
+- id: S16
+  url: https://x.com/HiTw93/status/2125150540837650573
+  author: "Tw93"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "Reply: he wants an editor with no AI, for a person to read code, readmes, and diffs, that is fast, simple, and beautiful. Chinese. Not a product announcement."
+  excerpt: "只想要一个没有AI ，就是给人看代码、看readme、看diff的工具，快、简单、美丽的"
+  original: true
+  confidence: high

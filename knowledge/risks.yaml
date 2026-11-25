@@ -13,8 +13,10 @@
 - id: platform-terms
   text: Live refresh uses the official X API and only when X_BEARER_TOKEN is present. Login-wall scraping and anti-bot bypasses are out of bounds.
 - id: arnav-gap
-  text: arnav-gupta was converted from a different bundle. posts.jsonl holds short quotes, not the 200 posts sync.json says were read. PROFILE.json says Railway; the skill README's timeline ends at Meta and notes a LinkedIn headline that says Railway.
+  text: arnav-gupta's original 200-post file is still absent. posts.jsonl now has the short evidence quotes plus a 2026-11-25 official-API sample. Those new posts speak of Railway in the first person, including self-reported template payouts. The bundle README timeline that ends at Meta is not retracted.
 - id: income-hype
   text: Some posts in the snapshot promise passive income or seven-figure outcomes. Those lines are marketing claims in the source. They are not scored as opportunities.
 - id: conflicts
   text: Several people sell bootcamps, communities, or their employer's product. A recommendation that also feeds that product is a conflict of interest, and the profile files say so when the bundle did.
+- id: refresh-window
+  text: The 2026-11-25 posts are an official public X read from 2026-11-23T22:21:18Z, plus a deepen sample for arnav-gupta and kushal-gangil. Theo's collection was capped at 125. Stored text is at most 280 characters. Impression counts are API fields.

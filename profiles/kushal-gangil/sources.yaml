@@ -78,3 +78,23 @@
   excerpt: "Step-1: Learn Linux Fundamentals Step-2: Master Git and Version Control Step-3: Understand Networking Basics"
   original: true
   confidence: high
+- id: S9
+  url: https://x.com/techyoutbe/status/2124384632506610144
+  author: "Kushal Gangil (Tech Fusionist)"
+  published: 2026-11-22
+  researched: 2026-11-25
+  type: x_post
+  description: "Short public line. No thread explaining the analogy is in this append."
+  excerpt: "AI agents are becoming the new microservices. overused and misunderstood."
+  original: true
+  confidence: high
+- id: S10
+  url: https://x.com/techyoutbe/status/2124475481332633634
+  author: "Kushal Gangil (Tech Fusionist)"
+  published: 2026-11-22
+  researched: 2026-11-25
+  type: x_post
+  description: "Short public line. The image, if any, was not read."
+  excerpt: "kubernetes won't fix your broken application architecture."
+  original: true
+  confidence: high

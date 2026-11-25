@@ -8,7 +8,7 @@ other_identities: [https://livingdevops.com, https://github.com/akhileshmishrabi
 website: https://livingdevops.com
 organization: Living Devops (founder, self-described)
 role: Founder/instructor, Living Devops; self-described AI Platform Engineer / DevOps lead (14+ yrs, self-reported)
-research_date: 2026-11-24
+research_date: 2026-11-25
 confidence: high
 account_type: person
 primary_domain: automation
@@ -40,6 +40,7 @@ status: verified
 - Monetization: Content -> community (Discord) -> paid live cohorts [S2].
 
 ## D. Distilled knowledge
+- **2026-11-25.** Teaching focus stays Kubernetes troubleshooting. He says not to put Kubernetes on a resume without being able to explain production failures [S14] (https://x.com/livingdevops/status/2125231968195629225). He points at snowOps, a game per incident [S15] (https://x.com/livingdevops/status/2125270308353610233). On build versus buy for EKS observability he says "open source is free, so we build" fails the interview [S16] (https://x.com/livingdevops/status/2125357198700384277). [observed statement]
 - Principle: Monitor the Four Golden Signals rather than many dashboards [observed statement] [S7].
 - Principle: "Convenience is expensive" - pay for managed only when toil cost exceeds premium [observed statement] [S6].
 - Framework: Orchestration control plane (workflow-as-code) over existing Terraform/Ansible/GitHub/ServiceNow, with approvals, retries per step, run history [observed statement] [S4].
@@ -69,6 +70,7 @@ status: verified
 - Success metric: enrollments per cohort, completion, referrals.
 
 ## F. Evidence summary
+- **2026-11-25 refresh.** Appended 9 posts (9 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 1 collected ids were already stored. `posts.jsonl` now has 75 rows.
 - 66 X posts (25 recent Nov 2026, 25 May 2026, 16 May 2025); 2 long-form (homepage, 1 blog) + GitHub API. 13 sources.
 - Top: [S4], [S2], [S3], [S6], [S7].
 
@@ -88,3 +90,4 @@ status: verified
 - 2026-11-24 baseline.
 - May 2025: DevOps career/bootcamp critique, launches Discord, EKS MCP server commentary [S9][S10].
 - 2026: rebrands as "AI Platform Engineer", adds MLOps/AIOps courses, orchestration content, higher engagement on Linux fundamentals; career break [S1][S2][S4][S12].
+- **2026-11-25.** Consistent with "DevOps is not a tool list" [S5]. snowOps is a new drill he is promoting. Bootcamp conflict of interest is unchanged.

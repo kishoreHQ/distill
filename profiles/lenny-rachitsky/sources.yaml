@@ -118,3 +118,13 @@
   excerpt: "I took a break this summer from paying attention to AI. I thought that when I came back, I'd feel left behind."
   original: false
   confidence: high
+- id: S13
+  url: https://x.com/lennysan/status/2125350795411685880
+  author: "Lenny Rachitsky"
+  published: 2026-11-24
+  researched: 2026-11-25
+  type: x_post
+  description: "He restates the Atlassian experiment: faster at a few weeks, and a month later people had gone back to their old jobs. Same story direction as the earlier clip in S5, in his own post this time."
+  excerpt: "Atlassian tried teams with no PM and no designer. Everyone was an \"AI builder.\""
+  original: true
+  confidence: high

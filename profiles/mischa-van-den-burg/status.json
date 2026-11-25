@@ -1,65 +1,70 @@
 {
-  "id": "mischa-van-den-burg",
-  "x_url": "https://x.com/mischavdburg",
-  "x_user_id": "1639653263778750465",
-  "display_name": "Mischa van den Burg",
-  "research_status": "verified",
-  "posts_read": 75,
-  "posts_by_band": {
-    "recent": 25,
-    "mid": 25,
-    "old": 25
+ "id": "mischa-van-den-burg",
+ "x_url": "https://x.com/mischavdburg",
+ "x_user_id": "1639653263778750465",
+ "display_name": "Mischa van den Burg",
+ "research_status": "verified",
+ "posts_read": 83,
+ "posts_by_band": {
+  "recent": 25,
+  "mid": 25,
+  "old": 25,
+  "refresh_2026_11_25_daily": 8,
+  "refresh_2026_11_25_deepen": 0
+ },
+ "posts_date_range": [
+  "2024-11-23",
+  "2026-11-23"
+ ],
+ "longform_fetched": 2,
+ "sources_count": 14,
+ "last_post_id": "2125307489696755729",
+ "researched_at": "2026-11-24T14:45:00+05:30",
+ "limitations": [
+  "Pinned post not retrievable via API",
+  "YouTube channel not reviewed (main long-form source)",
+  "Revenue/placement claims unverified marketing",
+  "Old band limited to Nov 2024",
+  "2026-11-25 append is a date window, not a full timeline. Added 8; 0 collected ids were already in the file."
+ ],
+ "completeness": {
+  "identity": {
+   "score": 2,
+   "reason": "X+KubeCraft"
   },
-  "posts_date_range": [
-    "2024-11-23",
-    "2026-11-23"
-  ],
-  "longform_fetched": 2,
-  "sources_count": 12,
-  "last_post_id": "2124737306561020104",
-  "researched_at": "2026-11-24T14:45:00+05:30",
-  "limitations": [
-    "Pinned post not retrievable via API",
-    "YouTube channel not reviewed (main long-form source)",
-    "Revenue/placement claims unverified marketing",
-    "Old band limited to Nov 2024"
-  ],
-  "completeness": {
-    "identity": {
-      "score": 2,
-      "reason": "X+KubeCraft"
-    },
-    "source_coverage": {
-      "score": 1,
-      "reason": "75 posts, 2 pages, no YouTube"
-    },
-    "expertise": {
-      "score": 2,
-      "reason": "clear"
-    },
-    "principles": {
-      "score": 1,
-      "reason": "few explicit"
-    },
-    "frameworks": {
-      "score": 2,
-      "reason": "funnel + stages"
-    },
-    "playbooks": {
-      "score": 2,
-      "reason": "2 derived"
-    },
-    "evidence": {
-      "score": 2,
-      "reason": "12 sources"
-    },
-    "limitations": {
-      "score": 2,
-      "reason": "COI noted"
-    },
-    "applications": {
-      "score": 2,
-      "reason": "direct"
-    }
+  "source_coverage": {
+   "score": 1,
+   "reason": "75 posts, 2 pages, no YouTube"
+  },
+  "expertise": {
+   "score": 2,
+   "reason": "clear"
+  },
+  "principles": {
+   "score": 1,
+   "reason": "few explicit"
+  },
+  "frameworks": {
+   "score": 2,
+   "reason": "funnel + stages"
+  },
+  "playbooks": {
+   "score": 2,
+   "reason": "2 derived"
+  },
+  "evidence": {
+   "score": 2,
+   "reason": "12 sources"
+  },
+  "limitations": {
+   "score": 2,
+   "reason": "COI noted"
+  },
+  "applications": {
+   "score": 2,
+   "reason": "direct"
   }
+ },
+ "last_refresh": "2026-11-25T00:25:39Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-25. Window start 2026-11-23T22:21:18Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters."
 }

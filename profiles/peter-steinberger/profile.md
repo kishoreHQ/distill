@@ -8,7 +8,7 @@ other_identities: [https://github.com/steipete, https://steipete.me, https://git
 website: https://steipete.me
 organization: OpenAI; OpenClaw (open-source project, moving to a foundation)
 role: Works at OpenAI on agents (per his Feb 2026 post); creator of OpenClaw; previously founder of PSPDFKit
-research_date: 2026-11-24
+research_date: 2026-11-25
 confidence: high
 account_type: person
 primary_domain: ai-engineering
@@ -44,6 +44,7 @@ status: verified
 - Monetization: No evidence of him selling courses; his public work is open source. Commercial incentive is employment at OpenAI [S4].
 
 ## D. Distilled knowledge
+- **2026-11-25.** On OpenClaw he says random "openclaw is now x" posts are tiring and points at the git repo [S22] (https://x.com/steipete/status/2125066430857220265). On memory he describes an early spawn-and-fork in claw/node that he says is usually about 30x smaller [S21] (https://x.com/steipete/status/2125344148496769362). The 30x is his report. [observed statement]
 - Principle: "Start with the model and a CLI first" - text interfaces let agents call and verify output [observed statement] [S5].
 - Principle: Engineer codebases for agents, not for human navigation (obvious structure, docs/*.md, global AGENTS.md) [observed statement] [S6].
 - Mental model: "Most software is boring" - data in, store, display; throughput is bounded by inference time and hard thinking [observed statement] [S5].
@@ -86,6 +87,7 @@ status: verified
 - Risks: Missed regressions; complexity medium. Success metric: CI minutes and wait time down, escaped-bug count flat.
 
 ## F. Evidence summary
+- **2026-11-25 refresh.** Appended 3 posts (3 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 102 rows.
 - 99 X posts read (49 recent 6 mo, 25 mid 2026-05, 25 from Oct-Nov 2024); 3 long-form fetched (steipete.me home, 2 posts) + GitHub API. 20 sources in sources.yaml.
 - Top sources: [S5] workflow post, [S4] OpenAI/OpenClaw post, [S2] GitHub, [S8] autotriage, [S7] tokens-don't-matter.
 
@@ -110,3 +112,4 @@ status: verified
 - 2025: "came back from retirement"; heavy Claude Code usage, then shift to codex after GPT-5 ("un-slops older crimes of Opus") [S5].
 - Late 2025-Feb 2026: OpenClaw launches and explodes; joins OpenAI [S3][S4].
 - 2026: scale experiments (~100 cloud agents), autotriage/review automation, agent-run projects with humans curating [S7][S8][S13]; growing emphasis on owning your harness [S10].
+- **2026-11-25.** No change to the CLI-first or vibe-coding lines. The new notes are an implementation workaround and a request to trust the repo over rename rumors.

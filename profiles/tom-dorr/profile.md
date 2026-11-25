@@ -8,7 +8,7 @@ other_identities: ["https://github.com/tom-doerr", "https://tom-doerr.github.io/
 website: "https://tom-doerr.github.io/repo_posts/"
 organization: ""
 role: ""
-research_date: "2026-11-24"
+research_date: 2026-11-25
 confidence: "high"
 account_type: "person"
 primary_domain: "ai-engineering"
@@ -62,6 +62,7 @@ status: "verified"
 - **Cost:** ~0. **Risk:** survivorship/hype bias; dual-use tools. **Metric:** trials that become part of Kishore's stack.
 
 ## F. Evidence summary
+- **2026-11-25 refresh.** Appended 1 posts (1 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 121 rows.
 18 sources (120 X posts read; only 5 of them lack a link, i.e. are original commentary). Top: [S16] repo_posts README, [S15] GitHub, [S2] highest-bookmark sample, [S6] own opinion, [S9] cadence sample.
 
 ## G. Strengths and weaknesses
@@ -79,3 +80,4 @@ status: "verified"
 - **2021-2023:** built LLM-in-terminal tools (zsh_codex, codex-readme) and posted personal experiments (GPT-4 configuring Proxmox [S10], GPU cost comparisons [S11]).
 - **2025:** repo_posts created Feb 2025 [S16]; Aug 2025 feed posting every ~30 min [S9].
 - **2026:** feed slowed to every few hours with longer summaries; focus shifted to agent skills, MCP servers, harness engineering, self-hosting [S2][S3][S13].
+- **2026-11-25.** One reply distinguishing utility from explanation in someone else's argument. It does not change the repo-feed or reasoning notes. No section A–H change.

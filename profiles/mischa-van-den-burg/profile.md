@@ -8,7 +8,7 @@ other_identities: [https://kubecraft.dev, https://roadmap.kubecraft.dev/]
 website: https://kubecraft.dev
 organization: KubeCraft (founder)
 role: Founder, KubeCraft; DevOps/Kubernetes YouTuber (self-described 120K subs)
-research_date: 2026-11-24
+research_date: 2026-11-25
 confidence: high
 account_type: person
 primary_domain: content-creation
@@ -37,6 +37,7 @@ status: verified
 - Infra: Self-host on cheap dedicated servers rather than cloud for his own business [S8].
 
 ## D. Distilled knowledge
+- **2026-11-25.** He says not to install the thing on the main machine, and to work in containers [S13] (https://x.com/mischavdburg/status/2125307048283808162). He describes a three-machine upgrade as a drain, reboot, and return, done with a button [S14] (https://x.com/mischavdburg/status/2125258178354962768), and contrasts that with being the load balancer yourself under Docker Compose. [observed statement]
 - Funnel [observed statement]: YouTube authority -> free personalised quiz (6 questions, 6 stages) -> strategy-call application -> premium program [S2][S3].
 - Positioning [observed statement]: sell outcome (job + salary) not knowledge; target IT pros "without starting over" [S2].
 - Principle: Homelab on resume differentiates candidates [observed statement] [S10][S6].
@@ -62,6 +63,7 @@ status: verified
 - Risks: You own ops/on-call; backups essential. Metric: monthly infra cost, uptime.
 
 ## F. Evidence summary
+- **2026-11-25 refresh.** Appended 8 posts (8 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 83 rows.
 - 75 X posts (25 Nov 2026, 25 Feb 2026, 25 Nov 2024); 2 long-form (kubecraft.dev, roadmap page). 12 sources. YouTube not reviewed.
 
 ## G. Strengths and weaknesses
@@ -78,3 +80,4 @@ status: verified
 
 ## I. Profile evolution
 - 2026-11-24 baseline. Nov 2024: generic cloud/DevOps motivation, homelab-on-resume [S10]. Feb 2026: career/salary/anti-tutorial messaging, AI-proof framing, Claude Code mention. Nov 2026: business infra expansion (Hetzner), Talos->Rancher, AI subscription pricing commentary, NVIDIA/Docker news takes [S8][S11][S12].
+- **2026-11-25.** The new cluster narrative is more specific than the baseline sample. It is still his telling of his own boxes.

@@ -1,65 +1,70 @@
 {
-  "id": "x-githubprojects",
-  "x_url": "https://x.com/GithubProjects",
-  "x_user_id": "1315639147248246785",
-  "display_name": "GitHub Projects Community",
-  "research_status": "verified",
-  "posts_read": 75,
-  "posts_by_band": {
-    "recent": 25,
-    "old": 25,
-    "mid": 25
+ "id": "x-githubprojects",
+ "x_url": "https://x.com/GithubProjects",
+ "x_user_id": "1315639147248246785",
+ "display_name": "GitHub Projects Community",
+ "research_status": "verified",
+ "posts_read": 82,
+ "posts_by_band": {
+  "recent": 25,
+  "old": 25,
+  "mid": 25,
+  "refresh_2026_11_25_daily": 7,
+  "refresh_2026_11_25_deepen": 0
+ },
+ "posts_date_range": [
+  "2025-05-28",
+  "2026-11-24"
+ ],
+ "longform_fetched": 1,
+ "sources_count": 8,
+ "last_post_id": "2125288644756099561",
+ "researched_at": "2026-11-24T14:45:00+05:30",
+ "limitations": [
+  "Aggregator account; operator unidentified",
+  "Links are t.co; underlying repos not resolved in this pass",
+  "No pinned post",
+  "Account nature verified, expertise not applicable",
+  "2026-11-25 append is a date window, not a full timeline. Added 7; 3 collected ids were already in the file."
+ ],
+ "completeness": {
+  "identity": {
+   "score": 1,
+   "reason": "account verified, operator unknown"
   },
-  "posts_date_range": [
-    "2025-05-28",
-    "2026-11-24"
-  ],
-  "longform_fetched": 1,
-  "sources_count": 7,
-  "last_post_id": "2125137370114818156",
-  "researched_at": "2026-11-24T14:45:00+05:30",
-  "limitations": [
-    "Aggregator account; operator unidentified",
-    "Links are t.co; underlying repos not resolved in this pass",
-    "No pinned post",
-    "Account nature verified, expertise not applicable"
-  ],
-  "completeness": {
-    "identity": {
-      "score": 1,
-      "reason": "account verified, operator unknown"
-    },
-    "source_coverage": {
-      "score": 2,
-      "reason": "75 posts across 3 bands"
-    },
-    "expertise": {
-      "score": 0,
-      "reason": "aggregator"
-    },
-    "principles": {
-      "score": 0,
-      "reason": "n/a"
-    },
-    "frameworks": {
-      "score": 0,
-      "reason": "n/a"
-    },
-    "playbooks": {
-      "score": 1,
-      "reason": "signal ingestion playbook"
-    },
-    "evidence": {
-      "score": 1,
-      "reason": "7 sources"
-    },
-    "limitations": {
-      "score": 2,
-      "reason": "clearly stated"
-    },
-    "applications": {
-      "score": 1,
-      "reason": "signal feed only"
-    }
+  "source_coverage": {
+   "score": 2,
+   "reason": "75 posts across 3 bands"
+  },
+  "expertise": {
+   "score": 0,
+   "reason": "aggregator"
+  },
+  "principles": {
+   "score": 0,
+   "reason": "n/a"
+  },
+  "frameworks": {
+   "score": 0,
+   "reason": "n/a"
+  },
+  "playbooks": {
+   "score": 1,
+   "reason": "signal ingestion playbook"
+  },
+  "evidence": {
+   "score": 1,
+   "reason": "7 sources"
+  },
+  "limitations": {
+   "score": 2,
+   "reason": "clearly stated"
+  },
+  "applications": {
+   "score": 1,
+   "reason": "signal feed only"
   }
+ },
+ "last_refresh": "2026-11-25T00:25:39Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-25. Window start 2026-11-23T22:21:18Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters."
 }

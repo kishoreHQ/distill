@@ -33,3 +33,12 @@ Koe's letter says a strategy that can be written as steps can be copied by an AI
 ## Microservices
 
 Piyush says he used to think microservices were the answer and now thinks most companies do not have the question [piyush-sachdeva S13]. Gupta's stored line is that they make things unnecessarily hard [arnav-gupta O-ENG-4]. Suman's public talk is about making a large Kubernetes API server behave [suman-chakraborty S2], which assumes the cluster already exists. No merge of these positions is claimed.
+
+
+## 2026-11-25 additions
+
+Pavan's stored "DevOps is dead" line [pavan-belagatti S6] and his 2026-11-24 sentence "DevOps isn't dead; it's evolving into Agentic DevOps!" [pavan-belagatti S19] are both public. The second post is the clearer statement of the agentic-evolution reading already in his profile.
+
+Theo posted that T3 Code's source would close that night [theo-browne S20] and, the same hour, that this would not actually happen [theo-browne S21]. The later post is the one he left standing, next to a telemetry removal [theo-browne S22].
+
+Levels' spam fight is now also a self-reported $600/day [pieter-levels S18]. Vatsal's "do not automate what you have not proved" line is unchanged. The two posts are about different motions.

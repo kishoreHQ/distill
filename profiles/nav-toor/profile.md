@@ -8,7 +8,7 @@ other_identities: [https://linktr.ee/navtoor]
 website: https://linktr.ee/navtoor
 organization:
 role: AI content creator (self-described; sponsorships)
-research_date: 2026-11-24
+research_date: 2026-11-25
 confidence: medium
 account_type: person
 primary_domain: content-creation
@@ -33,6 +33,7 @@ status: verified
 - Only content strategy can be inferred (our interpretation): storytelling + practical free tools + consistency. One early prompting opinion: don't have AI write its own prompts [S7].
 
 ## D. Distilled knowledge
+- **Voice, 2026-11-25.** New rows continue a historical business-story format. One opening is Apple and Be in 1996 [S9] (https://x.com/heynavtoor/status/2125244041805877392). The dates and prices in that post were not checked here. The format is the evidence. The history is unverified in this repo. [observed statement]
 - **Formats that performed in sample** [our interpretation from posts.jsonl metrics]:
   - Business-history "they said no" stories (Nov 2026 series; pinned ~7.8K likes) [S3].
   - "Expensive thing vs free open-source thing" narratives [S4][S6].
@@ -53,6 +54,7 @@ status: verified
 - **Success metric:** median impressions/post, follower growth/week.
 
 ## F. Evidence summary
+- **2026-11-25 refresh.** Appended 22 posts (22 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 91 rows.
 - 8 sources (6 X posts, 1 profile, 1 secondary). 69 X posts read (50 last 6 months, 19 from Apr 2025).
 - Top: [S3] pinned story, [S2] sponsorship listing, [S5] pain hook.
 
@@ -71,3 +73,4 @@ status: verified
 - Apr 2025: generic hype/replies ("Mind Blowing", "BREAKING") [S7][S8].
 - Mid 2026: "free OSS tool" narratives, AI workflow hooks [S4][S5][S6].
 - Nov 2026: business-history acquisition-rejection series [S3].
+- **2026-11-25.** No tool or income method was added. Eleven of the twenty-two collected rows are replies.

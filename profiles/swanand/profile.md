@@ -8,7 +8,7 @@ other_identities: [https://superlinear.tech]
 website: https://superlinear.tech
 organization: Superlinear (enterprise AI services) — linked from X bio and site names him
 role: CTO (self-described in X bio; exact title at Superlinear not stated on site)
-research_date: 2026-11-24
+research_date: 2026-11-25
 confidence: medium
 account_type: person
 primary_domain: automation
@@ -31,6 +31,7 @@ status: partial
 - **Case studies listed (company claims):** VC-firm AI OS, LegalTech inside MS Word, six-language emergency voice agent for Bangalore police, text-to-SQL for a family office [S2].
 
 ## C. Core philosophy
+- **2026-11-25.** One reply with a method point: a small sample "smells of post rationalisation" [S9] (https://x.com/_swanand/status/2125258265747763674). He says he will read the whole piece. The other new rows are short replies. Identity is still thin. Status stays partial. [observed statement]
 - **AI:** put AI "where work already happens" with zero disruption/retraining; predictable token costs; human accountability [S1][S2].
 - **Value from AI:** speed and fixing accidental inefficiencies beat "do more with same budget" [S4].
 - **Org design:** siloed eng/product/design teams are a smell [S8]; architects must understand human-in-the-loop systems [S7].
@@ -55,6 +56,7 @@ status: partial
 - **Success metric:** cycle time before/after; pilot→production rate.
 
 ## F. Evidence summary
+- **2026-11-25 refresh.** Appended 3 posts (3 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 89 rows.
 - 8 sources (5 X posts, 2 website entries, 1 testimonial). 86 X posts read, but most are personal/off-topic (food, coffee, politics) — low AI signal on X.
 - Top: [S2] Superlinear site, [S4] AI value framework, [S5] career framework.
 
@@ -73,3 +75,4 @@ status: partial
 - 2024: career/leadership advice (pinned career framework, negotiation) [S5][S6].
 - 2025: casual tech commentary (skeptical of Gemini in Jul 2025 post) [posts 2025-07].
 - 2026: enterprise-AI positioning ("unf*ck enterprise AI"), AI-value framework [S1][S4].
+- **2026-11-25.** Not promoted. Three new rows, one of them substantive.

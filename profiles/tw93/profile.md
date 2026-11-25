@@ -8,7 +8,7 @@ other_identities: [https://github.com/tw93, https://tw93.fun, https://weekly.tw9
 website: https://tw93.fun
 organization: Independent developer (Mole, Pake, Kami, MiaoYan, Waza, Kaku)
 role: Indie open-source developer / product maker (legal name not stated in sources read)
-research_date: 2026-11-24
+research_date: 2026-11-25
 confidence: high
 account_type: person
 primary_domain: ai-engineering
@@ -32,6 +32,7 @@ status: verified
 - **Communities:** Chinese dev community on X/blog; global OSS users (multi-language READMEs) [S5][S6].
 
 ## C. Core philosophy
+- **2026-11-25.** He says Mole's AI cleanup now removes idle AI tools, dead hooks, finished worktrees, orphan conversations, and leftovers from uninstalled tools [S15] (https://x.com/HiTw93/status/2125172384202371402). In a reply he says he wants an editor with no AI, for reading code, readmes, and diffs [S16] (https://x.com/HiTw93/status/2125150540837650573). The second line is a reading tool, not a rejection of Mole. [observed statement]
 - **Product:** "Anything added dilutes everything else" — refuse features that make software noisier [S2][S4].
 - **AI coding:** describe goals/background, let the agent pick technical details; use best models; enforce rules with scripts, not prompts [S3].
 - **Monetization:** keep the OSS CLI free; charge for the convenient desktop app [S4][S7].
@@ -39,6 +40,7 @@ status: verified
 - **Trust:** protect account reputation; avoid grey-market AI accounts [S11].
 
 ## D. Distilled knowledge
+- **Tools, 2026-11-25.** Mole cleanup of AI-tool residue [S15]. A non-AI editor for code, readme, and diff is a wish in a reply [S16], not a shipped name in that post.
 - **Principles**
   - Rules agents must follow should be enforced by check scripts that actually run [observed statement][S3].
   - Separate the coding agent from the reviewing agent; max 3 review rounds; second round only checks new changes [observed statement][S3].
@@ -81,6 +83,7 @@ status: verified
 - Problem: testing across OSs/devices. Steps: wipe old laptops/phones, install target OSs, connect via SSH/remote, let agents run builds/tests there. Cost: ~$0. Complexity: low–medium. Metric: platforms covered per release.
 
 ## F. Evidence summary
+- **2026-11-25 refresh.** Appended 35 posts (35 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 120 rows.
 - 14 sources (3 blog, 3 GitHub, 7 X posts, 1 profile). 85 X posts read (50 last 6 months, 20 6–24 months, 15 older).
 - Top: [S3] 21 practices, [S4] Mole monetization story, [S5] Waza, [S2] repos.
 
@@ -102,3 +105,4 @@ status: verified
 - 2024: "#工程师学习" curated learning links, MiaoYan updates [posts 2024-05].
 - 2025: investing talk for engineers, curating agent principles (12-Factor Agents) [posts 2025-07].
 - 2026: shifted to shipping paid desktop apps (Mole Mac Aug, Windows Oct; Pake desktop Nov), agent-skills (Waza, Kami), AI-coding best-practice writing [S3][S4][S7].
+- **2026-11-25.** Product focus stays Mole and small Mac/iOS apps (MiaoYan is also announced in this window as a plain-Markdown notebook; that post is in `posts.jsonl` and is not given a separate philosophy). The no-AI editor line is new relative to the baseline essay.

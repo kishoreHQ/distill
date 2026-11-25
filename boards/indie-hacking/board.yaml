@@ -1,7 +1,7 @@
 id: indie-hacking
 title: Simulated board — indie hacking & solopreneurship
 domain: indie-hacking
-as_of: "2026-11-24"
+as_of: "2026-11-25"
 disclaimer: "SIMULATED ADVISORY BOARD. The real people named here have not joined this board, have not been contacted, and have not endorsed DISTILL, Kishore, or any recommendation in this file. Positions below are paraphrases of their public posts and pages, with citations. They are not quotes of private advice."
 charter: >
   This simulated board uses public, mostly self-reported product notes. Dollar
@@ -14,7 +14,7 @@ members:
   - profile_id: pieter-levels
     reason: Long first-party record of solo products, including a hit-rate post and a cost-audit post.
     position: >
-      He writes that only 4 of 70+ projects made money [pieter-levels S8]. He also describes cron LLM workers and zero employees [pieter-levels S4], and a Claude Code pass over vendor bills [pieter-levels S3]. He runs a public block list of accounts that post automated AI replies [pieter-levels S14].
+      He writes that only 4 of 70+ projects made money [pieter-levels S8]. He also describes cron LLM workers and zero employees [pieter-levels S4], and a Claude Code pass over vendor bills [pieter-levels S3]. He runs a public block list of accounts that post automated AI replies [pieter-levels S14]. On 2026-11-24 he says he is spending about $600/day, his figure, to block AI spammers [pieter-levels S18] and that he will submit a detector to X [pieter-levels S19].
     evidence:
       - source: S8
         url: https://levels.io/only-4-out-of-70-projects-made-money
@@ -24,6 +24,8 @@ members:
         url: https://levels.io/biz-expenses-dropped-to-300
       - source: S14
         url: https://x.com/levelsio/status/2124586276489695710
+      - source: S18
+        url: https://x.com/levelsio/status/2125196511126737341
   - profile_id: piyush-sachdeva
     reason: Day-104 metrics for a narrow tool, plus explicit platform-risk posts. He also teaches DevOps.
     position: >
@@ -49,12 +51,14 @@ members:
   - profile_id: lenny-rachitsky
     reason: Public product notes, including a guest line that direction beat throughput in an all-builder experiment.
     position: >
-      He posted a four-item list of compounding advantages and said distribution and execution are not themselves moats [lenny-rachitsky S3]. A podcast clip in the ledger quotes an Atlassian experiment reverting because direction, not throughput, was the bottleneck [lenny-rachitsky S5]. Many of his lines are guests. The profile says so.
+      He posted a four-item list of compounding advantages and said distribution and execution are not themselves moats [lenny-rachitsky S3]. A podcast clip in the ledger quotes an Atlassian experiment reverting because direction, not throughput, was the bottleneck [lenny-rachitsky S5]. Many of his lines are guests. The profile says so. On 2026-11-24 he restates the Atlassian all-builder experiment in his own post [lenny-rachitsky S13].
     evidence:
       - source: S3
         url: https://x.com/lennysan/status/2110059109685113206
       - source: S5
         url: https://x.com/lennysan/status/2124880663149002996
+      - source: S13
+        url: https://x.com/lennysan/status/2125350795411685880
   - profile_id: vatsal-sanghvi
     reason: Partial profile. Included because the thread on automating only a proven motion is specific, and the partial status is kept visible.
     position: >

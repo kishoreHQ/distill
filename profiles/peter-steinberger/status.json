@@ -1,65 +1,70 @@
 {
-  "id": "peter-steinberger",
-  "x_url": "https://x.com/steipete",
-  "x_user_id": "25401953",
-  "display_name": "Peter Steinberger",
-  "research_status": "verified",
-  "posts_read": 99,
-  "posts_by_band": {
-    "recent": 49,
-    "mid": 25,
-    "old": 25
+ "id": "peter-steinberger",
+ "x_url": "https://x.com/steipete",
+ "x_user_id": "25401953",
+ "display_name": "Peter Steinberger",
+ "research_status": "verified",
+ "posts_read": 102,
+ "posts_by_band": {
+  "recent": 49,
+  "mid": 25,
+  "old": 25,
+  "refresh_2026_11_25_daily": 3,
+  "refresh_2026_11_25_deepen": 0
+ },
+ "posts_date_range": [
+  "2024-10-25",
+  "2026-11-19"
+ ],
+ "longform_fetched": 3,
+ "sources_count": 22,
+ "last_post_id": "2125344148496769362",
+ "researched_at": "2026-11-24T14:45:00+05:30",
+ "limitations": [
+  "Pinned post id returned by user lookup but not retrievable via API",
+  "Older posts sampled only from Oct-Nov 2024 (pre-AI pivot period)",
+  "No podcast/YouTube transcripts fetched",
+  "Search results skew to latest posts within each window",
+  "2026-11-25 append is a date window, not a full timeline. Added 3; 0 collected ids were already in the file."
+ ],
+ "completeness": {
+  "identity": {
+   "score": 2,
+   "reason": "X+GitHub+blog cross-linked"
   },
-  "posts_date_range": [
-    "2024-10-25",
-    "2026-11-19"
-  ],
-  "longform_fetched": 3,
-  "sources_count": 20,
-  "last_post_id": "2123487048250327497",
-  "researched_at": "2026-11-24T14:45:00+05:30",
-  "limitations": [
-    "Pinned post id returned by user lookup but not retrievable via API",
-    "Older posts sampled only from Oct-Nov 2024 (pre-AI pivot period)",
-    "No podcast/YouTube transcripts fetched",
-    "Search results skew to latest posts within each window"
-  ],
-  "completeness": {
-    "identity": {
-      "score": 2,
-      "reason": "X+GitHub+blog cross-linked"
-    },
-    "source_coverage": {
-      "score": 2,
-      "reason": "99 posts across 3 bands + 2 long-form + GitHub"
-    },
-    "expertise": {
-      "score": 2,
-      "reason": "clear evidence"
-    },
-    "principles": {
-      "score": 2,
-      "reason": "first-party workflow post"
-    },
-    "frameworks": {
-      "score": 2,
-      "reason": "autotriage, clawpatch"
-    },
-    "playbooks": {
-      "score": 2,
-      "reason": "3 derived"
-    },
-    "evidence": {
-      "score": 2,
-      "reason": "20 sources"
-    },
-    "limitations": {
-      "score": 2,
-      "reason": "COI and cost noted"
-    },
-    "applications": {
-      "score": 1,
-      "reason": "monetization relevance indirect"
-    }
+  "source_coverage": {
+   "score": 2,
+   "reason": "99 posts across 3 bands + 2 long-form + GitHub"
+  },
+  "expertise": {
+   "score": 2,
+   "reason": "clear evidence"
+  },
+  "principles": {
+   "score": 2,
+   "reason": "first-party workflow post"
+  },
+  "frameworks": {
+   "score": 2,
+   "reason": "autotriage, clawpatch"
+  },
+  "playbooks": {
+   "score": 2,
+   "reason": "3 derived"
+  },
+  "evidence": {
+   "score": 2,
+   "reason": "20 sources"
+  },
+  "limitations": {
+   "score": 2,
+   "reason": "COI and cost noted"
+  },
+  "applications": {
+   "score": 1,
+   "reason": "monetization relevance indirect"
   }
+ },
+ "last_refresh": "2026-11-25T00:25:39Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-25. Window start 2026-11-23T22:21:18Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters."
 }

@@ -8,7 +8,7 @@ other_identities: ["https://newsletter.systemdesign.one", "https://linkedin.com/
 website: "https://newsletter.systemdesign.one"
 organization: "System Design One"
 role: "Founder / newsletter author"
-research_date: "2026-11-24"
+research_date: 2026-11-25
 confidence: "medium"
 account_type: "person"
 primary_domain: "content-creation"
@@ -54,9 +54,11 @@ status: "verified"
 - **Steps:** paid tier with deep-dives; publish a "send this to your manager" template; target engineers at companies with L&D budgets. **Metric:** paid conversion %.
 
 ## F. Evidence summary
+- **2026-11-25 refresh.** Appended 35 posts (35 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 132 rows.
 18 sources; 97 X posts (2024-08 → 2026-11). Top: [S16] newsletter about, [S18] LinkedIn/Substack snippet, [S4] AI-engineer curriculum, [S1]/[S2] recycling evidence, [S9] lead magnet.
 
 ## G. Strengths and weaknesses
+- **2026-11-25.** He discloses a CodeRabbit partnership on a "ship code in 2027" thread [S19] (https://x.com/systemdesignone/status/2125227908952097169). The thread's steps are CodeRabbit checks. Treat the checklist as sponsored. A separate list of public learning repos is a bookmark thread, not a stack he says he runs.
 - **Strong:** content packaging and distribution; consistent cadence; clear curricula.
 - **Limited:** little evidence of personal production engineering work; deep content is mostly summaries of others' engineering blogs and guest authors [S12][S17].
 - **Commercial incentives:** frequent product-promotion posts (AI tools/agents, hardware startups) whose sponsorship status we could not determine from text [S13][S14] — treat tool endorsements as possibly paid.
@@ -72,3 +74,4 @@ status: "verified"
 - **2024:** system design + LeetCode resources, newsletter at 83k [S10][S11].
 - **2025:** engagement-gated lead magnets, case-study summaries [S9].
 - **2026:** pivot to "AI Engineering & System Design" positioning — AI engineer roadmaps, FDE roadmap, AI code review prompts, agent orchestration posts; more product promos [S3][S4][S7][S13].
+- **2026-11-25.** Conflict of interest is now explicit on this post ("happy to partner"), not only inferred from the product names.
