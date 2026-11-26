@@ -30,6 +30,7 @@ status: "verified"
 - **Projects:** teaching repos (netflix-gpt, devTinder), recent RAG/video-AI repos [S17].
 
 ## C. Core philosophy
+- **2026-11-26.** He says a company can be profitable while your career goes nowhere, and not to confuse their growth with yours [S19] (https://x.com/akshaymarch7/status/2125431056275017888). He also says you can disagree with where the industry is going and should still understand it well enough to decide [S20] (https://x.com/akshaymarch7/status/2125611095247528412). A third post says frustration that AI built in 10 minutes what took 3 years to learn will not make the technology disappear. That post is in `posts.jsonl`. [observed statement]
 - **AI & careers:** "Coding is Dead. Engineering is not." [S9]; AI changes the role (FullStack AI Engineer), not the need for engineers [S8]; use AI to stretch into harder work [S4].
 - **Engineering judgment over output:** delegation skills from day one [S2]; evaluate candidates by reasoning, not AI-share [S5]; data problems dominate scaling [S15].
 - **Talent pipeline:** don't eliminate juniors; redesign their training [S3].
@@ -57,6 +58,7 @@ status: "verified"
 - **Steps:** before each agent task write: outcome, constraints/context, verification; after, explain "why this design"; once a week, pick a stretch task. **Metric:** % tasks accepted without rework.
 
 ## F. Evidence summary
+- **2026-11-26 refresh.** Appended 4 posts (4 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 96 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 18 sources; 92 X posts (2024-05 → 2026-11). Top: [S16] NamasteDev, [S2] delegation, [S9] coding vs engineering, [S3] juniors, [S1] YouTube milestone.
 
 ## G. Strengths and weaknesses
@@ -74,3 +76,4 @@ status: "verified"
 - **2024:** student-life/career motivation, JS/React/Node teaching, 1M subs [S1][S13][S14].
 - **Dec 2025:** "Coding is dead, engineering is not", LLM mental models [S9][S10].
 - **Nov 2026:** AI-era engineering management themes (delegation, junior training, interviewing) and Namaste AI course [S2][S3][S5][S16].
+- **2026-11-26.** Same career-teaching voice. The new contrast is company growth versus the person's career [S19], next to the earlier line that interviews should ask why a system was built [S5].

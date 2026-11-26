@@ -1,6 +1,6 @@
 id: open-core-cli
 title: Free DevOps CLI with a paid desktop app, shipped slowly
-as_of: "2026-11-24"
+as_of: "2026-11-26"
 status: hypothesis
 disclaimer: "Opportunity scores are hypotheses with links to public evidence. They are not income projections, job offers, or proof that a business exists. Self-reported revenue in the sources belongs to those authors, not to Kishore."
 hypothesis: >
@@ -27,7 +27,7 @@ dimensions:
     note: Devtools CLIs are crowded. The corpus does not show a protected niche.
   monetization_clarity:
     score: 8
-    note: The Pake launch post states the CLI stays free and the native app is a one-time purchase.
+    note: The Pake launch post states the CLI stays free and the native app is a one-time purchase. On 2026-11-25 he posts Mole at $15.20 until December 1. That price is his. It does not raise the score.
   risk_inverse:
     score: 7
     note: Low capital if support stays manual. Reputation risk if the paid app is a thin wrapper. Refund behaviour is his, not a template.
@@ -44,6 +44,18 @@ evidence:
     source: S6
     url: https://github.com/tw93/Pake
     note: README line in the ledger. Free open-source CLI plus a desktop app.
+  - profile: tw93
+    source: S17
+    url: https://x.com/HiTw93/status/2125598323327508840
+    note: His Black Friday price, $15.20 until December 1. Not a market rate.
+  - profile: tw93
+    source: S19
+    url: https://x.com/HiTw93/status/2125736229828518143
+    note: Basic features on CLI and GUI. He says the GUI has features the CLI does not.
+  - profile: tw93
+    source: S18
+    url: https://x.com/HiTw93/status/2125450228455383474
+    note: Chinese post. No telemetry beyond activation binding, in his words.
 risks:
   - Star counts are not revenue. The ledger does not disclose his sales total.
   - Copying the shape without a painful workflow of one's own is how this becomes a wrapper.

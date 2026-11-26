@@ -198,3 +198,53 @@
   excerpt: "This is directly to stop AI spammers auto replying"
   original: true
   confidence: high
+- id: S21
+  url: https://x.com/levelsio/status/2125592280505704637
+  author: '@levelsio (Pieter Levels)'
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He says tweets are honeypots that block accounts onto a shared blocklist, and that each account is investigated by Grok 4.7. The post is truncated.
+  excerpt: All my tweets are now AI spammer honeypots 👌 They get instantly blocked and pushed to
+  original: true
+  confidence: high
+- id: S22
+  url: https://x.com/levelsio/status/2125606495056449835
+  author: '@levelsio (Pieter Levels)'
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: His claim that a block fires only when it is conclusive and every reply matches the same AI spam. Not an audit of the detector.
+  excerpt: there's no false positives here, it only blocks when it's conclusive and all
+  original: true
+  confidence: high
+- id: S23
+  url: https://x.com/levelsio/status/2125613519873995002
+  author: '@levelsio (Pieter Levels)'
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He calls it another DDOS. The count is his post, not a traffic log in this repo.
+  excerpt: 2.74 million requests in 10 minutes
+  original: true
+  confidence: high
+- id: S24
+  url: https://x.com/levelsio/status/2125515439770104282
+  author: '@levelsio (Pieter Levels)'
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He says Claude spinning up personalized MacOS apps makes an earlier claim real, and that labs will try to take over the OS. The sentence is cut off.
+  excerpt: The AI labs will try take over your OS so that
+  original: true
+  confidence: high
+- id: S25
+  url: https://x.com/levelsio/status/2125616550917149174
+  author: '@levelsio (Pieter Levels)'
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: Reply. He says running his replies plus about 100 replies of a suspected account through the detector is too expensive at mass scale, including for X. His cost judgment, not a bill.
+  excerpt: too expensive to do at mass scale
+  original: true
+  confidence: medium

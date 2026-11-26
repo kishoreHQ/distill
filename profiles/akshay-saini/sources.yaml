@@ -178,3 +178,23 @@
   excerpt: "Making advanced videos and diving into technical topics takes a lot of time and effort for creators. Even after putting in so much effort, they don't get reach, views, or good numbers, it's really demotivating. If creators make clickbait with…"
   original: true
   confidence: "high"
+- id: S19
+  url: https://x.com/akshaymarch7/status/2125431056275017888
+  author: Akshay Saini
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He says a company can be profitable while a career goes nowhere.
+  excerpt: Don't confuse their growth with yours.
+  original: true
+  confidence: high
+- id: S20
+  url: https://x.com/akshaymarch7/status/2125611095247528412
+  author: Akshay Saini
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He says disagreement with the industry's direction still requires understanding it well enough to make career decisions.
+  excerpt: You can disagree with where the industry is going. You should still
+  original: true
+  confidence: high

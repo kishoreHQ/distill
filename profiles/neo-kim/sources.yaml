@@ -188,3 +188,23 @@
   excerpt: "I’m happy to partner with CodeRabbit on this post."
   original: true
   confidence: high
+- id: S20
+  url: https://x.com/systemdesignone/status/2125589177114804668
+  author: Neo Kim
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: Teaching post. He defines MCP as a standard that lets AI tools connect to external data, specs, and tools through one interface.
+  excerpt: USB port for context.
+  original: true
+  confidence: high
+- id: S21
+  url: https://x.com/systemdesignone/status/2125622563502014865
+  author: Neo Kim
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He describes a payment-gateway bug discussed on Slack and then re-explained to an agent, and calls that a waste. Truncated. No fix is stated.
+  excerpt: explain the whole thing again to an AI coding agent.
+  original: true
+  confidence: high

@@ -188,3 +188,23 @@
   excerpt: "DevOps isn't dead; it's evolving into Agentic DevOps!"
   original: true
   confidence: high
+- id: S20
+  url: https://x.com/Pavan_Belagatti/status/2125628394385850699
+  author: Pavan Belagatti
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He says debating which model is better misses engineering the environment around it. Continues the harness line. Truncated.
+  excerpt: harness engineering yet? Probably by now you might have
+  original: true
+  confidence: high
+- id: S21
+  url: https://x.com/Pavan_Belagatti/status/2125617581155590527
+  author: Pavan Belagatti
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He lists AGENTS.md, SKILL.md, spec.md, and plan.md as the files that tell agents how to work and what to build. The list is truncated.
+  excerpt: Markdown engineers now? • AGENTS.md — Tells agents how to work within a
+  original: true
+  confidence: high

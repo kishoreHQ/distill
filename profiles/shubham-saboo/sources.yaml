@@ -138,3 +138,23 @@
   excerpt: "Google Workspace MCP server and CLI are now generally available."
   original: true
   confidence: high
+- id: S15
+  url: https://x.com/Saboo_Shubham_/status/2125646788795523373
+  author: Shubham Saboo
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He says Antigravity raised Gemini 4 Neon subscription usage by close to 75% in five days by caching and harness improvements. His figure. He works on his employer's product.
+  excerpt: close to 75% just by caching and harness improvements. Let this sink in.
+  original: true
+  confidence: high
+- id: S16
+  url: https://x.com/Saboo_Shubham_/status/2125490308788162704
+  author: Shubham Saboo
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He says Google Chrome released an open-source Modern Web Guidance skill for AI coding agents, and suggests Gemini 4 Neon. Employer-adjacent announcement.
+  excerpt: Modern Web Guidance skill for AI coding agents. 100% Opensource.
+  original: true
+  confidence: high

@@ -78,3 +78,13 @@
   excerpt: "Awesome Cursor Rules offers ready-made .mdc rule files"
   original: true
   confidence: medium
+- id: S9
+  url: https://x.com/GithubProjects/status/2125501002166292634
+  author: GitHub Projects Community
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: Aggregator feed. It describes an open-source CLI agent that reads a failed CI run, traces the cause, and pushes a fix for review. The repo was not fetched. Not a person's recommendation.
+  excerpt: reads a failed CI run, traces the cause, and pushes a fix for review. Explore
+  original: true
+  confidence: medium

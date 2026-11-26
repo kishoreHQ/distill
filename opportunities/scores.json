@@ -78,14 +78,14 @@
       "id": "agentic-devops-pipeline",
       "title": "Issue-to-PR pipeline with a human gate and owner-attributable identity",
       "file": "opportunities/agentic-devops-pipeline.yaml",
-      "as_of": "2026-11-25",
+      "as_of": "2026-11-26",
       "status": "hypothesis",
       "domains": [
         "careers-cloud-devops",
         "ai-engineering-agents"
       ],
       "disclaimer": "Opportunity scores are hypotheses with links to public evidence. They are not income projections, job offers, or proof that a business exists. Self-reported revenue in the sources belongs to those authors, not to Kishore.",
-      "total": 66.5,
+      "total": 65.0,
       "scale_max": 10,
       "breakdown": {
         "market_pull": {
@@ -109,9 +109,9 @@
           "contribution": 9.0
         },
         "competition_gap": {
-          "score": 4,
+          "score": 3,
           "weight": 10,
-          "contribution": 4.0
+          "contribution": 3.0
         },
         "monetization_clarity": {
           "score": 6,
@@ -119,9 +119,9 @@
           "contribution": 6.0
         },
         "risk_inverse": {
-          "score": 6,
+          "score": 5,
           "weight": 5,
-          "contribution": 3.0
+          "contribution": 2.5
         }
       },
       "evidence": [
@@ -160,6 +160,24 @@
           "source": "S14",
           "url": "https://x.com/Saboo_Shubham_/status/2125298072188231810",
           "note": "Employer post. Workspace MCP GA includes a human-in-the-loop control."
+        },
+        {
+          "profile": "akhilesh-mishra",
+          "source": "S17",
+          "url": "https://x.com/livingdevops/status/2125475523384254782",
+          "note": "He says not to let a DevOps job be only a bridge between Jira and Claude."
+        },
+        {
+          "profile": "mischa-van-den-burg",
+          "source": "S16",
+          "url": "https://x.com/mischavdburg/status/2125485325027782841",
+          "note": "Per-project rootless container and its own credentials. His practice, truncated."
+        },
+        {
+          "profile": "peter-steinberger",
+          "source": "S23",
+          "url": "https://x.com/steipete/status/2125654555262431248",
+          "note": "He says Google is forbidding CLIs like gog unless you pay more. Platform risk. The terms page was not fetched."
         }
       ],
       "non_claims": [
@@ -172,7 +190,7 @@
       "id": "open-core-cli",
       "title": "Free DevOps CLI with a paid desktop app, shipped slowly",
       "file": "opportunities/open-core-cli.yaml",
-      "as_of": "2026-11-24",
+      "as_of": "2026-11-26",
       "status": "hypothesis",
       "domains": [
         "developer-tools-oss",
@@ -236,6 +254,24 @@
           "source": "S6",
           "url": "https://github.com/tw93/Pake",
           "note": "README line in the ledger. Free open-source CLI plus a desktop app."
+        },
+        {
+          "profile": "tw93",
+          "source": "S17",
+          "url": "https://x.com/HiTw93/status/2125598323327508840",
+          "note": "His Black Friday price, $15.20 until December 1. Not a market rate."
+        },
+        {
+          "profile": "tw93",
+          "source": "S19",
+          "url": "https://x.com/HiTw93/status/2125736229828518143",
+          "note": "Basic features on CLI and GUI. He says the GUI has features the CLI does not."
+        },
+        {
+          "profile": "tw93",
+          "source": "S18",
+          "url": "https://x.com/HiTw93/status/2125450228455383474",
+          "note": "Chinese post. No telemetry beyond activation binding, in his words."
         }
       ],
       "non_claims": [
@@ -324,7 +360,7 @@
       "id": "narrow-workflow-saas",
       "title": "One narrow workflow tool, kept beside a day job",
       "file": "opportunities/narrow-workflow-saas.yaml",
-      "as_of": "2026-11-24",
+      "as_of": "2026-11-26",
       "status": "hypothesis",
       "domains": [
         "indie-hacking",
@@ -388,6 +424,18 @@
           "source": "S8",
           "url": "https://x.com/techie_piyush/status/2121323534370865285",
           "note": "He says Claude shipped a similar Instagram scheduler and that indie hackers are exposed."
+        },
+        {
+          "profile": "piyush-sachdeva",
+          "source": "S21",
+          "url": "https://x.com/techie_piyush/status/2125461374914666805",
+          "note": "25% off until 27 Nov. No new user count or MRR. His price."
+        },
+        {
+          "profile": "pieter-levels",
+          "source": "S24",
+          "url": "https://x.com/levelsio/status/2125515439770104282",
+          "note": "He says labs will try to take over the OS. Same platform-risk direction as his earlier checkmate essay. Truncated."
         }
       ],
       "non_claims": [

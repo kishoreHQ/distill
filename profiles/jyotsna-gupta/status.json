@@ -1,61 +1,66 @@
 {
-  "id": "jyotsna-gupta",
-  "x_url": "https://x.com/imJenal",
-  "x_user_id": "69869246",
-  "display_name": "Jyotsna Gupta",
-  "research_status": "verified",
-  "posts_read": 100,
-  "posts_by_band": {
-    "last_6mo": 49,
-    "6_24mo": 25,
-    "older": 26
+ "id": "jyotsna-gupta",
+ "x_url": "https://x.com/imJenal",
+ "x_user_id": "69869246",
+ "display_name": "Jyotsna Gupta",
+ "research_status": "verified",
+ "posts_read": 101,
+ "posts_by_band": {
+  "last_6mo": 49,
+  "6_24mo": 25,
+  "older": 26,
+  "refresh_2026_11_26_daily": 1,
+  "refresh_2026_11_26_deepen": 0
+ },
+ "longform_fetched": 2,
+ "last_post_id": "2125648147762528597",
+ "limitations": [
+  "Personal site outdated (Gojek era)",
+  "X sample is mostly personal/humor; 2020-2023 sparse in search results",
+  "golangjobs.tech co-founder role from X bio only",
+  "LinkedIn not accessed",
+  "2026-11-26 append is a date window, not a full timeline. Added 1; 0 collected ids were already in the file."
+ ],
+ "completeness": {
+  "identity": {
+   "score": 2,
+   "reason": "X+GitHub+site"
   },
-  "longform_fetched": 2,
-  "last_post_id": "2118411630820381141",
-  "limitations": [
-    "Personal site outdated (Gojek era)",
-    "X sample is mostly personal/humor; 2020-2023 sparse in search results",
-    "golangjobs.tech co-founder role from X bio only",
-    "LinkedIn not accessed"
-  ],
-  "completeness": {
-    "identity": {
-      "score": 2,
-      "reason": "X+GitHub+site"
-    },
-    "source_coverage": {
-      "score": 1,
-      "reason": "no long-form tech writing found"
-    },
-    "expertise": {
-      "score": 1,
-      "reason": "self-described"
-    },
-    "principles": {
-      "score": 0,
-      "reason": "few statements"
-    },
-    "frameworks": {
-      "score": 0,
-      "reason": "none observed"
-    },
-    "playbooks": {
-      "score": 1,
-      "reason": "inferred"
-    },
-    "evidence": {
-      "score": 2,
-      "reason": "cited"
-    },
-    "limitations": {
-      "score": 2,
-      "reason": "noted"
-    },
-    "applications": {
-      "score": 1,
-      "reason": "limited"
-    }
+  "source_coverage": {
+   "score": 1,
+   "reason": "no long-form tech writing found"
   },
-  "sources_count": 13,
-  "researched_at": "2026-11-24T15:30:00+05:30"
+  "expertise": {
+   "score": 1,
+   "reason": "self-described"
+  },
+  "principles": {
+   "score": 0,
+   "reason": "few statements"
+  },
+  "frameworks": {
+   "score": 0,
+   "reason": "none observed"
+  },
+  "playbooks": {
+   "score": 1,
+   "reason": "inferred"
+  },
+  "evidence": {
+   "score": 2,
+   "reason": "cited"
+  },
+  "limitations": {
+   "score": 2,
+   "reason": "noted"
+  },
+  "applications": {
+   "score": 1,
+   "reason": "limited"
+  }
+ },
+ "sources_count": 13,
+ "researched_at": "2026-11-24T15:30:00+05:30",
+ "last_refresh": "2026-11-26T00:22:52Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-26. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters. julian-goldie and theo-browne were capped at 100 rows (truncated)."
 }

@@ -8,7 +8,7 @@ other_identities: [https://t3.gg, https://github.com/t3dotgg, https://github.com
 website: https://t3.gg
 organization: T3 (t3.codes / t3.chat), Ping.gg
 role: CEO (self-described "Full time CEO @t3dotcodes & @t3dotchat")
-research_date: 2026-11-25
+research_date: 2026-11-26
 confidence: high
 account_type: person
 primary_domain: ai-engineering
@@ -32,6 +32,7 @@ status: verified
 - **Projects:** T3 Code [S3], T3 Chat [S1], create-t3-app (linked on t3.gg), UploadThing (named in [S6]), tstack [S5].
 
 ## C. Core philosophy
+- **2026-11-26.** Before: he said invasive telemetry was removed [S22] (https://x.com/theo/status/2125318643357745548). After, the same dispute is still the focus, and the posts do not line up. He posts a denial list that T3 Code has never sold data or uploaded a file, prompt, response, or user id, and the stored text is cut off [S24] (https://x.com/theo/status/2125700717935841479). He also says a few lapses in the telemetry promises, mostly windows and webhooks, should be fixed now [S25] (https://x.com/theo/status/2125710934492770709). A reply says they removed zero telemetry and were not exposed [S26] (https://x.com/theo/status/2125433204484272266). [observed statement] The collection was capped at 100 rows.
 - **2026-11-25.** The day's focus is T3 Code's telemetry and license, not a new harness design. He wrote that the source would be closed that night [S20], walked that back the same hour as an overreaction [S21], and said the invasive telemetry had been removed [S22]. He still says remote execution is the point of the product [S23]. [observed statement]
 - **AI:** models differ in usability, not just capability — choose per role [S7][S8]. Pinned Nov-2026 view: open-weight models are far behind frontier [S17].
 - **Software dev:** interface ≠ harness; good harnesses let users bring their own tools [S4]. Moving away from IDEs toward agent UIs [S18].
@@ -39,6 +40,7 @@ status: verified
 - **Careers:** provocative claim that stack-defined engineers are at risk [S9].
 
 ## D. Distilled knowledge
+- **2026-11-26.** What he says the telemetry is for, in a reply the same day, is user counts, which harnesses they use, and which errors they hit. That reply is in `posts.jsonl` and is not given its own source id. The standing open-source position is still the walkback [S21], not the close-source threat [S20]. [observed statement]
 - **2026-11-25.** Open source, as he argued in the replies around [S20], does not hand over the trademark. That is the same MIT point he was already making; the new event is the close-source threat and its retraction. [observed statement]
 - **Principles**
   - Assign models to roles by strength (implementer / tester / copywriter) [observed statement][S7].
@@ -84,11 +86,13 @@ status: verified
 - **Cost/Time:** minutes per issue once set up. **Complexity:** low. **Risk:** merging unreviewed agent code. **Metric:** median time-to-fix.
 
 ## F. Evidence summary
+- **2026-11-26 refresh.** Appended 95 posts (95 in the daily window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 383 rows. The collection was capped at 100 rows.
 - **2026-11-25 refresh.** Appended 123 posts (123 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 2 collected ids were already stored. `posts.jsonl` now has 288 rows.
 - Baseline sample: 19 sources and 165 X posts (100 in last 6 months, 28 in 6–24 months, 37 older). S20–S23 and the rows counted above were added 2026-11-25.
 - Blog is sparse (most writing goes to X/YouTube) [S19]. Top sources: [S3] T3 Code, [S4] harness essay, [S5] tstack, [S6] Stripe guide, [S7] model roles.
 
 ## G. Strengths and weaknesses
+- **2026-11-26.** The insult-heavy tone continues. Death-threat lines in the replies are his account of harassment. They are not verified here. Do not treat the denial list [S24] as an audit.
 - **2026-11-25.** The thread is insult-heavy, which matches the hot-take risk already in this profile. A joke in the same window about revenue moving from $0 to $0 is a joke, not a revenue disclosure, and is not stored as a figure.
 - **Strong:** hands-on builder of agent tooling with large OSS adoption [S3]; clear explainer [S4].
 - **Limited evidence:** business revenue of T3 products not disclosed in sources read; views are fast-changing and model-of-the-week heavy (many posts react to new model releases).
@@ -109,3 +113,4 @@ status: verified
 - 2025: Stripe guide; T3 Chat.
 - 2026: pivot to agent tooling — T3 Code, "You still use IDEs?" (May), Linux move (Aug), harness essay (Oct), multi-model roles and Gemini praise (Nov) [S3][S4][S7][S18]. Earlier skeptic of MCP, softened in Aug 2026 ("That might change now") [post 2087280199406903762].
 - **2026-11-25.** Before this window the profile's open-source position is the T3 Code README [S3]. At 19:52 UTC he posted that the source would close that night (https://x.com/theo/status/2125316769858683312) [S20]. At 19:56 UTC he posted that they would not actually do it (https://x.com/theo/status/2125317722552889353) [S21]. At 20:00 UTC he posted that invasive telemetry was removed (https://x.com/theo/status/2125318643357745548) [S22]. The standing position after the walkback is still open source, plus a public removal of telemetry he calls invasive. The collection for this account was capped at 125 posts, and 2 of those ids were already in `posts.jsonl`.
+- **2026-11-26.** Stance on telemetry, before and after. Before, on 2026-11-24, invasive telemetry was removed [S22]. After, on 2026-11-25, he says they removed zero telemetry [S26] and also that a few promise lapses should be fixed [S25], next to a never-uploaded list that the file truncates [S24]. Open source remains the standing license position [S21]. Research status stays verified. The file was capped.

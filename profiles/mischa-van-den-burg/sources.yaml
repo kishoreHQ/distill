@@ -138,3 +138,23 @@
   excerpt: "So the upgrade is a button."
   original: true
   confidence: high
+- id: S15
+  url: https://x.com/mischavdburg/status/2125671342305607926
+  author: Mischa van den Burg
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He points at GPG and password-store again. The image was not read.
+  excerpt: GPG + password-store ftw
+  original: true
+  confidence: high
+- id: S16
+  url: https://x.com/mischavdburg/status/2125485325027782841
+  author: Mischa van den Burg
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He says each project gets its own dev container and credentials, he mounts only wanted directories, and the container runs rootless in its own network namespace. The sentence is truncated.
+  excerpt: own dev container with its own set of credentials. I only mount the
+  original: true
+  confidence: high

@@ -228,3 +228,33 @@
   excerpt: "you know the point of T3 Code is to execute code remotely, right?"
   original: true
   confidence: high
+- id: S24
+  url: https://x.com/theo/status/2125700717935841479
+  author: Theo Browne (Theo - t3.gg)
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: Final statement, truncated at 280 characters in posts.jsonl. He lists categories he says T3 Code has never uploaded. The stored text ends at 'If you'.
+  excerpt: 'T3 Code has never: - sold data - uploaded a file - uploaded a prompt -'
+  original: true
+  confidence: high
+- id: S25
+  url: https://x.com/theo/status/2125710934492770709
+  author: Theo Browne (Theo - t3.gg)
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He says the lapses are mostly edge cases related to windows and webhooks and that they should be fixed now. No patch body is stored.
+  excerpt: We found a few lapses in our telemetry promises (mostly edge cases related to windows and webhooks) All
+  original: true
+  confidence: high
+- id: S26
+  url: https://x.com/theo/status/2125433204484272266
+  author: Theo Browne (Theo - t3.gg)
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: Reply the next day. He says they removed zero telemetry and were not exposed. That sits next to the 2026-11-24 post that said invasive telemetry was removed [S22]. The stored text does not reconcile the two.
+  excerpt: We have no invasive telemetry. We removed zero telemetry. We were not exposed in any
+  original: true
+  confidence: high

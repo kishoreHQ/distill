@@ -158,3 +158,33 @@
   excerpt: "只想要一个没有AI ，就是给人看代码、看readme、看diff的工具，快、简单、美丽的"
   original: true
   confidence: high
+- id: S17
+  url: https://x.com/HiTw93/status/2125598323327508840
+  author: Tw93
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: Mole Black Friday price he states, 20% off, once a year, through December 1. His price, not a market rate.
+  excerpt: only $15.20 until December 1, once a
+  original: true
+  confidence: high
+- id: S18
+  url: https://x.com/HiTw93/status/2125450228455383474
+  author: Tw93
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: Chinese post. He says installed CLIs can now be uninstalled, analysis can delete several items at once, and that all his products add no telemetry and no extra API access beyond activation binding.
+  excerpt: 不会加入任何遥测，以及除了激活绑定之外的
+  original: true
+  confidence: high
+- id: S19
+  url: https://x.com/HiTw93/status/2125736229828518143
+  author: Tw93
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: Reply. Basic features update on both CLI and GUI. He says the GUI has many features the CLI does not.
+  excerpt: the GUI version will have a lot of features that the CLI
+  original: true
+  confidence: high

@@ -98,3 +98,43 @@
   excerpt: "when production catches fire at 3 AM on a Friday, is Claude getting paged or am I?"
   original: true
   confidence: high
+- id: S11
+  url: https://x.com/itsmesumanc/status/2125455065578348631
+  author: Suman Chakraborty
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He shares a self-hosted secrets manager and calls it an easy replacement for HashiCorp Vault and Secret Manager. The post does not say he wrote it. The link was not fetched.
+  excerpt: Lightweight, self-hosted secrets manager built for
+  original: true
+  confidence: medium
+- id: S12
+  url: https://x.com/itsmesumanc/status/1916099341225255310
+  author: Suman Chakraborty
+  published: '2025-04-26'
+  researched: '2026-11-26'
+  type: x_post
+  description: He says Kubernetes 1.33 user namespaces graduating to GA helps with host isolation for named CVEs. A feature note, not a write-up.
+  excerpt: User Namespaces" graduating to GA! This definitely helps in
+  original: true
+  confidence: high
+- id: S13
+  url: https://x.com/itsmesumanc/status/1904738629215543774
+  author: Suman Chakraborty
+  published: '2025-03-26'
+  researched: '2026-11-26'
+  type: x_post
+  description: He describes CVE-2025-1974 as a critical flaw that can give full cluster control via the ingress-nginx validating admission controller. A share of a public CVE. This repo does not show that he reproduced it.
+  excerpt: 'Ingress-nginx CVE-2025-1974: How does it impact? CVE-2025-1974 has'
+  original: true
+  confidence: high
+- id: S14
+  url: https://x.com/itsmesumanc/status/1915293876002189630
+  author: Suman Chakraborty
+  published: '2025-04-24'
+  researched: '2026-11-26'
+  type: x_post
+  description: Reply. He says he is developing an LLM because it matters for generative AI and agentic AI on a cloud-native platform. One sentence.
+  excerpt: Developing LLM as it has importance in understanding the Generative AI landscape and
+  original: true
+  confidence: medium

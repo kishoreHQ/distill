@@ -8,7 +8,7 @@ other_identities: [https://github.com/Shubhamsaboo, https://www.theunwindai.com]
 website: https://www.theunwindai.com
 organization: Google Cloud
 role: Senior AI Product Manager (self-described on X and GitHub)
-research_date: 2026-11-25
+research_date: 2026-11-26
 confidence: high
 account_type: person
 primary_domain: ai-engineering
@@ -32,12 +32,14 @@ status: verified
 - **Projects:** awesome-llm-apps, Unwind AI, Kaggle agents course (Google) [S2][S4][S12].
 
 ## C. Core philosophy
+- **2026-11-26.** He says Antigravity raised Gemini 4 Neon usage on the subscription by close to 75% in five days, by caching and harness improvements [S15] (https://x.com/Saboo_Shubham_/status/2125646788795523373). The percent is his. He also says Google Chrome released an open-source Modern Web Guidance skill for coding agents [S16] (https://x.com/Saboo_Shubham_/status/2125490308788162704). The other 15 rows are short replies. [observed statement]
 - **AI:** agents must be self-improving; static agents "won't survive" [S8]. Mix models by role and cost [S9].
 - **Automation:** a solo operator can run "0 human employees" with role-folders, markdown job descriptions and cron jobs [S6].
 - **Content/OSS:** give away high-quality runnable templates ("Clone it, ship it, sell it") [S2].
 - **Product:** good AI PMs pick the right problem, ship demos, explain failure modes [S11].
 
 ## D. Distilled knowledge
+- **Tools, 2026-11-26.** Antigravity harness and cache, as the cause he names for the usage jump [S15]. Chrome's Modern Web Guidance skill [S16]. Both are employer-adjacent. They are not a personal stack recipe.
 - **Tools, 2026-11-25.** He says Google Workspace MCP server and CLI are generally available, with DLP and human-in-the-loop controls [S14] (https://x.com/Saboo_Shubham_/status/2125298072188231810). Employer announcement. The other new row is a thank-you and is not used. [observed statement]
 - **Frameworks**
   - Agent company as filesystem: each role = folder, each job description = .md, schedules = cron, review/retro loop per agent [observed statement][S6].
@@ -66,6 +68,7 @@ status: verified
 - **Cost:** time only. **Time:** ongoing (weekly template). **Complexity:** medium. **Risks:** maintenance burden, model churn breaks templates. **Metric:** stars, newsletter subscribers, sponsor inquiries.
 
 ## F. Evidence summary
+- **2026-11-26 refresh.** Appended 17 posts (17 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 105 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 2 posts (2 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 88 rows.
 - 13 sources (9 X posts, 2 GitHub, 1 newsletter, 1 profile). 86 X posts read (51 last 6 months, 20 6–24 mo, 15 older).
 - Top: [S2] repo, [S6] agent company, [S9] model tiers, [S5] Google role.
@@ -88,3 +91,4 @@ status: verified
 - 2025: joined Google Cloud (Sept); ADK/A2A, Kaggle course, MCP tools curation [S5][S12].
 - 2026: personal agent teams (OpenClaw→Hermes), self-learning agents, model tiering; late-2026 strongly Gemini/Antigravity focused [S6][S7][S8][S10].
 - **2026-11-25.** Adds a named MCP surface with an explicit human-in-the-loop control [S14] on top of the cron-and-folder setup [S6]. Not a change of employer.
+- **2026-11-26.** Before, Workspace MCP was generally available with a human-in-the-loop control [S14]. After, the harness itself is the usage story: caching and harness work, not a new model name, is what he credits for the 75% line [S15]. The employer conflict is unchanged.

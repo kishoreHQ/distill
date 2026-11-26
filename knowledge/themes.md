@@ -52,3 +52,15 @@ Pavan's new first sentence is that DevOps is not dead and is evolving into agent
 Goldie's window repeats income prompts, including a millionaire line that is his claim, next to his own "no income guaranteed" disclaimer [julian-goldie S20] [julian-goldie S19]. Those lines are not opportunities.
 
 Arnav Gupta's 200-post file is still absent. New rows do include first-person Railway wording [arnav-gupta R-1]. Kushal's deepen sample adds two slogans and does not verify an employer [kushal-gangil S9].
+
+## 2026-11-26 refresh
+
+The daily window is 2026-11-24T22:19:55Z to 2026-11-26T00:20Z. Suman also received 25 older posts. Ojasvika's older read returned nothing before 2025-10-29.
+
+The harness is still the product, now with a usage number attached. Saboo says caching and harness work, not a new base model, raised Neon usage by close to 75% in five days [shubham-saboo S15]. That percent is his. Srinivas's new surface is a date-locked web for post-training [aravind-srinivas S29], which is a grounding mechanism for a lab, not a runbook folder.
+
+Telemetry promises are now a public disagreement inside one person's day. On 2026-11-24 Theo said invasive telemetry was removed [theo-browne S22]. On 2026-11-25 he posts a never-uploaded list [theo-browne S24], says a few promise lapses should be fixed [theo-browne S25], and says they removed zero telemetry [theo-browne S26]. Tw93, the same day, says his products add no telemetry beyond activation binding [tw93 S18].
+
+Levels moves the spam fight from a block list to honeypots checked by Grok 4.7 [pieter-levels S21], and he restates that labs will try to take over the OS [pieter-levels S24]. Mishra says not to let a DevOps job be a bridge from Jira to Claude [akhilesh-mishra S17]. Ondrej markets an agent that never says no [david-ondrej S16]. That ad is the opposite of the human gate. It is not a practice.
+
+Suman stays partial. The 25 older posts are mostly tool links, plus a CVE share [suman-chakraborty S13]. Arnav stays partial. The Railway-versus-Meta gap is unchanged. He says he does not use xhigh or max [arnav-gupta R-9]. Goldie's window is the same income-prompt funnel next to his own disclaimer [julian-goldie S21]. Those lines are not opportunities.

@@ -52,6 +52,7 @@ status: "verified"
 - **Steps:** post short, relatable observations about Bangalore tech life alongside technical posts; measure reach difference. **Risk:** off-brand for B2B positioning.
 
 ## F. Evidence summary
+- **2026-11-26 refresh.** Appended 1 post (1 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 101 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 13 sources; 100 X posts (2019-12 → 2026-10; heavy gap 2020-2025 in sample). Strongest: [S11] site, [S12] GitHub, [S1] GopherConAU.
 
 ## G. Strengths and weaknesses
@@ -68,3 +69,4 @@ status: "verified"
 - **2019-2020:** Go workshops, Women Who Go meetups, Mozilla talks [S2][S3][S4].
 - **2023:** international talk on WebAssembly with Go [S1].
 - **2025-2026:** mostly lifestyle/industry humor and job shares [S5][S6][S9]; still organizing events [S10].
+- **2026-11-26.** One post: "Finalllly! Much neeeded feature" plus a link (https://x.com/imJenal/status/2125648147762528597). The link was not fetched, so the feature is not named here. No section A–H change.

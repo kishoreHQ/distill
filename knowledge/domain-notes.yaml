@@ -5,30 +5,43 @@
     from the chat app [theo-browne S4]. The ledger's description of Tw93's Chinese article says
     a rule the agent must obey should be enforced by a script that really runs [tw93 S3].
     Srinivas describes a chair model synthesising several models [aravind-srinivas S17] and a
-    safe-fetch score on pages an agent reads [aravind-srinivas S16].
+    safe-fetch score on pages an agent reads [aravind-srinivas S16]. On 2026-11-25 he announced
+    a date-locked web for post-training [aravind-srinivas S29]. Saboo credits caching and the
+    harness for a usage jump he states [shubham-saboo S15]. Theo's telemetry posts that day
+    do not agree with each other [theo-browne S24] [theo-browne S26].
 - domain: developer-tools-oss
   text: >
     Tw93's launch post keeps the Pake CLI free and charges once for the native app [tw93 S7].
     Steinberger's essay says to start with the model and a CLI [peter-steinberger S5].
     Tom Dörr's repo_posts README says the site is curated by automation and does not take
-    repository suggestions through issues [tom-dorr S16].
+    repository suggestions through issues [tom-dorr S16]. On 2026-11-25 Tw93 posts a $15.20
+    Mole sale and a no-telemetry rule beyond activation [tw93 S17] [tw93 S18]. Steinberger
+    says a platform is forbidding CLIs like gog unless you pay more [peter-steinberger S23].
 - domain: indie-hacking
   text: >
     Levels describes cron-scheduled LLM scripts and zero employees [pieter-levels S4], and he
     writes that only 4 of 70+ projects made money [pieter-levels S8]. Piyush's day-104 post
     states 56 paid users and $694 MRR, self-reported [piyush-sachdeva S1]. Vatsal writes that
-    automation cannot replace figuring out what actually works [vatsal-sanghvi S3].
+    automation cannot replace figuring out what actually works [vatsal-sanghvi S3]. On
+    2026-11-25 Levels describes tweet honeypots checked by Grok 4.7 [pieter-levels S21] and
+    says labs will try to take over the OS [pieter-levels S24]. Piyush posts a 25% sale and
+    no new MRR [piyush-sachdeva S21].
 - domain: creator-economy
   text: >
     Ondrej's transcript excerpt says at least half of the time should go to distribution
     [david-ondrej S6]. Finn's post says to reply heavily and then build for problems the
     audience shows [alex-finn S6]. Koe argues that a checklist strategy can be copied by an
     AI avatar [dan-koe S3]. Several of these accounts sell communities or guides, so a tactic
-    they recommend can also be a funnel.
+    they recommend can also be a funnel. On 2026-11-25 Ondrej markets an agent that never
+    says no [david-ondrej S16]. That is an ad. Finn shows a seven-agent swarm on his own app
+    [alex-finn S14]. Goldie's income prompts the same day repeat his own no-guarantee line
+    [julian-goldie S21].
 - domain: careers-cloud-devops
   text: >
     Mishra's site sells DevOps bootcamps [akhilesh-mishra S2] and he posts that DevOps is not
     a tool list [akhilesh-mishra S5]. Suman's listed KubeCon talk is an API-server clinic for
     large clusters [suman-chakraborty S2]. Lohar argues that agents should not identify with a
     bearer token [mukul-lohar S2]. Gupta's essay says microservices make things unnecessarily
-    hard [arnav-gupta O-ENG-4].
+    hard [arnav-gupta O-ENG-4]. On 2026-11-25 Mishra says not to be only a bridge between
+    Jira and Claude [akhilesh-mishra S17]. Suman's older posts read the same day are mostly
+    tool links, including a CVE share [suman-chakraborty S13]. He stays partial.

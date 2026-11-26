@@ -8,7 +8,7 @@ other_identities: [https://thedankoe.com, https://thedankoe.eden.so]
 website: https://thedankoe.com
 organization:            # not verified (promotes Eden; ownership not verified)
 role: Writer/creator; publisher of The Koe Letters newsletter (self-described)
-research_date: 2026-11-25
+research_date: 2026-11-26
 confidence: high
 account_type: person
 primary_domain: content-creation
@@ -73,6 +73,7 @@ status: verified
 - Success metric: email->paid conversion rate.
 
 ## F. Evidence summary
+- **2026-11-26 refresh.** Appended 1 post (1 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 98 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z. Link only. No essay change.
 - **2026-11-25 refresh.** Appended 1 posts (1 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 97 rows.
 - 96 X posts (46 last 6 months, 25 Mar-May 2026, 25 May 2024); 3 long-form (homepage + 2 letters). 16 sources.
 - Top: [S3], [S4], [S2], [S6], [S5].
@@ -96,3 +97,4 @@ status: verified
 - 2025 letters: AI makes output cheap -> point of view and thoughtful creation [S3][S4].
 - 2026: stronger AI framing (individual = 20-person company; "AI makes average worthless"; Purists/Automatons/Renaissance) and "artisan" positioning; bio shifts to promoting Eden [S1][S5][S10][S16].
 - **2026-11-25.** Single post. No shift in the niche-versus-point-of-view letter [S3].
+- **2026-11-26.** One post. The stored text is only a link, 309632 impressions in the API field. The page was not fetched. No section A–H change. The point-of-view letter [S3] is unchanged.

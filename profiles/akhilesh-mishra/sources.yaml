@@ -158,3 +158,23 @@
   excerpt: "Most candidates say \"Open source is free, so we build.\" That answer fails the interview."
   original: true
   confidence: high
+- id: S17
+  url: https://x.com/livingdevops/status/2125475523384254782
+  author: Akhilesh Mishra
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He tells DevOps engineers who only bridge Jira and Claude to be scared, because AI is learning to operate tools. The job, in this post, is not only operating tools.
+  excerpt: bridge between Jira and Claude, be very scared. AI is learning to
+  original: true
+  confidence: high
+- id: S18
+  url: https://x.com/livingdevops/status/2125433041120059653
+  author: Akhilesh Mishra
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He tells DevOps, SRE, and platform engineers to learn trade-off decisions for interviews in what he calls the AI age. The linked page was not fetched.
+  excerpt: decisions using trade-offs if you want
+  original: true
+  confidence: high

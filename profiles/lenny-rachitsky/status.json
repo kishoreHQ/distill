@@ -4,28 +4,31 @@
  "x_user_id": "7958322",
  "display_name": "Lenny Rachitsky",
  "research_status": "verified",
- "posts_read": 104,
+ "posts_read": 107,
  "posts_by_band": {
   "recent": 50,
   "mid": 25,
   "old": 25,
   "refresh_2026_11_25_daily": 4,
-  "refresh_2026_11_25_deepen": 0
+  "refresh_2026_11_25_deepen": 0,
+  "refresh_2026_11_26_daily": 3,
+  "refresh_2026_11_26_deepen": 0
  },
  "posts_date_range": [
   "2024-05-17",
-  "2026-11-24"
+  "2026-11-25"
  ],
  "longform_fetched": 1,
- "sources_count": 13,
- "last_post_id": "2125370445008621955",
+ "sources_count": 14,
+ "last_post_id": "2125737908888056241",
  "researched_at": "2026-11-24T14:45:00+05:30",
  "limitations": [
   "Pinned post not retrievable",
   "Podcast transcripts and paywalled newsletter posts not read",
   "Many insights are guest statements (secondary)",
   "Subscriber counts self-reported",
-  "2026-11-25 append is a date window, not a full timeline. Added 4; 1 collected ids were already in the file."
+  "2026-11-25 append is a date window, not a full timeline. Added 4; 1 collected ids were already in the file.",
+  "2026-11-26 append is a date window, not a full timeline. Added 3; 0 collected ids were already in the file."
  ],
  "completeness": {
   "identity": {
@@ -65,6 +68,6 @@
    "reason": "direct"
   }
  },
- "last_refresh": "2026-11-25T00:25:39Z",
- "last_refresh_note": "Official public X read supplied for 2026-11-25. Window start 2026-11-23T22:21:18Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters."
+ "last_refresh": "2026-11-26T00:22:52Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-26. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters. julian-goldie and theo-browne were capped at 100 rows (truncated)."
 }

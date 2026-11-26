@@ -4,17 +4,19 @@
  "x_user_id": "1577241403",
  "display_name": "@levelsio (Pieter Levels)",
  "research_status": "verified",
- "posts_read": 222,
+ "posts_read": 265,
  "posts_by_band": {
   "0-6mo": 51,
   "6-24mo": 45,
   "24mo+": 20,
   "refresh_2026_11_25_daily": 106,
-  "refresh_2026_11_25_deepen": 0
+  "refresh_2026_11_25_deepen": 0,
+  "refresh_2026_11_26_daily": 43,
+  "refresh_2026_11_26_deepen": 0
  },
  "longform_fetched": 8,
- "sources_count": 20,
- "last_post_id": "2125346528483242128",
+ "sources_count": 25,
+ "last_post_id": "2125721392088031612",
  "researched_at": "2026-11-24T14:25:00+05:30",
  "x_calls_used_note": "batch A shared budget; see batch-A-summary.md",
  "limitations": [
@@ -22,7 +24,8 @@
   "Revenue figures self-reported (bio/posts), not independently verified",
   "No podcasts/YouTube transcripts processed (Lex Fridman episode listed on blog, not fetched)",
   "Large share of posts are non-business (politics, travel)",
-  "2026-11-25 append is a date window, not a full timeline. Added 106; 1 collected ids were already in the file."
+  "2026-11-25 append is a date window, not a full timeline. Added 106; 1 collected ids were already in the file.",
+  "2026-11-26 append is a date window, not a full timeline. Added 43; 0 collected ids were already in the file."
  ],
  "completeness": {
   "identity": {
@@ -64,6 +67,6 @@
  },
  "completeness_total": 18,
  "completeness_max": 18,
- "last_refresh": "2026-11-25T00:25:39Z",
- "last_refresh_note": "Official public X read supplied for 2026-11-25. Window start 2026-11-23T22:21:18Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters."
+ "last_refresh": "2026-11-26T00:22:52Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-26. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters. julian-goldie and theo-browne were capped at 100 rows (truncated)."
 }

@@ -8,7 +8,7 @@ other_identities: [https://ko-fi.com/githubprojects]
 website: https://ko-fi.com/githubprojects
 organization:            # unofficial; operator not identified
 role:
-research_date: 2026-11-25
+research_date: 2026-11-26
 confidence: medium
 account_type: aggregator
 primary_domain: ai-engineering
@@ -31,6 +31,7 @@ status: verified
 - No first-party expertise, philosophy or products evidenced.
 
 ## C. Core philosophy
+- **2026-11-26.** Still an aggregator. One post describes an open-source CLI agent that reads a failed CI run, traces the cause, and pushes a fix for review [S9] (https://x.com/GithubProjects/status/2125501002166292634). The repo was not fetched. Other posts name Oat UI, Serie, Homer, and an Xbox-on-Windows project. Not a person and not a recommendation. [observed statement]
 - No evidence found (aggregator). Implicit editorial stance: "open-source alternative to paid tool" [S6].
 
 ## D. Distilled knowledge
@@ -51,6 +52,7 @@ status: verified
 - Success metric: % of surfaced tools Kishore actually trials.
 
 ## F. Evidence summary
+- **2026-11-26 refresh.** Appended 10 posts (10 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 92 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 7 posts (7 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 3 collected ids were already stored. `posts.jsonl` now has 82 rows.
 - 75 X posts (25 Nov 2026, 25 Mar 2026, 25 May 2025); 1 long-form (Ko-fi page). 7 sources.
 
@@ -66,3 +68,4 @@ status: verified
 ## I. Profile evolution
 - 2026-11-24 baseline. 2025 sample: broader dev/DB/AI tools (Dify, Whisper, Airflow); 2026: more agent skills, Claude-related tools, local AI agents, self-hosting.
 - **2026-11-25.** Aggregator cadence unchanged. Three of ten collected ids were duplicates.
+- **2026-11-26.** Feed shape unchanged. The CI-fix agent is a signal in the feed [S9], not an endorsement.

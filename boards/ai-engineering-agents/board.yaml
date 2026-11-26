@@ -1,7 +1,7 @@
 id: ai-engineering-agents
 title: Simulated board — AI engineering & agents
 domain: ai-engineering-agents
-as_of: "2026-11-25"
+as_of: "2026-11-26"
 disclaimer: "SIMULATED ADVISORY BOARD. The real people named here have not joined this board, have not been contacted, and have not endorsed DISTILL, Kishore, or any recommendation in this file. Positions below are paraphrases of their public posts and pages, with citations. They are not quotes of private advice."
 charter: >
   This simulated board reads public material from people whose imported profiles
@@ -15,7 +15,7 @@ members:
   - profile_id: aravind-srinivas
     reason: High-confidence profile, board_eligibility includes ai-engineering, and the transcript states a grounding rule.
     position: >
-      Say only what you retrieved [aravind-srinivas S7]. Score a fetched page before an agent trusts it [aravind-srinivas S16]. For a high-stakes answer, let several models work and have a chair model synthesize [aravind-srinivas S17]. On 2026-11-24 he says the harness will be tuned for Gemini 4 Neon and states a 120B token figure that is his own [aravind-srinivas S26].
+      Say only what you retrieved [aravind-srinivas S7]. Score a fetched page before an agent trusts it [aravind-srinivas S16]. For a high-stakes answer, let several models work and have a chair model synthesize [aravind-srinivas S17]. On 2026-11-24 he says the harness will be tuned for Gemini 4 Neon and states a 120B token figure that is his own [aravind-srinivas S26]. On 2026-11-25 he announced Time Machine, a date-locked web for post-training, and stated API prices [aravind-srinivas S29] [aravind-srinivas S30]. Those prices are his.
     evidence:
       - source: S7
         url: https://lexfridman.com/aravind-srinivas-transcript/
@@ -25,10 +25,14 @@ members:
         url: https://x.com/AravSrinivas/status/2019444331006791847
       - source: S26
         url: https://x.com/AravSrinivas/status/2125328996221231313
+      - source: S29
+        url: https://x.com/AravSrinivas/status/2125707364053680383
+      - source: S30
+        url: https://x.com/AravSrinivas/status/2125707379488735451
   - profile_id: peter-steinberger
     reason: First-party posts on CLI-first agent work and a four-check gate before autonomous edits.
     position: >
-      Start with the model and a CLI [peter-steinberger S5]. Let an agent work an issue only when it fits the repo's stated vision, is inferable, has a clear fix, and can be tested live [peter-steinberger S8]. He also calls "vibe coding" a slur [peter-steinberger S15]. He is an OpenAI employee in this snapshot.
+      Start with the model and a CLI [peter-steinberger S5]. Let an agent work an issue only when it fits the repo's stated vision, is inferable, has a clear fix, and can be tested live [peter-steinberger S8]. He also calls "vibe coding" a slur [peter-steinberger S15]. On 2026-11-25 he says Google's new MCP is forbidding CLIs like gog unless you pay more [peter-steinberger S23]. He is an OpenAI employee in this snapshot.
     evidence:
       - source: S5
         url: https://steipete.me/posts/2025/shipping-at-inference-speed
@@ -36,10 +40,12 @@ members:
         url: https://x.com/steipete/status/2058240758801420530
       - source: S15
         url: https://x.com/steipete/status/2109724776168300631
+      - source: S23
+        url: https://x.com/steipete/status/2125654555262431248
   - profile_id: theo-browne
     reason: Writes about harnesses versus chat apps, and ships a multi-model review skill.
     position: >
-      The harness is the tools, the call syntax, and the return path, and some products bake it into the app [theo-browne S4]. His tstack skill asks three models from different providers and loops until they agree [theo-browne S5]. On 2026-11-24 he threatened to close T3 Code's source and walked it back the same hour [theo-browne S20] [theo-browne S21].
+      The harness is the tools, the call syntax, and the return path, and some products bake it into the app [theo-browne S4]. His tstack skill asks three models from different providers and loops until they agree [theo-browne S5]. On 2026-11-24 he threatened to close T3 Code's source and walked it back the same hour [theo-browne S20] [theo-browne S21]. On 2026-11-25 he posts a never-uploaded list [theo-browne S24], says a few telemetry-promise lapses should be fixed [theo-browne S25], and also says they removed zero telemetry [theo-browne S26]. Those three do not line up. The stored posts are truncated.
     evidence:
       - source: S4
         url: https://t3.gg/blog/post/what-is-a-harness
@@ -47,10 +53,16 @@ members:
         url: https://github.com/t3dotgg/tstack
       - source: S21
         url: https://x.com/theo/status/2125317722552889353
+      - source: S24
+        url: https://x.com/theo/status/2125700717935841479
+      - source: S25
+        url: https://x.com/theo/status/2125710934492770709
+      - source: S26
+        url: https://x.com/theo/status/2125433204484272266
   - profile_id: shubham-saboo
     reason: Publishes open-source agent examples and describes a cron-driven agent group. He is also a Google Cloud AI PM in this snapshot.
     position: >
-      He describes a one-person setup as folders, markdown job descriptions, and cron jobs [shubham-saboo S6], operated from Telegram on OpenClaw and later Hermes [shubham-saboo S7]. The pinned post in the ledger promotes his employer's agent features [shubham-saboo S10]. He later says Workspace MCP is generally available and includes a human-in-the-loop control [shubham-saboo S14].
+      He describes a one-person setup as folders, markdown job descriptions, and cron jobs [shubham-saboo S6], operated from Telegram on OpenClaw and later Hermes [shubham-saboo S7]. The pinned post in the ledger promotes his employer's agent features [shubham-saboo S10]. He later says Workspace MCP is generally available and includes a human-in-the-loop control [shubham-saboo S14]. On 2026-11-25 he credits caching and harness work, not a new base model, for a near-75% Neon usage jump he states [shubham-saboo S15]. That percent is his.
     evidence:
       - source: S6
         url: https://x.com/Saboo_Shubham_/status/2071639897669267922
@@ -60,6 +72,8 @@ members:
         url: https://x.com/Saboo_Shubham_/status/2108265508223193319
       - source: S14
         url: https://x.com/Saboo_Shubham_/status/2125298072188231810
+      - source: S15
+        url: https://x.com/Saboo_Shubham_/status/2125646788795523373
   - profile_id: mckay-wrigley
     reason: Public posts warn against competing head-on with labs, and one post jokes about approving agent diffs unread.
     position: >
@@ -74,7 +88,7 @@ disagreements:
   - "Wrigley's unread-approve joke [mckay-wrigley S17] cuts against Theo's multi-model review loop [theo-browne S5] and against Steinberger's test requirement [peter-steinberger S8]."
   - "Srinivas's grounding rule [aravind-srinivas S7] limits what an agent may say. A cron job that posts or emails without that limit, which is closer to the Saboo and Levels patterns elsewhere in the corpus, does not satisfy it."
 synthesis: >
-  The overlapping public advice is to keep the harness explicit, ground claims in retrieved notes, and put a test or a second model in front of an autonomous edit. It is not to staff a company with unattended agents, and it is not to compete with a lab on a general assistant. For this operator, the smallest build that uses the overlap is a cited runbook helper with a human gate on any change to a repo.
+  The overlapping public advice is to keep the harness explicit, ground claims in retrieved notes, and put a test or a second model in front of an autonomous edit. It is not to staff a company with unattended agents, and it is not to compete with a lab on a general assistant. For this operator, the smallest build that uses the overlap is a cited runbook helper with a human gate on any change to a repo. A date-locked web [aravind-srinivas S29] is a lab product, not that helper. Theo's telemetry posts on 2026-11-25 do not agree with each other [theo-browne S24] [theo-browne S26]. Do not treat a denial list as an audit.
 recommended_next_action: >
   Write a one-page spec for a helper that answers only from a folder of runbooks and refuses when the folder does not contain the answer. Add a checklist that treats fetched pages as untrusted. Do not start a general chatbot, and do not quote Perplexity's revenue.
 confidence: medium

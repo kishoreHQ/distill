@@ -36,3 +36,13 @@ Julian Goldie, Nav Toor, and the aggregator accounts name many tools in a promot
 - **OpenClaw memory.** Steinberger describes an early fork he says uses much less memory [peter-steinberger S21], and he says to read the git repo rather than rename rumors [peter-steinberger S22].
 
 Aggregator posts also named Cursor rule packs, local search, and agent-skill repos. Those stay in the aggregator profiles. They are not recommendations.
+
+## 2026-11-26 names
+
+- **Perplexity Time Machine.** A date-locked web for post-training, with prices he states [aravind-srinivas S29] [aravind-srinivas S30]. His employer's API.
+- **Antigravity.** Saboo credits the harness and cache for a usage jump he states [shubham-saboo S15]. Finn shows seven agents and an orchestrator on his app [alex-finn S14].
+- **gog.** Steinberger's CLI, which he says a new Google MCP policy may forbid unless you pay more [peter-steinberger S23] [peter-steinberger S24]. The terms page was not fetched.
+- **Grok 4.7.** Levels says it investigates suspected spam accounts for his blocklist [pieter-levels S21]. Not a general endorsement.
+- **Mole, again.** A $15.20 sale he posts [tw93 S17] and a no-telemetry line beyond activation binding [tw93 S18].
+
+The aggregator `x-githubprojects` described a CLI that reads a failed CI run and pushes a fix [x-githubprojects S9]. That stays a feed item. It is not a recommendation.

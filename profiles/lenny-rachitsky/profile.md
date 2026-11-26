@@ -8,7 +8,7 @@ other_identities: [https://www.lennysnewsletter.com, https://linktr.ee/lennyspod
 website: https://www.lennysnewsletter.com
 organization: Lenny's Newsletter / Lenny's Podcast
 role: Author and podcast host (newsletter + podcast)
-research_date: 2026-11-25
+research_date: 2026-11-26
 confidence: high
 account_type: person
 primary_domain: startup-building
@@ -31,6 +31,7 @@ status: verified
 - Note: Much of his content transmits guests' ideas (Atlassian, Google Labs, Linear). Those are labelled as guest statements.
 
 ## C. Core philosophy
+- **2026-11-26.** He posts three product-manager archetypes, Scientist, Artist, and General manager, and a line that very few people do all three well [S14] (https://x.com/lennysan/status/2125737906782560552). The window also says to watch the full conversation. The stored text does not name the speaker. Treat the quote as his post of someone else's line until a transcript names them. Uncertain. [observed statement]
 - **2026-11-25.** He restates the Atlassian all-builder experiment in his own post: faster for a few weeks, then people went back to their old jobs [S13] (https://x.com/lennysan/status/2125350795411685880). Same direction as the earlier clip [S5]. A separate takeaway about juniors was already in `posts.jsonl` before this append and is not re-derived here.
 - AI: Skeptical of hype; collects "genuine, repeatable" AI workflows [S6]; showcases both "operate like a labs team" [S11] and "nothing has really changed" [S12].
 - Entrepreneurship: Durable moats = compounding advantages; distribution/execution/brand are not moats [S3].
@@ -65,6 +66,7 @@ status: verified
 - Steps: Vibe-code alpha alone -> test with 5-10 users -> only add effort/engineers when pull is measurable.
 
 ## F. Evidence summary
+- **2026-11-26 refresh.** Appended 3 posts (3 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 107 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 4 posts (4 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 1 collected ids were already stored. `posts.jsonl` now has 104 rows.
 - 100 X posts (50 recent Jun-Nov 2026, 25 Feb 2026, 25 May 2024); 1 long-form page fetched + several long X notes; podcast transcripts not fetched. 12 sources.
 
@@ -82,3 +84,4 @@ status: verified
 ## I. Profile evolution
 - 2026-11-24 baseline. May 2024: classic PM/growth content, podcast logistics, saying no [S10]. Feb 2026: heavy AI-PM focus (Claude Code team, AI-Native PM workshops) [S9]. Oct-Nov 2026: AI-era moats, hype skepticism, AI simulations, packaging content as skills, role-convergence debate [S3][S5][S6][S7][S8].
 - **2026-11-25.** No reversal. The new post is his wording of the experiment already cited from a clip [S5][S13]. Other new rows are "watch the full conversation" links.
+- **2026-11-26.** No reversal of the Atlassian all-builder note [S13]. The archetype card [S14] is a new posted framework with an uncertain speaker.

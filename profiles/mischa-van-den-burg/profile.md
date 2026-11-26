@@ -8,7 +8,7 @@ other_identities: [https://kubecraft.dev, https://roadmap.kubecraft.dev/]
 website: https://kubecraft.dev
 organization: KubeCraft (founder)
 role: Founder, KubeCraft; DevOps/Kubernetes YouTuber (self-described 120K subs)
-research_date: 2026-11-25
+research_date: 2026-11-26
 confidence: high
 account_type: person
 primary_domain: content-creation
@@ -31,12 +31,14 @@ status: verified
 - Communities: career-switchers into DevOps, homelab community.
 
 ## C. Core philosophy
+- **2026-11-26.** He says again that GPG plus password-store is the way [S15] (https://x.com/mischavdburg/status/2125671342305607926). On agent isolation he says each project gets its own dev container and credentials, he mounts only the directories he wants, and the container runs rootless in its own network namespace [S16] (https://x.com/mischavdburg/status/2125485325027782841). He also writes that skill and pay are separate systems. That sentence is in `posts.jsonl`. [observed statement]
 - Learning: Build (homelab, public projects) > tutorials/certs ("procrastination with documentation") [S6][S10].
 - Career/AI: DevOps is AI-resilient because infra context is large and operational [S9]; uses paid AI subscriptions heavily [S11].
 - Entrepreneurship: A deep technical skill (Kubernetes) + content -> own business beats employment income [S4].
 - Infra: Self-host on cheap dedicated servers rather than cloud for his own business [S8].
 
 ## D. Distilled knowledge
+- **Tools, 2026-11-26.** GPG and password-store [S15]. Rootless per-project dev containers for agent credentials [S16]. A reply says he never runs the thing locally and always containerizes it. The reply does not name the binary in the stored text.
 - **2026-11-25.** He says not to install the thing on the main machine, and to work in containers [S13] (https://x.com/mischavdburg/status/2125307048283808162). He describes a three-machine upgrade as a drain, reboot, and return, done with a button [S14] (https://x.com/mischavdburg/status/2125258178354962768), and contrasts that with being the load balancer yourself under Docker Compose. [observed statement]
 - Funnel [observed statement]: YouTube authority -> free personalised quiz (6 questions, 6 stages) -> strategy-call application -> premium program [S2][S3].
 - Positioning [observed statement]: sell outcome (job + salary) not knowledge; target IT pros "without starting over" [S2].
@@ -63,6 +65,7 @@ status: verified
 - Risks: You own ops/on-call; backups essential. Metric: monthly infra cost, uptime.
 
 ## F. Evidence summary
+- **2026-11-26 refresh.** Appended 14 posts (14 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 97 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 8 posts (8 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 83 rows.
 - 75 X posts (25 Nov 2026, 25 Feb 2026, 25 Nov 2024); 2 long-form (kubecraft.dev, roadmap page). 12 sources. YouTube not reviewed.
 
@@ -81,3 +84,4 @@ status: verified
 ## I. Profile evolution
 - 2026-11-24 baseline. Nov 2024: generic cloud/DevOps motivation, homelab-on-resume [S10]. Feb 2026: career/salary/anti-tutorial messaging, AI-proof framing, Claude Code mention. Nov 2026: business infra expansion (Hetzner), Talos->Rancher, AI subscription pricing commentary, NVIDIA/Docker news takes [S8][S11][S12].
 - **2026-11-25.** The new cluster narrative is more specific than the baseline sample. It is still his telling of his own boxes.
+- **2026-11-26.** The container-scope note [S16] is the new operational line. It agrees with keeping an agent off a shared credential. It is his homelab practice, not a product.

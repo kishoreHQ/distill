@@ -1,6 +1,6 @@
 id: agentic-devops-pipeline
 title: Issue-to-PR pipeline with a human gate and owner-attributable identity
-as_of: "2026-11-25"
+as_of: "2026-11-26"
 status: hypothesis
 disclaimer: "Opportunity scores are hypotheses with links to public evidence. They are not income projections, job offers, or proof that a business exists. Self-reported revenue in the sources belongs to those authors, not to Kishore."
 hypothesis: >
@@ -16,7 +16,7 @@ dimensions:
     note: Several builders published the pattern. The corpus does not show a queue of teams paying for it.
   evidence_strength:
     score: 8
-    note: Four baseline sources, plus Suman's 2026-11-24 question about an agent clicking Approve and Saboo's human-in-the-loop note on Workspace MCP. They agree with the human gate. They are single posts, so the score stays 8. None of this is a case study of Kishore's offer.
+    note: Four baseline sources, plus Suman's pager question, Saboo's human-in-the-loop note, Mishra's 2026-11-25 warning not to be only a Jira-to-Claude bridge, and Mischa's per-project container credentials. They agree with a human gate and a scoped identity. They are still single posts, so the score stays 8. None of this is a case study of Kishore's offer.
   fit_with_kishore_skills:
     score: 9
     note: CI, pull requests, credentials, and approval gates sit on the spec's DevOps skills.
@@ -24,14 +24,14 @@ dimensions:
     score: 6
     note: A pilot on one repository is smaller than a platform. The sources do not give a build time.
   competition_gap:
-    score: 4
-    note: GitHub, the labs, and several people in this corpus already ship pieces of this. The gap is the combination plus identity, and it may be thin.
+    score: 3
+    note: GitHub, the labs, and several people in this corpus already ship pieces of this. On 2026-11-25 Saboo credits a harness change for a usage jump, Finn shows a seven-agent swarm, and an aggregator post describes a CLI that fixes a failed CI run. The gap is thinner than it was yesterday. The score drops from 4 to 3.
   monetization_clarity:
     score: 6
     note: A fixed pilot invoice is understandable. No source here shows that invoice being paid.
   risk_inverse:
-    score: 6
-    note: The identity and human-gate points are the risk controls. An unbounded agent with production credentials is the failure mode the sources warn about.
+    score: 5
+    note: The identity and human-gate points are still the risk controls. Steinberger's 2026-11-25 post says a platform can forbid the agent CLI unless you pay more, and Theo's telemetry posts the same day do not agree with each other. That is extra platform and trust risk, so the score drops from 6 to 5. An unbounded agent with production credentials remains the failure mode.
 evidence:
   - profile: pavan-belagatti
     source: S2
@@ -57,6 +57,18 @@ evidence:
     source: S14
     url: https://x.com/Saboo_Shubham_/status/2125298072188231810
     note: Employer post. Workspace MCP GA includes a human-in-the-loop control.
+  - profile: akhilesh-mishra
+    source: S17
+    url: https://x.com/livingdevops/status/2125475523384254782
+    note: He says not to let a DevOps job be only a bridge between Jira and Claude.
+  - profile: mischa-van-den-burg
+    source: S16
+    url: https://x.com/mischavdburg/status/2125485325027782841
+    note: Per-project rootless container and its own credentials. His practice, truncated.
+  - profile: peter-steinberger
+    source: S23
+    url: https://x.com/steipete/status/2125654555262431248
+    note: He says Google is forbidding CLIs like gog unless you pay more. Platform risk. The terms page was not fetched.
 risks:
   - Pavan's article is also his public advocacy. Treat it as a design note, not as demand.
   - Steinberger is an OpenAI employee in this snapshot. His model comparisons carry that conflict of interest, as his own profile records.

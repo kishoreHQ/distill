@@ -4,17 +4,19 @@
  "x_user_id": "16080017",
  "display_name": "Swanand",
  "research_status": "partial",
- "posts_read": 89,
+ "posts_read": 90,
  "posts_by_band": {
   "0-6mo": 50,
   "6-24mo": 20,
   "24mo+": 16,
   "refresh_2026_11_25_daily": 3,
-  "refresh_2026_11_25_deepen": 0
+  "refresh_2026_11_25_deepen": 0,
+  "refresh_2026_11_26_daily": 1,
+  "refresh_2026_11_26_deepen": 0
  },
  "longform_fetched": 1,
  "sources_count": 9,
- "last_post_id": "2125258265747763674",
+ "last_post_id": "2125650554189914135",
  "researched_at": "2026-11-24T14:25:00+05:30",
  "x_calls_used_note": "batch A shared budget; see batch-A-summary.md",
  "limitations": [
@@ -22,7 +24,8 @@
   "X content mostly personal/off-topic",
   "Superlinear metrics are company marketing claims",
   "Title at Superlinear not stated on site (CTO is from X bio)",
-  "2026-11-25 append is a date window, not a full timeline. Added 3; 0 collected ids were already in the file."
+  "2026-11-25 append is a date window, not a full timeline. Added 3; 0 collected ids were already in the file.",
+  "2026-11-26 append is a date window, not a full timeline. Added 1; 0 collected ids were already in the file."
  ],
  "completeness": {
   "identity": {
@@ -64,6 +67,6 @@
  },
  "completeness_total": 10,
  "completeness_max": 18,
- "last_refresh": "2026-11-25T00:25:39Z",
- "last_refresh_note": "Official public X read supplied for 2026-11-25. Window start 2026-11-23T22:21:18Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters."
+ "last_refresh": "2026-11-26T00:22:52Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-26. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters. julian-goldie and theo-browne were capped at 100 rows (truncated)."
 }

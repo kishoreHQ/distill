@@ -8,7 +8,7 @@ other_identities: [https://www.perplexity.ai, https://x.com/perplexity_ai, https
 website: https://www.perplexity.ai
 organization: Perplexity AI, Inc.
 role: Co-founder and CEO, Perplexity; ex-OpenAI research scientist; UC Berkeley CS PhD (2021)
-research_date: 2026-11-25
+research_date: 2026-11-26
 confidence: high
 account_type: person
 primary_domain: ai-engineering
@@ -34,6 +34,7 @@ status: verified
 - **Not a fit for:** solo or bootstrapped income tactics. His playbook depends on VC money and frontier-lab access.
 
 ## C. Core philosophy
+- **2026-11-26.** New product focus: a date-locked web. He says Perplexity Time Machine shows a model the web as it was on a chosen date, so post-training can score predictions without the live web leaking the answer [S29] (https://x.com/AravSrinivas/status/2125707364053680383). He states Search API at $5 per 1,000 requests and Context API at $1 per 1,000 URLs, back 365 days [S30] (https://x.com/AravSrinivas/status/2125707379488735451). Those prices are his. Neon volume is restated as 44.52 billion tokens on Tuesday, 23.5% above a Monday figure of 36.06B that is in the same post [S31] (https://x.com/AravSrinivas/status/2125458638823379123), which is a later figure than the 120B-in-three-days line [S26], not a retraction of it. He says Fable orchestrates Neon, Opus, and Sol for financial research on Perplexity Computer [S32] (https://x.com/AravSrinivas/status/2125640216530882666). [observed statement]
 - **2026-11-25.** Current product focus, in his posts: Gemini 4 Neon inside Perplexity, and Perplexity as a work surface. He says Neon usage passed 120B tokens and doubled in three days, and that they will tune the harness for formatting and task duration [S26]. He says that usage is paid by users, not grown with free subsidies [S27]. He says Perplexity is turning into a work operating system, with in-place slide editing [S28]. Token and pricing lines are his statements. [observed statement]
 - **Choose "AI-complete" problems.** The product should get better automatically as models improve, and usage should feed data back into it (borrowed from Larry Page) [S3].
 - **Grounding over fluency:** "not supposed to say anything that you don't retrieve". If retrieval is insufficient, say so [S7].
@@ -44,6 +45,7 @@ status: verified
 - **Model-neutral product:** picks default models by retention stats and swaps orchestrators freely [S21][S17].
 
 ## D. Distilled knowledge
+- **2026-11-26.** Time Machine is a dated crawl copy plus a `snapshot_as_of` cutoff, in the thread under [S29]. A later post the same hour says time-snapshotted sandboxes for rollouts and evals are coming. That sandbox sentence is in `posts.jsonl` and is a plan, not a doc. [observed statement]
 - **2026-11-25.** Harness work he names is concrete and narrow: smooth Neon's formatting and task duration [S26]. That is an observed plan, not a published design doc. [observed statement]
 - **Principles**
   - Read daily user complaints and feature demands as a sign you shipped something people need [observed statement][S20].
@@ -84,6 +86,7 @@ status: verified
 - Log every complaint and feature request per vertical. Ship the most frequent fix fast and announce it publicly. Choose defaults (models, UX) by retention data, not opinion. Metric: complaint-to-ship time and retention change after each default switch.
 
 ## F. Evidence summary
+- **2026-11-26 refresh.** Appended 19 posts (19 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 159 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 10 posts (10 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 1 collected ids were already stored. `posts.jsonl` now has 140 rows.
 - 25 sources: 12 X posts, 7 excerpts from the Lex Fridman #434 transcript (one URL), 1 X profile, 2 institutional or press profiles (Berkeley, IIT Madras), 2 Wikipedia excerpts (one URL) and 1 pinned post.
 - 130 X posts read (original posts, no replies or reposts) in 6 windows: Nov 2026, Feb 2026, May–Jun 2026, Jun 2025, May–Jun 2024, Feb–Mar 2023, plus a topical search and the pinned post.
@@ -108,3 +111,4 @@ status: verified
 - 2025: verticals (Finance), Comet browser, Labs and Deep Research; ambition posts [S20][S25].
 - 2026: agent harness era (Computer, Model Council, Teammates, search-as-codegen), $1B ARR claim and Frontier Research lab [S2][S14][S17][S22].
 - **2026-11-25.** The baseline harness notes were the chair model [S17] and safe-fetch [S16]. This window adds a live model-specific harness pass on Gemini 4 Neon (https://x.com/AravSrinivas/status/2125328996221231313) [S26] and a product claim that Perplexity is becoming a work OS (https://x.com/AravSrinivas/status/2125364190802227680) [S28]. No contradiction with the grounding rule is stated in these posts.
+- **2026-11-26.** Before, the live harness note was tuning Gemini 4 Neon for formatting and duration [S26]. After, the new surface is a frozen web for post-training prediction [S29], with stated API prices [S30]. The grounding rule [S7] is not contradicted in these posts. The token post [S31] is another self-reported volume, not a replacement for [S26].

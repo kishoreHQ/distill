@@ -1518,3 +1518,43 @@
   excerpt: "Actually Rust is the worst for CI/CD no?"
   original: true
   confidence: medium
+- id: R-9
+  url: https://x.com/championswimmer/status/2125721965621387759
+  author: Arnav Gupta
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He says that effort level makes the work 2x-3x slower for almost no extra benefit. His experience, not a benchmark.
+  excerpt: I have never ever used xhigh or max. I cannot
+  original: true
+  confidence: high
+- id: R-10
+  url: https://x.com/championswimmer/status/2125720732445327645
+  author: Arnav Gupta
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He wants agents to skip backwards-compatibility caution on a feature that is not in production yet. A wish, not a shipped flag.
+  excerpt: I wish ai agents had a /dev-mode toggle that will
+  original: true
+  confidence: high
+- id: R-11
+  url: https://x.com/championswimmer/status/2125635454792032750
+  author: Arnav Gupta
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He says the phrase neo cloud is abused, and that if a cloud company after the three big ones exists, it is CF. The stored text does not spell CF. Reading it as Cloudflare is uncertain.
+  excerpt: neo cloud” is so abused. If truly there is a new generation cloud
+  original: true
+  confidence: medium
+- id: R-12
+  url: https://x.com/championswimmer/status/2125742817754440167
+  author: Arnav Gupta
+  published: '2026-11-26'
+  researched: '2026-11-26'
+  type: x_post
+  description: He says he is still on herdr and is waiting for Rex to leave beta. He does not say he built either tool.
+  excerpt: i am still on herdr (because it supports all sorts of devices i use
+  original: true
+  confidence: high

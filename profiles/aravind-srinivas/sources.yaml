@@ -278,3 +278,43 @@
   excerpt: "Perplexity is turning into a work operating system."
   original: true
   confidence: high
+- id: S29
+  url: https://x.com/AravSrinivas/status/2125707364053680383
+  author: Aravind Srinivas
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: 'He announces Perplexity Time Machine: a model sees the web as of a chosen date, for post-training agents that predict. Live in Search and Context APIs, in his words. The post is truncated.'
+  excerpt: We're building a time machine for the internet.
+  original: true
+  confidence: high
+- id: S30
+  url: https://x.com/AravSrinivas/status/2125707379488735451
+  author: Aravind Srinivas
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He states Search API and Context API prices and says the cutoff goes back 365 days today on an existing API key. Prices are his post. The text is truncated.
+  excerpt: 'Search API: $5 per 1,000 requests Context API: $1 per 1,000'
+  original: true
+  confidence: high
+- id: S31
+  url: https://x.com/AravSrinivas/status/2125458638823379123
+  author: Aravind Srinivas
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He states Tuesday Neon token volume inside Perplexity and a percent above a Monday figure also in the post. Not an audit. The post is truncated.
+  excerpt: 44.52 billion tokens inside Perplexity on Tuesday, 23.5% above all of
+  original: true
+  confidence: high
+- id: S32
+  url: https://x.com/AravSrinivas/status/2125640216530882666
+  author: Aravind Srinivas
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He says financial research is best done with Multiagent on Perplexity Computer, and names Fable as the orchestrator. Product claim.
+  excerpt: Fable orchestrates Neon, Opus and Sol
+  original: true
+  confidence: high

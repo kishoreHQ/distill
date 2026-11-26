@@ -8,7 +8,7 @@ other_identities: [https://arnav.tech, https://linktr.ee/championswimmer, https:
 website: http://arnav.tech
 organization: "First-person posts on 2026-11-24 say Railway. PROFILE.json said Railway. The bundle README timeline still ends at Meta. See section A."
 role: "Engineer; ex EM/PM/founder (wording of PROFILE.json summary)"
-research_date: 2026-11-25
+research_date: 2026-11-26
 confidence: medium
 account_type: person
 primary_domain: ai-engineering
@@ -36,6 +36,7 @@ Converted from `extra/arnav-gupta/` on the 2026-11-24 import. That import did no
 - Gap: no list of communities he runs was in PROFILE.json. The skill README mentions teaching and talks; see [O-TCH-2].
 
 ## C. Core philosophy
+- **2026-11-26.** He says he has never used xhigh or max, because the work gets 2x–3x slower for almost no benefit [R-9] (https://x.com/championswimmer/status/2125721965621387759). He wishes agents had a /dev-mode toggle so an unreleased feature would skip backwards-compatibility caution [R-10] (https://x.com/championswimmer/status/2125720732445327645). He says the phrase neo cloud is abused and that the company after the three big ones, if there is one, is CF [R-11] (https://x.com/championswimmer/status/2125635454792032750). CF is not spelled in the post. Reading it as Cloudflare is uncertain. [observed statement]
 - **2026-11-25.** He wants teams to keep several models and separate workflows [R-3]. He calls an enterprise agent feature enshittification when cutting-edge teams already have human plus AI plus CI [R-4]. He says he is "Neonmaxxing" and does not need Argon [R-6]. He says Claude is overpriced relative to work done on Codex and Gemini subscriptions [R-7]. [observed statement]
 - Software: "99% of info-system software should be just Postgres (and Redis)." [O-ENG-1] [observed statement]
 - He rejects microservices as a default: "Microservices and distributed computing just makes things unnecessarily hard." [O-ENG-4] [observed statement]
@@ -43,6 +44,7 @@ Converted from `extra/arnav-gupta/` on the 2026-11-24 import. That import did no
 - Monetization of attention: the evidence includes "skill-selling pied pipers" as a criticism [O-AI-6] [observed statement]. No price list for a product of his was in the extra bundle.
 
 ## D. Distilled knowledge
+- **Tools, 2026-11-26.** He says he is still on herdr and is waiting for Rex to leave beta [R-12] (https://x.com/championswimmer/status/2125742817754440167). That is a personal stack note, not a product he claims to have built. OpenCode MCP env replies in this window are a bug report, not a new principle.
 - **2026-11-25.** He reports a decision-model benchmark and a pi plugin that filters skills by the current prompt [R-5]. The score table is past the stored cutoff, so no ranking is copied. He says Rust builds got much slower in migrations he has in mind, while runtime is the strong side [R-8]. Treat the 10-20x build line as his statement. [observed statement]
 - Boring storage and a monolith are the stated default [O-ENG-1] [O-ENG-4] [observed statement]. Clean Architecture is called an anti-pattern in his words [O-ENG-6] [observed statement].
 - Documentation is "a culture", and communication "should be public by default, private by exception." [O-ENG-12] [O-ENG-13] [observed statement]
@@ -64,6 +66,7 @@ Converted from `extra/arnav-gupta/` on the 2026-11-24 import. That import did no
 - Success metric: no evidence found.
 
 ## F. Evidence summary
+- **2026-11-26 refresh.** Appended 24 posts (24 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 135 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 54 posts (29 in the daily window from 2026-11-23T22:21:18Z, 25 deepen). 0 collected ids were already stored. `posts.jsonl` now has 111 rows.
 - Ledger: `sources.yaml`, 144 rows, researched 2026-11-22 by the source bundle.
 - X quotes in `posts.jsonl`: 57. Metrics are null because the extra bundle did not include metric fields. Do not read null as zero.
@@ -88,3 +91,4 @@ Kishore, in the research spec, is a Linux/DevOps-capable engineer in India who w
 - 2026-11-22 baseline from the extra bundle. Earlier vs later, as that bundle's OPINIONS.md states and [O-AI-21] supports in part: the 2025-01-28 post says "Mostly diminishing returns for real world since Claude 3.5 Sonnet." Later 2026 lines treat subagents as settled [O-AI-7]. The sentence "by 2026 I was fully agentic" is the bundle's synthesis in OPINIONS.md, not a single post.
 - Gap: the skill README says the 2016–2019 X history was only sampled from December 2018, and there is no speaker-labelled transcript.
 - **2026-11-25.** Employer wording: before, PROFILE.json said Railway and the README timeline ended at Meta (section A, baseline). After, his own posts say "At Railway" and "our revenue" [R-1][R-2]. Model stance in this sample is multi-model workflows [R-3] and Neon over Argon [R-6], which fits the later agentic lines already in the ledger rather than a reversal. The missing 200-post file is still missing. Research status stays partial.
+- **2026-11-26.** No change to the Railway-versus-Meta gap [R-1]. The new lines are effort-level [R-9] and a wished-for dev-mode [R-10]. Research status stays partial. The missing 200-post file is still missing.

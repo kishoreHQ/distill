@@ -198,3 +198,23 @@
   excerpt: "I'm a millionaire."
   original: true
   confidence: medium
+- id: S21
+  url: https://x.com/JulianGoldieSEO/status/2125545033034268969
+  author: Julian Goldie
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: Disclaimer posted again the same day as income-prompt threads. He says results are not typical and nothing is promised.
+  excerpt: No rankings or income are guaranteed.
+  original: true
+  confidence: high
+- id: S22
+  url: https://x.com/JulianGoldieSEO/status/2125485711029948438
+  author: Julian Goldie
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He names a free Polar Rank scan for Google's December core update. Promotional. Not an independent review.
+  excerpt: FREE tool that checks if your website is ready for Google's December
+  original: true
+  confidence: high

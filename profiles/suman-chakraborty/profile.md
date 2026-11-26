@@ -8,7 +8,7 @@ other_identities: [https://www.linkedin.com/in/schakraborty007, http://topmate.i
 website:
 organization: Platform9 Systems
 role: Solutions Architect (per X bio and KubeCon India 2026 speaker bio)
-research_date: 2026-11-25
+research_date: 2026-11-26
 confidence: high
 account_type: person
 primary_domain: automation
@@ -31,10 +31,12 @@ status: partial
 - Communities: CNCF India (KubeCon India, KCD Delhi, Cloud Native Kolkata), conference speaker.
 
 ## C. Core philosophy
+- **2026-11-26.** The daily row is a share of a lightweight self-hosted secrets manager he calls an easy Vault replacement [S11] (https://x.com/itsmesumanc/status/2125455065578348631). The post does not say he built it. The deepen sample (older than the window) is mostly tool links, events, and short replies. The substantive technical shares are user namespaces to GA in Kubernetes 1.33 [S12] (https://x.com/itsmesumanc/status/1916099341225255310) and a description of ingress-nginx CVE-2025-1974 [S13] (https://x.com/itsmesumanc/status/1904738629215543774). One reply says he is developing an LLM because agentic AI on a cloud-native platform matters [S14] (https://x.com/itsmesumanc/status/1915293876002189630). That is one sentence. [observed statement]
 - **2026-11-25.** One substantive post. He says Claude Ship lets an agent write, review, and click Approve, and asks whether Claude or he is paged at 3 AM [S10] (https://x.com/itsmesumanc/status/2125179626670711003). That is a human-on-call objection, not a tutorial. The other new row is a reply about bottled water and is not used. [observed statement]
 - Little opinion content on X; mostly event announcements, certifications, news shares, and some personal/national commentary. Operational philosophy inferred from talk abstracts: move beyond defaults, measure (audit logs, latency metrics) before tuning [S2]. Other areas: No evidence found.
 
 ## D. Distilled knowledge
+- **2026-11-26.** Tool names in the deepen sample, as shares rather than reviews: Pluto for deprecated API versions, kustomize-dot, Kor for unused resources, KubeFleet, Caretta, and a chaos-engineering game. Images and linked repos were not read. They do not become a stack recommendation.
 - Technical method: Diagnose K8s API server bottlenecks with audit logs + apiserver_request_duration_seconds; use Priority & Fairness instead of max-requests-inflight; fix LIST storms via WatchList streaming and client caching [observed statement, talk abstract] [S2].
 - Technical method: Container checkpointing (CRIU) for forensics and recovery [observed statement, via third-party recap] [S3].
 - Emerging topic: AI cost visibility/governance across hosted LLM APIs + self-hosted models via a Kubernetes-native gateway (agentgateway) [observed statement, via snippet] [S4].
@@ -53,6 +55,7 @@ status: partial
 - Steps: enable audit logs -> dashboard apiserver latency by verb/user agent -> identify noisy controllers -> configure APF FlowSchemas -> fix heavy LIST clients. Complexity: high; for large clusters only.
 
 ## F. Evidence summary
+- **2026-11-26 refresh.** Appended 26 posts (1 daily, 25 deepen). 0 collected ids were already stored. `posts.jsonl` now has 92 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z for the daily row. Deepen rows are older.
 - **2026-11-25 refresh.** Appended 2 posts (2 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 66 rows.
 - 64 X posts (25 Mar-Nov 2026, 25 Jan-Feb 2026, 14 May 2025); 3 long-form/secondary (CNCF sched, Cast AI recap, LinkedIn snippet). 9 sources. LinkedIn (his main channel) not opened due to login wall.
 
@@ -70,3 +73,4 @@ status: partial
 ## I. Profile evolution
 - 2026-11-24 baseline. 2025: VMware-migration and K8s production content, KubeCon India 2025 checkpointing talk [S3][S8]. 2026: multi-cluster add-ons, API server performance, MCP certification and AI-cost governance - moving toward AI platform infrastructure [S2][S4][S5][S7].
 - **2026-11-25.** X is still thin. This post is the first incident-pager objection in the file. Research status stays partial. Talk listings remain the stronger sources [S2][S3].
+- **2026-11-26.** Before, the useful sources were talk listings [S2][S3] and the pager question [S10], and the X sample was thin. After, 25 older posts were read and the file reaches 2025-03-16. They are still mostly link posts. Principles stay thin. Research status stays partial. The official older read did return posts, unlike a timeline that looks empty.

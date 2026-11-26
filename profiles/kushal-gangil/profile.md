@@ -8,7 +8,7 @@ other_identities: [https://linktr.ee/techfusionist, http://t3pacademy.gumroad.co
 website: https://linktr.ee/techfusionist
 organization:            # "Tech Fusionist" brand; no company verified
 role:                    # not verified
-research_date: 2026-11-25
+research_date: 2026-11-26
 confidence: medium
 account_type: person
 primary_domain: content-creation
@@ -57,6 +57,7 @@ status: partial
 - Steps: Bundle existing guides/cheat sheets -> Gumroad -> discount events -> pin + reply links. Cost: platform fees. Risk: low price = needs volume. Metric: sales/week.
 
 ## F. Evidence summary
+- **2026-11-26 refresh.** Appended 1 post (1 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 95 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 19 posts (0 in the daily window from 2026-11-23T22:21:18Z, 19 deepen). 6 collected ids were already stored. `posts.jsonl` now has 94 rows.
 - 75 X posts (25 Nov 2026, 25 Apr 2026, 25 Aug 2025); 2 long-form attempts (Linktree read; Gumroad page returned no content). 8 sources.
 
@@ -74,3 +75,4 @@ status: partial
 ## I. Profile evolution
 - 2026-11-24 baseline. Aug 2025: DevOps roadmaps, free certs, cheat sheets. Apr 2026: more AI tools, app-building experiments, guide bundle sales, sponsored AI tool promos. Nov 2026: AI engineering roadmaps, MCP, AI FDE, RAG debugging visuals - shift toward AI topics.
 - **2026-11-25.** Deepen sample (older than the daily window) adds the two slogans above. Identity is still unverified. Research status stays partial. Principles were thin; these two lines are the first explicit cautions, and they are one sentence each.
+- **2026-11-26.** One post praising a bookshelf, with a link (https://x.com/techyoutbe/status/2125606199370682525). The image was not read. No new slogan and no employer evidence. Research status stays partial.

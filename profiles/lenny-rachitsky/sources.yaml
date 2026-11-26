@@ -128,3 +128,13 @@
   excerpt: "Atlassian tried teams with no PM and no designer. Everyone was an \"AI builder.\""
   original: true
   confidence: high
+- id: S14
+  url: https://x.com/lennysan/status/2125737906782560552
+  author: Lenny Rachitsky
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He posts Scientist, Artist, and General manager, plus a line that very few people do all three well. Other posts in the window say to watch the full conversation. The stored text does not name the speaker. Attribution of the quote is uncertain.
+  excerpt: 'three archetypes of product managers: 1. Scientist 2. Artist 3. General manager "The'
+  original: true
+  confidence: medium

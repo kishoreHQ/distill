@@ -1,7 +1,7 @@
 id: indie-hacking
 title: Simulated board — indie hacking & solopreneurship
 domain: indie-hacking
-as_of: "2026-11-25"
+as_of: "2026-11-26"
 disclaimer: "SIMULATED ADVISORY BOARD. The real people named here have not joined this board, have not been contacted, and have not endorsed DISTILL, Kishore, or any recommendation in this file. Positions below are paraphrases of their public posts and pages, with citations. They are not quotes of private advice."
 charter: >
   This simulated board uses public, mostly self-reported product notes. Dollar
@@ -14,7 +14,7 @@ members:
   - profile_id: pieter-levels
     reason: Long first-party record of solo products, including a hit-rate post and a cost-audit post.
     position: >
-      He writes that only 4 of 70+ projects made money [pieter-levels S8]. He also describes cron LLM workers and zero employees [pieter-levels S4], and a Claude Code pass over vendor bills [pieter-levels S3]. He runs a public block list of accounts that post automated AI replies [pieter-levels S14]. On 2026-11-24 he says he is spending about $600/day, his figure, to block AI spammers [pieter-levels S18] and that he will submit a detector to X [pieter-levels S19].
+      He writes that only 4 of 70+ projects made money [pieter-levels S8]. He also describes cron LLM workers and zero employees [pieter-levels S4], and a Claude Code pass over vendor bills [pieter-levels S3]. He runs a public block list of accounts that post automated AI replies [pieter-levels S14]. On 2026-11-24 he says he is spending about $600/day, his figure, to block AI spammers [pieter-levels S18] and that he will submit a detector to X [pieter-levels S19]. On 2026-11-25 the tweets themselves are honeypots investigated by Grok 4.7 [pieter-levels S21], and he says labs will try to take over the OS [pieter-levels S24]. The dollar figures stay his.
     evidence:
       - source: S8
         url: https://levels.io/only-4-out-of-70-projects-made-money
@@ -26,10 +26,14 @@ members:
         url: https://x.com/levelsio/status/2124586276489695710
       - source: S18
         url: https://x.com/levelsio/status/2125196511126737341
+      - source: S21
+        url: https://x.com/levelsio/status/2125592280505704637
+      - source: S24
+        url: https://x.com/levelsio/status/2125515439770104282
   - profile_id: piyush-sachdeva
     reason: Day-104 metrics for a narrow tool, plus explicit platform-risk posts. He also teaches DevOps.
     position: >
-      The day-104 post states 56 paid users, $3793 CAD net, and $694 MRR [piyush-sachdeva S1]. He says a platform-dependent tool needs approval and is not a wrapper you just ship [piyush-sachdeva S4]. He later wrote that Claude shipped a similar Instagram tool [piyush-sachdeva S8].
+      The day-104 post states 56 paid users, $3793 CAD net, and $694 MRR [piyush-sachdeva S1]. He says a platform-dependent tool needs approval and is not a wrapper you just ship [piyush-sachdeva S4]. He later wrote that Claude shipped a similar Instagram tool [piyush-sachdeva S8]. On 2026-11-25 he posts 25% off until 27 Nov and no new user or MRR figure [piyush-sachdeva S21].
     evidence:
       - source: S1
         url: https://x.com/techie_piyush/status/2122927926895370692
@@ -37,6 +41,8 @@ members:
         url: https://x.com/techie_piyush/status/2122147206358798626
       - source: S8
         url: https://x.com/techie_piyush/status/2121323534370865285
+      - source: S21
+        url: https://x.com/techie_piyush/status/2125461374914666805
   - profile_id: alex-finn
     reason: Public growth cadence and a self-reported product ARR. The profile marks the ARR as self-reported.
     position: >
@@ -62,18 +68,20 @@ members:
   - profile_id: vatsal-sanghvi
     reason: Partial profile. Included because the thread on automating only a proven motion is specific, and the partial status is kept visible.
     position: >
-      "automation can make an existing execution motion incredible. it cannot replace the process of figuring out what actually works." [vatsal-sanghvi S3]. He also writes that bootstrapped cash-flow positivity is very hard [vatsal-sanghvi S7]. Account is young in the profile (created 2025-03) and research status is partial.
+      "automation can make an existing execution motion incredible. it cannot replace the process of figuring out what actually works." [vatsal-sanghvi S3]. He also writes that bootstrapped cash-flow positivity is very hard [vatsal-sanghvi S7]. On 2026-11-25 he says Claude Code makes it easy to chase perfection, and that great products often are not perfect [vatsal-sanghvi S11]. Account is young in the profile (created 2025-03) and research status is partial.
     evidence:
       - source: S3
         url: https://x.com/vatsal_sanghvi/status/2105183020919705784
       - source: S7
         url: https://x.com/vatsal_sanghvi/status/2037454988323209653
+      - source: S11
+        url: https://x.com/vatsal_sanghvi/status/2125560314943132129
 disagreements:
   - "Levels' bio in the ledger lists large monthly revenue figures, and the same corpus contains his 4-out-of-70 hit rate [pieter-levels S8]. Using only the bio would hide the misses."
   - "Finn's bio states $300k ARR [alex-finn S1]. Piyush's evidenced line is $694 MRR at day 104 [piyush-sachdeva S1]. These are different kinds of self-report. Neither is a quota."
   - "Levels blocks automated AI replies [pieter-levels S14]. A reply-cadence copied from Finn [alex-finn S6] and then handed to a bot would conflict with that post."
 synthesis: >
-  The evidenced first motion is a small, manual offer with a public number the builder is willing to show, after a channel has been worked by hand. Levels' hit rate says most projects do not pay. Piyush's day-104 line is a concrete small number and a platform warning. Finn's ARR and Levels' monthly figures are not the planning numbers for a first month.
+  The evidenced first motion is a small, manual offer with a public number the builder is willing to show, after a channel has been worked by hand. Levels' hit rate says most projects do not pay. Piyush's day-104 line is a concrete small number and a platform warning. Finn's ARR and Levels' monthly figures are not the planning numbers for a first month. Levels' 2026-11-25 honeypots [pieter-levels S21] are a reason not to automate replies. His OS-takeover line [pieter-levels S24] is the same niche warning as before, in sharper words. Piyush's 25% sale [piyush-sachdeva S21] is not a new traction number.
 recommended_next_action: >
   Run one manual offer for two weeks. An infra-bill review for a team the operator already knows is the offer that matches the DevOps context. Log ten conversations before any agent sends a reply or an invoice. Do not publish a revenue target taken from this corpus.
 confidence: medium

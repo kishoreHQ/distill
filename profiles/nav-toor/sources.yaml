@@ -88,3 +88,13 @@
   excerpt: "In 1996, Apple wanted to buy a tiny company called Be."
   original: true
   confidence: medium
+- id: S10
+  url: https://x.com/heynavtoor/status/2125630210058137741
+  author: Nav Toor
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He reports 100% and 93% for Ling Sante 3.1 Flash on two runs of the same six questions. He says the set measures whether confidence matches evidence. Six questions are not a leaderboard. Scores are his.
+  excerpt: Ling Sante 3.1 Flash, the open-weight medical model from @AntLingAGI, two
+  original: true
+  confidence: medium

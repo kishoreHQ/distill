@@ -8,7 +8,7 @@ other_identities: ["https://github.com/piyushsachdeva", "https://youtube.com/tec
 website: "https://www.reeldrop.io"
 organization: "Google (technical solutions, per X bio/GitHub); founder of ReelDrop"
 role: "Technical solutions at Google; founder ReelDrop + CannerAI (self-described)"
-research_date: 2026-11-25
+research_date: 2026-11-26
 confidence: "high"
 account_type: "person"
 primary_domain: "startup-building"
@@ -30,6 +30,7 @@ status: "verified"
 - **Products:** ReelDrop (IG scheduler, comment→DM automation, AI captions/carousels, MCP server) [S18]; CannerAI (earlier micro-SaaS, $219 MRR in May 2026) [S9]; free LinkedIn post generator (lead tool) [S10].
 
 ## C. Core philosophy
+- **2026-11-26.** He posts a Black Friday price: 25% off all plans until 27 Nov, and he calls it the biggest discount of the year [S21] (https://x.com/techie_piyush/status/2125461374914666805). The feature list that follows is cut off at scheduling and DM automation. No new user count or MRR. The day-104 figures stay [S1]. A reply recommends the CKA exam as performance-based. That reply is advice about a cert, not a new product claim. [observed statement]
 - **Building:** start narrow (just a scheduler), let paying customers' requests drive the roadmap [S2]; "stopped doubting and started shipping" [S2].
 - **Platform reality:** compliance/approval is a moat and a bottleneck — official Meta API, tech-provider approval, rate limits [S3][S4][S6].
 - **DevOps mindset applied to product:** ship small, iterate, reduce blast radius [S5].
@@ -59,6 +60,7 @@ status: "verified"
 - **Steps:** use existing teaching audience (YouTube/GitHub repos) to seed first users; dogfood product on own content. **Metric:** % of first 50 customers from own audience.
 
 ## F. Evidence summary
+- **2026-11-26 refresh.** Appended 6 posts (6 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 103 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 3 posts (3 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 97 rows.
 19 sources; 94 X posts (2025-05 → 2026-11; no pre-2024 posts sampled). Top: [S18] ReelDrop live metrics + founder story, [S1] metrics post, [S2] roadmap story, [S4] platform approval lesson, [S19] GitHub.
 
@@ -79,3 +81,4 @@ status: "verified"
 - **2026-05:** CannerAI at $219 MRR [S9]; DevOps/observability video series; free LinkedIn tool [S10].
 - **2026-08 → 11:** ReelDrop public launch, Meta approval, ~1.4k users / ~56 paying / ~$700 MRR [S1][S3][S18]; shift of identity from DevOps creator to SaaS founder.
 - **2026-11-25.** Product positioning in a reply. The other two new rows are "all the best" and "sounds about right".
+- **2026-11-26.** No shift in the platform-risk line [S4][S8]. The new commercial fact is a 25% sale [S21], not a new traction number.

@@ -1,6 +1,6 @@
 id: narrow-workflow-saas
 title: One narrow workflow tool, kept beside a day job
-as_of: "2026-11-24"
+as_of: "2026-11-26"
 status: hypothesis
 disclaimer: "Opportunity scores are hypotheses with links to public evidence. They are not income projections, job offers, or proof that a business exists. Self-reported revenue in the sources belongs to those authors, not to Kishore."
 hypothesis: >
@@ -25,7 +25,7 @@ dimensions:
     note: His post is day 104, with a day job still in the picture according to the batch summary. That is not a weekend.
   competition_gap:
     score: 4
-    note: His own later post says Claude shipped an Instagram scheduler and comment-DM tool. Platform owners can enter the niche.
+    note: His own later post says Claude shipped an Instagram scheduler and comment-DM tool. On 2026-11-25 Levels says labs will try to take over the OS. Same direction. The score stays 4. Piyush's 25% sale is not new demand.
   monetization_clarity:
     score: 7
     note: He shows a paid tier and an MRR line. The ledger also says many of the payments were lifetime deals, so MRR is not the whole story.
@@ -45,6 +45,14 @@ evidence:
     source: S8
     url: https://x.com/techie_piyush/status/2121323534370865285
     note: He says Claude shipped a similar Instagram scheduler and that indie hackers are exposed.
+  - profile: piyush-sachdeva
+    source: S21
+    url: https://x.com/techie_piyush/status/2125461374914666805
+    note: 25% off until 27 Nov. No new user count or MRR. His price.
+  - profile: pieter-levels
+    source: S24
+    url: https://x.com/levelsio/status/2125515439770104282
+    note: He says labs will try to take over the OS. Same platform-risk direction as his earlier checkmate essay. Truncated.
 risks:
   - Using his MRR as a personal goal would turn one self-report into a promise. The score does not do that.
   - A tool that depends on another company's API can be cloned by that company or by a lab.

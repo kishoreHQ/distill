@@ -98,3 +98,13 @@
   excerpt: "It’s okay to have work as a primary identity"
   original: true
   confidence: high
+- id: S11
+  url: https://x.com/vatsal_sanghvi/status/2125560314943132129
+  author: Vatsal Sanghvi
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He says Claude Code makes engineering resources feel unlimited, so it is easy to chase perfection, and that great products are often not perfect. Truncated. Research status stays partial.
+  excerpt: wanting to make everything perfect run thousands of tests
+  original: true
+  confidence: high

@@ -1,7 +1,7 @@
 id: developer-tools-oss
 title: Simulated board — developer tools & open source
 domain: developer-tools-oss
-as_of: "2026-11-25"
+as_of: "2026-11-26"
 disclaimer: "SIMULATED ADVISORY BOARD. The real people named here have not joined this board, have not been contacted, and have not endorsed DISTILL, Kishore, or any recommendation in this file. Positions below are paraphrases of their public posts and pages, with citations. They are not quotes of private advice."
 charter: >
   This simulated board looks at public notes on CLIs, open source, and agent
@@ -14,7 +14,7 @@ members:
   - profile_id: tw93
     reason: First-party account of Mole and Pake. The free CLI / paid app split is in his own words.
     position: >
-      The Pake launch post says the open-source CLI stays free and the native app is one purchase [tw93 S7]. The Mole essay, in the ledger's description, says he did support by hand first [tw93 S4]. The Chinese excerpt at [tw93 S3] says not to trust a prompt alone for a rule the agent must obey. On 2026-11-24 he says Mole now cleans leftover AI-tool state [tw93 S15], and he says he wants a no-AI editor for reading code and diffs [tw93 S16].
+      The Pake launch post says the open-source CLI stays free and the native app is one purchase [tw93 S7]. The Mole essay, in the ledger's description, says he did support by hand first [tw93 S4]. The Chinese excerpt at [tw93 S3] says not to trust a prompt alone for a rule the agent must obey. On 2026-11-24 he says Mole now cleans leftover AI-tool state [tw93 S15], and he says he wants a no-AI editor for reading code and diffs [tw93 S16]. On 2026-11-25 he posts a $15.20 sale through December 1 [tw93 S17] and says his products add no telemetry beyond activation binding [tw93 S18]. The GUI, he says, has features the CLI does not [tw93 S19]. The price is his.
     evidence:
       - source: S7
         url: https://x.com/HiTw93/status/2122339080101060730
@@ -26,19 +26,27 @@ members:
         url: https://x.com/HiTw93/status/2125172384202371402
       - source: S16
         url: https://x.com/HiTw93/status/2125150540837650573
+      - source: S17
+        url: https://x.com/HiTw93/status/2125598323327508840
+      - source: S18
+        url: https://x.com/HiTw93/status/2125450228455383474
+      - source: S19
+        url: https://x.com/HiTw93/status/2125736229828518143
   - profile_id: peter-steinberger
     reason: CLI-first essay and a large open-source agent project in the ledger.
     position: >
-      Start with a CLI [peter-steinberger S5]. He also posted that his own OSS releases stopped because of an Apple developer agreement [peter-steinberger S20], which is a platform-risk data point for anyone shipping a desktop app.
+      Start with a CLI [peter-steinberger S5]. He also posted that his own OSS releases stopped because of an Apple developer agreement [peter-steinberger S20], which is a platform-risk data point for anyone shipping a desktop app. On 2026-11-25 he says Google is forbidding CLIs like gog unless you pay more [peter-steinberger S23]. The linked terms page was not fetched.
     evidence:
       - source: S5
         url: https://steipete.me/posts/2025/shipping-at-inference-speed
       - source: S20
         url: https://x.com/steipete/status/2105712707592679619
+      - source: S23
+        url: https://x.com/steipete/status/2125654555262431248
   - profile_id: theo-browne
     reason: T3 Code is an open-source control plane for coding agents in the ledger.
     position: >
-      The T3 Code README excerpt calls it an open-source control plane for coding agents [theo-browne S3]. On 2026-11-24 he said the source would close and then said it would not [theo-browne S20] [theo-browne S21], and he said invasive telemetry was removed [theo-browne S22]. He also asks, in a short post, whether people still use IDEs [theo-browne S18]. That is a stance, not a survey.
+      The T3 Code README excerpt calls it an open-source control plane for coding agents [theo-browne S3]. On 2026-11-24 he said the source would close and then said it would not [theo-browne S20] [theo-browne S21], and he said invasive telemetry was removed [theo-browne S22]. On 2026-11-25 the telemetry lines conflict: a never-uploaded list [theo-browne S24], lapses that should be fixed [theo-browne S25], and a reply that they removed zero telemetry [theo-browne S26]. He also asks, in a short post, whether people still use IDEs [theo-browne S18]. That is a stance, not a survey.
     evidence:
       - source: S3
         url: https://github.com/pingdotgg/t3code
@@ -48,6 +56,10 @@ members:
         url: https://x.com/theo/status/2125317722552889353
       - source: S22
         url: https://x.com/theo/status/2125318643357745548
+      - source: S24
+        url: https://x.com/theo/status/2125700717935841479
+      - source: S26
+        url: https://x.com/theo/status/2125433204484272266
   - profile_id: tom-dorr
     reason: Most of his timeline is an automated repository feed, which is itself a devtool, and he has a few first-party opinions.
     position: >
@@ -60,7 +72,7 @@ members:
   - profile_id: david-ondrej
     reason: Cloudroom is a public open-source runner for coding-agent harnesses. Revenue lines on his community page are self-reported.
     position: >
-      The Cloudroom README excerpt says it runs any coding-agent harness in the cloud [david-ondrej S2]. He also posts that hitting a usage limit is a reason to switch harness [david-ondrej S10]. A Skool page in the ledger claims a $70k ARR figure. The profile marks that as self-reported, and a third-party tracker in the same ledger shows the community count falling [david-ondrej S5].
+      The Cloudroom README excerpt says it runs any coding-agent harness in the cloud [david-ondrej S2]. He also posts that hitting a usage limit is a reason to switch harness [david-ondrej S10]. On 2026-11-25 he markets an agent that never says no and runs all day on a VPS [david-ondrej S16]. That is a product ad. A Skool page in the ledger claims a $70k ARR figure. The profile marks that as self-reported, and a third-party tracker in the same ledger shows the community count falling [david-ondrej S5].
     evidence:
       - source: S2
         url: https://github.com/davidondrej/cloudroom
@@ -68,11 +80,13 @@ members:
         url: https://x.com/DavidOndrej1/status/2071541330958807387
       - source: S5
         url: https://skool.community/c/new-society
+      - source: S16
+        url: https://x.com/DavidOndrej1/status/2125731090719506935
 disagreements:
   - "Tw93's paid surface is a native desktop app [tw93 S7]. Ondrej's Cloudroom runs harnesses in the cloud [david-ondrej S2]. Steinberger's Apple-agreement post shows a desktop release can stop for a reason that has nothing to do with the code [peter-steinberger S20]."
   - "Dörr prefers faster, lower-effort reasoning [tom-dorr S6]. Theo's review skill waits until three models agree [theo-browne S5]. Both are in the snapshot. They are not the same quality bar."
 synthesis: >
-  A free CLI is the piece these notes actually support as a starting shape. A paid desktop app is one documented path, Tw93's, and it comes with hand support and with platform risk. A cloud runner is a different product. The quality bar that shows up more than once is an executable check, not a prompt. Star counts and the self-reported ARR line are not the decision.
+  A free CLI is the piece these notes actually support as a starting shape. A paid desktop app is one documented path, Tw93's, and it comes with hand support and with platform risk. A cloud runner is a different product. The quality bar that shows up more than once is an executable check, not a prompt. Star counts and the self-reported ARR line are not the decision. On 2026-11-25 the extra constraint is to list what telemetry you actually keep [tw93 S18] [theo-browne S24], and to assume a platform can forbid the CLI [peter-steinberger S23]. An agent that never refuses [david-ondrej S16] is not the quality bar.
 recommended_next_action: >
   Pick one command-line pain from the operator's own week. Ship it as a free CLI. Answer the first users by hand. Do not automate support, and do not sell a GUI, until the same question has come back with a stable answer. Do not cite Tw93's refund rate as an expectation.
 confidence: medium

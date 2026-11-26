@@ -77,10 +77,47 @@
 - name: Mole
   note: >
     Tw93 says Mole can now clean idle AI tools, dead hooks, finished worktrees, and leftovers
-    from uninstalled AI tools [tw93 S15].
+    from uninstalled AI tools [tw93 S15]. On 2026-11-25 he says his products add no telemetry
+    beyond activation binding [tw93 S18], and he posts a $15.20 sale [tw93 S17]. The price is his.
   evidence:
     - profile: tw93
       source: S15
+    - profile: tw93
+      source: S17
+    - profile: tw93
+      source: S18
+- name: Perplexity Time Machine
+  note: >
+    Srinivas says it shows a model the web as of a chosen date so post-training can score
+    predictions without the live page leaking the answer [aravind-srinivas S29]. He states
+    Search API at $5 per 1,000 requests and Context API at $1 per 1,000 URLs [aravind-srinivas S30].
+    Those prices are his. This is his employer's API, not a runbook helper.
+  evidence:
+    - profile: aravind-srinivas
+      source: S29
+    - profile: aravind-srinivas
+      source: S30
+- name: Antigravity harness
+  note: >
+    Saboo says caching and harness improvements raised Gemini 4 Neon subscription usage by
+    close to 75% in five days [shubham-saboo S15]. Finn says a swarm spun up seven Gemini Neon
+    agents and an orchestrator picked a winner on his app [alex-finn S14]. Both figures and
+    demos are theirs. Saboo works on the product.
+  evidence:
+    - profile: shubham-saboo
+      source: S15
+    - profile: alex-finn
+      source: S14
+- name: gog
+  note: >
+    Steinberger says Google built an MCP and is forbidding CLIs like gog unless you pay more
+    [peter-steinberger S23]. He says he built gog so agents call the API [peter-steinberger S24].
+    The terms page was not fetched.
+  evidence:
+    - profile: peter-steinberger
+      source: S23
+    - profile: peter-steinberger
+      source: S24
 - name: snowOps
   note: >
     Mishra points at snowOps as a game per Kubernetes incident [akhilesh-mishra S15].

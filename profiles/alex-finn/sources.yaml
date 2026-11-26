@@ -128,3 +128,23 @@
   excerpt: "Sam Bankman-Fried is the greatest investor of all time"
   original: true
   confidence: high
+- id: S14
+  url: https://x.com/AlexFinn/status/2125706884023992374
+  author: Alex Finn
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He says Google Antigravity swarms ran seven Gemini Neon agents on one problem in his app, and an orchestrator picks a winner. Product demo. Truncated.
+  excerpt: 7 Gemini Neon agents to all tackle a single problem They're working on my app
+  original: true
+  confidence: high
+- id: S15
+  url: https://x.com/AlexFinn/status/2125640063216123947
+  author: Alex Finn
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He says he open-sourced Herdr HUD to manage AI agents while gaming, and that he used it for the last month. Separate from any other person's herdr line.
+  excerpt: Herdr HUD I've been using it the last month while I play WoW and
+  original: true
+  confidence: high

@@ -4,22 +4,26 @@
  "x_user_id": "1405031034",
  "display_name": "Julian Goldie",
  "research_status": "verified",
- "posts_read": 249,
+ "posts_read": 349,
  "posts_by_band": {
   "last_6mo": 91,
   "6_24mo": 25,
   "older": 25,
   "refresh_2026_11_25_daily": 108,
-  "refresh_2026_11_25_deepen": 0
+  "refresh_2026_11_25_deepen": 0,
+  "refresh_2026_11_26_daily": 100,
+  "refresh_2026_11_26_deepen": 0
  },
  "longform_fetched": 3,
- "last_post_id": "2125363847003533703",
+ "last_post_id": "2125726223888535659",
  "limitations": [
   "All traffic/income figures self-reported",
   "Posting volume extremely high; samples cover narrow date windows (Aug 2025, May 2024)",
   "YouTube/Skool content not fetched (no transcripts)",
   "Several posts are near-duplicate templates",
-  "2026-11-25 append is a date window, not a full timeline. Added 108; 2 collected ids were already in the file."
+  "2026-11-25 append is a date window, not a full timeline. Added 108; 2 collected ids were already in the file.",
+  "2026-11-26 collection was capped at 100 rows (truncated).",
+  "2026-11-26 append is a date window, not a full timeline. Added 100; 0 collected ids were already in the file."
  ],
  "completeness": {
   "identity": {
@@ -59,8 +63,8 @@
    "reason": "specific"
   }
  },
- "sources_count": 20,
+ "sources_count": 22,
  "researched_at": "2026-11-24T15:30:00+05:30",
- "last_refresh": "2026-11-25T00:25:39Z",
- "last_refresh_note": "Official public X read supplied for 2026-11-25. Window start 2026-11-23T22:21:18Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters."
+ "last_refresh": "2026-11-26T00:22:52Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-26. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters. julian-goldie and theo-browne were capped at 100 rows (truncated)."
 }

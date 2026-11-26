@@ -8,7 +8,7 @@ other_identities: ["https://github.com/pavanbelagatti", "https://www.youtube.com
 website: "https://www.youtube.com/@pavanbelagatti"
 organization: "Port (port.io)"
 role: "Agentic Engineering Advocate / Developer Advocate"
-research_date: 2026-11-25
+research_date: 2026-11-26
 confidence: "high"
 account_type: "person"
 primary_domain: "ai-engineering"
@@ -31,6 +31,7 @@ status: "verified"
 - **Communities:** Bengaluru AI meetups ("Build with AI"), DevRel/DevOps audiences.
 
 ## C. Core philosophy
+- **2026-11-26.** He says arguing which model is better misses harness engineering [S20] (https://x.com/Pavan_Belagatti/status/2125628394385850699). He asks if we are becoming Markdown engineers and lists AGENTS.md, SKILL.md, spec.md, and plan.md [S21] (https://x.com/Pavan_Belagatti/status/2125617581155590527). A third post says review is the bottleneck after AI sped up writing, and points at a software factory. That third post is in `posts.jsonl` and continues [S2]. [observed statement]
 - **2026-11-25.** Wording shift, same direction. Earlier excerpt opens with "DevOps is dead" and moves to agentic DevOps [S6]. On this date he posted "DevOps isn't dead; it's evolving into Agentic DevOps!" [S19] (https://x.com/Pavan_Belagatti/status/2125240504648597894). The profile already treated the dead line as a hook. This post says the non-dead version in the first sentence. [observed statement]
 - **Software dev in the AI era:** generation is cheap; the bottleneck moved to context, verification, governance and delivery [S8][S17].
 - **Agents:** need a harness — context layer (ownership, dependencies, rules), tools, guardrails, feedback, human gates [S1][S4]; don't do "one giant prompt", use graphs of steps [S3].
@@ -61,6 +62,7 @@ status: "verified"
 - **Cost:** low. **Complexity:** medium. **Metric:** change-failure rate.
 
 ## F. Evidence summary
+- **2026-11-26 refresh.** Appended 3 posts (3 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 100 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 1 posts (1 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 97 rows.
 18 sources; 96 X posts (2024-05 → 2026-11). Top: [S2] factory build, [S1] harness guide, [S17] Port blog, [S18] DZone, [S15] GitHub.
 
@@ -82,3 +84,4 @@ status: "verified"
 - **2025:** agents vs workflows, MCP, context engineering, LangGraph, GraphRAG [S10][S11].
 - **2026 (Port):** harness engineering, AI software factories, spec-driven dev, graph engineering, agentic DevOps, FDE careers [S1][S2][S3][S5][S6][S9].
 - **2026-11-25.** Before: "Unpopular, but I think DevOps is dead" [S6]. After: "DevOps isn't dead; it's evolving into Agentic DevOps!" [S19]. The agentic-automation advice in the same post matches [S6][S7]. Low like count on the new post (the metrics are on the row). Reach is not validation.
+- **2026-11-26.** No reversal of the 2026-11-24 sentence that DevOps is not dead and is evolving into agentic DevOps [S19]. The new posts repeat harness-over-model [S20] and markdown files as the agent interface [S21].

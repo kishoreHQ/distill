@@ -8,7 +8,7 @@ other_identities: ["https://newsletter.systemdesign.one", "https://linkedin.com/
 website: "https://newsletter.systemdesign.one"
 organization: "System Design One"
 role: "Founder / newsletter author"
-research_date: 2026-11-25
+research_date: 2026-11-26
 confidence: "medium"
 account_type: "person"
 primary_domain: "content-creation"
@@ -30,6 +30,7 @@ status: "verified"
 - **Products:** The System Design Newsletter (#205 issues by Nov 2026, guest co-authors) [S17]; free playbooks as lead magnets [S9].
 
 ## C. Core philosophy (supported)
+- **2026-11-26.** He explains MCP as a shared interface for data, specs, and tools, and calls it a USB port for context [S20] (https://x.com/systemdesignone/status/2125589177114804668). He also says a team discussed a payment-gateway bug on Slack and then had to explain it again to a coding agent, which he calls a waste [S21] (https://x.com/systemdesignone/status/2125622563502014865). [observed statement]
 - **Learning:** structured, time-boxed roadmaps ("in 7 weeks", "in 12 days") [S4][S6]; learn from real-company case studies [S12].
 - **AI engineering:** AI-written code still needs systematic review/debugging; prompts as checklists [S3]; agents orchestrated around existing dev tooling (Sentry → agent → PR) [S15].
 
@@ -54,6 +55,7 @@ status: "verified"
 - **Steps:** paid tier with deep-dives; publish a "send this to your manager" template; target engineers at companies with L&D budgets. **Metric:** paid conversion %.
 
 ## F. Evidence summary
+- **2026-11-26 refresh.** Appended 14 posts (14 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 146 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 35 posts (35 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 132 rows.
 18 sources; 97 X posts (2024-08 → 2026-11). Top: [S16] newsletter about, [S18] LinkedIn/Substack snippet, [S4] AI-engineer curriculum, [S1]/[S2] recycling evidence, [S9] lead magnet.
 
@@ -75,3 +77,4 @@ status: "verified"
 - **2025:** engagement-gated lead magnets, case-study summaries [S9].
 - **2026:** pivot to "AI Engineering & System Design" positioning — AI engineer roadmaps, FDE roadmap, AI code review prompts, agent orchestration posts; more product promos [S3][S4][S7][S13].
 - **2026-11-25.** Conflict of interest is now explicit on this post ("happy to partner"), not only inferred from the product names.
+- **2026-11-26.** The pinned Big O recycling note [S1][S2] is unchanged. The new lines are an MCP explainer [S20] and a complaint that chat context does not reach the agent [S21].

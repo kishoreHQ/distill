@@ -4,21 +4,24 @@
  "x_user_id": "2199002832",
  "display_name": "Pavan Belagatti",
  "research_status": "verified",
- "posts_read": 97,
+ "posts_read": 100,
  "posts_by_band": {
   "last_6mo": 46,
   "6_24mo": 25,
   "older": 25,
   "refresh_2026_11_25_daily": 1,
-  "refresh_2026_11_25_deepen": 0
+  "refresh_2026_11_25_deepen": 0,
+  "refresh_2026_11_26_daily": 3,
+  "refresh_2026_11_26_deepen": 0
  },
  "longform_fetched": 5,
- "last_post_id": "2125240504648597894",
+ "last_post_id": "2125628394385850699",
  "limitations": [
   "LinkedIn data via search snippet only",
   "No YouTube transcripts",
   "Employer influence on recommendations",
-  "2026-11-25 append is a date window, not a full timeline. Added 1; 0 collected ids were already in the file."
+  "2026-11-25 append is a date window, not a full timeline. Added 1; 0 collected ids were already in the file.",
+  "2026-11-26 append is a date window, not a full timeline. Added 3; 0 collected ids were already in the file."
  ],
  "completeness": {
   "identity": {
@@ -58,8 +61,8 @@
    "reason": "DevOps fit"
   }
  },
- "sources_count": 19,
+ "sources_count": 21,
  "researched_at": "2026-11-24T15:30:00+05:30",
- "last_refresh": "2026-11-25T00:25:39Z",
- "last_refresh_note": "Official public X read supplied for 2026-11-25. Window start 2026-11-23T22:21:18Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters."
+ "last_refresh": "2026-11-26T00:22:52Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-26. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters. julian-goldie and theo-browne were capped at 100 rows (truncated)."
 }

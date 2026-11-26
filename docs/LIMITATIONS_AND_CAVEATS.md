@@ -16,8 +16,8 @@ Follower counts that appear inside an imported `profile.md` were written by the 
 
 - `x-aravind` is excluded. The bio in that bundle disclaims its own accuracy.
 - `x-wojakcodes` is a pseudonym with no products found. Research status partial. Not on a board.
-- Swanand and Ojasvika have no surname in the sources. Ojasvika's product site was JS-rendered and only the title was stored.
-- Suman Chakraborty's useful sources are talk listings. His X sample is thin. Status partial.
+- Swanand and Ojasvika have no surname in the sources. Ojasvika's product site was JS-rendered and only the title was stored. On 2026-11-26 an official read returned no post older than 2025-10-29. Her timeline looks exhausted. Status stays partial.
+- Suman Chakraborty's useful sources are talk listings. His X sample is thin. A 2026-11-26 deepen read added 25 older posts, mostly tool links. Status stays partial.
 - Arnav Gupta: a 2026-11-24 post speaks of Railway in the first person, including self-reported template payouts. The bundle README timeline that ends at Meta is still in the sources and is not retracted. YouTube lines still lack speaker labels. `sync.json` still says 200 posts were read; that file was not in the archive. `posts.jsonl` now has the original quotes plus the 2026-11-25 official-API sample, not those 200 rows.
 - GitHub logins for some handles could not be tied to the person. The batches say those logins were not used. This phase does not retry that tie.
 
@@ -36,6 +36,10 @@ Course sellers, community sellers, and vendor employees are identified on their 
 ## What Phase 1 does not know
 
 Anything posted after the snapshot, except rows a later refresh actually appended. Private conversations. Paywalled newsletters that were not fetched. Whether a sponsorship was paid when the bundle says the field was not requested. The dashboard has no UI.
+
+## 2026-11-26 refresh
+
+Rows appended that day come from an official public X read. The window is 2026-11-24T22:19:55Z to 2026-11-26T00:20Z. Suman Chakraborty also received 25 older posts. Those are mostly tool-link and event posts, so his research status stays partial. Ojasvika's older read returned no post before the repo's oldest row, 2025-10-29. Her official timeline looks exhausted, and her status stays partial. Julian Goldie and Theo Browne were capped at 100 rows. Post text in `posts.jsonl` is capped at 280 characters. Dollar figures, token counts, and the 75% harness line are the authors' own. Theo's telemetry sentences that day do not agree with each other. Arnav Gupta's missing 200-post file is still missing.
 
 ## 2026-11-25 refresh
 

@@ -8,7 +8,7 @@ other_identities: [https://livingdevops.com, https://github.com/akhileshmishrabi
 website: https://livingdevops.com
 organization: Living Devops (founder, self-described)
 role: Founder/instructor, Living Devops; self-described AI Platform Engineer / DevOps lead (14+ yrs, self-reported)
-research_date: 2026-11-25
+research_date: 2026-11-26
 confidence: high
 account_type: person
 primary_domain: automation
@@ -33,6 +33,7 @@ status: verified
 - Products: Living Devops bootcamps, Discord community, GitHub learning repos (Devops-zero-to-hero ~404 stars), toffee-terraform-wrapper [S2][S3].
 
 ## C. Core philosophy
+- **2026-11-26.** He says a DevOps engineer who is only a bridge between Jira and Claude should be very scared, because AI is learning to operate tools [S17] (https://x.com/livingdevops/status/2125475523384254782). He also says to learn trade-off decisions for interviews in the AI age [S18] (https://x.com/livingdevops/status/2125433041120059653). [observed statement]
 - Software/DevOps: DevOps = designing reliable systems, not knowing tools [S5]; teach troubleshooting over tool tours [S9].
 - Automation: Most infra is already automated; the gap is orchestration (sequence, retries, approvals, audit) [S4].
 - Cost/ops trade-off: Managed services are paid convenience against 2 AM toil [S6].
@@ -70,6 +71,7 @@ status: verified
 - Success metric: enrollments per cohort, completion, referrals.
 
 ## F. Evidence summary
+- **2026-11-26 refresh.** Appended 8 posts (8 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 83 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z. Several rows are short replies.
 - **2026-11-25 refresh.** Appended 9 posts (9 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 1 collected ids were already stored. `posts.jsonl` now has 75 rows.
 - 66 X posts (25 recent Nov 2026, 25 May 2026, 16 May 2025); 2 long-form (homepage, 1 blog) + GitHub API. 13 sources.
 - Top: [S4], [S2], [S3], [S6], [S7].
@@ -91,3 +93,4 @@ status: verified
 - May 2025: DevOps career/bootcamp critique, launches Discord, EKS MCP server commentary [S9][S10].
 - 2026: rebrands as "AI Platform Engineer", adds MLOps/AIOps courses, orchestration content, higher engagement on Linux fundamentals; career break [S1][S2][S4][S12].
 - **2026-11-25.** Consistent with "DevOps is not a tool list" [S5]. snowOps is a new drill he is promoting. Bootcamp conflict of interest is unchanged.
+- **2026-11-26.** Before, DevOps was not a tool list [S5] and bootcamps taught tools rather than troubleshooting [S9]. After, the tool in the warning is the coding agent itself: do not let the job be operating Claude from a ticket [S17]. The bootcamp he sells [S2] is still a conflict.

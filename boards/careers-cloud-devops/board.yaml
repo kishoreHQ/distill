@@ -1,7 +1,7 @@
 id: careers-cloud-devops
 title: Simulated board — careers, education & cloud/DevOps
 domain: careers-cloud-devops
-as_of: "2026-11-25"
+as_of: "2026-11-26"
 disclaimer: "SIMULATED ADVISORY BOARD. The real people named here have not joined this board, have not been contacted, and have not endorsed DISTILL, Kishore, or any recommendation in this file. Positions below are paraphrases of their public posts and pages, with citations. They are not quotes of private advice."
 charter: >
   This simulated board is for the DevOps and career slice of the corpus.
@@ -16,7 +16,7 @@ members:
   - profile_id: akhilesh-mishra
     reason: DevOps instructor. The site lists bootcamp prices. His posts separate the practice from the tool list.
     position: >
-      The course page says "Learn DevOps the Way Production Engineers Build It" and the ledger lists rupee prices for the bootcamps [akhilesh-mishra S2]. He posts that DevOps is not Kubernetes, Jenkins, Terraform, Docker, or a cloud logo [akhilesh-mishra S5]. He also posts that bootcamps teach tools rather than troubleshooting [akhilesh-mishra S9]. He sells a bootcamp, so the critique and the product both need to stay visible.
+      The course page says "Learn DevOps the Way Production Engineers Build It" and the ledger lists rupee prices for the bootcamps [akhilesh-mishra S2]. He posts that DevOps is not Kubernetes, Jenkins, Terraform, Docker, or a cloud logo [akhilesh-mishra S5]. He also posts that bootcamps teach tools rather than troubleshooting [akhilesh-mishra S9]. On 2026-11-25 he says a DevOps engineer who is only a bridge between Jira and Claude should be scared, because AI is learning to operate tools [akhilesh-mishra S17]. He sells a bootcamp, so the critique and the product both need to stay visible.
     evidence:
       - source: S2
         url: https://livingdevops.com
@@ -24,10 +24,12 @@ members:
         url: https://x.com/livingdevops/status/2124453016119984359
       - source: S9
         url: https://x.com/livingdevops/status/1928882362743435540
+      - source: S17
+        url: https://x.com/livingdevops/status/2125475523384254782
   - profile_id: suman-chakraborty
     reason: Solutions architect with public Kubernetes talks. X itself is marked low-signal in the batch summary. Research status is partial.
     position: >
-      The KubeCon listing is a clinic on API-server performance past default settings for clusters the listing describes as 10k+ pods [suman-chakraborty S2]. A separate recap names a CRIU checkpointing talk [suman-chakraborty S3]. His X posts in the ledger are mostly certificates and talk announcements. On 2026-11-24 he asks who is paged if an agent can click Approve [suman-chakraborty S10]. The partial status stands.
+      The KubeCon listing is a clinic on API-server performance past default settings for clusters the listing describes as 10k+ pods [suman-chakraborty S2]. A separate recap names a CRIU checkpointing talk [suman-chakraborty S3]. His X posts in the ledger are mostly certificates and talk announcements. On 2026-11-24 he asks who is paged if an agent can click Approve [suman-chakraborty S10]. A 2026-11-26 deepen read added older link posts, including a share of ingress-nginx CVE-2025-1974 [suman-chakraborty S13]. That does not promote him. The partial status stands.
     evidence:
       - source: S2
         url: https://kccncind2026.sched.com/event/2IW4Z/kubernetes-api-server-performance-clinic-auditing-and-priority-fairness-in-production-neel-shah-middleware-suman-chakraborty-platform9-systems
@@ -35,10 +37,12 @@ members:
         url: https://cast.ai/blog/kubecon-india-2025/
       - source: S10
         url: https://x.com/itsmesumanc/status/2125179626670711003
+      - source: S13
+        url: https://x.com/itsmesumanc/status/1904738629215543774
   - profile_id: pavan-belagatti
     reason: Public "agentic DevOps" framing and an issue-to-PR write-up. He is a developer advocate at Port in the front matter.
     position: >
-      He posted that DevOps is dead and that agentic DevOps replaces it [pavan-belagatti S6]. On 2026-11-24 the first sentence is that DevOps is not dead and is evolving into agentic DevOps [pavan-belagatti S19]. The software-factory article describes issue, isolated agent, pull request, human review [pavan-belagatti S2]. The employer in the front matter is Port. Advocacy and employment point the same way.
+      He posted that DevOps is dead and that agentic DevOps replaces it [pavan-belagatti S6]. On 2026-11-24 the first sentence is that DevOps is not dead and is evolving into agentic DevOps [pavan-belagatti S19]. On 2026-11-25 he says debating models misses harness engineering [pavan-belagatti S20]. The software-factory article describes issue, isolated agent, pull request, human review [pavan-belagatti S2]. The employer in the front matter is Port. Advocacy and employment point the same way.
     evidence:
       - source: S6
         url: https://x.com/Pavan_Belagatti/status/2120558932993438019
@@ -46,6 +50,8 @@ members:
         url: https://x.com/Pavan_Belagatti/status/2113152830815297694
       - source: S19
         url: https://x.com/Pavan_Belagatti/status/2125240504648597894
+      - source: S20
+        url: https://x.com/Pavan_Belagatti/status/2125628394385850699
   - profile_id: mukul-lohar
     reason: Security engineer with a direct post on agent identity. Confidence on the profile is medium.
     position: >
@@ -73,7 +79,7 @@ disagreements:
   - "Belagatti's 'DevOps is dead' [pavan-belagatti S6] is a slogan, and his 2026-11-24 sentence says DevOps is not dead [pavan-belagatti S19]. Mishra's 'DevOps is not a tool list' [akhilesh-mishra S5] keeps the practice and drops the logo list."
   - "Suman's talk is for people who already run large clusters [suman-chakraborty S2]. It is not evidence that a first product should be a Kubernetes distribution."
 synthesis: >
-  The supported offer is operational and narrow. Take a team that already has tickets and a cluster or a bill, and sell a gated agent path plus an identity story that is not a shared API key. Do not sell a bootcamp, do not quote Mishra's rupee prices as a market rate, and do not quote placement statistics. Gupta's monolith quote is a constraint on the product's own architecture, not a heckle aimed at every client who already runs Kubernetes.
+  The supported offer is operational and narrow. Take a team that already has tickets and a cluster or a bill, and sell a gated agent path plus an identity story that is not a shared API key. Do not sell a bootcamp, do not quote Mishra's rupee prices as a market rate, and do not quote placement statistics. Gupta's monolith quote is a constraint on the product's own architecture, not a heckle aimed at every client who already runs Kubernetes. Mishra's newer line says not to let the job be a bridge from Jira to Claude [akhilesh-mishra S17]. The pilot is the trade-off and the gate, not ticket forwarding.
 recommended_next_action: >
   Draft a one-repository pilot. The written rules are an approval before merge, a credential that is not a shared bearer token, and a runbook for how the agent is turned off. Offer it as a scoped conversation to one team. Leave cohort prices and MRR figures out of the page.
 confidence: medium

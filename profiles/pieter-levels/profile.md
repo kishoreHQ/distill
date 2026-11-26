@@ -8,7 +8,7 @@ other_identities: [https://levels.io, https://github.com/levelsio, https://readm
 website: https://levels.io
 organization: Solo founder (Nomads.com, Remote OK, Photo AI, Interior AI, Hoodmaps)
 role: Solo bootstrapped founder / developer
-research_date: 2026-11-25
+research_date: 2026-11-26
 confidence: high
 account_type: person
 primary_domain: startup-building
@@ -35,6 +35,7 @@ status: verified
 - **Communities:** indie hackers / build-in-public X, digital nomads.
 
 ## C. Core philosophy
+- **2026-11-26.** The spam fight is now a honeypot plus a shared blocklist. He writes that all his tweets are AI-spammer honeypots, blocked and pushed to people using the list, and that each account is investigated by Grok 4.7 [S21] (https://x.com/levelsio/status/2125592280505704637). He says there are no false positives and a block happens only when it is conclusive [S22] (https://x.com/levelsio/status/2125606495056449835). That no-false-positive line is his claim. He also says running the check at mass scale is too expensive [S25] (https://x.com/levelsio/status/2125616550917149174). Separately he restates the labs-eat-software line as an OS takeover [S24] (https://x.com/levelsio/status/2125515439770104282), which continues [S6] rather than reversing it. A 2.74 million requests in 10 minutes figure is his DDOS post [S23] (https://x.com/levelsio/status/2125613519873995002), not the vendor-bill audit [S3]. [observed statement]
 - **2026-11-25.** The anti-AI-reply-spam line is now a spend he states, not only a block list. He writes that he is spending about $600/day to block AI spammers [S18]. That number is his, and it is not a forecast. He says he will submit a detection algorithm to X [S19], and he credits an X delay on auto-replies as a first fix [S20]. [observed statement]
 - **Entrepreneurship:** ship many small bets; most fail (~5% hit rate) so volume matters [S8]. Projects should start as play without success pressure [S7].
 - **Monetization:** charge early via simple payment links; validate before building out [S11]. Self-serve billing and refunds to avoid human support [S4].
@@ -43,6 +44,7 @@ status: verified
 - **AI and markets (2026 view):** most SaaS cannot survive general AI from big labs; "riches in the niches" no longer a moat — and he says he is unsure even of survivors [S6].
 
 ## D. Distilled knowledge
+- **Tools, 2026-11-26.** Grok 4.7, extra-high reasoning, over recent replies, as the investigator he describes for the blocklist [S21]. No detector code is in this repo. The $600/day line [S18] is still a different spend from [S3].
 - **Tools, 2026-11-25.** An AI-spam detector he says he will hand to X [S19]. No code for it is in this repo. Do not treat the $600/day line [S18] as a cost-audit result. It is a different spend from the vendor-bill post [S3].
 - **Principles**
   - Ship more; expect ~95% of projects to fail [observed statement][S8].
@@ -93,6 +95,7 @@ status: verified
 - **Success metric:** monthly spend delta.
 
 ## F. Evidence summary
+- **2026-11-26 refresh.** Appended 43 posts (43 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 265 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 106 posts (106 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 1 collected ids were already stored. `posts.jsonl` now has 222 rows.
 - Baseline sample: 17 sources (8 blog/website, 8 X posts, 1 GitHub) and 116 X posts across 2023-02 → 2026-11. S18–S20 were added 2026-11-25.
 - Top sources: [S3] cost audit, [S4] automation stack, [S5] VPS agent workflow, [S8] hit rate, [S6] SaaS-vs-AI view.
@@ -120,3 +123,4 @@ status: verified
 - 2024: formalized "0 humans, 100% automation" stack [S4].
 - 2026: moved to agent-on-VPS coding, bypass permissions [S5][S9]; agent-led cost cutting [S3]; new pessimism that most SaaS can't survive AI [S6]; anti-AI-reply-spam campaign on X [S14].
 - **2026-11-25.** Focus shift within the same anti-spam theme: from the block list [S14] to a self-reported $600/day block (https://x.com/levelsio/status/2125196511126737341) [S18] and a promised detector submission (https://x.com/levelsio/status/2125207815132434577) [S19]. The nomad-wave post in this collection was already in `posts.jsonl`, so it is not a new position.
+- **2026-11-26.** Focus stays anti-spam, and the mechanism shifts. Before: a block list [S14] and a stated $600/day [S18] plus a detector he said he would submit to X [S19]. After: honeypots, a shared blocklist, and Grok 4.7 on the account's other replies [S21], with a no-false-positives claim [S22] and a mass-scale cost objection [S25]. The OS-takeover sentence [S24] is the same direction as the checkmate essay [S6].

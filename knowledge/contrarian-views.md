@@ -42,3 +42,13 @@ Pavan's stored "DevOps is dead" line [pavan-belagatti S6] and his 2026-11-24 sen
 Theo posted that T3 Code's source would close that night [theo-browne S20] and, the same hour, that this would not actually happen [theo-browne S21]. The later post is the one he left standing, next to a telemetry removal [theo-browne S22].
 
 Levels' spam fight is now also a self-reported $600/day [pieter-levels S18]. Vatsal's "do not automate what you have not proved" line is unchanged. The two posts are about different motions.
+
+## 2026-11-26 additions
+
+Theo on 2026-11-24: invasive telemetry was removed [theo-browne S22]. Theo on 2026-11-25: they removed zero telemetry and were not exposed [theo-browne S26], a few promise lapses should be fixed [theo-browne S25], and a never-uploaded list that the file truncates [theo-browne S24]. All four sentences are his. They are not one position.
+
+Ondrej markets an agent that never says no [david-ondrej S16]. Mischa describes a rootless per-project container with its own credentials [mischa-van-den-burg S16]. The human-gate notes elsewhere in the corpus sit with Mischa, not with the ad.
+
+Levels says labs will try to take over the OS [pieter-levels S24]. Piyush the same day posts 25% off a narrow Instagram tool and no new MRR [piyush-sachdeva S21]. The niche is still being sold, and the platform-risk sentence got sharper. Neither number is a plan for Kishore.
+
+Mishra says not to be only the bridge between Jira and Claude [akhilesh-mishra S17]. Pavan the same day says review is the bottleneck and points back at a software factory. The factory post is in `posts.jsonl`. The disagreement is whether the human stays on the trade-off or only on the last approve click.

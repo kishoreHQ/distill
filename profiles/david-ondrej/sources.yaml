@@ -148,3 +148,23 @@
   excerpt: "most underrated model out right now."
   original: true
   confidence: high
+- id: S16
+  url: https://x.com/DavidOndrej1/status/2125731090719506935
+  author: David Ondrej
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He says the agent runs 24/7 on your own VPS and never says no. Marketing for a product he is showing. Not a safety control.
+  excerpt: this AI agent is 100% abliterated it runs 24/7 on your own VPS and
+  original: true
+  confidence: high
+- id: S17
+  url: https://x.com/DavidOndrej1/status/2125512871153148056
+  author: David Ondrej
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: His accusation during the T3 Code dispute. The stored text does not show who faked stars. The sentence is his, not a finding of this repo.
+  excerpt: faking github stars is the lowest of lows
+  original: true
+  confidence: high

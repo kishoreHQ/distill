@@ -218,3 +218,33 @@
   excerpt: "These random “openclaw is now x” are so tiring. Look at our git repo."
   original: true
   confidence: high
+- id: S23
+  url: https://x.com/steipete/status/2125654555262431248
+  author: Peter Steinberger
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He says Google built an MCP and is forbidding CLIs like gog unless you pay more. The linked page was not fetched. He builds gog.
+  excerpt: forbidding clis like gog unless you pay them more? classy
+  original: true
+  confidence: high
+- id: S24
+  url: https://x.com/steipete/status/2125718925325529177
+  author: Peter Steinberger
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: He says even human-only use of gog would leave him in breach, because he built it so agents call the API.
+  excerpt: I build it with agents so agents would call the API and I’d be in
+  original: true
+  confidence: high
+- id: S25
+  url: https://x.com/steipete/status/2125422797304549672
+  author: Peter Steinberger
+  published: '2026-11-25'
+  researched: '2026-11-26'
+  type: x_post
+  description: Year note. He says OC found a niche in prosumer and enterprise adoption, calls the multiplayer team feature best in class, and says shipping reliable free open source is hard. The post is truncated. OC is his abbreviation here; this profile already discusses OpenClaw, and the two letters are not expanded in the post.
+  excerpt: OC is in a great place, we found a niche in prosumer and enterprise adoption.
+  original: true
+  confidence: medium
