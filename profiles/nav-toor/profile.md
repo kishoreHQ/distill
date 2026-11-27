@@ -8,7 +8,7 @@ other_identities: [https://linktr.ee/navtoor]
 website: https://linktr.ee/navtoor
 organization:
 role: AI content creator (self-described; sponsorships)
-research_date: 2026-11-26
+research_date: 2026-11-27
 confidence: medium
 account_type: person
 primary_domain: content-creation
@@ -30,6 +30,7 @@ status: verified
 - No evidence of building products or technical systems.
 
 ## C. Core philosophy
+- **2026-11-27.** The window is historical business anecdotes. One says Elon Musk reportedly shook hands on selling Tesla to Google for about $6 billion [S11] (https://x.com/heynavtoor/status/2125949636447977659). Others retell an Airbnb seed round and an LCD price-fixing case. The articles were not fetched. The figures are his retelling, including the word reportedly. [observed statement]
 - **2026-11-26.** One technical post is his: two runs of six questions gave Ling Sante 3.1 Flash 100% and 93% [S10] (https://x.com/heynavtoor/status/2125630210058137741). He says the gap is one word and that the set checks whether confidence matches evidence. Six questions are not a public leaderboard. The other long posts are business anecdotes (Marvel, Tesla, Instagram). They are the feed's story format, not a new method. [observed statement]
 - Only content strategy can be inferred (our interpretation): storytelling + practical free tools + consistency. One early prompting opinion: don't have AI write its own prompts [S7].
 
@@ -55,6 +56,7 @@ status: verified
 - **Success metric:** median impressions/post, follower growth/week.
 
 ## F. Evidence summary
+- **2026-11-27 refresh.** Appended 9 posts (9 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 112 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
 - **2026-11-26 refresh.** Appended 12 posts (12 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 103 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 22 posts (22 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 91 rows.
 - 8 sources (6 X posts, 1 profile, 1 secondary). 69 X posts read (50 last 6 months, 19 from Apr 2025).
@@ -77,3 +79,4 @@ status: verified
 - Nov 2026: business-history acquisition-rejection series [S3].
 - **2026-11-25.** No tool or income method was added. Eleven of the twenty-two collected rows are replies.
 - **2026-11-26.** The account stays a format case, not an advisor. The new model scores [S10] stay attached to his six-question set.
+- **2026-11-27.** Format unchanged: long historical threads with approximate figures [S11]. No new product and no method that was checked against a source article.

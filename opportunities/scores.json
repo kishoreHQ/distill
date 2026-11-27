@@ -7,7 +7,7 @@
       "id": "infra-cost-audit",
       "title": "Agent-assisted infra and vendor cost audit for a small SaaS",
       "file": "opportunities/infra-cost-audit.yaml",
-      "as_of": "2026-11-24",
+      "as_of": "2026-11-27",
       "status": "hypothesis",
       "domains": [
         "careers-cloud-devops",
@@ -69,6 +69,7 @@
       ],
       "non_claims": [
         "Levels' 2026-11-24 line of about $600/day to block AI spammers is a different, self-reported spend. It is not an audit result and does not change this score.",
+        "His 2026-11-26 count of 4 false positives on about 4000 blocklist accounts is about the spam list, not about a vendor-bill audit. It does not change this score.",
         "Not a claim that Kishore can save a client $34k a month.",
         "Not a claim that Levels endorsed this offer."
       ],
@@ -78,7 +79,7 @@
       "id": "agentic-devops-pipeline",
       "title": "Issue-to-PR pipeline with a human gate and owner-attributable identity",
       "file": "opportunities/agentic-devops-pipeline.yaml",
-      "as_of": "2026-11-26",
+      "as_of": "2026-11-27",
       "status": "hypothesis",
       "domains": [
         "careers-cloud-devops",
@@ -178,6 +179,12 @@
           "source": "S23",
           "url": "https://x.com/steipete/status/2125654555262431248",
           "note": "He says Google is forbidding CLIs like gog unless you pay more. Platform risk. The terms page was not fetched."
+        },
+        {
+          "profile": "pavan-belagatti",
+          "source": "S22",
+          "url": "https://x.com/Pavan_Belagatti/status/2125992897514488079",
+          "note": "He places specifications, guardrails, and evaluations after prompts and context. A learning-curve post, not a paid pilot."
         }
       ],
       "non_claims": [
@@ -190,7 +197,7 @@
       "id": "open-core-cli",
       "title": "Free DevOps CLI with a paid desktop app, shipped slowly",
       "file": "opportunities/open-core-cli.yaml",
-      "as_of": "2026-11-26",
+      "as_of": "2026-11-27",
       "status": "hypothesis",
       "domains": [
         "developer-tools-oss",
@@ -272,6 +279,18 @@
           "source": "S18",
           "url": "https://x.com/HiTw93/status/2125450228455383474",
           "note": "Chinese post. No telemetry beyond activation binding, in his words."
+        },
+        {
+          "profile": "tw93",
+          "source": "S20",
+          "url": "https://x.com/HiTw93/status/2125916971908866280",
+          "note": "Same $15.20, now named for Mac and Windows, with a 14-day refund he states. Not a new price."
+        },
+        {
+          "profile": "tw93",
+          "source": "S23",
+          "url": "https://x.com/HiTw93/status/2125768705309331769",
+          "note": "He says the Mac open-source build stays free. The App Store price of 88 is his."
         }
       ],
       "non_claims": [
@@ -360,14 +379,14 @@
       "id": "narrow-workflow-saas",
       "title": "One narrow workflow tool, kept beside a day job",
       "file": "opportunities/narrow-workflow-saas.yaml",
-      "as_of": "2026-11-26",
+      "as_of": "2026-11-27",
       "status": "hypothesis",
       "domains": [
         "indie-hacking",
         "careers-cloud-devops"
       ],
       "disclaimer": "Opportunity scores are hypotheses with links to public evidence. They are not income projections, job offers, or proof that a business exists. Self-reported revenue in the sources belongs to those authors, not to Kishore.",
-      "total": 58.0,
+      "total": 58.5,
       "scale_max": 10,
       "breakdown": {
         "market_pull": {
@@ -401,9 +420,9 @@
           "contribution": 7.0
         },
         "risk_inverse": {
-          "score": 4,
+          "score": 5,
           "weight": 5,
-          "contribution": 2.0
+          "contribution": 2.5
         }
       },
       "evidence": [
@@ -436,11 +455,18 @@
           "source": "S24",
           "url": "https://x.com/levelsio/status/2125515439770104282",
           "note": "He says labs will try to take over the OS. Same platform-risk direction as his earlier checkmate essay. Truncated."
+        },
+        {
+          "profile": "piyush-sachdeva",
+          "source": "S22",
+          "url": "https://x.com/techie_piyush/status/2126010092134994273",
+          "note": "He says the ChatGPT plugin was approved for ReelDrop. His announcement. The listing was not fetched. No new MRR."
         }
       ],
       "non_claims": [
         "Not a recommendation to build an Instagram DM product.",
-        "Not a claim that $694 MRR is typical, transferable, or desirable as a forecast."
+        "Not a claim that $694 MRR is typical, transferable, or desirable as a forecast.",
+        "Not a claim that an approval announcement is a store listing this repo opened, or a revenue event."
       ],
       "rank": 5
     }

@@ -37,6 +37,10 @@ Course sellers, community sellers, and vendor employees are identified on their 
 
 Anything posted after the snapshot, except rows a later refresh actually appended. Private conversations. Paywalled newsletters that were not fetched. Whether a sponsorship was paid when the bundle says the field was not requested. The dashboard has no UI.
 
+## 2026-11-27 refresh
+
+Rows appended that day come from an official public X read. The window starts 2026-11-25T22:16:21Z and was collected 2026-11-27T00:19:13Z. 405 new rows, 28 profiles, no failed handles. This environment did not call the X API. Swanand and Vatsal Sanghvi also had a deepen pass that returned no older posts. Their research status stays partial. Post text in `posts.jsonl` is capped at 280 characters. Dollar figures, token counts, the 100B-token day, the $200/mo tier, the 4-in-4000 false-positive line, and the 99.9% followers line are the authors' own. Levels' no-false-positives sentence from the day before and the 4-in-4000 sentence do not say the same thing. Goldie's passive-income prompts sit next to his own no-guarantee line. Arnav Gupta's missing 200-post file is still missing. A reply that mentions a Pi community inside Meta is cut off before a job title.
+
 ## 2026-11-26 refresh
 
 Rows appended that day come from an official public X read. The window is 2026-11-24T22:19:55Z to 2026-11-26T00:20Z. Suman Chakraborty also received 25 older posts. Those are mostly tool-link and event posts, so his research status stays partial. Ojasvika's older read returned no post before the repo's oldest row, 2025-10-29. Her official timeline looks exhausted, and her status stays partial. Julian Goldie and Theo Browne were capped at 100 rows. Post text in `posts.jsonl` is capped at 280 characters. Dollar figures, token counts, and the 75% harness line are the authors' own. Theo's telemetry sentences that day do not agree with each other. Arnav Gupta's missing 200-post file is still missing.

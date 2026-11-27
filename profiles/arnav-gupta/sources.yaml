@@ -1558,3 +1558,47 @@
   excerpt: i am still on herdr (because it supports all sorts of devices i use
   original: true
   confidence: high
+- id: R-13
+  url: https://x.com/championswimmer/status/2125806856140734940
+  author: Arnav Gupta
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He says Terminal Bench 4.1 makes Claude API costs unbelievable next to Neon, and that he is starting to feel
+    bearish on Anthropic if token pricing stays. His reading. The chart was not read.
+  excerpt: Doesn't make sense at all to use Claude instead of Neon at API costs.
+  original: true
+  confidence: high
+- id: R-14
+  url: https://x.com/championswimmer/status/2126091939946660269
+  author: Arnav Gupta
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He says the three labs implement fast mode with different API configs, and he points at pi-faster as a cross-lab
+    toggle. The repo was not fetched.
+  excerpt: a quick and easy `/fast` toggle in Pi that works across all three
+  original: true
+  confidence: high
+- id: R-15
+  url: https://x.com/championswimmer/status/2126055404891185433
+  author: Arnav Gupta
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: A reply says there is a small Pi community inside Meta. The sentence ends at 'I was in' and is cut off. It
+    does not state a job title.
+  excerpt: there is small but thriving pi community inside Meta.
+  original: true
+  confidence: medium
+- id: R-16
+  url: https://x.com/championswimmer/status/2125778925347319925
+  author: Arnav Gupta
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He says a paper password diary now ranks above non-end-to-end managers such as Chrome sync. A reply, not a
+    product.
+  excerpt: writing out the passwords in a small diary
+  original: true
+  confidence: medium

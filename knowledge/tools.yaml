@@ -125,3 +125,27 @@
   evidence:
     - profile: akhilesh-mishra
       source: S15
+- name: pi-faster
+  note: >
+    Gupta points at pi-faster as a `/fast` toggle in Pi across three labs whose fast-mode
+    configs differ [arnav-gupta R-14]. The repo was not fetched. He does not publish a benchmark.
+  evidence:
+    - profile: arnav-gupta
+      source: R-14
+- name: HarnessRouter
+  note: >
+    Dörr links HarnessRouter as one API over Codex, Claude Code, Hermes, Pi, and DeepSeek
+    [tom-dorr S19]. He does not say he built it. The repo was not fetched. A mention is not a recommendation.
+  evidence:
+    - profile: tom-dorr
+      source: S19
+- name: Perplexity Teammates
+  note: >
+    Srinivas says Teammates adoption doubles every ten days among external Max users at a
+    $200/mo tier he names [aravind-srinivas S34]. The same day he says Neon did 100B+ tokens
+    in one day [aravind-srinivas S33]. Both figures are his. This is his employer's product.
+  evidence:
+    - profile: aravind-srinivas
+      source: S34
+    - profile: aravind-srinivas
+      source: S33

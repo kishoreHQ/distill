@@ -1,12 +1,12 @@
 version: 1
 source: distill-research-bundles
 snapshot_date: '2026-11-24'
-last_refresh: '2026-11-26'
+last_refresh: '2026-11-27'
 counts:
   registry: 33
   active: 32
   excluded: 1
-  posts_imported: 4072
+  posts_imported: 4477
   arnav_evidence_sources: 144
   arnav_evidence_posts: 57
 profiles:
@@ -21,7 +21,7 @@ profiles:
   research_status: verified
   registry_status: active
   primary_research_domain: automation
-  posts_imported: 83
+  posts_imported: 92
 - id: akshay-saini
   path: profiles/akshay-saini
   display_name: Akshay Saini
@@ -33,7 +33,7 @@ profiles:
   research_status: verified
   registry_status: active
   primary_research_domain: content-creation
-  posts_imported: 96
+  posts_imported: 99
 - id: alex-finn
   path: profiles/alex-finn
   display_name: Alex Finn
@@ -45,7 +45,7 @@ profiles:
   research_status: verified
   registry_status: active
   primary_research_domain: content-creation
-  posts_imported: 93
+  posts_imported: 95
 - id: aravind-srinivas
   path: profiles/aravind-srinivas
   display_name: Aravind Srinivas
@@ -57,7 +57,7 @@ profiles:
   research_status: verified
   registry_status: active
   primary_research_domain: ai-engineering
-  posts_imported: 159
+  posts_imported: 172
 - id: arnav-gupta
   path: profiles/arnav-gupta
   display_name: Arnav Gupta
@@ -69,7 +69,7 @@ profiles:
   research_status: partial
   registry_status: active
   primary_research_domain: ai-engineering
-  posts_imported: 135
+  posts_imported: 150
 - id: dan-koe
   path: profiles/dan-koe
   display_name: Dan Koe
@@ -81,7 +81,7 @@ profiles:
   research_status: verified
   registry_status: active
   primary_research_domain: content-creation
-  posts_imported: 98
+  posts_imported: 100
 - id: david-ondrej
   path: profiles/david-ondrej
   display_name: David Ondrej
@@ -93,7 +93,7 @@ profiles:
   research_status: verified
   registry_status: active
   primary_research_domain: ai-engineering
-  posts_imported: 159
+  posts_imported: 171
 - id: gittrend
   path: profiles/gittrend
   display_name: GitTrend
@@ -105,7 +105,7 @@ profiles:
   research_status: verified
   registry_status: active
   primary_research_domain: ai-engineering
-  posts_imported: 69
+  posts_imported: 71
 - id: harkirat-singh
   path: profiles/harkirat-singh
   display_name: Harkirat Singh
@@ -129,7 +129,7 @@ profiles:
   research_status: verified
   registry_status: active
   primary_research_domain: content-creation
-  posts_imported: 349
+  posts_imported: 441
 - id: jyotsna-gupta
   path: profiles/jyotsna-gupta
   display_name: Jyotsna Gupta
@@ -153,7 +153,7 @@ profiles:
   research_status: partial
   registry_status: active
   primary_research_domain: content-creation
-  posts_imported: 95
+  posts_imported: 123
 - id: lenny-rachitsky
   path: profiles/lenny-rachitsky
   display_name: Lenny Rachitsky
@@ -165,7 +165,7 @@ profiles:
   research_status: verified
   registry_status: active
   primary_research_domain: startup-building
-  posts_imported: 107
+  posts_imported: 109
 - id: mckay-wrigley
   path: profiles/mckay-wrigley
   display_name: Mckay Wrigley
@@ -189,7 +189,7 @@ profiles:
   research_status: verified
   registry_status: active
   primary_research_domain: content-creation
-  posts_imported: 97
+  posts_imported: 105
 - id: mukul-lohar
   path: profiles/mukul-lohar
   display_name: Mukul Lohar
@@ -201,7 +201,7 @@ profiles:
   research_status: verified
   registry_status: active
   primary_research_domain: ai-engineering
-  posts_imported: 68
+  posts_imported: 70
 - id: nav-toor
   path: profiles/nav-toor
   display_name: Nav Toor
@@ -213,7 +213,7 @@ profiles:
   research_status: verified
   registry_status: active
   primary_research_domain: content-creation
-  posts_imported: 103
+  posts_imported: 112
 - id: neo-kim
   path: profiles/neo-kim
   display_name: Neo Kim
@@ -225,7 +225,7 @@ profiles:
   research_status: verified
   registry_status: active
   primary_research_domain: content-creation
-  posts_imported: 146
+  posts_imported: 169
 - id: ojasvika
   path: profiles/ojasvika
   display_name: Ojasvika (Oz)
@@ -237,7 +237,7 @@ profiles:
   research_status: partial
   registry_status: active
   primary_research_domain: startup-building
-  posts_imported: 81
+  posts_imported: 85
 - id: pavan-belagatti
   path: profiles/pavan-belagatti
   display_name: Pavan Belagatti
@@ -249,7 +249,7 @@ profiles:
   research_status: verified
   registry_status: active
   primary_research_domain: ai-engineering
-  posts_imported: 100
+  posts_imported: 104
 - id: peter-steinberger
   path: profiles/peter-steinberger
   display_name: Peter Steinberger
@@ -261,7 +261,7 @@ profiles:
   research_status: verified
   registry_status: active
   primary_research_domain: ai-engineering
-  posts_imported: 110
+  posts_imported: 113
 - id: pieter-levels
   path: profiles/pieter-levels
   display_name: '@levelsio (Pieter Levels)'
@@ -273,7 +273,7 @@ profiles:
   research_status: verified
   registry_status: active
   primary_research_domain: startup-building
-  posts_imported: 265
+  posts_imported: 330
 - id: piyush-sachdeva
   path: profiles/piyush-sachdeva
   display_name: Piyush Sachdeva
@@ -285,7 +285,7 @@ profiles:
   research_status: verified
   registry_status: active
   primary_research_domain: startup-building
-  posts_imported: 103
+  posts_imported: 110
 - id: shubham-saboo
   path: profiles/shubham-saboo
   display_name: Shubham Saboo
@@ -297,7 +297,7 @@ profiles:
   research_status: verified
   registry_status: active
   primary_research_domain: ai-engineering
-  posts_imported: 105
+  posts_imported: 124
 - id: suman-chakraborty
   path: profiles/suman-chakraborty
   display_name: Suman Chakraborty
@@ -309,7 +309,7 @@ profiles:
   research_status: partial
   registry_status: active
   primary_research_domain: automation
-  posts_imported: 92
+  posts_imported: 94
 - id: swanand
   path: profiles/swanand
   display_name: Swanand
@@ -321,7 +321,7 @@ profiles:
   research_status: partial
   registry_status: active
   primary_research_domain: automation
-  posts_imported: 90
+  posts_imported: 91
 - id: theo-browne
   path: profiles/theo-browne
   display_name: Theo Browne (Theo - t3.gg)
@@ -333,7 +333,7 @@ profiles:
   research_status: verified
   registry_status: active
   primary_research_domain: ai-engineering
-  posts_imported: 383
+  posts_imported: 384
 - id: tom-dorr
   path: profiles/tom-dorr
   display_name: Tom Dörr
@@ -345,7 +345,7 @@ profiles:
   research_status: verified
   registry_status: active
   primary_research_domain: ai-engineering
-  posts_imported: 121
+  posts_imported: 124
 - id: tw93
   path: profiles/tw93
   display_name: Tw93
@@ -357,7 +357,7 @@ profiles:
   research_status: verified
   registry_status: active
   primary_research_domain: ai-engineering
-  posts_imported: 156
+  posts_imported: 214
 - id: vatsal-sanghvi
   path: profiles/vatsal-sanghvi
   display_name: Vatsal Sanghvi
@@ -369,7 +369,7 @@ profiles:
   research_status: partial
   registry_status: active
   primary_research_domain: startup-building
-  posts_imported: 88
+  posts_imported: 93
 - id: x-aravind
   path: profiles/x-aravind
   display_name: Aravind
@@ -395,7 +395,7 @@ profiles:
   research_status: verified
   registry_status: active
   primary_research_domain: ai-engineering
-  posts_imported: 92
+  posts_imported: 103
 - id: x-wojakcodes
   path: profiles/x-wojakcodes
   display_name: Wojak Codes (pseudonymous)

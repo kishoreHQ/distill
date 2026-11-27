@@ -1,6 +1,6 @@
 id: infra-cost-audit
 title: Agent-assisted infra and vendor cost audit for a small SaaS
-as_of: "2026-11-24"
+as_of: "2026-11-27"
 status: hypothesis
 disclaimer: "Opportunity scores are hypotheses with links to public evidence. They are not income projections, job offers, or proof that a business exists. Self-reported revenue in the sources belongs to those authors, not to Kishore."
 hypothesis: >
@@ -45,5 +45,6 @@ risks:
   - Reading someone else's cloud account needs explicit access and a written scope. The source does not provide a contract.
 non_claims:
   - Levels' 2026-11-24 line of about $600/day to block AI spammers is a different, self-reported spend. It is not an audit result and does not change this score.
+  - His 2026-11-26 count of 4 false positives on about 4000 blocklist accounts is about the spam list, not about a vendor-bill audit. It does not change this score.
   - Not a claim that Kishore can save a client $34k a month.
   - Not a claim that Levels endorsed this offer.

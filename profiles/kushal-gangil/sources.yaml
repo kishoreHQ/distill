@@ -98,3 +98,37 @@
   excerpt: "kubernetes won't fix your broken application architecture."
   original: true
   confidence: high
+- id: S11
+  url: https://x.com/techyoutbe/status/2125852114010423345
+  author: Kushal Gangil
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: 'He posts a weak Kubernetes interview pattern: start from objects, memorize kubectl, say increase replicas,
+    assume automatic HA. A following post starts the strong pattern at architecture, events, logs, metrics, and traces, and
+    is cut off. Teaching copy for guides he sells.'
+  excerpt: Says “increase replicas” whenever an application fails
+  original: true
+  confidence: high
+- id: S12
+  url: https://x.com/techyoutbe/status/2126065188524920981
+  author: Kushal Gangil
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He poses 95% GPU utilization, 88% GPU memory, and 12 second latency, and says an engineer answered that a nearly
+    full GPU means the system is performing well. The post is cut off before a verdict. Do not invent the punchline.
+  excerpt: 'GPU utilization: 95%'
+  original: true
+  confidence: medium
+- id: S13
+  url: https://x.com/techyoutbe/status/2126053234368508103
+  author: Kushal Gangil
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He announces a 24-hour 65% off sale of a 100+ guide bundle. A price promotion. Not an opportunity and not an
+    employer verification.
+  excerpt: 65% OFF my 100+ tech guides bundle
+  original: true
+  confidence: high

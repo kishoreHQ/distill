@@ -208,3 +208,14 @@
   excerpt: Markdown engineers now? • AGENTS.md — Tells agents how to work within a
   original: true
   confidence: high
+- id: S22
+  url: https://x.com/Pavan_Belagatti/status/2125992897514488079
+  author: Pavan Belagatti
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He describes a curve from prompts, to context engineering, to specifications, skills, tools, memory, guardrails,
+    and evaluations. A reply the same day says he focuses on the specs first.
+  excerpt: specifications, skills, tools, memory, guardrails, and evaluations.
+  original: true
+  confidence: high

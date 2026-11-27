@@ -8,7 +8,7 @@ other_identities: [https://kubecraft.dev, https://roadmap.kubecraft.dev/]
 website: https://kubecraft.dev
 organization: KubeCraft (founder)
 role: Founder, KubeCraft; DevOps/Kubernetes YouTuber (self-described 120K subs)
-research_date: 2026-11-26
+research_date: 2026-11-27
 confidence: high
 account_type: person
 primary_domain: content-creation
@@ -31,6 +31,7 @@ status: verified
 - Communities: career-switchers into DevOps, homelab community.
 
 ## C. Core philosophy
+- **2026-11-27.** He says terminal skill is rare and that people who have it file it under hobby [S17] (https://x.com/mischavdburg/status/2125983073896411286). A reply says Flux extends the Kubernetes API and that reconciliation loops are the way in (https://x.com/mischavdburg/status/2125957957552677313). That reply is cut off. Another reply says plenty of huge environments are still hands-on terminal work (https://x.com/mischavdburg/status/2126011485222519023). [observed statement]
 - **2026-11-26.** He says again that GPG plus password-store is the way [S15] (https://x.com/mischavdburg/status/2125671342305607926). On agent isolation he says each project gets its own dev container and credentials, he mounts only the directories he wants, and the container runs rootless in its own network namespace [S16] (https://x.com/mischavdburg/status/2125485325027782841). He also writes that skill and pay are separate systems. That sentence is in `posts.jsonl`. [observed statement]
 - Learning: Build (homelab, public projects) > tutorials/certs ("procrastination with documentation") [S6][S10].
 - Career/AI: DevOps is AI-resilient because infra context is large and operational [S9]; uses paid AI subscriptions heavily [S11].
@@ -65,6 +66,7 @@ status: verified
 - Risks: You own ops/on-call; backups essential. Metric: monthly infra cost, uptime.
 
 ## F. Evidence summary
+- **2026-11-27 refresh.** Appended 8 posts (8 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 105 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
 - **2026-11-26 refresh.** Appended 14 posts (14 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 97 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 8 posts (8 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 83 rows.
 - 75 X posts (25 Nov 2026, 25 Feb 2026, 25 Nov 2024); 2 long-form (kubecraft.dev, roadmap page). 12 sources. YouTube not reviewed.
@@ -85,3 +87,4 @@ status: verified
 - 2026-11-24 baseline. Nov 2024: generic cloud/DevOps motivation, homelab-on-resume [S10]. Feb 2026: career/salary/anti-tutorial messaging, AI-proof framing, Claude Code mention. Nov 2026: business infra expansion (Hetzner), Talos->Rancher, AI subscription pricing commentary, NVIDIA/Docker news takes [S8][S11][S12].
 - **2026-11-25.** The new cluster narrative is more specific than the baseline sample. It is still his telling of his own boxes.
 - **2026-11-26.** The container-scope note [S16] is the new operational line. It agrees with keeping an agent off a shared credential. It is his homelab practice, not a product.
+- **2026-11-27.** The terminal-as-rare-skill line [S17] is new wording. The Flux reply does not replace the rootless-container note [S16].

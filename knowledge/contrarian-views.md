@@ -52,3 +52,13 @@ Ondrej markets an agent that never says no [david-ondrej S16]. Mischa describes 
 Levels says labs will try to take over the OS [pieter-levels S24]. Piyush the same day posts 25% off a narrow Instagram tool and no new MRR [piyush-sachdeva S21]. The niche is still being sold, and the platform-risk sentence got sharper. Neither number is a plan for Kishore.
 
 Mishra says not to be only the bridge between Jira and Claude [akhilesh-mishra S17]. Pavan the same day says review is the bottleneck and points back at a software factory. The factory post is in `posts.jsonl`. The disagreement is whether the human stays on the trade-off or only on the last approve click.
+
+## 2026-11-27 additions
+
+Levels on 2026-11-25: no false positives [pieter-levels S22]. Levels on 2026-11-26: 4 false positives on about 4000 accounts [pieter-levels S26]. Both sentences are his. The second does not audit the detector.
+
+He calls Zapier an excellent acquisition [pieter-levels S28], then writes that the replies say any integration is easily coded by AI [pieter-levels S29]. The two posts are the same day. The second is his summary of other people, not a retraction in the first person.
+
+Pavan's curve ends at specifications, guardrails, and evaluations [pavan-belagatti S22]. Ondrej still markets an agent that never says no [david-ondrej S16] and, the next day, says one sandbox per agent is better [david-ondrej S18]. Isolation and a refusal to refuse are both in his public posts. They are not the same control.
+
+Koe says a checklist can be copied [dan-koe S3] and, on 2026-11-26, that 99.9% of a guru's followers do not make money because they expect three steps and a week [dan-koe S18]. The percent is his. Goldie's thread the same day sells the steps and prints the no-guarantee line [julian-goldie S24] [julian-goldie S25].

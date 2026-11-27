@@ -108,3 +108,14 @@
   excerpt: "Plays a sound notification whenever Claude asks for your permission to run a tool."
   original: true
   confidence: "high"
+- id: S12
+  url: https://x.com/ironfisto/status/2125931480723698037
+  author: Mukul Lohar
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He says he is playing with Google's Fuchsia OS. A reply says a Zircon deploy via WSL took huge storage and
+    2 to 4 hours. A personal experiment.
+  excerpt: playing with google's fuchsia os
+  original: true
+  confidence: medium

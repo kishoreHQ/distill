@@ -8,7 +8,7 @@ other_identities: [https://ugcpulse.app]
 website: https://ugcpulse.app
 organization:            # self-described agent-led consumer app studio; name not verified
 role:                    # self-described "chief distribution officer" (bio wording); not verified
-research_date: 2026-11-26
+research_date: 2026-11-27
 confidence: medium
 account_type: person
 primary_domain: startup-building
@@ -62,6 +62,7 @@ status: partial
 - Cost: AI video tools + small ad spend. Complexity: medium. Risks: platform policy on AI UGC; ad fatigue. Metric: CTR, install CPA.
 
 ## F. Evidence summary
+- **2026-11-27 refresh.** Appended 5 posts (5 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 93 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z. Deepen pass returned no older posts. Research status stays partial.
 - **2026-11-26 refresh.** Appended 6 posts (6 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 88 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 11 posts (11 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 2 collected ids were already stored. `posts.jsonl` now has 82 rows.
 - 71 X posts (46 Sep-Nov 2026, 25 Mar 2026); account only since Mar 2025 so no older band. 1 long-form (ugcpulse.app). 9 sources.
@@ -81,3 +82,4 @@ status: partial
 - 2026-11-24 baseline. Mar 2026: studio/holdco models, viral-app anatomy, AI UGC creative workflow, bootstrapping pain [S4][S5][S7][S8]. Sep-Nov 2026: growth-as-muscle thread, solo-with-agents bottleneck, manufacturing RL-data offer, more personal posts [S3][S6].
 - **2026-11-25.** Not promoted. The window does not add a product or a revenue line.
 - **2026-11-26.** The automation line is unchanged [S3]. The new caution is perfectionism once coding agents feel free [S11]. Research status stays partial.
+- **2026-11-27.** The rows are a shopping dispute and a note about friends. A reply says consumer-court rulings mean a brand cannot enforce an unboxing-video term (https://x.com/vatsal_sanghvi/status/2125941457815289888). That is a personal purchase, not a product framework. A deepen pass returned no older posts. Research status stays partial. No section A–H change.

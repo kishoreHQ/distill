@@ -158,3 +158,14 @@
   excerpt: own dev container with its own set of credentials. I only mount the
   original: true
   confidence: high
+- id: S17
+  url: https://x.com/mischavdburg/status/2125983073896411286
+  author: Mischa van den Burg
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He says having typed terminal commands is rare, and that practitioners file the skill under hobby. A reply
+    the same day says Flux extends the Kubernetes API if you understand reconciliation loops. That reply is cut off.
+  excerpt: That skill is rare everywhere except in your own head
+  original: true
+  confidence: high

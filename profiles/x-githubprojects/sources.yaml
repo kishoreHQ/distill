@@ -88,3 +88,14 @@
   excerpt: reads a failed CI run, traces the cause, and pushes a fix for review. Explore
   original: true
   confidence: medium
+- id: S10
+  url: https://x.com/GithubProjects/status/2125826401073045809
+  author: x-githubprojects
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: The feed describes gitai as Git hosting where many coding agents land on one branch via compare-and-swap. A
+    feed item. The repo was not fetched. Not a recommendation.
+  excerpt: many coding agents land on one branch without queue stalls, via compare-and-swap
+  original: true
+  confidence: medium

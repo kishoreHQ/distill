@@ -8,7 +8,7 @@ other_identities: ["https://juliangoldie.com", "https://www.skool.com/ai-seo-wit
 website: "https://juliangoldie.com"
 organization: "Goldie Agency Limited (self-described)"
 role: "Founder (self-described)"
-research_date: 2026-11-26
+research_date: 2026-11-27
 confidence: "medium"
 account_type: "person"
 primary_domain: "content-creation"
@@ -32,6 +32,7 @@ status: "verified"
 - **Products:** Polar Rank (AI SEO SaaS, $99/mo after trial) [S16], Backlink Gameplan service, paid communities, book "Link Building Mastery" [S17].
 
 ## C. Core philosophy (supported)
+- **2026-11-27.** Same prompt-pack funnel, new proper nouns. He says open Claude, plug in a free Polar Rank MCP, and paste a prompt [S23] (https://x.com/JulianGoldieSEO/status/2125952730015428986). He says Grok Bot prompts make passive income [S24] (https://x.com/JulianGoldieSEO/status/2125907755768942944). He says Claude prompts take a new YouTube channel to monetized in 3 months [S26] (https://x.com/JulianGoldieSEO/status/2125998016276381903). The Polar Rank thread repeats his disclaimer that no rankings or income are guaranteed and results are not typical [S25] (https://x.com/JulianGoldieSEO/status/2125952733253423493). Those prompts are not opportunities. [observed statement]
 - **2026-11-26.** The window is the same prompt-pack funnel: Grok Bot threads for a 90-day YouTube monetization plan and for side-income prompts, plus a Polar Rank scan he says checks a site before Google's December core update [S22] (https://x.com/JulianGoldieSEO/status/2125485711029948438). The disclaimer is posted again: no rankings or income are guaranteed, results are not typical [S21] (https://x.com/JulianGoldieSEO/status/2125545033034268969). Those prompts are not opportunities. [observed statement]
 - **SEO:** "SEO is not dead" — search demand keeps growing; AI answers draw on the same signals (content, backlinks, mentions) [S2][S8][S16].
 - **Distribution:** volume + repeatable hooks ("BREAKING", "100% FREE", "thank me later") [S4][S13]; comment-to-receive lead magnets [S12].
@@ -64,6 +65,7 @@ status: "verified"
 - **Risks:** thin/AI-spam content penalties; link schemes violating Google policies; unverified claims of 55x growth [S1]. **Success metric:** Search Console clicks & impressions vs a 90-day baseline.
 
 ## F. Evidence summary
+- **2026-11-27 refresh.** Appended 92 posts (92 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 441 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
 - **2026-11-26 refresh.** Appended 100 posts (100 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 349 rows. The collection was capped at 100 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 108 posts (108 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 2 collected ids were already stored. `posts.jsonl` now has 249 rows.
 18 sources; 141 X posts read (2024-05 to 2026-11 samples). Top: [S16] agency/SaaS page, [S17] self-bio, [S1] traffic claim, [S9] agent flow, [S12] lead-magnet tactic.
@@ -87,3 +89,4 @@ status: "verified"
 - **2026:** "Agent OS"/Hermes Agent and Grok Bot SEO crews, Polar Rank SaaS promotion, GEO/AEO positioning [S9][S11][S6].
 - **2026-11-25.** Volume stays high and the funnel is unchanged. The new item is his own disclaimer sitting next to the income hooks [S19][S20].
 - **2026-11-26.** No shift. Before, income hooks sat next to his own disclaimer [S19][S20]. After, the hooks name YouTube monetization, side income, and a December core-update scan [S22], and the disclaimer is repeated [S21]. The collection was capped at 100 rows.
+- **2026-11-27.** No shift. Before, income hooks sat next to his own disclaimer [S21][S22]. After, the hooks name a free Polar Rank MCP [S23], Grok Bot passive income [S24], and a 3-month YouTube claim [S26], and the disclaimer is in the same thread [S25]. Voice is the same all-caps offer plus the legal line.

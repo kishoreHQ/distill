@@ -8,7 +8,11 @@
     safe-fetch score on pages an agent reads [aravind-srinivas S16]. On 2026-11-25 he announced
     a date-locked web for post-training [aravind-srinivas S29]. Saboo credits caching and the
     harness for a usage jump he states [shubham-saboo S15]. Theo's telemetry posts that day
-    do not agree with each other [theo-browne S24] [theo-browne S26].
+    do not agree with each other [theo-browne S24] [theo-browne S26]. On 2026-11-26
+    Srinivas says Neon did 100B+ tokens in one day and that formatting fixes were merged
+    [aravind-srinivas S33]. Teammates, he says, doubles every ten days [aravind-srinivas S34].
+    Those counts are his. Saboo's new row is a quota reset [shubham-saboo S16], not a new percentage.
+    Theo's only new row is an emoji.
 - domain: developer-tools-oss
   text: >
     Tw93's launch post keeps the Pake CLI free and charges once for the native app [tw93 S7].
@@ -17,6 +21,10 @@
     repository suggestions through issues [tom-dorr S16]. On 2026-11-25 Tw93 posts a $15.20
     Mole sale and a no-telemetry rule beyond activation [tw93 S17] [tw93 S18]. Steinberger
     says a platform is forbidding CLIs like gog unless you pay more [peter-steinberger S23].
+    On 2026-11-26 Tw93 repeats Mole at $15.20 for Mac and Windows and says the Mac build stays
+    free [tw93 S20] [tw93 S23]. Steinberger says MCP access can be feature-restricted and rate
+    limited [peter-steinberger S27]. Dörr links HarnessRouter and does not say he built it
+    [tom-dorr S19].
 - domain: indie-hacking
   text: >
     Levels describes cron-scheduled LLM scripts and zero employees [pieter-levels S4], and he
@@ -25,7 +33,11 @@
     automation cannot replace figuring out what actually works [vatsal-sanghvi S3]. On
     2026-11-25 Levels describes tweet honeypots checked by Grok 4.7 [pieter-levels S21] and
     says labs will try to take over the OS [pieter-levels S24]. Piyush posts a 25% sale and
-    no new MRR [piyush-sachdeva S21].
+    no new MRR [piyush-sachdeva S21]. On 2026-11-26 Levels states 4 false positives on about
+    4000 accounts [pieter-levels S26], which revises the no-false-positives line, and he records
+    replies that say AI can code a Zapier-like integration [pieter-levels S29]. Piyush says the
+    ChatGPT plugin was approved for ReelDrop [piyush-sachdeva S22]. No new MRR. Vatsal's deepen
+    pass returned no older posts. He stays partial.
 - domain: creator-economy
   text: >
     Ondrej's transcript excerpt says at least half of the time should go to distribution
@@ -35,7 +47,11 @@
     they recommend can also be a funnel. On 2026-11-25 Ondrej markets an agent that never
     says no [david-ondrej S16]. That is an ad. Finn shows a seven-agent swarm on his own app
     [alex-finn S14]. Goldie's income prompts the same day repeat his own no-guarantee line
-    [julian-goldie S21].
+    [julian-goldie S21]. On 2026-11-26 the hooks name a free Polar Rank MCP and Grok Bot
+    passive income, next to the same no-guarantee line [julian-goldie S23] [julian-goldie S24]
+    [julian-goldie S25]. Those prompts are not opportunities. Koe says 99.9% of a guru's
+    followers do not make money [dan-koe S18]. That percent is his. Ondrej says one sandbox
+    per agent [david-ondrej S18]. The never-says-no ad is not withdrawn.
 - domain: careers-cloud-devops
   text: >
     Mishra's site sells DevOps bootcamps [akhilesh-mishra S2] and he posts that DevOps is not
@@ -44,4 +60,9 @@
     bearer token [mukul-lohar S2]. Gupta's essay says microservices make things unnecessarily
     hard [arnav-gupta O-ENG-4]. On 2026-11-25 Mishra says not to be only a bridge between
     Jira and Claude [akhilesh-mishra S17]. Suman's older posts read the same day are mostly
-    tool links, including a CVE share [suman-chakraborty S13]. He stays partial.
+    tool links, including a CVE share [suman-chakraborty S13]. He stays partial. On 2026-11-26
+    Mishra says retraining is usually the wrong answer to a knowledge cutoff
+    [akhilesh-mishra S20]. The method is truncated. He also asserts DevOps jobs exist
+    [akhilesh-mishra S19]. The link was not fetched. Pavan's curve now ends at guardrails and
+    evaluations [pavan-belagatti S22]. Gupta stays partial. A Meta sentence is cut off before
+    a title [arnav-gupta R-15]. Swanand's deepen pass returned no older posts. He stays partial.

@@ -8,7 +8,7 @@ other_identities: [https://www.alexfinn.ai, https://www.skool.com/vibe-coding-ac
 website: https://www.alexfinn.ai
 organization: Henry Intelligent Machines (HIM); Creator Buddy
 role: Founder/CEO (self-described)
-research_date: 2026-11-26
+research_date: 2026-11-27
 confidence: high
 account_type: person
 primary_domain: content-creation
@@ -64,6 +64,7 @@ status: verified
 - Problem: API spend/limits. Steps: run an open-weight coding model locally (or on a rented GPU), point agent runtime at it for bulk tasks, keep frontier models for hard steps. Cost: hardware is expensive ($ thousands) — for Kishore prefer rented GPU/cheap APIs. Risk: his quality claims are personal tests. Metric: $/task, success rate.
 
 ## F. Evidence summary
+- **2026-11-27 refresh.** Appended 2 posts (2 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 95 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
 - **2026-11-26 refresh.** Appended 5 posts (5 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 93 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 3 posts (3 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 88 rows.
 - 13 sources (10 X posts, 1 newsletter, 1 Skool page, 1 profile). 85 X posts read (50 last 6 months, 21 6–24 mo, 14 older).
@@ -88,3 +89,4 @@ status: verified
 - 2026: VC-backed HIM (Apr) [S2]; local/open-weights "sovereignty" turn (Jun) [S10]; agent tutorials (Hermes, GrokBot) [S11].
 - **2026-11-25.** Three new rows, all replies about a video game. No Creator Buddy, distribution, or model claim. No section A–H change.
 - **2026-11-26.** Reply-first growth [S6] is not restated. The new lines are a multi-agent demo [S14] and a HUD he says he open-sourced [S15]. The self-reported ARR in the bio [S1] is untouched.
+- **2026-11-27.** A thanksgiving note (https://x.com/AlexFinn/status/2125988033979924503) and encouragement to a team. No section A–H change. The seven-agent demo [S14] is unchanged.

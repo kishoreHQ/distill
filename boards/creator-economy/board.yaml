@@ -1,7 +1,7 @@
 id: creator-economy
 title: Simulated board — creator economy & audience building
 domain: creator-economy
-as_of: "2026-11-26"
+as_of: "2026-11-27"
 disclaimer: "SIMULATED ADVISORY BOARD. The real people named here have not joined this board, have not been contacted, and have not endorsed DISTILL, Kishore, or any recommendation in this file. Positions below are paraphrases of their public posts and pages, with citations. They are not quotes of private advice."
 charter: >
   This simulated board is about distribution and teaching in public. It seats
@@ -15,7 +15,7 @@ members:
   - profile_id: dan-koe
     reason: First-party argument that checklist content is copyable, and that marketing is most of the work. He sells guides.
     position: >
-      If the strategy can be written as steps, an AI avatar can copy it [dan-koe S3]. He also posts that marketing is 80% of a creative's success [dan-koe S9], and that proof of work replaces the resume [dan-koe S11]. The profile says he sells guides and promotes Eden, with ownership of Eden not verified.
+      If the strategy can be written as steps, an AI avatar can copy it [dan-koe S3]. He also posts that marketing is 80% of a creative's success [dan-koe S9], and that proof of work replaces the resume [dan-koe S11]. The profile says he sells guides and promotes Eden, with ownership of Eden not verified. On 2026-11-26 he says 99.9% of a guru's followers do not make money, and that three steps and a week is one reason [dan-koe S18]. The percent is his. The sentence is cut off.
     evidence:
       - source: S3
         url: https://thedankoe.com/letters/you-dont-need-a-niche-you-need-a-point-of-view/
@@ -23,10 +23,12 @@ members:
         url: https://x.com/thedankoe/status/2111083500430295493
       - source: S11
         url: https://x.com/thedankoe/status/2090759574370332981
+      - source: S18
+        url: https://x.com/thedankoe/status/2125815282493272118
   - profile_id: david-ondrej
     reason: A transcript line gives a numeric split, and he sells a community.
     position: >
-      "At least 50% of your time should be on distribution." [david-ondrej S6]. The same profile shows a paid Skool and a falling third-party member count [david-ondrej S5]. The distribution line can be true and still be a funnel. On 2026-11-24 he says Cloudroom is growing faster than ever and gives no number [david-ondrej S14]. On 2026-11-25 he markets an agent that never says no [david-ondrej S16]. That is an ad, not a control to copy. He also accuses someone of faking GitHub stars [david-ondrej S17]. This board does not adopt that accusation as a fact.
+      "At least 50% of your time should be on distribution." [david-ondrej S6]. The same profile shows a paid Skool and a falling third-party member count [david-ondrej S5]. The distribution line can be true and still be a funnel. On 2026-11-24 he says Cloudroom is growing faster than ever and gives no number [david-ondrej S14]. On 2026-11-25 he markets an agent that never says no [david-ondrej S16]. That is an ad, not a control to copy. He also accuses someone of faking GitHub stars [david-ondrej S17]. This board does not adopt that accusation as a fact. On 2026-11-26 he says an isolated sandbox per agent is what Cloudroom does [david-ondrej S18]. The 10x is his. The never-says-no line is not withdrawn.
     evidence:
       - source: S6
         url: https://rosetta.to/u/davidondrej/making-with-ai-saas-i-might-delete-this
@@ -38,6 +40,8 @@ members:
         url: https://x.com/DavidOndrej1/status/2125731090719506935
       - source: S17
         url: https://x.com/DavidOndrej1/status/2125512871153148056
+      - source: S18
+        url: https://x.com/DavidOndrej1/status/2126003441965080822
   - profile_id: alex-finn
     reason: A specific reply cadence, and a product that is itself an X-growth tool.
     position: >
@@ -56,7 +60,7 @@ members:
   - profile_id: akshay-saini
     reason: Large teaching audience in the ledger, and posts about how engineers should use AI. NamasteDev is his organization in the front matter.
     position: >
-      He says engineers will have to delegate earlier, including stating what "done" means [akshay-saini S2]. He says asking what percent of a project the AI wrote is a bad interview question [akshay-saini S5]. On 2026-11-25 he says not to confuse a company's growth with your career [akshay-saini S19]. He teaches. A learning path he praises can also feed the school. No course price was copied into this deliberation.
+      He says engineers will have to delegate earlier, including stating what "done" means [akshay-saini S2]. He says asking what percent of a project the AI wrote is a bad interview question [akshay-saini S5]. On 2026-11-25 he says not to confuse a company's growth with your career [akshay-saini S19]. On 2026-11-26 he says questioning whether a junior's AI-assisted work counts will not help [akshay-saini S21], and that some resistance to AI is about losing status [akshay-saini S22]. He teaches. A learning path he praises can also feed the school. No course price was copied into this deliberation.
     evidence:
       - source: S2
         url: https://x.com/akshaymarch7/status/2123384956630241384
@@ -64,6 +68,10 @@ members:
         url: https://x.com/akshaymarch7/status/2125089878954373377
       - source: S19
         url: https://x.com/akshaymarch7/status/2125431056275017888
+      - source: S21
+        url: https://x.com/akshaymarch7/status/2125847906620150238
+      - source: S22
+        url: https://x.com/akshaymarch7/status/2125985742098948359
   - profile_id: harkirat-singh
     reason: Education business with public cohort notes, and a later line that syntax matters less than specs. Placement numbers in the bundle are self-reported.
     position: >
@@ -80,7 +88,7 @@ disagreements:
   - "Harkirat's 'doubt there's a need to learn syntax' [harkirat-singh S5] sits next to Saini's insistence that interviews should probe why a system was built [akshay-saini S5]. The snapshot does not resolve whether a DevOps interview in India has dropped syntax."
   - "Koe says a written checklist is what an AI avatar copies [dan-koe S3]. Finn's published cadence is itself a checklist [alex-finn S5]. The tension is inside the board."
 synthesis: >
-  Distribution shows up as real work, not as a postscript, and several of the people saying so also sell the audience a product. The usable part for this operator is one channel, replies written by hand, and a point of view tied to work he can show. It is not a second full-time content job, and it is not a licence to repeat income claims from Julian Goldie or similar posts that the risks file already flags as marketing. Ondrej's agent that never says no [david-ondrej S16] is one of those ads. Finn's seven-agent demo [alex-finn S14] is a product demo, not a reply cadence.
+  Distribution shows up as real work, not as a postscript, and several of the people saying so also sell the audience a product. The usable part for this operator is one channel, replies written by hand, and a point of view tied to work he can show. It is not a second full-time content job, and it is not a licence to repeat income claims from Julian Goldie or similar posts that the risks file already flags as marketing. Ondrej's agent that never says no [david-ondrej S16] is one of those ads. His sandbox line [david-ondrej S18] is a product architecture claim, not a reply cadence. Koe's 99.9% line [dan-koe S18] is his warning against a one-week promise, and it is still his number. Finn's seven-agent demo [alex-finn S14] is a product demo. His 2026-11-27 rows do not change it.
 recommended_next_action: >
   For 30 days, post in one place about a real DevOps or agent task, and write replies by hand. Keep a list of repeated questions. Do not buy a community because a member of this simulated board sells one. Do not automate replies.
 confidence: medium

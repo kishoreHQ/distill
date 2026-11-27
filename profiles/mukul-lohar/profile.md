@@ -8,7 +8,7 @@ other_identities: ["https://github.com/ironfisto", "https://lohar.me", "https://
 website: "https://lohar.me"
 organization: "closed (founder); LiveShortly (building); ex-ServiceNow"
 role: "Product security engineer / indie builder"
-research_date: 2026-11-25
+research_date: 2026-11-27
 confidence: "medium"
 account_type: "person"
 primary_domain: "ai-engineering"
@@ -31,6 +31,7 @@ status: "verified"
 - **Evidence:** CVE-2025-66021 (high severity) credited to ironfisto [S8].
 
 ## C. Core philosophy (inferred from products and long post)
+- **2026-11-27.** He says he is playing with Google's Fuchsia OS [S12] (https://x.com/ironfisto/status/2125931480723698037). A reply says a Zircon deploy via WSL takes huge storage and 2 to 4 hours (https://x.com/ironfisto/status/2125952848559313305). A personal experiment. [observed statement]
 - **Agent identity:** bearer tokens are the wrong identity primitive for agents; requests should be attributable to an owner [S2]. [observed statement]
 - **Human-in-the-loop AI:** AI drafts, humans decide; numbers must have provenance; AI is never a source of truth for dimensions [S10]. [observed statement]
 - **Observability of agents:** make agent sessions watchable/replayable [S9]. [our interpretation]
@@ -55,6 +56,7 @@ status: "verified"
 - **Steps:** stream/record coding-agent sessions for team review and client demos; add notifications for permission prompts. **Cost:** free tier. **Risk:** leaking secrets in streamed terminals.
 
 ## F. Evidence summary
+- **2026-11-27 refresh.** Appended 2 posts (2 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 70 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
 - **2026-11-25 refresh.** Appended 3 posts (3 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 68 rows.
 11 sources; 65 X posts (2022 and 2026 only; no 2023-2025 sample). Strongest: [S8] advisory, [S10] closed.sh, [S2] agent-identity post, [S7] site.
 
@@ -74,3 +76,4 @@ status: "verified"
 - **2023-2025:** gap in our X sample; CVE published Nov 2025 [S8].
 - **2026:** shift to building AI-agent tooling (LiveShortly, ping) and a vertical AI product (closed) [S9][S10][S11].
 - **2026-11-25.** Three new rows: a birthday wish, a VFX line, and a bare link. The bearer-token argument [S2] is not updated. No section A–H change.
+- **2026-11-27.** The bearer-token identity line [S2] is not revisited. Fuchsia [S12] is a side experiment, not a new principle.

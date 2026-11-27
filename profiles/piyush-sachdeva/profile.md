@@ -8,7 +8,7 @@ other_identities: ["https://github.com/piyushsachdeva", "https://youtube.com/tec
 website: "https://www.reeldrop.io"
 organization: "Google (technical solutions, per X bio/GitHub); founder of ReelDrop"
 role: "Technical solutions at Google; founder ReelDrop + CannerAI (self-described)"
-research_date: 2026-11-26
+research_date: 2026-11-27
 confidence: "high"
 account_type: "person"
 primary_domain: "startup-building"
@@ -30,6 +30,7 @@ status: "verified"
 - **Products:** ReelDrop (IG scheduler, comment→DM automation, AI captions/carousels, MCP server) [S18]; CannerAI (earlier micro-SaaS, $219 MRR in May 2026) [S9]; free LinkedIn post generator (lead tool) [S10].
 
 ## C. Core philosophy
+- **2026-11-27.** He says the ChatGPT plugin has been approved for ReelDrop [S22] (https://x.com/techie_piyush/status/2126010092134994273). The store page was not fetched. The post has no new user count or MRR. Other rows in the window are travel. [observed statement]
 - **2026-11-26.** He posts a Black Friday price: 25% off all plans until 27 Nov, and he calls it the biggest discount of the year [S21] (https://x.com/techie_piyush/status/2125461374914666805). The feature list that follows is cut off at scheduling and DM automation. No new user count or MRR. The day-104 figures stay [S1]. A reply recommends the CKA exam as performance-based. That reply is advice about a cert, not a new product claim. [observed statement]
 - **Building:** start narrow (just a scheduler), let paying customers' requests drive the roadmap [S2]; "stopped doubting and started shipping" [S2].
 - **Platform reality:** compliance/approval is a moat and a bottleneck — official Meta API, tech-provider approval, rate limits [S3][S4][S6].
@@ -60,6 +61,7 @@ status: "verified"
 - **Steps:** use existing teaching audience (YouTube/GitHub repos) to seed first users; dogfood product on own content. **Metric:** % of first 50 customers from own audience.
 
 ## F. Evidence summary
+- **2026-11-27 refresh.** Appended 7 posts (7 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 110 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
 - **2026-11-26 refresh.** Appended 6 posts (6 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 103 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 3 posts (3 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 97 rows.
 19 sources; 94 X posts (2025-05 → 2026-11; no pre-2024 posts sampled). Top: [S18] ReelDrop live metrics + founder story, [S1] metrics post, [S2] roadmap story, [S4] platform approval lesson, [S19] GitHub.
@@ -82,3 +84,4 @@ status: "verified"
 - **2026-08 → 11:** ReelDrop public launch, Meta approval, ~1.4k users / ~56 paying / ~$700 MRR [S1][S3][S18]; shift of identity from DevOps creator to SaaS founder.
 - **2026-11-25.** Product positioning in a reply. The other two new rows are "all the best" and "sounds about right".
 - **2026-11-26.** No shift in the platform-risk line [S4][S8]. The new commercial fact is a 25% sale [S21], not a new traction number.
+- **2026-11-27.** Before, the platform-risk line was that a dependent tool needs approval [S4], and the 2026-11-25 post was a 25% sale with no new MRR [S21]. After, he says the ChatGPT plugin was approved [S22]. That is his announcement, not a new traction number. The sale end date he posted was 27 Nov, which is this refresh date. No new MRR is in the file.

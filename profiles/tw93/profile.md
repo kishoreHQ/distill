@@ -8,7 +8,7 @@ other_identities: [https://github.com/tw93, https://tw93.fun, https://weekly.tw9
 website: https://tw93.fun
 organization: Independent developer (Mole, Pake, Kami, MiaoYan, Waza, Kaku)
 role: Indie open-source developer / product maker (legal name not stated in sources read)
-research_date: 2026-11-26
+research_date: 2026-11-27
 confidence: high
 account_type: person
 primary_domain: ai-engineering
@@ -32,6 +32,7 @@ status: verified
 - **Communities:** Chinese dev community on X/blog; global OSS users (multi-language READMEs) [S5][S6].
 
 ## C. Core philosophy
+- **2026-11-27.** The $15.20 figure returns as a Black Friday price for Mac and Windows, one purchase, with a 14-day refund he states [S20] (https://x.com/HiTw93/status/2125916971908866280). Mole buyers get a Pake code he says stacks to 0.72 of list [S21] (https://x.com/HiTw93/status/2125940244637942085). He says Mole is not a CleanMyMac substitute [S22] (https://x.com/HiTw93/status/2125957204780224700). He says the Mac open-source build stays free, and the App Store version at 88 covers Mac, iPhone, and iPad [S23] (https://x.com/HiTw93/status/2125768705309331769). A December duo plan for any 3 devices is a plan he prices around $29 [S24] (https://x.com/HiTw93/status/2125919328403161223). Prices are his. [observed statement]
 - **2026-11-26.** Mole's paid app is on a stated sale: 20% off, $15.20 until December 1, once a year [S17] (https://x.com/HiTw93/status/2125598323327508840). That price is his. A Chinese update says installed CLIs can be uninstalled and that all his products add no telemetry and no extra interface access beyond activation binding [S18] (https://x.com/HiTw93/status/2125450228455383474). A reply says basic features ship on CLI and GUI together, and the GUI has many features the CLI does not [S19] (https://x.com/HiTw93/status/2125736229828518143). [observed statement]
 - **2026-11-25.** He says Mole's AI cleanup now removes idle AI tools, dead hooks, finished worktrees, orphan conversations, and leftovers from uninstalled tools [S15] (https://x.com/HiTw93/status/2125172384202371402). In a reply he says he wants an editor with no AI, for reading code, readmes, and diffs [S16] (https://x.com/HiTw93/status/2125150540837650573). The second line is a reading tool, not a rejection of Mole. [observed statement]
 - **Product:** "Anything added dilutes everything else" — refuse features that make software noisier [S2][S4].
@@ -41,6 +42,7 @@ status: verified
 - **Trust:** protect account reputation; avoid grey-market AI accounts [S11].
 
 ## D. Distilled knowledge
+- **Tools, 2026-11-27.** Mole on Windows as well as Mac, at the same $15.20 he already posted [S20]. Pake stays a separate early-bird purchase [S21].
 - **2026-11-26.** The no-telemetry line [S18] is a product constraint he states, next to activation binding. It does not replace the executable-check essay [S3]. A separate reply wonders whether a later period might judge by effect instead of reading code. That reply is hedged and is in `posts.jsonl`. It is not a reversal of [S3].
 - **Tools, 2026-11-25.** Mole cleanup of AI-tool residue [S15]. A non-AI editor for code, readme, and diff is a wish in a reply [S16], not a shipped name in that post.
 - **Principles**
@@ -85,6 +87,7 @@ status: verified
 - Problem: testing across OSs/devices. Steps: wipe old laptops/phones, install target OSs, connect via SSH/remote, let agents run builds/tests there. Cost: ~$0. Complexity: low–medium. Metric: platforms covered per release.
 
 ## F. Evidence summary
+- **2026-11-27 refresh.** Appended 58 posts (58 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 214 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
 - **2026-11-26 refresh.** Appended 36 posts (36 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 156 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z. Most new rows are short thank-you replies.
 - **2026-11-25 refresh.** Appended 35 posts (35 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 120 rows.
 - 14 sources (3 blog, 3 GitHub, 7 X posts, 1 profile). 85 X posts read (50 last 6 months, 20 6–24 months, 15 older).
@@ -110,3 +113,4 @@ status: verified
 - 2026: shifted to shipping paid desktop apps (Mole Mac Aug, Windows Oct; Pake desktop Nov), agent-skills (Waza, Kami), AI-coding best-practice writing [S3][S4][S7].
 - **2026-11-25.** Product focus stays Mole and small Mac/iOS apps (MiaoYan is also announced in this window as a plain-Markdown notebook; that post is in `posts.jsonl` and is not given a separate philosophy). The no-AI editor line is new relative to the baseline essay.
 - **2026-11-26.** Before, the open-core split was CLI free and native app paid [S7], and Mole cleaned AI-tool residue [S15]. After, he posts a $15.20 sale [S17], a no-telemetry rule except activation [S18], and a GUI that carries features the CLI does not [S19]. Same product shape.
+- **2026-11-27.** Before, Mole was a $15.20 sale and a no-telemetry line [S17][S18]. After, the same dollar figure is a Black Friday price that now names Windows [S20], the Mac CLI stays free [S23], and he refuses the CleanMyMac comparison [S22]. No reversal of the free-CLI / paid-app split [S7]. Voice in the replies is hands-on support: discount codes, refunds, and a promise to look at a 20 MB cleanup.

@@ -208,3 +208,14 @@
   excerpt: 25% off on all the plans till 27th Nov This is
   original: true
   confidence: high
+- id: S22
+  url: https://x.com/techie_piyush/status/2126010092134994273
+  author: Piyush Sachdeva
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He says the ChatGPT plugin has been approved for ReelDrop. The store page was not fetched. No new user or MRR
+    figure in this post.
+  excerpt: The chatgpt plugin has been approved for reeldrop
+  original: true
+  confidence: medium

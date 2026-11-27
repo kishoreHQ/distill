@@ -8,7 +8,7 @@ other_identities: [https://github.com/steipete, https://steipete.me, https://git
 website: https://steipete.me
 organization: OpenAI; OpenClaw (open-source project, moving to a foundation)
 role: Works at OpenAI on agents (per his Feb 2026 post); creator of OpenClaw; previously founder of PSPDFKit
-research_date: 2026-11-26
+research_date: 2026-11-27
 confidence: high
 account_type: person
 primary_domain: ai-engineering
@@ -36,6 +36,7 @@ status: verified
 - Communities: iOS/macOS dev community (historic), AI-coding/agent builders, OpenClaw open-source community.
 
 ## C. Core philosophy
+- **2026-11-27.** Three replies. He calls the subject a spiritual fork of OpenClaw that contains a fork of Pi. The parent was not fetched, so the subject is unnamed [S26] (https://x.com/steipete/status/2126054806276161967). He says an option is feature-restricted MCP access and rate limited [S27] (https://x.com/steipete/status/2126034492737589310). He says an agent can use peekaboo to work around alerts [S28] (https://x.com/steipete/status/2125816651639910578). No steps. [observed statement]
 - **2026-11-26.** He says Google finally built an MCP and is forbidding CLIs like gog unless you pay them more [S23] (https://x.com/steipete/status/2125654555262431248). He says he built gog so agents call the API, so a human-only reading would still leave him in breach [S24] (https://x.com/steipete/status/2125718925325529177). A year note says OC is in a great place in prosumer and enterprise, and that shipping reliable free open source is hard [S25] (https://x.com/steipete/status/2125422797304549672). OC is not spelled out in that post. [observed statement]
 - AI: Treats models as primary authors of code; he says he rarely reads most generated code, focusing on architecture, dependencies and system design [S5]. Rejects "vibe coding" label [S15].
 - Automation: Close the loop so agents can verify their own work (CLI-first, live tests); move toward agents that run loops on a codebase while humans "curate the automations" [S5][S13][S8].
@@ -45,6 +46,7 @@ status: verified
 - Monetization: No evidence of him selling courses; his public work is open source. Commercial incentive is employment at OpenAI [S4].
 
 ## D. Distilled knowledge
+- **Tools, 2026-11-27.** peekaboo, named as an alert workaround [S28]. OpenClaw and Pi, named as the contents of a fork [S26]. Restricted MCP access [S27] continues the platform-terms theme [S23].
 - **Tools, 2026-11-26.** gog, his CLI, which he says is more efficient on calls than the MCP [reply in `posts.jsonl`, not a separate source]. Google's MCP, as the thing he says is now the paid path [S23]. The linked terms page was not fetched.
 - **2026-11-25.** On OpenClaw he says random "openclaw is now x" posts are tiring and points at the git repo [S22] (https://x.com/steipete/status/2125066430857220265). On memory he describes an early spawn-and-fork in claw/node that he says is usually about 30x smaller [S21] (https://x.com/steipete/status/2125344148496769362). The 30x is his report. [observed statement]
 - Principle: "Start with the model and a CLI first" - text interfaces let agents call and verify output [observed statement] [S5].
@@ -89,6 +91,7 @@ status: verified
 - Risks: Missed regressions; complexity medium. Success metric: CI minutes and wait time down, escaped-bug count flat.
 
 ## F. Evidence summary
+- **2026-11-27 refresh.** Appended 3 posts (3 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 113 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
 - **2026-11-26 refresh.** Appended 8 posts (8 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 110 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 3 posts (3 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 102 rows.
 - 99 X posts read (49 recent 6 mo, 25 mid 2026-05, 25 from Oct-Nov 2024); 3 long-form fetched (steipete.me home, 2 posts) + GitHub API. 20 sources in sources.yaml.
@@ -117,3 +120,4 @@ status: verified
 - 2026: scale experiments (~100 cloud agents), autotriage/review automation, agent-run projects with humans curating [S7][S8][S13]; growing emphasis on owning your harness [S10].
 - **2026-11-25.** No change to the CLI-first or vibe-coding lines. The new notes are an implementation workaround and a request to trust the repo over rename rumors.
 - **2026-11-26.** Before, the CLI-first essay [S5] and the Apple-agreement stop on OSS releases [S20] were the platform risks. After, a second platform move is in his words: Google's MCP terms against CLIs like gog [S23][S24]. The CLI-first line is not withdrawn.
+- **2026-11-27.** No withdrawal of the CLI-first line [S5] or of the gog terms complaint [S23]. The new notes are a fork description whose subject is missing [S26], rate-limited MCP [S27], and peekaboo [S28].

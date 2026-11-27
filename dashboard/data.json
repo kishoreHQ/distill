@@ -6,7 +6,7 @@
     "registry": 33,
     "active": 32,
     "excluded": 1,
-    "posts_imported": 4072,
+    "posts_imported": 4477,
     "arnav_evidence_sources": 144,
     "arnav_evidence_posts": 57
   },
@@ -40,7 +40,7 @@
       "registry_status": "active",
       "research_status": "verified",
       "account_type": "person",
-      "posts_imported": 83,
+      "posts_imported": 92,
       "primary_domain": "careers-cloud-devops"
     },
     {
@@ -50,7 +50,7 @@
       "registry_status": "active",
       "research_status": "verified",
       "account_type": "person",
-      "posts_imported": 96,
+      "posts_imported": 99,
       "primary_domain": "creator-economy"
     },
     {
@@ -60,7 +60,7 @@
       "registry_status": "active",
       "research_status": "verified",
       "account_type": "person",
-      "posts_imported": 93,
+      "posts_imported": 95,
       "primary_domain": "creator-economy"
     },
     {
@@ -70,7 +70,7 @@
       "registry_status": "active",
       "research_status": "verified",
       "account_type": "person",
-      "posts_imported": 159,
+      "posts_imported": 172,
       "primary_domain": "ai-engineering-agents"
     },
     {
@@ -80,7 +80,7 @@
       "registry_status": "active",
       "research_status": "partial",
       "account_type": "person",
-      "posts_imported": 135,
+      "posts_imported": 150,
       "primary_domain": "ai-engineering-agents"
     },
     {
@@ -90,7 +90,7 @@
       "registry_status": "active",
       "research_status": "verified",
       "account_type": "person",
-      "posts_imported": 98,
+      "posts_imported": 100,
       "primary_domain": "creator-economy"
     },
     {
@@ -100,7 +100,7 @@
       "registry_status": "active",
       "research_status": "verified",
       "account_type": "person",
-      "posts_imported": 159,
+      "posts_imported": 171,
       "primary_domain": "ai-engineering-agents"
     },
     {
@@ -110,7 +110,7 @@
       "registry_status": "active",
       "research_status": "verified",
       "account_type": "aggregator",
-      "posts_imported": 69,
+      "posts_imported": 71,
       "primary_domain": "ai-engineering-agents"
     },
     {
@@ -130,7 +130,7 @@
       "registry_status": "active",
       "research_status": "verified",
       "account_type": "person",
-      "posts_imported": 349,
+      "posts_imported": 441,
       "primary_domain": "creator-economy"
     },
     {
@@ -150,7 +150,7 @@
       "registry_status": "active",
       "research_status": "partial",
       "account_type": "person",
-      "posts_imported": 95,
+      "posts_imported": 123,
       "primary_domain": "creator-economy"
     },
     {
@@ -160,7 +160,7 @@
       "registry_status": "active",
       "research_status": "verified",
       "account_type": "person",
-      "posts_imported": 107,
+      "posts_imported": 109,
       "primary_domain": "indie-hacking"
     },
     {
@@ -180,7 +180,7 @@
       "registry_status": "active",
       "research_status": "verified",
       "account_type": "person",
-      "posts_imported": 97,
+      "posts_imported": 105,
       "primary_domain": "creator-economy"
     },
     {
@@ -190,7 +190,7 @@
       "registry_status": "active",
       "research_status": "verified",
       "account_type": "person",
-      "posts_imported": 68,
+      "posts_imported": 70,
       "primary_domain": "ai-engineering-agents"
     },
     {
@@ -200,7 +200,7 @@
       "registry_status": "active",
       "research_status": "verified",
       "account_type": "person",
-      "posts_imported": 103,
+      "posts_imported": 112,
       "primary_domain": "creator-economy"
     },
     {
@@ -210,7 +210,7 @@
       "registry_status": "active",
       "research_status": "verified",
       "account_type": "person",
-      "posts_imported": 146,
+      "posts_imported": 169,
       "primary_domain": "creator-economy"
     },
     {
@@ -220,7 +220,7 @@
       "registry_status": "active",
       "research_status": "partial",
       "account_type": "person",
-      "posts_imported": 81,
+      "posts_imported": 85,
       "primary_domain": "indie-hacking"
     },
     {
@@ -230,7 +230,7 @@
       "registry_status": "active",
       "research_status": "verified",
       "account_type": "person",
-      "posts_imported": 100,
+      "posts_imported": 104,
       "primary_domain": "ai-engineering-agents"
     },
     {
@@ -240,7 +240,7 @@
       "registry_status": "active",
       "research_status": "verified",
       "account_type": "person",
-      "posts_imported": 110,
+      "posts_imported": 113,
       "primary_domain": "ai-engineering-agents"
     },
     {
@@ -250,7 +250,7 @@
       "registry_status": "active",
       "research_status": "verified",
       "account_type": "person",
-      "posts_imported": 265,
+      "posts_imported": 330,
       "primary_domain": "indie-hacking"
     },
     {
@@ -260,7 +260,7 @@
       "registry_status": "active",
       "research_status": "verified",
       "account_type": "person",
-      "posts_imported": 103,
+      "posts_imported": 110,
       "primary_domain": "indie-hacking"
     },
     {
@@ -270,7 +270,7 @@
       "registry_status": "active",
       "research_status": "verified",
       "account_type": "person",
-      "posts_imported": 105,
+      "posts_imported": 124,
       "primary_domain": "ai-engineering-agents"
     },
     {
@@ -280,7 +280,7 @@
       "registry_status": "active",
       "research_status": "partial",
       "account_type": "person",
-      "posts_imported": 92,
+      "posts_imported": 94,
       "primary_domain": "careers-cloud-devops"
     },
     {
@@ -290,7 +290,7 @@
       "registry_status": "active",
       "research_status": "partial",
       "account_type": "person",
-      "posts_imported": 90,
+      "posts_imported": 91,
       "primary_domain": "ai-engineering-agents"
     },
     {
@@ -300,7 +300,7 @@
       "registry_status": "active",
       "research_status": "verified",
       "account_type": "person",
-      "posts_imported": 383,
+      "posts_imported": 384,
       "primary_domain": "ai-engineering-agents"
     },
     {
@@ -310,7 +310,7 @@
       "registry_status": "active",
       "research_status": "verified",
       "account_type": "person",
-      "posts_imported": 121,
+      "posts_imported": 124,
       "primary_domain": "ai-engineering-agents"
     },
     {
@@ -320,7 +320,7 @@
       "registry_status": "active",
       "research_status": "verified",
       "account_type": "person",
-      "posts_imported": 156,
+      "posts_imported": 214,
       "primary_domain": "ai-engineering-agents"
     },
     {
@@ -330,7 +330,7 @@
       "registry_status": "active",
       "research_status": "partial",
       "account_type": "person",
-      "posts_imported": 88,
+      "posts_imported": 93,
       "primary_domain": "indie-hacking"
     },
     {
@@ -350,7 +350,7 @@
       "registry_status": "active",
       "research_status": "verified",
       "account_type": "aggregator",
-      "posts_imported": 92,
+      "posts_imported": 103,
       "primary_domain": "ai-engineering-agents"
     },
     {
@@ -392,7 +392,7 @@
     {
       "id": "narrow-workflow-saas",
       "title": "One narrow workflow tool, kept beside a day job",
-      "total": 58.0,
+      "total": 58.5,
       "rank": 5
     }
   ],

@@ -4,7 +4,7 @@
  "x_user_id": "25401953",
  "display_name": "Peter Steinberger",
  "research_status": "verified",
- "posts_read": 110,
+ "posts_read": 113,
  "posts_by_band": {
   "recent": 49,
   "mid": 25,
@@ -12,15 +12,17 @@
   "refresh_2026_11_25_daily": 3,
   "refresh_2026_11_25_deepen": 0,
   "refresh_2026_11_26_daily": 8,
-  "refresh_2026_11_26_deepen": 0
+  "refresh_2026_11_26_deepen": 0,
+  "refresh_2026_11_27_daily": 3,
+  "refresh_2026_11_27_deepen": 0
  },
  "posts_date_range": [
   "2024-10-25",
   "2026-11-25"
  ],
  "longform_fetched": 3,
- "sources_count": 25,
- "last_post_id": "2125720711302131779",
+ "sources_count": 28,
+ "last_post_id": "2126054806276161967",
  "researched_at": "2026-11-24T14:45:00+05:30",
  "limitations": [
   "Pinned post id returned by user lookup but not retrievable via API",
@@ -28,7 +30,8 @@
   "No podcast/YouTube transcripts fetched",
   "Search results skew to latest posts within each window",
   "2026-11-25 append is a date window, not a full timeline. Added 3; 0 collected ids were already in the file.",
-  "2026-11-26 append is a date window, not a full timeline. Added 8; 0 collected ids were already in the file."
+  "2026-11-26 append is a date window, not a full timeline. Added 8; 0 collected ids were already in the file.",
+  "2026-11-27 append is a date window, not a full timeline. Added 3; 0 collected ids were already in the file."
  ],
  "completeness": {
   "identity": {
@@ -68,6 +71,6 @@
    "reason": "monetization relevance indirect"
   }
  },
- "last_refresh": "2026-11-26T00:22:52Z",
- "last_refresh_note": "Official public X read supplied for 2026-11-26. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters. julian-goldie and theo-browne were capped at 100 rows (truncated)."
+ "last_refresh": "2026-11-27T00:19:13Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-27. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters. No handles failed. Deepen pass on swanand and vatsal-sanghvi returned no older posts; they stay partial."
 }

@@ -46,3 +46,12 @@ Aggregator posts also named Cursor rule packs, local search, and agent-skill rep
 - **Mole, again.** A $15.20 sale he posts [tw93 S17] and a no-telemetry line beyond activation binding [tw93 S18].
 
 The aggregator `x-githubprojects` described a CLI that reads a failed CI run and pushes a fix [x-githubprojects S9]. That stays a feed item. It is not a recommendation.
+
+## 2026-11-27 names
+
+- **pi-faster.** Gupta's cross-lab fast-mode toggle for Pi [arnav-gupta R-14]. The repo was not fetched.
+- **HarnessRouter.** A link in Dörr's feed, one API over several coding CLIs [tom-dorr S19]. He does not say he built it.
+- **Perplexity Teammates.** Srinivas's adoption line, doubling every ten days on a tier he prices [aravind-srinivas S34]. Employer product. The 100B-token day is the same post window [aravind-srinivas S33].
+- **Mole, price repeated.** $15.20 again, now named for Mac and Windows, and the Mac open-source build stays free [tw93 S20] [tw93 S23]. His prices.
+
+The aggregator `x-githubprojects` described gitai as Git hosting where many agents land on one branch via compare-and-swap [x-githubprojects S10]. That stays a feed item. A separate post about running unmodified game code is not a method and is not copied here. Polar Rank, in Goldie's prompt packs [julian-goldie S23], stays a funnel. It is not a tool recommendation.

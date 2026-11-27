@@ -248,3 +248,35 @@
   excerpt: OC is in a great place, we found a niche in prosumer and enterprise adoption.
   original: true
   confidence: medium
+- id: S26
+  url: https://x.com/steipete/status/2126054806276161967
+  author: Peter Steinberger
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: A reply calls the subject a spiritual fork of OpenClaw that contains a fork of Pi. The parent post was not
+    fetched, so the subject is not named here.
+  excerpt: a spiritual fork of openclaw which contains a fork of pi
+  original: true
+  confidence: medium
+- id: S27
+  url: https://x.com/steipete/status/2126034492737589310
+  author: Peter Steinberger
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He says an option does not seem available because MCP access is feature-restricted and rate-limited. The parent
+    post was not fetched.
+  excerpt: feature restricted MCP access and that's rate limited
+  original: true
+  confidence: medium
+- id: S28
+  url: https://x.com/steipete/status/2125816651639910578
+  author: Peter Steinberger
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He says an agent can use peekaboo to work around alerts. No steps are stored.
+  excerpt: use peekaboo to work around the alerts
+  original: true
+  confidence: medium

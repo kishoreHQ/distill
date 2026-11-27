@@ -8,7 +8,7 @@ other_identities: [https://superlinear.tech]
 website: https://superlinear.tech
 organization: Superlinear (enterprise AI services) — linked from X bio and site names him
 role: CTO (self-described in X bio; exact title at Superlinear not stated on site)
-research_date: 2026-11-26
+research_date: 2026-11-27
 confidence: medium
 account_type: person
 primary_domain: automation
@@ -56,6 +56,7 @@ status: partial
 - **Success metric:** cycle time before/after; pilot→production rate.
 
 ## F. Evidence summary
+- **2026-11-27 refresh.** Appended 1 post (1 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 91 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z. Deepen pass returned no older posts. Research status stays partial.
 - **2026-11-26 refresh.** Appended 1 post (1 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 90 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 3 posts (3 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 89 rows.
 - 8 sources (5 X posts, 2 website entries, 1 testimonial). 86 X posts read, but most are personal/off-topic (food, coffee, politics) — low AI signal on X.
@@ -78,3 +79,4 @@ status: partial
 - 2026: enterprise-AI positioning ("unf*ck enterprise AI"), AI-value framework [S1][S4].
 - **2026-11-25.** Not promoted. Three new rows, one of them substantive.
 - **2026-11-26.** One reply, a Rust joke (https://x.com/_swanand/status/2125650554189914135). No section A–H change. Surname and long-form gaps are unchanged. Research status stays partial.
+- **2026-11-27.** One post about evergreen fashion (https://x.com/_swanand/status/2125977000653554093). No section A–H change. A deepen pass returned no older posts. Surname and long-form gaps are unchanged. Research status stays partial.

@@ -198,3 +198,24 @@
   excerpt: You can disagree with where the industry is going. You should still
   original: true
   confidence: high
+- id: S21
+  url: https://x.com/akshaymarch7/status/2125847906620150238
+  author: Akshay Saini
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He says questioning whether a junior's AI-assisted work counts will not help, and to figure out what you are
+    missing.
+  excerpt: If a junior using AI can deliver better results than you
+  original: true
+  confidence: high
+- id: S22
+  url: https://x.com/akshaymarch7/status/2125985742098948359
+  author: Akshay Saini
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He says some resistance to AI is about losing status when a task becomes available to more people. His interpretation.
+  excerpt: some resistance to AI is about losing status.
+  original: true
+  confidence: high

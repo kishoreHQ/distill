@@ -24,6 +24,7 @@ Checked on 2026-11-24 by running the import, the generators, `scripts/validate_r
 | Pytest | `tests/test_phase1.py` |
 | 2026-11-25 post append and re-distill | `posts.jsonl` rows from the supplied official X read, profile sections where those rows support a change, `scripts/validate_repo.py`, and `pytest`. |
 | 2026-11-26 post append and re-distill | 493 new rows across 26 profiles from the supplied official X read, profile sections where those rows support a change, regenerated matrix, scores, dashboard, and `intelligence/daily/2026-11-26.md`. `scripts/validate_repo.py` and `pytest`. |
+| 2026-11-27 post append and re-distill | 405 new rows across 28 profiles from a supplied official X read since 2026-11-25T22:16:21Z. Profile sections where those rows support a change. Swanand and Vatsal Sanghvi deepen passes returned no older posts and were not promoted. Regenerated matrix, scores, dashboard, and `intelligence/daily/2026-11-27.md`. `scripts/validate_repo.py` and `pytest`. |
 
 ## Deferred
 
@@ -32,7 +33,7 @@ Checked on 2026-11-24 by running the import, the generators, `scripts/validate_r
 | Dashboard UI | Only `dashboard/data.json` is generated. There is no page. |
 | Model-written briefings | `XAI_API_KEY` is accepted and ignored. The briefing is a template over repo files. |
 | Full timeline refresh | Daily refresh, when a token exists, asks for at most 10 recent posts for 3 people. It does not re-read history or rewrite essays. |
-| Re-research of partial profiles | Swanand, Ojasvika, Suman, Vatsal, and Wojak stay partial. The 2026-11-26 official read appended posts, including 25 older posts for Suman and an empty older read for Ojasvika. No browser pass was added. They were not promoted. |
+| Re-research of partial profiles | Swanand, Ojasvika, Suman, Vatsal, and Wojak stay partial. The 2026-11-26 official read appended posts, including 25 older posts for Suman and an empty older read for Ojasvika. On 2026-11-27 a deepen pass for Swanand and Vatsal Sanghvi returned no older posts. No browser pass was added. They were not promoted. |
 | Arnav Gupta's 200 posts | The extra bundle did not include them. The 2026-11-25 refresh appended a later official-API sample. It is not that missing file. |
 | A "master" board | The research spec names master eligibility. Phase 1 has the five domain boards only. |
 | Live proof of the GitHub Actions cron | The workflow files are in the repo. They have not been observed firing on GitHub from this environment. |

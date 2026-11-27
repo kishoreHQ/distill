@@ -64,3 +64,15 @@ Telemetry promises are now a public disagreement inside one person's day. On 202
 Levels moves the spam fight from a block list to honeypots checked by Grok 4.7 [pieter-levels S21], and he restates that labs will try to take over the OS [pieter-levels S24]. Mishra says not to let a DevOps job be a bridge from Jira to Claude [akhilesh-mishra S17]. Ondrej markets an agent that never says no [david-ondrej S16]. That ad is the opposite of the human gate. It is not a practice.
 
 Suman stays partial. The 25 older posts are mostly tool links, plus a CVE share [suman-chakraborty S13]. Arnav stays partial. The Railway-versus-Meta gap is unchanged. He says he does not use xhigh or max [arnav-gupta R-9]. Goldie's window is the same income-prompt funnel next to his own disclaimer [julian-goldie S21]. Those lines are not opportunities.
+
+## 2026-11-27 refresh
+
+The window starts 2026-11-25T22:16:21Z. 405 rows across 28 profiles. No handle failed. Swanand and Vatsal Sanghvi had a deepen pass that returned no older posts. They stay partial.
+
+Levels revises the blocklist. Before, no false positives [pieter-levels S22]. After, 4 on about 4000 accounts, a 0.1% figure the post cuts off, and 500+ suspensions he states [pieter-levels S26]. The same day he guesses Zapier is a lab acquisition [pieter-levels S28] and writes that the replies say AI can code the integration [pieter-levels S29].
+
+Srinivas's volume line is now 100B+ Neon tokens in one day, with a day-over-day double he states, and harness formatting fixes he says were merged [aravind-srinivas S33]. Teammates, he says, doubles every ten days [aravind-srinivas S34]. A reply says Neon hardly hallucinates [aravind-srinivas S36]. That is his description.
+
+Piyush says the ChatGPT plugin was approved for ReelDrop [piyush-sachdeva S22]. No new MRR. Tw93 repeats $15.20 and says the Mac open-source build stays free [tw93 S20] [tw93 S23]. Goldie's hooks name Polar Rank and passive income next to his own disclaimer [julian-goldie S23] [julian-goldie S25]. Those lines are not opportunities. Koe's 99.9% line is his [dan-koe S18].
+
+Arnav stays partial. He is bearish on Claude API prices versus Neon [arnav-gupta R-13]. The Meta sentence is truncated [arnav-gupta R-15]. Suman's two rows do not add a principle. He stays partial.

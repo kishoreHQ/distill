@@ -188,3 +188,56 @@
   excerpt: the GUI version will have a lot of features that the CLI
   original: true
   confidence: high
+- id: S20
+  url: https://x.com/HiTw93/status/2125916971908866280
+  author: Tw93
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He says Black Friday is 20% off for Mac and Windows Mole, $15.20, one purchase, and a 14-day refund. The price
+    is his. Same dollar figure as the earlier sale.
+  excerpt: 仅 15.2 刀，一次购买，永久高频持续更新
+  original: true
+  confidence: high
+- id: S21
+  url: https://x.com/HiTw93/status/2125940244637942085
+  author: Tw93
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He says Mole buyers can use the code PAKELOVE on early-bird Pake, stacking to 0.72 of list. His discount.
+  excerpt: 可以用 PAKELOVE 这个折扣码，相当于 9折*8折 = 7.2 折
+  original: true
+  confidence: high
+- id: S22
+  url: https://x.com/HiTw93/status/2125957204780224700
+  author: Tw93
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He says Mole is not a CleanMyMac substitute and that he wants a better Mac cleanup tool. His comparison.
+  excerpt: 我们不做 CleanMyMac的平替，要做比它更好的mac清理维护软件
+  original: true
+  confidence: high
+- id: S23
+  url: https://x.com/HiTw93/status/2125768705309331769
+  author: Tw93
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He says the Mac build stays free and open source, and that the App Store version at 88 covers Mac, iPhone,
+    and iPad as one product. The 88 is his.
+  excerpt: mac 一直是开源给大伙免费用的，这一块开源版本不收费
+  original: true
+  confidence: high
+- id: S24
+  url: https://x.com/HiTw93/status/2125919328403161223
+  author: Tw93
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He says buying Mac then Windows with a code is about $25 now, and a December duo plan for any 3 devices is
+    planned around $29. A plan. His prices.
+  excerpt: 等 12 月中我来出一个 duo 方案，支持任意 3 台设备，预计 29 刀
+  original: true
+  confidence: medium

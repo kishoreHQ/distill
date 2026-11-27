@@ -8,7 +8,7 @@ other_identities: [https://linktr.ee/techfusionist, http://t3pacademy.gumroad.co
 website: https://linktr.ee/techfusionist
 organization:            # "Tech Fusionist" brand; no company verified
 role:                    # not verified
-research_date: 2026-11-26
+research_date: 2026-11-27
 confidence: medium
 account_type: person
 primary_domain: content-creation
@@ -30,6 +30,7 @@ status: partial
 - Technical depth: not established from evidence; content is mostly summaries/visuals. 47 of 75 sampled posts have <80 characters of text (image/link posts).
 
 ## C. Core philosophy
+- **2026-11-27.** He posts a weak Kubernetes interview pattern: objects first, kubectl from memory, "increase replicas" on failure, and an assumption that Kubernetes guarantees HA [S11] (https://x.com/techyoutbe/status/2125852114010423345). The following post starts a stronger pattern at architecture, events, logs, metrics, and traces, and is cut off (https://x.com/techyoutbe/status/2125852117474938931). He poses 95% GPU utilization, 88% GPU memory, and 12 second latency, and quotes an engineer who says a nearly full GPU means the system is fine [S12] (https://x.com/techyoutbe/status/2126065188524920981). The verdict is not in the stored text. He also posts a 24-hour 65% off sale of a guide bundle [S13] (https://x.com/techyoutbe/status/2126053234368508103). That sale is not an opportunity. [observed statement]
 - **2026-11-25.** Two short lines in the deepen sample, not in the earlier essay: "AI agents are becoming the new microservices. overused and misunderstood." [S9] (https://x.com/techyoutbe/status/2124384632506610144) and "kubernetes won't fix your broken application architecture." [S10] (https://x.com/techyoutbe/status/2124475481332633634). They are slogans. No essay under them was in the new rows. [observed statement]
 - Content: "Simplify into visuals"; high-frequency posting [S1].
 - Monetization: low-ticket bundles + sponsorships/collabs [S2][S3][S6].
@@ -57,6 +58,7 @@ status: partial
 - Steps: Bundle existing guides/cheat sheets -> Gumroad -> discount events -> pin + reply links. Cost: platform fees. Risk: low price = needs volume. Metric: sales/week.
 
 ## F. Evidence summary
+- **2026-11-27 refresh.** Appended 28 posts (28 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 123 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
 - **2026-11-26 refresh.** Appended 1 post (1 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 95 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 19 posts (0 in the daily window from 2026-11-23T22:21:18Z, 19 deepen). 6 collected ids were already stored. `posts.jsonl` now has 94 rows.
 - 75 X posts (25 Nov 2026, 25 Apr 2026, 25 Aug 2025); 2 long-form attempts (Linktree read; Gumroad page returned no content). 8 sources.
@@ -76,3 +78,4 @@ status: partial
 - 2026-11-24 baseline. Aug 2025: DevOps roadmaps, free certs, cheat sheets. Apr 2026: more AI tools, app-building experiments, guide bundle sales, sponsored AI tool promos. Nov 2026: AI engineering roadmaps, MCP, AI FDE, RAG debugging visuals - shift toward AI topics.
 - **2026-11-25.** Deepen sample (older than the daily window) adds the two slogans above. Identity is still unverified. Research status stays partial. Principles were thin; these two lines are the first explicit cautions, and they are one sentence each.
 - **2026-11-26.** One post praising a bookshelf, with a link (https://x.com/techyoutbe/status/2125606199370682525). The image was not read. No new slogan and no employer evidence. Research status stays partial.
+- **2026-11-27.** Teaching posts got more specific: a Kubernetes interview contrast [S11] and a GPU-utilization setup whose punchline is truncated [S12]. The sale [S13] does not verify an employer. Research status stays partial.

@@ -1,6 +1,6 @@
 id: agentic-devops-pipeline
 title: Issue-to-PR pipeline with a human gate and owner-attributable identity
-as_of: "2026-11-26"
+as_of: "2026-11-27"
 status: hypothesis
 disclaimer: "Opportunity scores are hypotheses with links to public evidence. They are not income projections, job offers, or proof that a business exists. Self-reported revenue in the sources belongs to those authors, not to Kishore."
 hypothesis: >
@@ -16,7 +16,7 @@ dimensions:
     note: Several builders published the pattern. The corpus does not show a queue of teams paying for it.
   evidence_strength:
     score: 8
-    note: Four baseline sources, plus Suman's pager question, Saboo's human-in-the-loop note, Mishra's 2026-11-25 warning not to be only a Jira-to-Claude bridge, and Mischa's per-project container credentials. They agree with a human gate and a scoped identity. They are still single posts, so the score stays 8. None of this is a case study of Kishore's offer.
+    note: Four baseline sources, plus Suman's pager question, Saboo's human-in-the-loop note, Mishra's 2026-11-25 warning not to be only a Jira-to-Claude bridge, Mischa's per-project container credentials, and Pavan's 2026-11-26 curve that ends at guardrails and evaluations. They agree with a human gate. They are still single posts, so the score stays 8. None of this is a case study of Kishore's offer.
   fit_with_kishore_skills:
     score: 9
     note: CI, pull requests, credentials, and approval gates sit on the spec's DevOps skills.
@@ -69,6 +69,10 @@ evidence:
     source: S23
     url: https://x.com/steipete/status/2125654555262431248
     note: He says Google is forbidding CLIs like gog unless you pay more. Platform risk. The terms page was not fetched.
+  - profile: pavan-belagatti
+    source: S22
+    url: https://x.com/Pavan_Belagatti/status/2125992897514488079
+    note: He places specifications, guardrails, and evaluations after prompts and context. A learning-curve post, not a paid pilot.
 risks:
   - Pavan's article is also his public advocacy. Treat it as a design note, not as demand.
   - Steinberger is an OpenAI employee in this snapshot. His model comparisons carry that conflict of interest, as his own profile records.

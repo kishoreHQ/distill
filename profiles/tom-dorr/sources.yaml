@@ -178,3 +178,25 @@
   excerpt: "A curated list of awesome examples and resources for DSPy."
   original: true
   confidence: "high"
+- id: S19
+  url: https://x.com/tom_doerr/status/2125906942434365702
+  author: Tom Dörr
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He links HarnessRouter as one API over Codex, Claude Code, Hermes, Pi, and DeepSeek. The repo was not fetched.
+    He does not say he built it.
+  excerpt: HarnessRouter provides a unified interface for agent harnesses
+  original: true
+  confidence: medium
+- id: S20
+  url: https://x.com/tom_doerr/status/2126081495148187855
+  author: Tom Dörr
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He links Homelable for diagrams and generated docs of detected self-hosted devices. The repo was not fetched.
+    He does not say he built it.
+  excerpt: Homelable maps your self-hosted infrastructure
+  original: true
+  confidence: medium

@@ -8,7 +8,7 @@ other_identities: [https://github.com/davidondrej, https://www.youtube.com/@Davi
 website: https://www.cloudroom.dev
 organization: Cloudroom
 role: Founder (self-described "founder of Cloudroom" on GitHub)
-research_date: 2026-11-26
+research_date: 2026-11-27
 confidence: high
 account_type: person
 primary_domain: ai-engineering
@@ -31,6 +31,7 @@ status: verified
 - **Projects:** Cloudroom (~1.8K★), skills (~4.4K★), superbot (self-hosted assistant), autogit [S2][S3].
 
 ## C. Core philosophy
+- **2026-11-27.** He says worktrees beat a shared checkout, and that an isolated sandbox per agent is what Cloudroom does, which he calls 10x better [S18] (https://x.com/DavidOndrej1/status/2126003441965080822). A nearby reply says Cloudroom is open source (https://x.com/DavidOndrej1/status/2126003270179246097). The 10x is his. Much of the window is reactions to images that were not read. Those reactions do not name a new product. [observed statement]
 - **2026-11-26.** He markets an agent that is "100% abliterated", runs 24/7 on your own VPS, and never says no [S16] (https://x.com/DavidOndrej1/status/2125731090719506935). That is a product claim, and it cuts against a human gate. He also posts that faking GitHub stars is the lowest of lows [S17] (https://x.com/DavidOndrej1/status/2125512871153148056). That is his accusation in the T3 Code dispute. This repo does not adopt it as a fact about anyone else. Much of the window is short reactions and Cloudroom links. [observed statement]
 - **2026-11-25.** He says Cloudroom is growing faster than ever and gives no number [S14] (https://x.com/DavidOndrej1/status/2125338006047654149). He calls something the most underrated model and does not name it in the text [S15] (https://x.com/DavidOndrej1/status/2125186109407724018). The highest-impression new post is a delivery anecdote, not a method, and is not distilled into a principle. [observed statement]
 - **AI:** use multiple labs' models for diversity [S8]; don't be locked to one vendor — switch harness at limits [S10].
@@ -38,6 +39,7 @@ status: verified
 - **Entrepreneurship/monetization:** distribution ≥50% of time; master one channel where your customer lives [S6].
 
 ## D. Distilled knowledge
+- **Tools, 2026-11-27.** Cloudroom as an isolated sandbox per agent, which he also calls open source [S18]. The never-says-no claim [S16] is not repeated in this window.
 - **2026-11-26.** Cloudroom remains the product he points at. A reply says he uses Antigravity every day inside Cloudroom. That reply is in `posts.jsonl` and is not a new architecture.
 - **Principles**
   - "At least 50% of your time should be on distribution" [observed statement][S6].
@@ -68,6 +70,7 @@ status: verified
 - **Cost:** time. **Complexity:** low. **Risks:** slow feedback if channel is wrong; switch only after a set period. **Metric:** qualified conversations/week, paying users.
 
 ## F. Evidence summary
+- **2026-11-27 refresh.** Appended 12 posts (12 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 171 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
 - **2026-11-26 refresh.** Appended 32 posts (32 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 159 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 41 posts (41 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 7 collected ids were already stored. `posts.jsonl` now has 127 rows.
 - 13 sources (7 X posts, 2 GitHub, 2 website, 1 YouTube transcript, 1 secondary tracker). 86 X posts read (51 last 6 months, 20 6–24 mo, 15 older).
@@ -92,3 +95,4 @@ status: verified
 - 2026: founder of Cloudroom (Oct launch); multi-harness, multi-model stance; sharp criticism of Anthropic pricing/speed in mid-2026 [S7][S10].
 - **2026-11-25.** No new distribution rule. One self-reported growth line without a figure [S14]. Many of the 48 collected rows were replies or were already stored.
 - **2026-11-26.** Distribution and the paid community were already the focus [S6][S5]. The new product sentence is an agent that never refuses [S16]. No shift away from selling the audience a tool. The star-faking line [S17] is recorded as his words only.
+- **2026-11-27.** Before, the product sentence was an agent that never refuses [S16]. After, the architecture sentence is one sandbox per agent [S18]. The never-says-no line is not withdrawn. Image reactions in this window are not evidence about a named person.

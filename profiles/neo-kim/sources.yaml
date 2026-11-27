@@ -208,3 +208,15 @@
   excerpt: explain the whole thing again to an AI coding agent.
   original: true
   confidence: high
+- id: S22
+  url: https://x.com/systemdesignone/status/2125955223956906068
+  author: Neo Kim
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: A thread lists separation of concerns, documentation, DRY, KISS, TDD, and YAGNI, and says to leave the codebase
+    cleaner. Textbook names in his checklist format. A separate post the same hour shouts out people designing systems with
+    zero users.
+  excerpt: learn these 6 golden rules
+  original: true
+  confidence: high

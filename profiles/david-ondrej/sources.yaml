@@ -168,3 +168,14 @@
   excerpt: faking github stars is the lowest of lows
   original: true
   confidence: high
+- id: S18
+  url: https://x.com/DavidOndrej1/status/2126003441965080822
+  author: David Ondrej
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He says worktrees beat a shared checkout, and that an isolated sandbox per agent is better, which is what Cloudroom
+    does. The 10x is his. A nearby reply says Cloudroom is open source.
+  excerpt: what's 10x better is running each agent in his own isolated sandbox
+  original: true
+  confidence: high

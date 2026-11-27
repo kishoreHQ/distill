@@ -318,3 +318,45 @@
   excerpt: Fable orchestrates Neon, Opus and Sol
   original: true
   confidence: high
+- id: S33
+  url: https://x.com/AravSrinivas/status/2125816545897312752
+  author: Aravind Srinivas
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He says Neon doubled day over day on Perplexity with no default routing, above 100B tokens in one day, and
+    that formatting harness fixes were merged. The personal sentence is cut off. The count is his.
+  excerpt: doing 100B+ tokens in a single day
+  original: true
+  confidence: high
+- id: S34
+  url: https://x.com/AravSrinivas/status/2126038741622104256
+  author: Aravind Srinivas
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He says Teammates adoption doubles every ten days, and that this is external Max users at a $200/mo tier he
+    names. His figure. The chart was not read.
+  excerpt: Doubling every ten days. This is just external Max users ($200/mo tier).
+  original: true
+  confidence: high
+- id: S35
+  url: https://x.com/AravSrinivas/status/2126022323069419777
+  author: Aravind Srinivas
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He says the Orchestrator API can use all leading models. No model list is in the text.
+  excerpt: You can use all leading AI models on Perplexity Orchestrator API
+  original: true
+  confidence: high
+- id: S36
+  url: https://x.com/AravSrinivas/status/2125822730566267135
+  author: Aravind Srinivas
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: A reply says Neon is opinionated, fast and smart, and hardly hallucinates. His description, not a benchmark.
+  excerpt: hardly hallucinates
+  original: true
+  confidence: medium

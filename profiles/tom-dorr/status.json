@@ -4,21 +4,24 @@
  "x_user_id": "1326180756310331399",
  "display_name": "Tom Dörr",
  "research_status": "verified",
- "posts_read": 121,
+ "posts_read": 124,
  "posts_by_band": {
   "last_6mo": 70,
   "6_24mo": 25,
   "older": 25,
   "refresh_2026_11_25_daily": 1,
-  "refresh_2026_11_25_deepen": 0
+  "refresh_2026_11_25_deepen": 0,
+  "refresh_2026_11_27_daily": 3,
+  "refresh_2026_11_27_deepen": 0
  },
  "longform_fetched": 4,
- "last_post_id": "2125369404791627968",
+ "last_post_id": "2126081495148187855",
  "limitations": [
   "Timeline is mostly automated repo summaries; very few first-party opinions",
   "No verified employer/role",
   "Older bands are narrow date samples (min_likes filter unreliable)",
-  "2026-11-25 append is a date window, not a full timeline. Added 1; 0 collected ids were already in the file."
+  "2026-11-25 append is a date window, not a full timeline. Added 1; 0 collected ids were already in the file.",
+  "2026-11-27 append is a date window, not a full timeline. Added 3; 0 collected ids were already in the file."
  ],
  "completeness": {
   "identity": {
@@ -58,8 +61,8 @@
    "reason": "specific"
   }
  },
- "sources_count": 18,
+ "sources_count": 20,
  "researched_at": "2026-11-24T15:30:00+05:30",
- "last_refresh": "2026-11-25T00:25:39Z",
- "last_refresh_note": "Official public X read supplied for 2026-11-25. Window start 2026-11-23T22:21:18Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters."
+ "last_refresh": "2026-11-27T00:19:13Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-27. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters. No handles failed. Deepen pass on swanand and vatsal-sanghvi returned no older posts; they stay partial."
 }

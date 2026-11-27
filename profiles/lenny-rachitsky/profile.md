@@ -8,7 +8,7 @@ other_identities: [https://www.lennysnewsletter.com, https://linktr.ee/lennyspod
 website: https://www.lennysnewsletter.com
 organization: Lenny's Newsletter / Lenny's Podcast
 role: Author and podcast host (newsletter + podcast)
-research_date: 2026-11-26
+research_date: 2026-11-27
 confidence: high
 account_type: person
 primary_domain: startup-building
@@ -66,6 +66,7 @@ status: verified
 - Steps: Vibe-code alpha alone -> test with 5-10 users -> only add effort/engineers when pull is measurable.
 
 ## F. Evidence summary
+- **2026-11-27 refresh.** Appended 2 posts (2 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 109 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
 - **2026-11-26 refresh.** Appended 3 posts (3 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 107 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 4 posts (4 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 1 collected ids were already stored. `posts.jsonl` now has 104 rows.
 - 100 X posts (50 recent Jun-Nov 2026, 25 Feb 2026, 25 May 2024); 1 long-form page fetched + several long X notes; podcast transcripts not fetched. 12 sources.
@@ -85,3 +86,4 @@ status: verified
 - 2026-11-24 baseline. May 2024: classic PM/growth content, podcast logistics, saying no [S10]. Feb 2026: heavy AI-PM focus (Claude Code team, AI-Native PM workshops) [S9]. Oct-Nov 2026: AI-era moats, hype skepticism, AI simulations, packaging content as skills, role-convergence debate [S3][S5][S6][S7][S8].
 - **2026-11-25.** No reversal. The new post is his wording of the experiment already cited from a clip [S5][S13]. Other new rows are "watch the full conversation" links.
 - **2026-11-26.** No reversal of the Atlassian all-builder note [S13]. The archetype card [S14] is a new posted framework with an uncertain speaker.
+- **2026-11-27.** A congratulations (https://x.com/lennysan/status/2125854951213818075) and a one-word reply. No section A–H change. The archetype card [S14] is unchanged.

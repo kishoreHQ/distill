@@ -178,3 +178,47 @@
   excerpt: decisions using trade-offs if you want
   original: true
   confidence: high
+- id: S19
+  url: https://x.com/livingdevops/status/2125955940793135450
+  author: Akhilesh Mishra
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He says people claim there are no DevOps jobs and that evidence suggests otherwise. The linked page was not
+    fetched.
+  excerpt: They say there are no jobs in DevOps
+  original: true
+  confidence: medium
+- id: S20
+  url: https://x.com/livingdevops/status/2125817710928097683
+  author: Akhilesh Mishra
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He says retraining is usually the wrong way to make a 2025 model aware of 2026, because of the knowledge cutoff.
+    The stored text stops before the method he prefers.
+  excerpt: That's usually the wrong answer.
+  original: true
+  confidence: medium
+- id: S21
+  url: https://x.com/livingdevops/status/2125916727062225144
+  author: Akhilesh Mishra
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: He asks interviewers in India to turn cameras on and join on time, and to run the interview as a discussion.
+    The discussion bullet is cut off.
+  excerpt: Turn on your camera. No one likes talking to a black screen.
+  original: true
+  confidence: high
+- id: S22
+  url: https://x.com/livingdevops/status/2125873763292156063
+  author: Akhilesh Mishra
+  published: '2026-11-26'
+  researched: '2026-11-27'
+  type: x_post
+  description: An interview answer starts with a Transit Gateway in a central network account for shared egress. The rest
+    of the design is cut off. Not a complete runbook.
+  excerpt: I create a Transit Gateway in a central network account
+  original: true
+  confidence: medium

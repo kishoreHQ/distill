@@ -8,7 +8,7 @@ other_identities: [https://thedankoe.com, https://thedankoe.eden.so]
 website: https://thedankoe.com
 organization:            # not verified (promotes Eden; ownership not verified)
 role: Writer/creator; publisher of The Koe Letters newsletter (self-described)
-research_date: 2026-11-26
+research_date: 2026-11-27
 confidence: high
 account_type: person
 primary_domain: content-creation
@@ -33,6 +33,7 @@ status: verified
 - Communities: creator economy, "one-person business" audience.
 
 ## C. Core philosophy
+- **2026-11-27.** He says 99.9% of a guru's followers do not make money, and that expecting three steps and a week is one reason. He says it took him a year. The sentence is cut off [S18] (https://x.com/thedankoe/status/2125815282493272118). A second reply says he did not frame the work as easy and that it takes years (https://x.com/thedankoe/status/2126043330710852013). The percent is his. [observed statement]
 - **2026-11-25.** One post: modern food is engineered to be overeaten, and "the next big trend will be diets for the mind" [S17] (https://x.com/thedankoe/status/2125216627029373342). The post is cut off. It extends the attention/meaning theme. It is not a product metric. [observed statement]
 - AI: AI commoditizes average output; value moves to taste, point of view, story and quality [S3][S4][S10]. Writes without AI to keep thinking ability [S12].
 - Entrepreneurship: Sell your mind (ideas) via social leverage rather than time or inventory [S6]; individuals now rival small companies [S16].
@@ -73,8 +74,9 @@ status: verified
 - Success metric: email->paid conversion rate.
 
 ## F. Evidence summary
+- **2026-11-27 refresh.** Appended 2 posts (2 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 100 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
 - **2026-11-26 refresh.** Appended 1 post (1 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 98 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z. Link only. No essay change.
-- **2026-11-25 refresh.** Appended 1 posts (1 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 97 rows.
+- **2026-11-25 refresh.** Appended 1 post (1 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 97 rows.
 - 96 X posts (46 last 6 months, 25 Mar-May 2026, 25 May 2024); 3 long-form (homepage + 2 letters). 16 sources.
 - Top: [S3], [S4], [S2], [S6], [S5].
 
@@ -98,3 +100,4 @@ status: verified
 - 2026: stronger AI framing (individual = 20-person company; "AI makes average worthless"; Purists/Automatons/Renaissance) and "artisan" positioning; bio shifts to promoting Eden [S1][S5][S10][S16].
 - **2026-11-25.** Single post. No shift in the niche-versus-point-of-view letter [S3].
 - **2026-11-26.** One post. The stored text is only a link, 309632 impressions in the API field. The page was not fetched. No section A–H change. The point-of-view letter [S3] is unchanged.
+- **2026-11-27.** Before, a checklist strategy can be copied by an AI avatar [S3]. After, he argues with the easy-money reading of his own article: years, not a week, and a 99.9% line that is his [S18]. No new offer in the stored text.
