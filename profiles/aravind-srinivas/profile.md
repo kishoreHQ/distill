@@ -8,7 +8,7 @@ other_identities: [https://www.perplexity.ai, https://x.com/perplexity_ai, https
 website: https://www.perplexity.ai
 organization: Perplexity AI, Inc.
 role: Co-founder and CEO, Perplexity; ex-OpenAI research scientist; UC Berkeley CS PhD (2021)
-research_date: 2026-11-27
+research_date: 2026-11-28
 confidence: high
 account_type: person
 primary_domain: ai-engineering
@@ -34,6 +34,7 @@ status: verified
 - **Not a fit for:** solo or bootstrapped income tactics. His playbook depends on VC money and frontier-lab access.
 
 ## C. Core philosophy
+- **2026-11-28.** The volume line is not repeated. He says to onboard Teammates for bottleneck roles and to let a chief-of-staff teammate orchestrate the others [S37] (https://x.com/AravSrinivas/status/2126176806885884184). He says simulations close the loop without waiting for real-world feedback, and that Perplexity Computer is getting good at practical simulations for business owners [S38] (https://x.com/AravSrinivas/status/2126379252665004391). He says Perplexity is becoming the workspace those owners use for brand and marketing [S39] (https://x.com/AravSrinivas/status/2126412288320213496). He says a future where people build whatever they want is worth creating, and that Perplexity will do that [S40] (https://x.com/AravSrinivas/status/2126439722746785869). These are his product claims. They do not mention the grounding rule. [observed statement]
 - **2026-11-27.** The volume line moves again. Before, Tuesday was 44.52B tokens [S31] and three days were 120B [S26]. After, he says Neon doubled day over day with no default routing, did 100B+ tokens in a single day, and that formatting harness fixes were merged [S33] (https://x.com/AravSrinivas/status/2125816545897312752). The personal sentence is cut off. He says Teammates adoption doubles every ten days among external Max users at a $200/mo tier he names [S34] (https://x.com/AravSrinivas/status/2126038741622104256). He says the Orchestrator API can use all leading models [S35] (https://x.com/AravSrinivas/status/2126022323069419777). A reply says Neon hardly hallucinates [S36] (https://x.com/AravSrinivas/status/2125822730566267135). That is his description, not a measurement. [observed statement]
 - **2026-11-26.** New product focus: a date-locked web. He says Perplexity Time Machine shows a model the web as it was on a chosen date, so post-training can score predictions without the live web leaking the answer [S29] (https://x.com/AravSrinivas/status/2125707364053680383). He states Search API at $5 per 1,000 requests and Context API at $1 per 1,000 URLs, back 365 days [S30] (https://x.com/AravSrinivas/status/2125707379488735451). Those prices are his. Neon volume is restated as 44.52 billion tokens on Tuesday, 23.5% above a Monday figure of 36.06B that is in the same post [S31] (https://x.com/AravSrinivas/status/2125458638823379123), which is a later figure than the 120B-in-three-days line [S26], not a retraction of it. He says Fable orchestrates Neon, Opus, and Sol for financial research on Perplexity Computer [S32] (https://x.com/AravSrinivas/status/2125640216530882666). [observed statement]
 - **2026-11-25.** Current product focus, in his posts: Gemini 4 Neon inside Perplexity, and Perplexity as a work surface. He says Neon usage passed 120B tokens and doubled in three days, and that they will tune the harness for formatting and task duration [S26]. He says that usage is paid by users, not grown with free subsidies [S27]. He says Perplexity is turning into a work operating system, with in-place slide editing [S28]. Token and pricing lines are his statements. [observed statement]
@@ -46,6 +47,7 @@ status: verified
 - **Model-neutral product:** picks default models by retention stats and swaps orchestrators freely [S21][S17].
 
 ## D. Distilled knowledge
+- **Tools, 2026-11-28.** Perplexity Computer, named for simulations [S38], and Teammates with a chief-of-staff role [S37]. Employer products. No new token count.
 - **Tools, 2026-11-27.** Perplexity Teammates and the Orchestrator API, in his posts [S34][S35]. Employer products. The 100B figure [S33] is another self-reported Neon volume, not a runbook.
 - **2026-11-26.** Time Machine is a dated crawl copy plus a `snapshot_as_of` cutoff, in the thread under [S29]. A later post the same hour says time-snapshotted sandboxes for rollouts and evals are coming. That sandbox sentence is in `posts.jsonl` and is a plan, not a doc. [observed statement]
 - **2026-11-25.** Harness work he names is concrete and narrow: smooth Neon's formatting and task duration [S26]. That is an observed plan, not a published design doc. [observed statement]
@@ -89,6 +91,7 @@ status: verified
 
 ## F. Evidence summary
 - **2026-11-27 refresh.** Appended 13 posts (13 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 172 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
+- **2026-11-28 refresh.** Appended 9 posts (9 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 181 rows. Window 2026-11-26T22:17:25Z to 2026-11-28T00:17:25.371Z, collected 2026-11-28T00:17:25.371Z.
 - **2026-11-26 refresh.** Appended 19 posts (19 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 159 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 10 posts (10 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 1 collected ids were already stored. `posts.jsonl` now has 140 rows.
 - 25 sources: 12 X posts, 7 excerpts from the Lex Fridman #434 transcript (one URL), 1 X profile, 2 institutional or press profiles (Berkeley, IIT Madras), 2 Wikipedia excerpts (one URL) and 1 pinned post.
@@ -116,3 +119,4 @@ status: verified
 - **2026-11-25.** The baseline harness notes were the chair model [S17] and safe-fetch [S16]. This window adds a live model-specific harness pass on Gemini 4 Neon (https://x.com/AravSrinivas/status/2125328996221231313) [S26] and a product claim that Perplexity is becoming a work OS (https://x.com/AravSrinivas/status/2125364190802227680) [S28]. No contradiction with the grounding rule is stated in these posts.
 - **2026-11-26.** Before, the live harness note was tuning Gemini 4 Neon for formatting and duration [S26]. After, the new surface is a frozen web for post-training prediction [S29], with stated API prices [S30]. The grounding rule [S7] is not contradicted in these posts. The token post [S31] is another self-reported volume, not a replacement for [S26].
 - **2026-11-27.** Before, the new surface was Time Machine [S29] and the volume line was 44.52B [S31]. After, the volume line is 100B+ tokens in one day with a day-over-day double [S33], and the product sentence beside it is Teammates [S34]. These posts do not mention the grounding rule [S7]. The token counts remain his.
+- **2026-11-28.** Before, the public number was 100B+ tokens in a day and Teammates doubling every ten days [S33][S34]. After, this window has no new token count. The product sentences are orchestration [S37], simulations that close the loop [S38], and a workspace for brand and marketing [S39]. The grounding rule [S7] is not in these posts.

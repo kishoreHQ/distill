@@ -1602,3 +1602,23 @@
   excerpt: writing out the passwords in a small diary
   original: true
   confidence: medium
+- id: R-17
+  url: https://x.com/championswimmer/status/2126113484220084305
+  author: Arnav Gupta
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He points at a goal config and says it is mostly simple and not overengineered. The linked config was not fetched.
+  excerpt: the config is mostly simple and not overengineered.
+  original: true
+  confidence: medium
+- id: R-18
+  url: https://x.com/championswimmer/status/2126424970599276601
+  author: Arnav Gupta
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He asks whether Ant is raiding the entire CF platform team. A question. The parent post was not fetched. Not proof of a hire.
+  excerpt: omg is Ant raiding the entire CF platform team!
+  original: true
+  confidence: low

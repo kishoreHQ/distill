@@ -148,3 +148,23 @@
   excerpt: Herdr HUD I've been using it the last month while I play WoW and
   original: true
   confidence: high
+- id: S16
+  url: https://x.com/AlexFinn/status/2126158673659470254
+  author: Alex Finn
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He posts a reverse prompt that asks a model for the most ambitious project from facts it already has. The prompt sentence is cut off.
+  excerpt: The AI takes ALL the facts it knows about you, and finds the most ambitious project
+  original: true
+  confidence: high
+- id: S17
+  url: https://x.com/AlexFinn/status/2126348009646494124
+  author: Alex Finn
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He says Vibe Coding Academy is 60% off the annual plan until Monday. The list names live bootcamps, a Grok Bot masterclass, hackathons, and Hermes, and is cut off. A sale, not an opportunity.
+  excerpt: The Vibe Coding Academy is 60% off the annual plan until Monday
+  original: true
+  confidence: high

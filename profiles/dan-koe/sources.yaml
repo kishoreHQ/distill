@@ -180,3 +180,23 @@
   excerpt: 99.9% of any gurus followers don’t make money
   original: true
   confidence: high
+- id: S19
+  url: https://x.com/thedankoe/status/2126377239235477689
+  author: Dan Koe
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He addresses writers, creators, and coaches who use a stack of schedulers, course hosts, research tools, forms, auto-DMs, swipe files, funnels, and drafts. The list cuts off at Email. The product being sold is named in the next posts, which were not fetched as pages.
+  excerpt: If you're a writer, creator, or coach who uses
+  original: true
+  confidence: medium
+- id: S20
+  url: https://x.com/thedankoe/status/2126377342075539604
+  author: Dan Koe
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: A Black Friday line, up to 50% off, with a link. The page was not fetched. Not an opportunity.
+  excerpt: Up to 50% off black friday
+  original: true
+  confidence: high

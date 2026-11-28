@@ -197,7 +197,7 @@
       "id": "open-core-cli",
       "title": "Free DevOps CLI with a paid desktop app, shipped slowly",
       "file": "opportunities/open-core-cli.yaml",
-      "as_of": "2026-11-27",
+      "as_of": "2026-11-28",
       "status": "hypothesis",
       "domains": [
         "developer-tools-oss",
@@ -291,6 +291,12 @@
           "source": "S23",
           "url": "https://x.com/HiTw93/status/2125768705309331769",
           "note": "He says the Mac open-source build stays free. The App Store price of 88 is his."
+        },
+        {
+          "profile": "tw93",
+          "source": "S25",
+          "url": "https://x.com/HiTw93/status/2126202160740524186",
+          "note": "He says an 8折 discount is a burden next to full-price buyers and that he does not like marketing Mole. Not a new dollar price. Score unchanged."
         }
       ],
       "non_claims": [
@@ -379,7 +385,7 @@
       "id": "narrow-workflow-saas",
       "title": "One narrow workflow tool, kept beside a day job",
       "file": "opportunities/narrow-workflow-saas.yaml",
-      "as_of": "2026-11-27",
+      "as_of": "2026-11-28",
       "status": "hypothesis",
       "domains": [
         "indie-hacking",
@@ -461,6 +467,12 @@
           "source": "S22",
           "url": "https://x.com/techie_piyush/status/2126010092134994273",
           "note": "He says the ChatGPT plugin was approved for ReelDrop. His announcement. The listing was not fetched. No new MRR."
+        },
+        {
+          "profile": "piyush-sachdeva",
+          "source": "S23",
+          "url": "https://x.com/techie_piyush/status/2126264529386631526",
+          "note": "He says the pricing model stays the same with the ChatGPT integration. No new MRR. Score unchanged."
         }
       ],
       "non_claims": [

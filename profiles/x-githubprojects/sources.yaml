@@ -99,3 +99,23 @@
   excerpt: many coding agents land on one branch without queue stalls, via compare-and-swap
   original: true
   confidence: medium
+- id: S11
+  url: https://x.com/GithubProjects/status/2126286672157606245
+  author: GitHub Projects Community
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: Aggregator feed. It describes Tracekit as a recorder that approves or blocks each agent tool call and signs the log so the agent cannot alter it. The repo was not fetched. Not a personal recommendation.
+  excerpt: Tracekit signs every action into a log the agent can't alter
+  original: true
+  confidence: medium
+- id: S12
+  url: https://x.com/GithubProjects/status/2126425083334070457
+  author: GitHub Projects Community
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: Aggregator feed. It says phone-harness lets Claude Code or Codex operate a real iPhone or Android. The repo was not fetched. Not a recommendation to point an agent at a phone.
+  excerpt: phone-harness lets Claude Code or Codex operate a real iPhone or Android
+  original: true
+  confidence: medium

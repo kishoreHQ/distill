@@ -4,7 +4,7 @@
  "x_user_id": "786375418685165568",
  "display_name": "Theo Browne (Theo - t3.gg)",
  "research_status": "verified",
- "posts_read": 384,
+ "posts_read": 385,
  "posts_by_band": {
   "0-6mo": 100,
   "6-24mo": 28,
@@ -14,11 +14,13 @@
   "refresh_2026_11_26_daily": 95,
   "refresh_2026_11_26_deepen": 0,
   "refresh_2026_11_27_daily": 1,
-  "refresh_2026_11_27_deepen": 0
+  "refresh_2026_11_27_deepen": 0,
+  "refresh_2026_11_28_daily": 1,
+  "refresh_2026_11_28_deepen": 0
  },
  "longform_fetched": 5,
  "sources_count": 26,
- "last_post_id": "2125759254019838028",
+ "last_post_id": "2126433118592839933",
  "researched_at": "2026-11-24T14:25:00+05:30",
  "x_calls_used_note": "batch A shared budget; see batch-A-summary.md",
  "limitations": [
@@ -28,7 +30,8 @@
   "2026-11-25 append is a date window, not a full timeline. Added 123; 2 collected ids were already in the file. The collection for this account was capped at 125 posts.",
   "2026-11-26 collection was capped at 100 rows (truncated).",
   "2026-11-26 append is a date window, not a full timeline. Added 95; 0 collected ids were already in the file.",
-  "2026-11-27 append is a date window, not a full timeline. Added 1; 0 collected ids were already in the file."
+  "2026-11-27 append is a date window, not a full timeline. Added 1; 0 collected ids were already in the file.",
+  "2026-11-28 append is a date window, not a full timeline. Added 1; 0 collected ids were already in the file."
  ],
  "completeness": {
   "identity": {
@@ -70,6 +73,6 @@
  },
  "completeness_total": 17,
  "completeness_max": 18,
- "last_refresh": "2026-11-27T00:19:13Z",
- "last_refresh_note": "Official public X read supplied for 2026-11-27. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters. No handles failed. Deepen pass on swanand and vatsal-sanghvi returned no older posts; they stay partial."
+ "last_refresh": "2026-11-28T00:17:25.371Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-28. Window 2026-11-26T22:17:25Z to 2026-11-28T00:17:25.371Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters. No handles failed. julian-goldie was capped at 75 fetched posts, so older posts in his window are missing. Deepen passes for x-wojakcodes and arnav-gupta returned no posts older than the repo's oldest rows. They are not promoted on that basis."
 }

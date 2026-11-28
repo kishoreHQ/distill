@@ -119,3 +119,13 @@
   excerpt: playing with google's fuchsia os
   original: true
   confidence: medium
+- id: S13
+  url: https://x.com/ironfisto/status/2126376616888807912
+  author: Mukul Lohar
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He says he is experimenting with FTL by seiyanuta, running inside Firecracker. The repo was not fetched. Not a new identity rule.
+  excerpt: Experimenting with FTL by @seiyanuta , running within Firecracker
+  original: true
+  confidence: medium

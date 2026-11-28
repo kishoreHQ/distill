@@ -88,3 +88,23 @@
   excerpt: "That small sample smells of post rationalisation."
   original: true
   confidence: high
+- id: S10
+  url: https://x.com/_swanand/status/2126313532157493539
+  author: Swanand
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He asks whether people who soften speech for other humans have changed that style with AI, and contrasts euphemisms with direct instructions. The third example is cut off.
+  excerpt: have you changed your style when you speak to AI?
+  original: true
+  confidence: high
+- id: S11
+  url: https://x.com/_swanand/status/2126336030253191604
+  author: Swanand
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He says models mimic human-to-human training text, and that direct speech helps in some places, for example a quality bar. The sentence is cut off. Research status stays partial.
+  excerpt: the training has happened on text written for human to human and so the models mimic that.
+  original: true
+  confidence: medium

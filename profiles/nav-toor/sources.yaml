@@ -109,3 +109,23 @@
   excerpt: Elon Musk reportedly shook hands on selling Tesla to Google
   original: true
   confidence: medium
+- id: S12
+  url: https://x.com/heynavtoor/status/2126299854217658554
+  author: Nav Toor
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He says AI can find weak spots faster than any human team, and that this helps hackers first and defenders later.
+  excerpt: ai can find weak spots faster than any human team
+  original: true
+  confidence: high
+- id: S13
+  url: https://x.com/heynavtoor/status/2126305915917975824
+  author: Nav Toor
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: A benchmark story about Ling Sante 3.1 Flash on a 20-case set about reading a negative test against a clinic's written rule. The stored text cuts off at the rapid-test sentence. The verdict is not in the stored text. A separate Nvidia history post the same day is a business anecdote and is not used as a method.
+  excerpt: reading a negative test against the clinic's own written rule
+  original: true
+  confidence: medium

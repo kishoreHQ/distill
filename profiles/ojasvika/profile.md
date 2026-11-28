@@ -8,7 +8,7 @@ other_identities: [https://projectminimi.com]
 website: https://projectminimi.com
 organization: minimi (@minimi_ai / @project_minimi)
 role: Founder (self-described)
-research_date: 2026-11-27
+research_date: 2026-11-28
 confidence: medium
 account_type: person
 primary_domain: startup-building
@@ -57,6 +57,7 @@ status: partial
 
 ## F. Evidence summary
 - **2026-11-27 refresh.** Appended 4 posts (4 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 85 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
+- **2026-11-28 refresh.** Appended 4 posts (4 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 89 rows. Window 2026-11-26T22:17:25Z to 2026-11-28T00:17:25.371Z, collected 2026-11-28T00:17:25.371Z. Research status stays partial.
 - **2026-11-26 refresh.** Appended 4 posts (4 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 81 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z. Deepen: no posts older than 2025-10-29.
 - **2026-11-25 refresh.** Appended 1 post (1 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 1 collected ids were already stored. `posts.jsonl` now has 77 rows.
 - 11 sources (9 X posts, 1 website, 1 profile). 76 X posts read (51 last 6 months, 25 6–13 months; account posts heavily personal/lifestyle).
@@ -80,3 +81,4 @@ status: partial
 - **2026-11-25.** The only new row is a one-word reply. A routine-and-founders line in the collection was already in `posts.jsonl`. No section A–H change. Research status stays partial.
 - **2026-11-26.** Four new rows are short reactions ("brilliant", "wow", a story comment). No product claim. A deepen read returned no post older than the repo's oldest, 2025-10-29. The official timeline looks exhausted. Research status stays partial. Surname is still absent.
 - **2026-11-27.** The in-person test [S12] continues the user-testing note already in the profile. Surname is still absent. The product site is still the JS-rendered title only. Research status stays partial.
+- **2026-11-28.** Four short rows, including "day is made" next to an image that was not read (https://x.com/Ozacle23/status/2126241909551333560). No section A–H change. Research status stays partial.

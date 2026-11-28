@@ -8,7 +8,7 @@ other_identities: [https://superlinear.tech]
 website: https://superlinear.tech
 organization: Superlinear (enterprise AI services) — linked from X bio and site names him
 role: CTO (self-described in X bio; exact title at Superlinear not stated on site)
-research_date: 2026-11-27
+research_date: 2026-11-28
 confidence: medium
 account_type: person
 primary_domain: automation
@@ -31,6 +31,7 @@ status: partial
 - **Case studies listed (company claims):** VC-firm AI OS, LegalTech inside MS Word, six-language emergency voice agent for Bangalore police, text-to-SQL for a family office [S2].
 
 ## C. Core philosophy
+- **2026-11-28.** He asks whether people who use euphemisms with humans have switched to direct instructions with AI, and he gives pairs such as "our goal is clarity" versus "be clear" [S10] (https://x.com/_swanand/status/2126313532157493539). He says models mimic human-to-human training text, and that direct speech helps when you keep a quality bar. That sentence is cut off [S11] (https://x.com/_swanand/status/2126336030253191604). A price-and-discount jab is not a revenue figure. Research status stays partial. [observed statement]
 - **2026-11-25.** One reply with a method point: a small sample "smells of post rationalisation" [S9] (https://x.com/_swanand/status/2125258265747763674). He says he will read the whole piece. The other new rows are short replies. Identity is still thin. Status stays partial. [observed statement]
 - **AI:** put AI "where work already happens" with zero disruption/retraining; predictable token costs; human accountability [S1][S2].
 - **Value from AI:** speed and fixing accidental inefficiencies beat "do more with same budget" [S4].
@@ -38,6 +39,7 @@ status: partial
 - **Careers:** three paths (job ladder, free agent, equity owner); BATNA mindset [S5][S6].
 
 ## D. Distilled knowledge
+- **Tools, 2026-11-28.** No new tool. The note is how to phrase an instruction [S10][S11].
 - AI ROI ranking: faster-same-budget (works, hard) > fix accidental inefficiencies (timeless) > do-more-same-budget (doesn't work) [observed statement][S4].
 - Enterprise adoption principles: no new tools to learn, weeks to live, cost known before go-live, pilots must graduate to production [observed statement — company site][S2].
 - Career leverage: meaningful work + online presence + networking [observed statement][S5].
@@ -57,6 +59,7 @@ status: partial
 
 ## F. Evidence summary
 - **2026-11-27 refresh.** Appended 1 post (1 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 91 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z. Deepen pass returned no older posts. Research status stays partial.
+- **2026-11-28 refresh.** Appended 11 posts (11 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 102 rows. Window 2026-11-26T22:17:25Z to 2026-11-28T00:17:25.371Z, collected 2026-11-28T00:17:25.371Z. Research status stays partial.
 - **2026-11-26 refresh.** Appended 1 post (1 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 90 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 3 posts (3 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 89 rows.
 - 8 sources (5 X posts, 2 website entries, 1 testimonial). 86 X posts read, but most are personal/off-topic (food, coffee, politics) — low AI signal on X.
@@ -80,3 +83,4 @@ status: partial
 - **2026-11-25.** Not promoted. Three new rows, one of them substantive.
 - **2026-11-26.** One reply, a Rust joke (https://x.com/_swanand/status/2125650554189914135). No section A–H change. Surname and long-form gaps are unchanged. Research status stays partial.
 - **2026-11-27.** One post about evergreen fashion (https://x.com/_swanand/status/2125977000653554093). No section A–H change. A deepen pass returned no older posts. Surname and long-form gaps are unchanged. Research status stays partial.
+- **2026-11-28.** The new lines are about euphemism versus direct speech to a model [S10][S11]. They do not fill the coverage gap. Research status stays partial.

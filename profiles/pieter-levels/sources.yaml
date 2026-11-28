@@ -303,3 +303,13 @@
   excerpt: their business simply doesn't have a reason to exist anymore
   original: true
   confidence: medium
+- id: S31
+  url: https://x.com/levelsio/status/2126362699990987028
+  author: '@levelsio (Pieter Levels)'
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He says he does not want that, and that he will submit what he learned plus his data, lists, and algorithms to X so they can implement it. This continues the earlier intent to submit a detector. He does not say X accepted it. The parent post was not fetched, so what that refers to is uncertain. The rest of the window is short replies.
+  excerpt: I will submit what I learnt and all my data and lists and algos to detect it to X
+  original: true
+  confidence: medium

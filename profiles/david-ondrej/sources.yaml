@@ -179,3 +179,43 @@
   excerpt: what's 10x better is running each agent in his own isolated sandbox
   original: true
   confidence: high
+- id: S19
+  url: https://x.com/DavidOndrej1/status/2126270560640381106
+  author: David Ondrej
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He says Neon is destroying Claude's share. The images were not read. Not a measurement in the stored text.
+  excerpt: Neon is destroying Claude's share
+  original: true
+  confidence: low
+- id: S20
+  url: https://x.com/DavidOndrej1/status/2126445292807389256
+  author: David Ondrej
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He says people are using models from 1998 because frontier models are refusing. The linked image was not read.
+  excerpt: People are using models from 1998 because frontier models are refusing.
+  original: true
+  confidence: medium
+- id: S21
+  url: https://x.com/DavidOndrej1/status/2126425626525761928
+  author: David Ondrej
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He says Anthropic is poaching Cloudflare employees hard and that this tells us about upcoming moves. His reading. The image was not read. Not an audited hiring fact.
+  excerpt: Anthropic poaching Cloudflare employees HARD.
+  original: true
+  confidence: low
+- id: S22
+  url: https://x.com/DavidOndrej1/status/2126433889212137963
+  author: David Ondrej
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He says he is focused on building Cloudroom into the best product possible. The never-says-no line is not in this post.
+  excerpt: i'm just focused on building Cloudroom into the best product possible
+  original: true
+  confidence: high

@@ -8,7 +8,7 @@ other_identities: [https://www.linkedin.com/in/schakraborty007, http://topmate.i
 website:
 organization: Platform9 Systems
 role: Solutions Architect (per X bio and KubeCon India 2026 speaker bio)
-research_date: 2026-11-27
+research_date: 2026-11-28
 confidence: high
 account_type: person
 primary_domain: automation
@@ -56,6 +56,7 @@ status: partial
 
 ## F. Evidence summary
 - **2026-11-27 refresh.** Appended 2 posts (2 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 94 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
+- **2026-11-28 refresh.** Appended 2 posts (2 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 96 rows. Window 2026-11-26T22:17:25Z to 2026-11-28T00:17:25.371Z, collected 2026-11-28T00:17:25.371Z. Research status stays partial.
 - **2026-11-26 refresh.** Appended 26 posts (1 daily, 25 deepen). 0 collected ids were already stored. `posts.jsonl` now has 92 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z for the daily row. Deepen rows are older.
 - **2026-11-25 refresh.** Appended 2 posts (2 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 66 rows.
 - 64 X posts (25 Mar-Nov 2026, 25 Jan-Feb 2026, 14 May 2025); 3 long-form/secondary (CNCF sched, Cast AI recap, LinkedIn snippet). 9 sources. LinkedIn (his main channel) not opened due to login wall.
@@ -76,3 +77,4 @@ status: partial
 - **2026-11-25.** X is still thin. This post is the first incident-pager objection in the file. Research status stays partial. Talk listings remain the stronger sources [S2][S3].
 - **2026-11-26.** Before, the useful sources were talk listings [S2][S3] and the pager question [S10], and the X sample was thin. After, 25 older posts were read and the file reaches 2025-03-16. They are still mostly link posts. Principles stay thin. Research status stays partial. The official older read did return posts, unlike a timeline that looks empty.
 - **2026-11-27.** A recovery wish and a one-line reaction plus an unread link (https://x.com/itsmesumanc/status/2125836636890268064). No section A–H change. Research status stays partial.
+- **2026-11-28.** Two short replies, a health note to a community member (https://x.com/itsmesumanc/status/2126363594455671170) and a congratulations. No section A–H change. Research status stays partial.

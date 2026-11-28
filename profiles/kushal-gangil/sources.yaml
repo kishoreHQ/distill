@@ -132,3 +132,23 @@
   excerpt: 65% OFF my 100+ tech guides bundle
   original: true
   confidence: high
+- id: S14
+  url: https://x.com/techyoutbe/status/2126326198989103431
+  author: Kushal Gangil
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He says that if you use someone's creativity you should at least give credit. The parent post was not fetched.
+  excerpt: if you use someone's creativity then we can atleast give the credit
+  original: true
+  confidence: medium
+- id: S15
+  url: https://x.com/techyoutbe/status/2126383226478559576
+  author: Kushal Gangil
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He repeats a Black Friday bundle, 100+ guides at 65% off. A sale, not an opportunity. Research status stays partial.
+  excerpt: 'Your Black Friday tech bundle: 100+ guides, 65% OFF'
+  original: true
+  confidence: high

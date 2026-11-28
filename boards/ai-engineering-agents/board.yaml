@@ -1,7 +1,7 @@
 id: ai-engineering-agents
 title: Simulated board — AI engineering & agents
 domain: ai-engineering-agents
-as_of: "2026-11-27"
+as_of: "2026-11-28"
 disclaimer: "SIMULATED ADVISORY BOARD. The real people named here have not joined this board, have not been contacted, and have not endorsed DISTILL, Kishore, or any recommendation in this file. Positions below are paraphrases of their public posts and pages, with citations. They are not quotes of private advice."
 charter: >
   This simulated board reads public material from people whose imported profiles
@@ -15,7 +15,7 @@ members:
   - profile_id: aravind-srinivas
     reason: High-confidence profile, board_eligibility includes ai-engineering, and the transcript states a grounding rule.
     position: >
-      Say only what you retrieved [aravind-srinivas S7]. Score a fetched page before an agent trusts it [aravind-srinivas S16]. For a high-stakes answer, let several models work and have a chair model synthesize [aravind-srinivas S17]. On 2026-11-24 he says the harness will be tuned for Gemini 4 Neon and states a 120B token figure that is his own [aravind-srinivas S26]. On 2026-11-25 he announced Time Machine, a date-locked web for post-training, and stated API prices [aravind-srinivas S29] [aravind-srinivas S30]. On 2026-11-26 he says Neon doubled day over day and did 100B+ tokens in one day, with formatting harness fixes merged [aravind-srinivas S33], and that Teammates doubles every ten days among external Max users at a $200/mo tier he names [aravind-srinivas S34]. Those counts are his. A reply says Neon hardly hallucinates [aravind-srinivas S36]. That is not a measurement.
+      Say only what you retrieved [aravind-srinivas S7]. Score a fetched page before an agent trusts it [aravind-srinivas S16]. For a high-stakes answer, let several models work and have a chair model synthesize [aravind-srinivas S17]. On 2026-11-24 he says the harness will be tuned for Gemini 4 Neon and states a 120B token figure that is his own [aravind-srinivas S26]. On 2026-11-25 he announced Time Machine, a date-locked web for post-training, and stated API prices [aravind-srinivas S29] [aravind-srinivas S30]. On 2026-11-26 he says Neon doubled day over day and did 100B+ tokens in one day, with formatting harness fixes merged [aravind-srinivas S33], and that Teammates doubles every ten days among external Max users at a $200/mo tier he names [aravind-srinivas S34]. Those counts are his. A reply says Neon hardly hallucinates [aravind-srinivas S36]. That is not a measurement. On 2026-11-28 he does not repeat a token count. He says a chief-of-staff teammate can orchestrate others [aravind-srinivas S37], that simulations close the loop without waiting for real-world feedback [aravind-srinivas S38], and that Perplexity is becoming a workspace for brand and marketing [aravind-srinivas S39]. Those are his product claims. They do not mention the grounding rule.
     evidence:
       - source: S7
         url: https://lexfridman.com/aravind-srinivas-transcript/
@@ -35,6 +35,12 @@ members:
         url: https://x.com/AravSrinivas/status/2126038741622104256
       - source: S36
         url: https://x.com/AravSrinivas/status/2125822730566267135
+      - source: S37
+        url: https://x.com/AravSrinivas/status/2126176806885884184
+      - source: S38
+        url: https://x.com/AravSrinivas/status/2126379252665004391
+      - source: S39
+        url: https://x.com/AravSrinivas/status/2126412288320213496
   - profile_id: peter-steinberger
     reason: First-party posts on CLI-first agent work and a four-check gate before autonomous edits.
     position: >
@@ -70,7 +76,7 @@ members:
   - profile_id: shubham-saboo
     reason: Publishes open-source agent examples and describes a cron-driven agent group. He is also a Google Cloud AI PM in this snapshot.
     position: >
-      He describes a one-person setup as folders, markdown job descriptions, and cron jobs [shubham-saboo S6], operated from Telegram on OpenClaw and later Hermes [shubham-saboo S7]. The pinned post in the ledger promotes his employer's agent features [shubham-saboo S10]. He later says Workspace MCP is generally available and includes a human-in-the-loop control [shubham-saboo S14]. On 2026-11-25 he credits caching and harness work, not a new base model, for a near-75% Neon usage jump he states [shubham-saboo S15]. That percent is his. On 2026-11-26 he announces a Gemini quota reset for Antigravity users [shubham-saboo S16]. No new percentage.
+      He describes a one-person setup as folders, markdown job descriptions, and cron jobs [shubham-saboo S6], operated from Telegram on OpenClaw and later Hermes [shubham-saboo S7]. The pinned post in the ledger promotes his employer's agent features [shubham-saboo S10]. He later says Workspace MCP is generally available and includes a human-in-the-loop control [shubham-saboo S14]. On 2026-11-25 he credits caching and harness work, not a new base model, for a near-75% Neon usage jump he states [shubham-saboo S15]. That percent is his. On 2026-11-26 he announces a Gemini quota reset for Antigravity users [shubham-saboo S17]. No new percentage. On 2026-11-28 he says two prompts nearly solved video editing [shubham-saboo S18] and that a GitHub pull-request view is live in Antigravity chat [shubham-saboo S20]. Employer demos. No new usage percentage.
     evidence:
       - source: S6
         url: https://x.com/Saboo_Shubham_/status/2071639897669267922
@@ -82,8 +88,12 @@ members:
         url: https://x.com/Saboo_Shubham_/status/2125298072188231810
       - source: S15
         url: https://x.com/Saboo_Shubham_/status/2125646788795523373
-      - source: S16
+      - source: S17
         url: https://x.com/Saboo_Shubham_/status/2125853266030559661
+      - source: S18
+        url: https://x.com/Saboo_Shubham_/status/2126204647845335270
+      - source: S20
+        url: https://x.com/Saboo_Shubham_/status/2126394740300280025
   - profile_id: mckay-wrigley
     reason: Public posts warn against competing head-on with labs, and one post jokes about approving agent diffs unread.
     position: >
@@ -98,7 +108,7 @@ disagreements:
   - "Wrigley's unread-approve joke [mckay-wrigley S17] cuts against Theo's multi-model review loop [theo-browne S5] and against Steinberger's test requirement [peter-steinberger S8]."
   - "Srinivas's grounding rule [aravind-srinivas S7] limits what an agent may say. A cron job that posts or emails without that limit, which is closer to the Saboo and Levels patterns elsewhere in the corpus, does not satisfy it."
 synthesis: >
-  The overlapping public advice is to keep the harness explicit, ground claims in retrieved notes, and put a test or a second model in front of an autonomous edit. It is not to staff a company with unattended agents, and it is not to compete with a lab on a general assistant. For this operator, the smallest build that uses the overlap is a cited runbook helper with a human gate on any change to a repo. A date-locked web [aravind-srinivas S29] is a lab product, not that helper. A 100B-token day [aravind-srinivas S33] and Teammates [aravind-srinivas S34] are the same employer's volume claims, not that helper. Theo's telemetry posts on 2026-11-25 do not agree with each other [theo-browne S24] [theo-browne S26]. His 2026-11-27 row is an emoji and does not settle them. Do not treat a denial list, or a "hardly hallucinates" reply [aravind-srinivas S36], as an audit.
+  The overlapping public advice is to keep the harness explicit, ground claims in retrieved notes, and put a test or a second model in front of an autonomous edit. It is not to staff a company with unattended agents, and it is not to compete with a lab on a general assistant. For this operator, the smallest build that uses the overlap is a cited runbook helper with a human gate on any change to a repo. A date-locked web [aravind-srinivas S29] is a lab product, not that helper. A 100B-token day [aravind-srinivas S33] and Teammates [aravind-srinivas S34] are the same employer's volume claims, not that helper. Theo's telemetry posts on 2026-11-25 do not agree with each other [theo-browne S24] [theo-browne S26]. His 2026-11-27 row is an emoji and does not settle them. Do not treat a denial list, or a "hardly hallucinates" reply [aravind-srinivas S36], as an audit. On 2026-11-28 the volume line is absent. Simulations [aravind-srinivas S38], a chief-of-staff teammate [aravind-srinivas S37], and a brand workspace [aravind-srinivas S39] are the same employer's product claims, not the runbook helper. Saboo's video line [shubham-saboo S18] and pull-request view [shubham-saboo S20] are demos. Theo's new row is a salute emoji and does not settle the telemetry posts.
 recommended_next_action: >
   Write a one-page spec for a helper that answers only from a folder of runbooks and refuses when the folder does not contain the answer. Add a checklist that treats fetched pages as untrusted. Do not start a general chatbot, and do not quote Perplexity's revenue.
 confidence: medium

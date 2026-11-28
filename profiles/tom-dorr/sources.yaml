@@ -200,3 +200,33 @@
   excerpt: Homelable maps your self-hosted infrastructure
   original: true
   confidence: medium
+- id: S21
+  url: https://x.com/tom_doerr/status/2126180479908872398
+  author: Tom Dörr
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He links Ix, which the post says parses a repository into a graph of symbols, calls, imports, and relationships so agents can query structure. He does not say he built it. The repo was not fetched.
+  excerpt: Ix parses your repository into a persistent system graph
+  original: true
+  confidence: medium
+- id: S22
+  url: https://x.com/tom_doerr/status/2126289693629108281
+  author: Tom Dörr
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He links Council of High Intelligence, structured debates between personas in Claude Code, Codex, and Gemini CLI. He does not say he built it. The repo was not fetched.
+  excerpt: The Council of High Intelligence runs structured debates between different analytical personas
+  original: true
+  confidence: medium
+- id: S23
+  url: https://x.com/tom_doerr/status/2126410628541649238
+  author: Tom Dörr
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He links a self-hosted project manager with custom workflows and AI-assisted automation. He does not say he built it. The repo was not fetched.
+  excerpt: Runs self-hosted project management with custom workflows
+  original: true
+  confidence: medium

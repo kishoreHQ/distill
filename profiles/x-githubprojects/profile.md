@@ -8,7 +8,7 @@ other_identities: [https://ko-fi.com/githubprojects]
 website: https://ko-fi.com/githubprojects
 organization:            # unofficial; operator not identified
 role:
-research_date: 2026-11-27
+research_date: 2026-11-28
 confidence: medium
 account_type: aggregator
 primary_domain: ai-engineering
@@ -31,11 +31,13 @@ status: verified
 - No first-party expertise, philosophy or products evidenced.
 
 ## C. Core philosophy
+- **2026-11-28.** Still an aggregator. The feed describes Tracekit, which approves or blocks each tool call and signs a log the agent cannot alter [S11] (https://x.com/GithubProjects/status/2126286672157606245), and phone-harness, which it says lets Claude Code or Codex operate a real phone [S12] (https://x.com/GithubProjects/status/2126425083334070457). The repos were not fetched. Not recommendations. Other rows name Zen, Chatterbox, Chili3D, Ollama's Python library, and Nod. Those stay feed items.
 - **2026-11-27.** Feed item: gitai, described as open-source Git hosting where many coding agents land on one branch via compare-and-swap [S10] (https://x.com/GithubProjects/status/2125826401073045809). The repo was not fetched. Other rows promote unrelated repositories, including one about running unmodified console game code on a PC. Those posts are not recommendations and this file does not repeat a method. [observed statement]
 - **2026-11-26.** Still an aggregator. One post describes an open-source CLI agent that reads a failed CI run, traces the cause, and pushes a fix for review [S9] (https://x.com/GithubProjects/status/2125501002166292634). The repo was not fetched. Other posts name Oat UI, Serie, Homer, and an Xbox-on-Windows project. Not a person and not a recommendation. [observed statement]
 - No evidence found (aggregator). Implicit editorial stance: "open-source alternative to paid tool" [S6].
 
 ## D. Distilled knowledge
+- **Tools, 2026-11-28.** Feed names only: Tracekit [S11] and phone-harness [S12]. Not a stack this account uses.
 - **2026-11-25.** Feed, not a biography. One fresh item is Awesome Cursor Rules, ready-made `.mdc` files [S8] (https://x.com/GithubProjects/status/2125204795527205362). Other fresh blurbs name a local full-text search engine, macOS-on-arm64-Linux without a hypervisor, and porting slow functions to Rust. Those repos were not reviewed. OpenComputer in the collection was already stored. [observed statement]
 - [our interpretation] Useful as a discovery feed for: agent skills, doc->skill converters, local/private AI agents, self-hostable ops tools [S3][S4][S5].
 - [observed statement] Hook format used repeatedly: "<capability> + open-source + link", or "Stop paying for X, use this" [S6]. Recycled memes for engagement [S7].
@@ -54,6 +56,7 @@ status: verified
 
 ## F. Evidence summary
 - **2026-11-27 refresh.** Appended 11 posts (11 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 103 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
+- **2026-11-28 refresh.** Appended 14 posts (14 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 117 rows. Window 2026-11-26T22:17:25Z to 2026-11-28T00:17:25.371Z, collected 2026-11-28T00:17:25.371Z.
 - **2026-11-26 refresh.** Appended 10 posts (10 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 92 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 7 posts (7 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 3 collected ids were already stored. `posts.jsonl` now has 82 rows.
 - 75 X posts (25 Nov 2026, 25 Mar 2026, 25 May 2025); 1 long-form (Ko-fi page). 7 sources.
@@ -72,3 +75,4 @@ status: verified
 - **2026-11-25.** Aggregator cadence unchanged. Three of ten collected ids were duplicates.
 - **2026-11-26.** Feed shape unchanged. The CI-fix agent is a signal in the feed [S9], not an endorsement.
 - **2026-11-27.** Still an aggregator. The only named agent-hosting item kept as a signal is gitai [S10].
+- **2026-11-28.** No biography. New feed items include a signed tool-call log [S11] and a phone harness [S12].

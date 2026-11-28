@@ -8,7 +8,7 @@ other_identities: [https://livingdevops.com, https://github.com/akhileshmishrabi
 website: https://livingdevops.com
 organization: Living Devops (founder, self-described)
 role: Founder/instructor, Living Devops; self-described AI Platform Engineer / DevOps lead (14+ yrs, self-reported)
-research_date: 2026-11-27
+research_date: 2026-11-28
 confidence: high
 account_type: person
 primary_domain: automation
@@ -33,6 +33,7 @@ status: verified
 - Products: Living Devops bootcamps, Discord community, GitHub learning repos (Devops-zero-to-hero ~404 stars), toffee-terraform-wrapper [S2][S3].
 
 ## C. Core philosophy
+- **2026-11-28.** He says AI engineering is 12 terms to learn in order [S23] (https://x.com/livingdevops/status/2126199590684905776). The stored text names Model and cuts off at Token. A reply says those steps are fundamentals, not a guide to build agents [S24] (https://x.com/livingdevops/status/2126213703020462301). One other reply is political and is not used in sections A–H. [observed statement]
 - **2026-11-27.** He says the claim that there are no DevOps jobs is wrong, and that evidence suggests otherwise [S19] (https://x.com/livingdevops/status/2125955940793135450). The link was not fetched, so the evidence is not in this file. He says retraining is usually the wrong answer to a 2026 knowledge cutoff [S20] (https://x.com/livingdevops/status/2125817710928097683). The stored text stops before the method. He asks interviewers in India to turn cameras on and arrive on time [S21] (https://x.com/livingdevops/status/2125916727062225144). An interview answer starts with a Transit Gateway in a central account [S22] (https://x.com/livingdevops/status/2125873763292156063) and is cut off. Not a complete design. [observed statement]
 - **2026-11-26.** He says a DevOps engineer who is only a bridge between Jira and Claude should be very scared, because AI is learning to operate tools [S17] (https://x.com/livingdevops/status/2125475523384254782). He also says to learn trade-off decisions for interviews in the AI age [S18] (https://x.com/livingdevops/status/2125433041120059653). [observed statement]
 - Software/DevOps: DevOps = designing reliable systems, not knowing tools [S5]; teach troubleshooting over tool tours [S9].
@@ -42,6 +43,7 @@ status: verified
 - Monetization: Content -> community (Discord) -> paid live cohorts [S2].
 
 ## D. Distilled knowledge
+- **Tools, 2026-11-28.** No new named tool. The 12-term list is truncated after Token [S23], and he says it is not an agent-building guide [S24].
 - **Tools, 2026-11-27.** Transit Gateway, named as the start of a shared-egress interview answer [S22]. The rest of the design is not in the stored text.
 - **2026-11-25.** Teaching focus stays Kubernetes troubleshooting. He says not to put Kubernetes on a resume without being able to explain production failures [S14] (https://x.com/livingdevops/status/2125231968195629225). He points at snowOps, a game per incident [S15] (https://x.com/livingdevops/status/2125270308353610233). On build versus buy for EKS observability he says "open source is free, so we build" fails the interview [S16] (https://x.com/livingdevops/status/2125357198700384277). [observed statement]
 - Principle: Monitor the Four Golden Signals rather than many dashboards [observed statement] [S7].
@@ -74,6 +76,7 @@ status: verified
 
 ## F. Evidence summary
 - **2026-11-27 refresh.** Appended 9 posts (9 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 92 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
+- **2026-11-28 refresh.** Appended 4 posts (4 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 96 rows. Window 2026-11-26T22:17:25Z to 2026-11-28T00:17:25.371Z, collected 2026-11-28T00:17:25.371Z.
 - **2026-11-26 refresh.** Appended 8 posts (8 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 83 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z. Several rows are short replies.
 - **2026-11-25 refresh.** Appended 9 posts (9 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 1 collected ids were already stored. `posts.jsonl` now has 75 rows.
 - 66 X posts (25 recent Nov 2026, 25 May 2026, 16 May 2025); 2 long-form (homepage, 1 blog) + GitHub API. 13 sources.
@@ -98,3 +101,4 @@ status: verified
 - **2026-11-25.** Consistent with "DevOps is not a tool list" [S5]. snowOps is a new drill he is promoting. Bootcamp conflict of interest is unchanged.
 - **2026-11-26.** Before, DevOps was not a tool list [S5] and bootcamps taught tools rather than troubleshooting [S9]. After, the tool in the warning is the coding agent itself: do not let the job be operating Claude from a ticket [S17]. The bootcamp he sells [S2] is still a conflict.
 - **2026-11-27.** Before, the job line was not to be only a bridge from Jira to Claude [S17]. After, he asserts DevOps jobs exist [S19] without the linked evidence in this repo, and he teaches a cutoff question whose answer is truncated [S20]. No new bootcamp price.
+- **2026-11-28.** Before, the teaching line was not to be only a bridge from Jira to Claude, and retraining was usually the wrong answer to a cutoff. After, the public lesson is a 12-term order that the stored text does not finish [S23], with his own correction that it is fundamentals [S24]. No new bootcamp price.

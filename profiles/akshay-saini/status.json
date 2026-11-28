@@ -4,7 +4,7 @@
  "x_user_id": "271467156",
  "display_name": "Akshay Saini",
  "research_status": "verified",
- "posts_read": 99,
+ "posts_read": 100,
  "posts_by_band": {
   "last_6mo": 42,
   "6_24mo": 24,
@@ -12,16 +12,19 @@
   "refresh_2026_11_26_daily": 4,
   "refresh_2026_11_26_deepen": 0,
   "refresh_2026_11_27_daily": 3,
-  "refresh_2026_11_27_deepen": 0
+  "refresh_2026_11_27_deepen": 0,
+  "refresh_2026_11_28_daily": 1,
+  "refresh_2026_11_28_deepen": 0
  },
  "longform_fetched": 2,
- "last_post_id": "2125985742098948359",
+ "last_post_id": "2126227541518414052",
  "limitations": [
   "YouTube content not reviewed",
   "Business revenue not public",
   "Mid band sample is Dec 2025 only",
   "2026-11-26 append is a date window, not a full timeline. Added 4; 0 collected ids were already in the file.",
-  "2026-11-27 append is a date window, not a full timeline. Added 3; 0 collected ids were already in the file."
+  "2026-11-27 append is a date window, not a full timeline. Added 3; 0 collected ids were already in the file.",
+  "2026-11-28 append is a date window, not a full timeline. Added 1; 0 collected ids were already in the file."
  ],
  "completeness": {
   "identity": {
@@ -61,8 +64,8 @@
    "reason": "specific"
   }
  },
- "sources_count": 22,
+ "sources_count": 23,
  "researched_at": "2026-11-24T15:30:00+05:30",
- "last_refresh": "2026-11-27T00:19:13Z",
- "last_refresh_note": "Official public X read supplied for 2026-11-27. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters. No handles failed. Deepen pass on swanand and vatsal-sanghvi returned no older posts; they stay partial."
+ "last_refresh": "2026-11-28T00:17:25.371Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-28. Window 2026-11-26T22:17:25Z to 2026-11-28T00:17:25.371Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters. No handles failed. julian-goldie was capped at 75 fetched posts, so older posts in his window are missing. Deepen passes for x-wojakcodes and arnav-gupta returned no posts older than the repo's oldest rows. They are not promoted on that basis."
 }

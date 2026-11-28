@@ -8,7 +8,7 @@ other_identities: ["https://juliangoldie.com", "https://www.skool.com/ai-seo-wit
 website: "https://juliangoldie.com"
 organization: "Goldie Agency Limited (self-described)"
 role: "Founder (self-described)"
-research_date: 2026-11-27
+research_date: 2026-11-28
 confidence: "medium"
 account_type: "person"
 primary_domain: "content-creation"
@@ -32,6 +32,7 @@ status: "verified"
 - **Products:** Polar Rank (AI SEO SaaS, $99/mo after trial) [S16], Backlink Gameplan service, paid communities, book "Link Building Mastery" [S17].
 
 ## C. Core philosophy (supported)
+- **2026-11-28.** Same funnel, and the hooks disagree with each other. He lists faceless content accounts among ways that get too much hype [S27] (https://x.com/JulianGoldieSEO/status/2126224506549354861). Later he says skip SaaS, skip client work, and build a faceless page [S28] (https://x.com/JulianGoldieSEO/status/2126405704554832100). Between those, he says four services are selling fast, including local rankings [S31] (https://x.com/JulianGoldieSEO/status/2126315103872053407), which is client work. The Polar Rank thread prints the disclaimer again: no rankings or income are guaranteed, results are not typical [S29] (https://x.com/JulianGoldieSEO/status/2126360408919327162). A Black Friday post says 51% off forever [S30] (https://x.com/JulianGoldieSEO/status/2126220870658232483). Those prompts and prices are not opportunities. The fetch was capped, so older posts in the window are missing. [observed statement]
 - **2026-11-27.** Same prompt-pack funnel, new proper nouns. He says open Claude, plug in a free Polar Rank MCP, and paste a prompt [S23] (https://x.com/JulianGoldieSEO/status/2125952730015428986). He says Grok Bot prompts make passive income [S24] (https://x.com/JulianGoldieSEO/status/2125907755768942944). He says Claude prompts take a new YouTube channel to monetized in 3 months [S26] (https://x.com/JulianGoldieSEO/status/2125998016276381903). The Polar Rank thread repeats his disclaimer that no rankings or income are guaranteed and results are not typical [S25] (https://x.com/JulianGoldieSEO/status/2125952733253423493). Those prompts are not opportunities. [observed statement]
 - **2026-11-26.** The window is the same prompt-pack funnel: Grok Bot threads for a 90-day YouTube monetization plan and for side-income prompts, plus a Polar Rank scan he says checks a site before Google's December core update [S22] (https://x.com/JulianGoldieSEO/status/2125485711029948438). The disclaimer is posted again: no rankings or income are guaranteed, results are not typical [S21] (https://x.com/JulianGoldieSEO/status/2125545033034268969). Those prompts are not opportunities. [observed statement]
 - **SEO:** "SEO is not dead" — search demand keeps growing; AI answers draw on the same signals (content, backlinks, mentions) [S2][S8][S16].
@@ -40,6 +41,7 @@ status: "verified"
 - **AI agents:** human approval gate before agents build/publish [S9]; shared notes vault as agent context [S10].
 
 ## D. Distilled knowledge
+- **Tools, 2026-11-28.** Polar Rank MCP is named again in the same disclaimer thread [S29]. Not a new stack. Antigravity plus Obsidian is a bookmark post (https://x.com/JulianGoldieSEO/status/2126133915001688439) and is not a build log.
 1. **Outreach habit compounding** — 1 hour of cold outreach every morning built the agency (self-reported origin) [S17]. [observed statement]
 2. **Funnel ladder** — free YouTube/X → free community → $-tier community → done-for-you agency / SaaS [S16][S17]. [observed structure; revenue unverified]
 3. **Productized service with guarantee** — "Found or refund. 90 days" on Search Console metrics [S16]. [observed offer]
@@ -66,6 +68,7 @@ status: "verified"
 
 ## F. Evidence summary
 - **2026-11-27 refresh.** Appended 92 posts (92 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 441 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
+- **2026-11-28 refresh.** Appended 69 posts (69 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 510 rows. Window 2026-11-26T22:17:25Z to 2026-11-28T00:17:25.371Z, collected 2026-11-28T00:17:25.371Z. The fetch was capped at 75 posts, so older posts in this window are missing.
 - **2026-11-26 refresh.** Appended 100 posts (100 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 349 rows. The collection was capped at 100 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 108 posts (108 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 2 collected ids were already stored. `posts.jsonl` now has 249 rows.
 18 sources; 141 X posts read (2024-05 to 2026-11 samples). Top: [S16] agency/SaaS page, [S17] self-bio, [S1] traffic claim, [S9] agent flow, [S12] lead-magnet tactic.
@@ -90,3 +93,4 @@ status: "verified"
 - **2026-11-25.** Volume stays high and the funnel is unchanged. The new item is his own disclaimer sitting next to the income hooks [S19][S20].
 - **2026-11-26.** No shift. Before, income hooks sat next to his own disclaimer [S19][S20]. After, the hooks name YouTube monetization, side income, and a December core-update scan [S22], and the disclaimer is repeated [S21]. The collection was capped at 100 rows.
 - **2026-11-27.** No shift. Before, income hooks sat next to his own disclaimer [S21][S22]. After, the hooks name a free Polar Rank MCP [S23], Grok Bot passive income [S24], and a 3-month YouTube claim [S26], and the disclaimer is in the same thread [S25]. Voice is the same all-caps offer plus the legal line.
+- **2026-11-28.** Before, income hooks sat next to his own disclaimer [S25]. After, the same disclaimer is in the Polar Rank thread [S29], and two of his own threads conflict: faceless accounts are hype [S27] and also the 2027 system [S28], while another thread sells client services [S31]. Voice is unchanged. The cap at 75 fetched posts means this is not his full window.

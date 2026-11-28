@@ -8,7 +8,7 @@ other_identities: [https://github.com/wojakcodes]
 website:
 organization:
 role:
-research_date: 2026-11-24
+research_date: 2026-11-28
 confidence: low
 account_type: person
 primary_domain: ai-engineering
@@ -48,6 +48,7 @@ status: partial
 - Note: this is a common practice; the account is one of many sources for it, not an authority.
 
 ## F. Evidence summary
+- **2026-11-28 refresh.** No new rows. Deepen pass returned no posts older than the oldest stored row. `posts.jsonl` still has 75 rows. Research status stays partial. Not promoted.
 - 75 X posts (25 Nov 2026, 25 Feb 2026, 25 Aug 2024); 0 long-form (blog empty); GitHub profile only. 7 sources.
 
 ## G. Strengths and weaknesses
@@ -61,3 +62,4 @@ status: partial
 
 ## I. Profile evolution
 - 2026-11-24 baseline. Aug 2024: announced leaving politics for tech/freelance content; React Native, freelancing posts [S5][S6]. Feb 2026: mostly lifestyle/society commentary. Nov 2026: more agentic-coding workflow mentions alongside lifestyle/gaming posts [S3][S4].
+- **2026-11-28.** A deepen pass returned no posts older than the oldest stored row (until_id 1828755619710718418). No new rows. No section A–H change. Research status stays partial. Not promoted.

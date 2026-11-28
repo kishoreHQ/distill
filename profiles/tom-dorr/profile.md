@@ -8,7 +8,7 @@ other_identities: ["https://github.com/tom-doerr", "https://tom-doerr.github.io/
 website: "https://tom-doerr.github.io/repo_posts/"
 organization: ""
 role: ""
-research_date: 2026-11-27
+research_date: 2026-11-28
 confidence: "high"
 account_type: "person"
 primary_domain: "ai-engineering"
@@ -34,12 +34,14 @@ status: "verified"
 - **Communities:** AI developer X, DSPy users, self-hosters.
 
 ## C. Core philosophy (only where supported)
+- **2026-11-28.** Three links, and he does not say he built them. Ix, a repository graph for agents [S21] (https://x.com/tom_doerr/status/2126180479908872398). Council of High Intelligence, debates between personas in Claude Code, Codex, and Gemini CLI [S22] (https://x.com/tom_doerr/status/2126289693629108281). A self-hosted project manager [S23] (https://x.com/tom_doerr/status/2126410628541649238). The repos were not fetched. [observed statement]
 - **2026-11-27.** He links other people's tools. HarnessRouter, one API over Codex, Claude Code, Hermes, Pi, and DeepSeek [S19] (https://x.com/tom_doerr/status/2125906942434365702). Homelable, diagrams of self-hosted devices [S20] (https://x.com/tom_doerr/status/2126081495148187855). He does not say he built either. A third link describes an 8 KB skill file for binary analysis (https://x.com/tom_doerr/status/2125990728245379454). The repo was not fetched. This file does not repeat that method. [observed statement]
 - **AI/dev workflow:** speed of iteration > maximum reasoning ("lower-effort reasoning is often the best reasoning ... you can iterate so much faster") [S6]; interested in agents orchestrating other agents [S7][S8].
 - **Automation:** practices what he curates — his feed and site are machine-run (scheduled workflows, embeddings for related posts) [S16]; X posts in Aug 2025 sample landed every ~30 minutes [S9]. [observed; automation of posting is our interpretation from timestamps]
 - **Monetization:** X subscriptions ("Subscribe for top posts") and priority DMs for subscribers (bio). Earlier asked publicly how to monetize a service with hundreds of daily requests [S12].
 
 ## D. Distilled knowledge
+- **Tools, 2026-11-28.** Names in the feed, not a personal stack: Ix [S21], Council of High Intelligence [S22], and a self-hosted project manager [S23].
 - **Tools, 2026-11-27.** Names he posted, repos not fetched: HarnessRouter [S19] and Homelable [S20]. Not a personal stack.
 1. **Curation-as-a-product** — a fully automated "repo summary → post → static site + RSS" pipeline can build a 200k+ audience [S16][S17]. [demonstrated result: follower count + repo stars; causal link is our interpretation]
 2. **High-bookmark signal = utility tools for agents** — the most-bookmarked recent posts are agent skills/MCP add-ons (ffmpeg skill 3k bookmarks [S2], meeting recorder [S1]). [observed metrics]
@@ -65,6 +67,7 @@ status: "verified"
 
 ## F. Evidence summary
 - **2026-11-27 refresh.** Appended 3 posts (3 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 124 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
+- **2026-11-28 refresh.** Appended 3 posts (3 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 127 rows. Window 2026-11-26T22:17:25Z to 2026-11-28T00:17:25.371Z, collected 2026-11-28T00:17:25.371Z.
 - **2026-11-25 refresh.** Appended 1 post (1 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 121 rows.
 18 sources (120 X posts read; only 5 of them lack a link, i.e. are original commentary). Top: [S16] repo_posts README, [S15] GitHub, [S2] highest-bookmark sample, [S6] own opinion, [S9] cadence sample.
 
@@ -85,3 +88,4 @@ status: "verified"
 - **2026:** feed slowed to every few hours with longer summaries; focus shifted to agent skills, MCP servers, harness engineering, self-hosting [S2][S3][S13].
 - **2026-11-25.** One reply distinguishing utility from explanation in someone else's argument. It does not change the repo-feed or reasoning notes. No section A–H change.
 - **2026-11-27.** The feed shape is unchanged [S16]. New names are HarnessRouter and Homelable. The binary-analysis link is recorded as a link only.
+- **2026-11-28.** The feed shape is unchanged [S16]. New names are Ix, Council of High Intelligence, and a self-hosted project manager. A mention is not a recommendation.

@@ -360,3 +360,43 @@
   excerpt: hardly hallucinates
   original: true
   confidence: medium
+- id: S37
+  url: https://x.com/AravSrinivas/status/2126176806885884184
+  author: Aravind Srinivas
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He says to onboard Teammates for bottleneck roles and to let a chief-of-staff teammate orchestrate the others. Employer product.
+  excerpt: have a chief of staff teammate orchestrate other teammates for you
+  original: true
+  confidence: high
+- id: S38
+  url: https://x.com/AravSrinivas/status/2126379252665004391
+  author: Aravind Srinivas
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He says simulations close the loop faster than waiting for real-world feedback, and that Perplexity Computer is getting good at practical simulations for business owners. His claim. Employer product.
+  excerpt: Simulations let you close the loop faster without waiting for real world feedback.
+  original: true
+  confidence: high
+- id: S39
+  url: https://x.com/AravSrinivas/status/2126412288320213496
+  author: Aravind Srinivas
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He says Perplexity is becoming the workspace business owners use to build brand and marketing, in a world of fast tinkering. His positioning. Not a measurement.
+  excerpt: Perplexity is quietly turning into the workspace that business owners are using
+  original: true
+  confidence: high
+- id: S40
+  url: https://x.com/AravSrinivas/status/2126439722746785869
+  author: Aravind Srinivas
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He says a future where people build whatever they want for themselves is worth creating, and that Perplexity will do that. A product aim, not a shipped spec.
+  excerpt: A future where people build whatever they want for themselves is exciting
+  original: true
+  confidence: medium

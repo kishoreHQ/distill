@@ -8,7 +8,7 @@ other_identities: [https://thedankoe.com, https://thedankoe.eden.so]
 website: https://thedankoe.com
 organization:            # not verified (promotes Eden; ownership not verified)
 role: Writer/creator; publisher of The Koe Letters newsletter (self-described)
-research_date: 2026-11-27
+research_date: 2026-11-28
 confidence: high
 account_type: person
 primary_domain: content-creation
@@ -33,6 +33,7 @@ status: verified
 - Communities: creator economy, "one-person business" audience.
 
 ## C. Core philosophy
+- **2026-11-28.** He addresses writers, creators, and coaches and lists schedulers, course hosts, research tools, forms, auto-DMs, swipe files, funnels, and drafts. The list cuts off at Email [S19] (https://x.com/thedankoe/status/2126377239235477689). The next post says up to 50% off for Black Friday [S20] (https://x.com/thedankoe/status/2126377342075539604). The page was not fetched. Not an opportunity. A third post links Claude workflows and was not fetched as a page. [observed statement]
 - **2026-11-27.** He says 99.9% of a guru's followers do not make money, and that expecting three steps and a week is one reason. He says it took him a year. The sentence is cut off [S18] (https://x.com/thedankoe/status/2125815282493272118). A second reply says he did not frame the work as easy and that it takes years (https://x.com/thedankoe/status/2126043330710852013). The percent is his. [observed statement]
 - **2026-11-25.** One post: modern food is engineered to be overeaten, and "the next big trend will be diets for the mind" [S17] (https://x.com/thedankoe/status/2125216627029373342). The post is cut off. It extends the attention/meaning theme. It is not a product metric. [observed statement]
 - AI: AI commoditizes average output; value moves to taste, point of view, story and quality [S3][S4][S10]. Writes without AI to keep thinking ability [S12].
@@ -42,6 +43,7 @@ status: verified
 - Monetization: Owns the funnel - free letters -> paid guides/books/software [S2].
 
 ## D. Distilled knowledge
+- **Tools, 2026-11-28.** The named categories are a creator stack, truncated [S19]. He does not say he built them. Claude workflow links in the same hour are links only.
 - Principle: Content that is a repeatable checklist of information is AI-replicable; differentiate with an opinionated lens across multiple interests [observed statement] [S3].
 - Mental model: Three things to sell - time, things, mind (only "mind" scales) [observed statement] [S6].
 - Mental model: Influencer (attention) vs personal brand (funnel) vs artisan (quality) incentives [observed statement] [S5].
@@ -75,6 +77,7 @@ status: verified
 
 ## F. Evidence summary
 - **2026-11-27 refresh.** Appended 2 posts (2 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 100 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
+- **2026-11-28 refresh.** Appended 4 posts (4 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 104 rows. Window 2026-11-26T22:17:25Z to 2026-11-28T00:17:25.371Z, collected 2026-11-28T00:17:25.371Z.
 - **2026-11-26 refresh.** Appended 1 post (1 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 98 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z. Link only. No essay change.
 - **2026-11-25 refresh.** Appended 1 post (1 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 97 rows.
 - 96 X posts (46 last 6 months, 25 Mar-May 2026, 25 May 2024); 3 long-form (homepage + 2 letters). 16 sources.
@@ -101,3 +104,4 @@ status: verified
 - **2026-11-25.** Single post. No shift in the niche-versus-point-of-view letter [S3].
 - **2026-11-26.** One post. The stored text is only a link, 309632 impressions in the API field. The page was not fetched. No section A–H change. The point-of-view letter [S3] is unchanged.
 - **2026-11-27.** Before, a checklist strategy can be copied by an AI avatar [S3]. After, he argues with the easy-money reading of his own article: years, not a week, and a 99.9% line that is his [S18]. No new offer in the stored text.
+- **2026-11-28.** The 99.9% line [S18] is not repeated. This window is a tool list that cuts off [S19] and a sale [S20]. No new claim that a checklist can be copied.

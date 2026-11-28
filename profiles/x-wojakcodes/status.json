@@ -8,7 +8,9 @@
   "posts_by_band": {
     "recent": 25,
     "mid": 25,
-    "old": 25
+    "old": 25,
+    "refresh_2026_11_28_daily": 0,
+    "refresh_2026_11_28_deepen": 0
   },
   "posts_date_range": [
     "2024-08-28",
@@ -22,7 +24,8 @@
     "Pseudonymous; identity unverifiable",
     "No public code or website (blog empty, 0 repos)",
     "Majority of posts non-technical",
-    "Some post text truncated by API"
+    "Some post text truncated by API",
+    "2026-11-28 deepen pass returned no posts older than the oldest stored row (until_id 1828755619710718418). Not promoted."
   ],
   "completeness": {
     "identity": {
@@ -61,5 +64,7 @@
       "score": 0,
       "reason": "minimal"
     }
-  }
+  },
+  "last_refresh": "2026-11-28T00:17:25.371Z",
+  "last_refresh_note": "Official public X read supplied for 2026-11-28. Window 2026-11-26T22:17:25Z to 2026-11-28T00:17:25.371Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters. No handles failed. julian-goldie was capped at 75 fetched posts, so older posts in his window are missing. Deepen passes for x-wojakcodes and arnav-gupta returned no posts older than the repo's oldest rows. They are not promoted on that basis."
 }

@@ -158,7 +158,7 @@
   excerpt: Modern Web Guidance skill for AI coding agents. 100% Opensource.
   original: true
   confidence: high
-- id: S16
+- id: S17
   url: https://x.com/Saboo_Shubham_/status/2125853266030559661
   author: Shubham Saboo
   published: '2026-11-26'
@@ -167,5 +167,35 @@
   description: He announces a Gemini quota reset for Antigravity users and points them at Gemini 4 Neon for the weekend. An
     employer product notice. No new usage percentage.
   excerpt: Gemini quota reset for all Antigravity users.
+  original: true
+  confidence: high
+- id: S18
+  url: https://x.com/Saboo_Shubham_/status/2126204647845335270
+  author: Shubham Saboo
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He says video editing is almost solved, and that two prompts to Gemini 4 Neon in Antigravity produced a teaser with text, animations, and music. His claim. He works on the product.
+  excerpt: Video Editing is almost solved.
+  original: true
+  confidence: medium
+- id: S19
+  url: https://x.com/Saboo_Shubham_/status/2126365449508233356
+  author: Shubham Saboo
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He says a deep-research skill for Gemini 4 Neon turns coding agents into researchers and that it is 16 lines. The file was not fetched. Employer-adjacent.
+  excerpt: it’s just 16 lines but works like a charm.
+  original: true
+  confidence: medium
+- id: S20
+  url: https://x.com/Saboo_Shubham_/status/2126394740300280025
+  author: Shubham Saboo
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He says a GitHub pull-request experience is live in Antigravity. Paste a PR link into chat, hover for status, branches, and comments. Employer shipping note.
+  excerpt: New GitHub PR experience is now LIVE in Antigravity.
   original: true
   confidence: high

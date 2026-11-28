@@ -8,7 +8,7 @@ other_identities: [https://t3.gg, https://github.com/t3dotgg, https://github.com
 website: https://t3.gg
 organization: T3 (t3.codes / t3.chat), Ping.gg
 role: CEO (self-described "Full time CEO @t3dotcodes & @t3dotchat")
-research_date: 2026-11-27
+research_date: 2026-11-28
 confidence: high
 account_type: person
 primary_domain: ai-engineering
@@ -87,6 +87,7 @@ status: verified
 
 ## F. Evidence summary
 - **2026-11-27 refresh.** Appended 1 post (1 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 384 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
+- **2026-11-28 refresh.** Appended 1 posts (1 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 385 rows. Window 2026-11-26T22:17:25Z to 2026-11-28T00:17:25.371Z, collected 2026-11-28T00:17:25.371Z.
 - **2026-11-26 refresh.** Appended 95 posts (95 in the daily window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 383 rows. The collection was capped at 100 rows.
 - **2026-11-25 refresh.** Appended 123 posts (123 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 2 collected ids were already stored. `posts.jsonl` now has 288 rows.
 - Baseline sample: 19 sources and 165 X posts (100 in last 6 months, 28 in 6–24 months, 37 older). S20–S23 and the rows counted above were added 2026-11-25.
@@ -116,3 +117,4 @@ status: verified
 - **2026-11-25.** Before this window the profile's open-source position is the T3 Code README [S3]. At 19:52 UTC he posted that the source would close that night (https://x.com/theo/status/2125316769858683312) [S20]. At 19:56 UTC he posted that they would not actually do it (https://x.com/theo/status/2125317722552889353) [S21]. At 20:00 UTC he posted that invasive telemetry was removed (https://x.com/theo/status/2125318643357745548) [S22]. The standing position after the walkback is still open source, plus a public removal of telemetry he calls invasive. The collection for this account was capped at 125 posts, and 2 of those ids were already in `posts.jsonl`.
 - **2026-11-26.** Stance on telemetry, before and after. Before, on 2026-11-24, invasive telemetry was removed [S22]. After, on 2026-11-25, he says they removed zero telemetry [S26] and also that a few promise lapses should be fixed [S25], next to a never-uploaded list that the file truncates [S24]. Open source remains the standing license position [S21]. Research status stays verified. The file was capped.
 - **2026-11-27.** One reply, a salute emoji (https://x.com/theo/status/2125759254019838028). No section A–H change. The telemetry posts from 2026-11-26 still do not agree with each other [S24][S26].
+- **2026-11-28.** One reply, a salute emoji (https://x.com/theo/status/2126433118592839933). No section A–H change. The telemetry posts [S24][S26] are not settled.

@@ -8,7 +8,7 @@ other_identities: ["https://github.com/ironfisto", "https://lohar.me", "https://
 website: "https://lohar.me"
 organization: "closed (founder); LiveShortly (building); ex-ServiceNow"
 role: "Product security engineer / indie builder"
-research_date: 2026-11-27
+research_date: 2026-11-28
 confidence: "medium"
 account_type: "person"
 primary_domain: "ai-engineering"
@@ -31,12 +31,14 @@ status: "verified"
 - **Evidence:** CVE-2025-66021 (high severity) credited to ironfisto [S8].
 
 ## C. Core philosophy (inferred from products and long post)
+- **2026-11-28.** He says he is experimenting with FTL, running inside Firecracker [S13] (https://x.com/ironfisto/status/2126376616888807912). The repo was not fetched. The bearer-token stance is not restated. [observed statement]
 - **2026-11-27.** He says he is playing with Google's Fuchsia OS [S12] (https://x.com/ironfisto/status/2125931480723698037). A reply says a Zircon deploy via WSL takes huge storage and 2 to 4 hours (https://x.com/ironfisto/status/2125952848559313305). A personal experiment. [observed statement]
 - **Agent identity:** bearer tokens are the wrong identity primitive for agents; requests should be attributable to an owner [S2]. [observed statement]
 - **Human-in-the-loop AI:** AI drafts, humans decide; numbers must have provenance; AI is never a source of truth for dimensions [S10]. [observed statement]
 - **Observability of agents:** make agent sessions watchable/replayable [S9]. [our interpretation]
 
 ## D. Distilled knowledge
+- **Tools, 2026-11-28.** FTL inside Firecracker, an experiment he names [S13]. Not a runbook.
 1. Agent-auth threat model: tokens get copied across laptops/CI/clouds, rarely expire, can't distinguish a leaked copy [S2]. [observed statement]
 2. Provenance-first AI UX: each value tagged Measured/Rule/Catalogue/Calculated/Customer/You; approval gates per stage; reject separated from approve [S10]. [observed statement]
 3. Small agent DX utilities are quick wins (sound on permission prompt) [S11]. [demonstrated result: shipped repo]
@@ -57,6 +59,7 @@ status: "verified"
 
 ## F. Evidence summary
 - **2026-11-27 refresh.** Appended 2 posts (2 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 70 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
+- **2026-11-28 refresh.** Appended 1 posts (1 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 71 rows. Window 2026-11-26T22:17:25Z to 2026-11-28T00:17:25.371Z, collected 2026-11-28T00:17:25.371Z.
 - **2026-11-25 refresh.** Appended 3 posts (3 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 68 rows.
 11 sources; 65 X posts (2022 and 2026 only; no 2023-2025 sample). Strongest: [S8] advisory, [S10] closed.sh, [S2] agent-identity post, [S7] site.
 
@@ -77,3 +80,4 @@ status: "verified"
 - **2026:** shift to building AI-agent tooling (LiveShortly, ping) and a vertical AI product (closed) [S9][S10][S11].
 - **2026-11-25.** Three new rows: a birthday wish, a VFX line, and a bare link. The bearer-token argument [S2] is not updated. No section A–H change.
 - **2026-11-27.** The bearer-token identity line [S2] is not revisited. Fuchsia [S12] is a side experiment, not a new principle.
+- **2026-11-28.** No change to the identity rule. The new row is a named experiment [S13].

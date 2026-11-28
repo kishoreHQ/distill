@@ -8,7 +8,7 @@ other_identities: [https://github.com/Shubhamsaboo, https://www.theunwindai.com]
 website: https://www.theunwindai.com
 organization: Google Cloud
 role: Senior AI Product Manager (self-described on X and GitHub)
-research_date: 2026-11-27
+research_date: 2026-11-28
 confidence: high
 account_type: person
 primary_domain: ai-engineering
@@ -32,7 +32,8 @@ status: verified
 - **Projects:** awesome-llm-apps, Unwind AI, Kaggle agents course (Google) [S2][S4][S12].
 
 ## C. Core philosophy
-- **2026-11-27.** He announces a Gemini quota reset for all Antigravity users and points them at Gemini 4 Neon for the weekend [S16] (https://x.com/Saboo_Shubham_/status/2125853266030559661). An employer product notice. No new usage percentage. Most other rows are short replies. [observed statement]
+- **2026-11-28.** He says video editing is almost solved, and that two prompts to Gemini 4 Neon in Antigravity made a teaser with text, animations, and music [S18] (https://x.com/Saboo_Shubham_/status/2126204647845335270). That is his demo. He says a deep-research skill is 16 lines [S19] (https://x.com/Saboo_Shubham_/status/2126365449508233356). The file was not fetched. He says a GitHub pull-request view is live in Antigravity chat [S20] (https://x.com/Saboo_Shubham_/status/2126394740300280025). Employer shipping. The 75% line is not updated. [observed statement]
+- **2026-11-27.** He announces a Gemini quota reset for all Antigravity users and points them at Gemini 4 Neon for the weekend [S17] (https://x.com/Saboo_Shubham_/status/2125853266030559661). An employer product notice. No new usage percentage. Most other rows are short replies. [observed statement]
 - **2026-11-26.** He says Antigravity raised Gemini 4 Neon usage on the subscription by close to 75% in five days, by caching and harness improvements [S15] (https://x.com/Saboo_Shubham_/status/2125646788795523373). The percent is his. He also says Google Chrome released an open-source Modern Web Guidance skill for coding agents [S16] (https://x.com/Saboo_Shubham_/status/2125490308788162704). The other 15 rows are short replies. [observed statement]
 - **AI:** agents must be self-improving; static agents "won't survive" [S8]. Mix models by role and cost [S9].
 - **Automation:** a solo operator can run "0 human employees" with role-folders, markdown job descriptions and cron jobs [S6].
@@ -40,6 +41,7 @@ status: verified
 - **Product:** good AI PMs pick the right problem, ship demos, explain failure modes [S11].
 
 ## D. Distilled knowledge
+- **Tools, 2026-11-28.** Antigravity again: a video demo [S18], a 16-line research skill whose file was not fetched [S19], and pull requests inside chat [S20]. Employer products.
 - **Tools, 2026-11-26.** Antigravity harness and cache, as the cause he names for the usage jump [S15]. Chrome's Modern Web Guidance skill [S16]. Both are employer-adjacent. They are not a personal stack recipe.
 - **Tools, 2026-11-25.** He says Google Workspace MCP server and CLI are generally available, with DLP and human-in-the-loop controls [S14] (https://x.com/Saboo_Shubham_/status/2125298072188231810). Employer announcement. The other new row is a thank-you and is not used. [observed statement]
 - **Frameworks**
@@ -70,6 +72,7 @@ status: verified
 
 ## F. Evidence summary
 - **2026-11-27 refresh.** Appended 19 posts (19 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 124 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
+- **2026-11-28 refresh.** Appended 18 posts (18 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 142 rows. Window 2026-11-26T22:17:25Z to 2026-11-28T00:17:25.371Z, collected 2026-11-28T00:17:25.371Z.
 - **2026-11-26 refresh.** Appended 17 posts (17 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 105 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 2 posts (2 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 88 rows.
 - 13 sources (9 X posts, 2 GitHub, 1 newsletter, 1 profile). 86 X posts read (51 last 6 months, 20 6–24 mo, 15 older).
@@ -94,4 +97,5 @@ status: verified
 - 2026: personal agent teams (OpenClaw→Hermes), self-learning agents, model tiering; late-2026 strongly Gemini/Antigravity focused [S6][S7][S8][S10].
 - **2026-11-25.** Adds a named MCP surface with an explicit human-in-the-loop control [S14] on top of the cron-and-folder setup [S6]. Not a change of employer.
 - **2026-11-26.** Before, Workspace MCP was generally available with a human-in-the-loop control [S14]. After, the harness itself is the usage story: caching and harness work, not a new model name, is what he credits for the 75% line [S15]. The employer conflict is unchanged.
-- **2026-11-27.** No new harness percentage. The 75% line [S15] stands as his earlier claim. This window is a quota reset [S16].
+- **2026-11-27.** No new harness percentage. The 75% line [S15] stands as his earlier claim. This window is a quota reset [S17].
+- **2026-11-28.** Before, the window was a quota reset [S17] and the 75% line stood [S15]. After, he claims a video-editing demo [S18] and a pull-request surface [S20]. No new usage percentage. The employer conflict is unchanged.

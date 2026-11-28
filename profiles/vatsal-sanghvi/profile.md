@@ -8,7 +8,7 @@ other_identities: [https://ugcpulse.app]
 website: https://ugcpulse.app
 organization:            # self-described agent-led consumer app studio; name not verified
 role:                    # self-described "chief distribution officer" (bio wording); not verified
-research_date: 2026-11-27
+research_date: 2026-11-28
 confidence: medium
 account_type: person
 primary_domain: startup-building
@@ -31,6 +31,7 @@ status: partial
 - Communities: Bengaluru startup scene; Gujarat manufacturing contacts (offers RL-data access) (see posts.jsonl 2026-11-15).
 
 ## C. Core philosophy
+- **2026-11-28.** He says the best consumer products do not necessarily create new behaviours. They make existing ones better [S12] (https://x.com/vatsal_sanghvi/status/2126306620745658467). The linked product was not fetched. A discipline post is cut off at "friend 1 - no" (https://x.com/vatsal_sanghvi/status/2126373945242984684). A line about tokens getting to your head is not specific enough to record as a method. Research status stays partial. [observed statement]
 - **2026-11-26.** He says that with Claude Code, engineering resources feel unlimited, so it is easy to loop on making everything perfect, and that great products often are not perfect [S11] (https://x.com/vatsal_sanghvi/status/2125560314943132129). The post is truncated. A separate post says each city (he names SF, Bengaluru, and Ahmedabad) has its own ecosystem. That is a place note, not a business method. [observed statement]
 - **2026-11-25.** "It’s okay to have work as a primary identity" [S10] (https://x.com/vatsal_sanghvi/status/2125270499425243214). The other new rows are weather, replies, and a personal note about a friendship. None of them update the automation rule [S3]. Research status stays partial. [observed statement]
 - Growth: a muscle, not a hack; do the work manually first, then automate [S3].
@@ -40,6 +41,7 @@ status: partial
 - Large share of posts are personal/lifestyle (coffee, life reflections) - low signal.
 
 ## D. Distilled knowledge
+- **Tools, 2026-11-28.** No new tool name.
 - Principle: Automation cannot discover what works; it scales a working motion [observed statement] [S3].
 - Principle: Channel depth > channel hopping; measure what data says, not vanity metrics [observed statement] [S3].
 - Framework: Viral consumer app anatomy - AI-first version of proven category -> onboarding/paywall/core -> name + ASO -> heavy testing -> (UGC distribution, remainder truncated) [observed statement] [S4].
@@ -63,6 +65,7 @@ status: partial
 
 ## F. Evidence summary
 - **2026-11-27 refresh.** Appended 5 posts (5 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 93 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z. Deepen pass returned no older posts. Research status stays partial.
+- **2026-11-28 refresh.** Appended 10 posts (10 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 103 rows. Window 2026-11-26T22:17:25Z to 2026-11-28T00:17:25.371Z, collected 2026-11-28T00:17:25.371Z. Research status stays partial.
 - **2026-11-26 refresh.** Appended 6 posts (6 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 88 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 11 posts (11 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 2 collected ids were already stored. `posts.jsonl` now has 82 rows.
 - 71 X posts (46 Sep-Nov 2026, 25 Mar 2026); account only since Mar 2025 so no older band. 1 long-form (ugcpulse.app). 9 sources.
@@ -83,3 +86,4 @@ status: partial
 - **2026-11-25.** Not promoted. The window does not add a product or a revenue line.
 - **2026-11-26.** The automation line is unchanged [S3]. The new caution is perfectionism once coding agents feel free [S11]. Research status stays partial.
 - **2026-11-27.** The rows are a shopping dispute and a note about friends. A reply says consumer-court rulings mean a brand cannot enforce an unboxing-video term (https://x.com/vatsal_sanghvi/status/2125941457815289888). That is a personal purchase, not a product framework. A deepen pass returned no older posts. Research status stays partial. No section A–H change.
+- **2026-11-28.** The automation-cannot-replace-finding-what-works line [S3] is not revised. The new sentence is about improving an existing behaviour [S12]. Research status stays partial.

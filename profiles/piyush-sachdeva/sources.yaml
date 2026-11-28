@@ -219,3 +219,13 @@
   excerpt: The chatgpt plugin has been approved for reeldrop
   original: true
   confidence: medium
+- id: S23
+  url: https://x.com/techie_piyush/status/2126264529386631526
+  author: Piyush Sachdeva
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He says the ReelDrop pricing model stays the same with the ChatGPT integration. He says it helps visibility on ChatGPT search and lets users connect workflows from a terminal or chat box. No new MRR in this window. Typos are his.
+  excerpt: pricing model stays the same with the chatgpt integration
+  original: true
+  confidence: high

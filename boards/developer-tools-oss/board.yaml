@@ -1,7 +1,7 @@
 id: developer-tools-oss
 title: Simulated board — developer tools & open source
 domain: developer-tools-oss
-as_of: "2026-11-27"
+as_of: "2026-11-28"
 disclaimer: "SIMULATED ADVISORY BOARD. The real people named here have not joined this board, have not been contacted, and have not endorsed DISTILL, Kishore, or any recommendation in this file. Positions below are paraphrases of their public posts and pages, with citations. They are not quotes of private advice."
 charter: >
   This simulated board looks at public notes on CLIs, open source, and agent
@@ -14,7 +14,7 @@ members:
   - profile_id: tw93
     reason: First-party account of Mole and Pake. The free CLI / paid app split is in his own words.
     position: >
-      The Pake launch post says the open-source CLI stays free and the native app is one purchase [tw93 S7]. The Mole essay, in the ledger's description, says he did support by hand first [tw93 S4]. The Chinese excerpt at [tw93 S3] says not to trust a prompt alone for a rule the agent must obey. On 2026-11-24 he says Mole now cleans leftover AI-tool state [tw93 S15], and he says he wants a no-AI editor for reading code and diffs [tw93 S16]. On 2026-11-25 he posts a $15.20 sale through December 1 [tw93 S17] and says his products add no telemetry beyond activation binding [tw93 S18]. The GUI, he says, has features the CLI does not [tw93 S19]. On 2026-11-26 the same $15.20 is a Black Friday price for Mac and Windows, with a 14-day refund he states [tw93 S20]. He says the Mac open-source build stays free [tw93 S23] and that Mole is not a CleanMyMac substitute [tw93 S22]. A three-device plan around $29 is a plan [tw93 S24]. The prices are his.
+      The Pake launch post says the open-source CLI stays free and the native app is one purchase [tw93 S7]. The Mole essay, in the ledger's description, says he did support by hand first [tw93 S4]. The Chinese excerpt at [tw93 S3] says not to trust a prompt alone for a rule the agent must obey. On 2026-11-24 he says Mole now cleans leftover AI-tool state [tw93 S15], and he says he wants a no-AI editor for reading code and diffs [tw93 S16]. On 2026-11-25 he posts a $15.20 sale through December 1 [tw93 S17] and says his products add no telemetry beyond activation binding [tw93 S18]. The GUI, he says, has features the CLI does not [tw93 S19]. On 2026-11-26 the same $15.20 is a Black Friday price for Mac and Windows, with a 14-day refund he states [tw93 S20]. He says the Mac open-source build stays free [tw93 S23] and that Mole is not a CleanMyMac substitute [tw93 S22]. A three-device plan around $29 is a plan [tw93 S24]. The prices are his. On 2026-11-28 he says an 8折 discount is a psychological burden because of people who paid the normal price, and that he does not like marketing Mole [tw93 S25]. The 8折 is his. It is not a new dollar price.
     evidence:
       - source: S7
         url: https://x.com/HiTw93/status/2122339080101060730
@@ -40,6 +40,8 @@ members:
         url: https://x.com/HiTw93/status/2125768705309331769
       - source: S24
         url: https://x.com/HiTw93/status/2125919328403161223
+      - source: S25
+        url: https://x.com/HiTw93/status/2126202160740524186
   - profile_id: peter-steinberger
     reason: CLI-first essay and a large open-source agent project in the ledger.
     position: >
@@ -75,7 +77,7 @@ members:
   - profile_id: tom-dorr
     reason: Most of his timeline is an automated repository feed, which is itself a devtool, and he has a few first-party opinions.
     position: >
-      repo_posts is rebuilt on a schedule and does not take suggestions by issue [tom-dorr S16]. His own short opinion is that lower-effort reasoning can be better because iteration is faster [tom-dorr S6]. On 2026-11-26 he links HarnessRouter as one API over several coding CLIs [tom-dorr S19] and Homelable for self-hosted diagrams [tom-dorr S20]. He does not say he built them. The repos were not fetched. The feed also links dual-use security tools. Those links are not a build recommendation.
+      repo_posts is rebuilt on a schedule and does not take suggestions by issue [tom-dorr S16]. His own short opinion is that lower-effort reasoning can be better because iteration is faster [tom-dorr S6]. On 2026-11-26 he links HarnessRouter as one API over several coding CLIs [tom-dorr S19] and Homelable for self-hosted diagrams [tom-dorr S20]. He does not say he built them. The repos were not fetched. The feed also links dual-use security tools. Those links are not a build recommendation. On 2026-11-28 he links Ix, a repository graph [tom-dorr S21], and Council of High Intelligence, debates between personas in Claude Code, Codex, and Gemini CLI [tom-dorr S22]. He does not say he built those either.
     evidence:
       - source: S16
         url: https://github.com/tom-doerr/repo_posts
@@ -85,10 +87,14 @@ members:
         url: https://x.com/tom_doerr/status/2125906942434365702
       - source: S20
         url: https://x.com/tom_doerr/status/2126081495148187855
+      - source: S21
+        url: https://x.com/tom_doerr/status/2126180479908872398
+      - source: S22
+        url: https://x.com/tom_doerr/status/2126289693629108281
   - profile_id: david-ondrej
     reason: Cloudroom is a public open-source runner for coding-agent harnesses. Revenue lines on his community page are self-reported.
     position: >
-      The Cloudroom README excerpt says it runs any coding-agent harness in the cloud [david-ondrej S2]. He also posts that hitting a usage limit is a reason to switch harness [david-ondrej S10]. On 2026-11-25 he markets an agent that never says no and runs all day on a VPS [david-ondrej S16]. That is a product ad. On 2026-11-26 he says an isolated sandbox per agent is what Cloudroom does [david-ondrej S18]. The 10x is his. A Skool page in the ledger claims a $70k ARR figure. The profile marks that as self-reported, and a third-party tracker in the same ledger shows the community count falling [david-ondrej S5].
+      The Cloudroom README excerpt says it runs any coding-agent harness in the cloud [david-ondrej S2]. He also posts that hitting a usage limit is a reason to switch harness [david-ondrej S10]. On 2026-11-25 he markets an agent that never says no and runs all day on a VPS [david-ondrej S16]. That is a product ad. On 2026-11-26 he says an isolated sandbox per agent is what Cloudroom does [david-ondrej S18]. The 10x is his. On 2026-11-28 he says frontier models are refusing, so people use models from 1998 [david-ondrej S20], and that he is focused on building Cloudroom [david-ondrej S22]. The never-says-no ad is not withdrawn. A Skool page in the ledger claims a $70k ARR figure. The profile marks that as self-reported, and a third-party tracker in the same ledger shows the community count falling [david-ondrej S5].
     evidence:
       - source: S2
         url: https://github.com/davidondrej/cloudroom
@@ -100,11 +106,15 @@ members:
         url: https://x.com/DavidOndrej1/status/2125731090719506935
       - source: S18
         url: https://x.com/DavidOndrej1/status/2126003441965080822
+      - source: S20
+        url: https://x.com/DavidOndrej1/status/2126445292807389256
+      - source: S22
+        url: https://x.com/DavidOndrej1/status/2126433889212137963
 disagreements:
   - "Tw93's paid surface is a native desktop app [tw93 S7]. Ondrej's Cloudroom runs harnesses in the cloud [david-ondrej S2]. Steinberger's Apple-agreement post shows a desktop release can stop for a reason that has nothing to do with the code [peter-steinberger S20]."
   - "Dörr prefers faster, lower-effort reasoning [tom-dorr S6]. Theo's review skill waits until three models agree [theo-browne S5]. Both are in the snapshot. They are not the same quality bar."
 synthesis: >
-  A free CLI is the piece these notes actually support as a starting shape. A paid desktop app is one documented path, Tw93's, and it comes with hand support and with platform risk. A cloud runner is a different product. The quality bar that shows up more than once is an executable check, not a prompt. Star counts and the self-reported ARR line are not the decision. On 2026-11-25 the extra constraint is to list what telemetry you actually keep [tw93 S18] [theo-browne S24], and to assume a platform can forbid the CLI [peter-steinberger S23]. An agent that never refuses [david-ondrej S16] is not the quality bar. A sandbox per agent [david-ondrej S18] is a stronger isolation claim and still his product. Tw93's Black Friday post repeats $15.20 and keeps the Mac CLI free [tw93 S20] [tw93 S23]. That does not raise the price into a forecast. HarnessRouter [tom-dorr S19] is a link in a feed, not a second quality bar.
+  A free CLI is the piece these notes actually support as a starting shape. A paid desktop app is one documented path, Tw93's, and it comes with hand support and with platform risk. A cloud runner is a different product. The quality bar that shows up more than once is an executable check, not a prompt. Star counts and the self-reported ARR line are not the decision. On 2026-11-25 the extra constraint is to list what telemetry you actually keep [tw93 S18] [theo-browne S24], and to assume a platform can forbid the CLI [peter-steinberger S23]. An agent that never refuses [david-ondrej S16] is not the quality bar. A sandbox per agent [david-ondrej S18] is a stronger isolation claim and still his product. Tw93's Black Friday post repeats $15.20 and keeps the Mac CLI free [tw93 S20] [tw93 S23]. That does not raise the price into a forecast. HarnessRouter [tom-dorr S19] is a link in a feed, not a second quality bar. On 2026-11-28 Tw93's 8折 line [tw93 S25] does not change the dollar price into a forecast. Ix [tom-dorr S21] and Council of High Intelligence [tom-dorr S22] are more links. Ondrej's refusal line [david-ondrej S20] does not withdraw the never-says-no ad.
 recommended_next_action: >
   Pick one command-line pain from the operator's own week. Ship it as a free CLI. Answer the first users by hand. Do not automate support, and do not sell a GUI, until the same question has come back with a stable answer. Do not cite Tw93's refund rate as an expectation.
 confidence: medium

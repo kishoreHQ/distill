@@ -149,3 +149,45 @@
       source: S34
     - profile: aravind-srinivas
       source: S33
+- name: Perplexity Computer simulations
+  note: >
+    Srinivas says simulations close the loop faster than waiting for real-world feedback, and that Perplexity Computer is getting good at practical simulations for business owners [aravind-srinivas S38]. His claim. Employer product. The same window he says a chief-of-staff teammate can orchestrate others [aravind-srinivas S37].
+  evidence:
+    - profile: aravind-srinivas
+      source: S38
+    - profile: aravind-srinivas
+      source: S37
+- name: Antigravity pull requests
+  note: >
+    Saboo says a GitHub pull-request view is live in Antigravity chat [shubham-saboo S20]. The same day he says two prompts nearly solved video editing [shubham-saboo S18]. Both are his, and he works on the product. A 16-line research skill is named and the file was not fetched [shubham-saboo S19].
+  evidence:
+    - profile: shubham-saboo
+      source: S20
+    - profile: shubham-saboo
+      source: S18
+    - profile: shubham-saboo
+      source: S19
+- name: Tracekit
+  note: >
+    An aggregator post describes Tracekit as a recorder that approves or blocks each agent tool call and signs a log the agent cannot alter [x-githubprojects S11]. The repo was not fetched. A feed item, not a recommendation.
+  evidence:
+    - profile: x-githubprojects
+      source: S11
+- name: phone-harness
+  note: >
+    An aggregator post says phone-harness lets Claude Code or Codex operate a real iPhone or Android [x-githubprojects S12]. The repo was not fetched. Not a recommendation to point an agent at a phone.
+  evidence:
+    - profile: x-githubprojects
+      source: S12
+- name: Ix
+  note: >
+    Dörr links Ix as a persistent graph of symbols, calls, imports, and relationships so agents can query structure instead of grepping [tom-dorr S21]. He does not say he built it. The repo was not fetched.
+  evidence:
+    - profile: tom-dorr
+      source: S21
+- name: Council of High Intelligence
+  note: >
+    Dörr links Council of High Intelligence as structured debates between personas in Claude Code, Codex, and Gemini CLI [tom-dorr S22]. He does not say he built it. The repo was not fetched. A mention is not a recommendation.
+  evidence:
+    - profile: tom-dorr
+      source: S22

@@ -62,3 +62,11 @@ He calls Zapier an excellent acquisition [pieter-levels S28], then writes that t
 Pavan's curve ends at specifications, guardrails, and evaluations [pavan-belagatti S22]. Ondrej still markets an agent that never says no [david-ondrej S16] and, the next day, says one sandbox per agent is better [david-ondrej S18]. Isolation and a refusal to refuse are both in his public posts. They are not the same control.
 
 Koe says a checklist can be copied [dan-koe S3] and, on 2026-11-26, that 99.9% of a guru's followers do not make money because they expect three steps and a week [dan-koe S18]. The percent is his. Goldie's thread the same day sells the steps and prints the no-guarantee line [julian-goldie S24] [julian-goldie S25].
+
+## 2026-11-28 additions
+
+Goldie, same day, lists faceless content accounts as hype [julian-goldie S27] and tells people to skip client work and build a faceless page [julian-goldie S28]. A third thread says four client services are selling fast [julian-goldie S31]. All three are his. The disclaimer is in the Polar Rank thread [julian-goldie S29]. The conflict is not resolved in the stored text.
+
+Ondrej still markets an agent that never says no [david-ondrej S16]. On 2026-11-28 he says people are using models from 1998 because frontier models are refusing [david-ondrej S20]. Refusal and a product that never refuses are both in his public posts. They are not the same claim.
+
+Saini says measuring AI-generated commits is as useless as measuring lines typed [akshay-saini S23]. That sits next to posts elsewhere that treat agent output volume as the story. He does not name those posts. The metric he states is quality.

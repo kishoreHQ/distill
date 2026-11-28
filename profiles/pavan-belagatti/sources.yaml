@@ -219,3 +219,13 @@
   excerpt: specifications, skills, tools, memory, guardrails, and evaluations.
   original: true
   confidence: high
+- id: S23
+  url: https://x.com/Pavan_Belagatti/status/2126361279350899019
+  author: Pavan Belagatti
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He says a developer who wants to stay relevant in 2027 should learn an AI-native stack, and that hiring engineering managers are no longer interested in GitHub repos. The stack is not in the stored text. The sentence after anybody can is cut off.
+  excerpt: hiring engineering managers aren't interested in your GitHub repos anymore.
+  original: true
+  confidence: medium

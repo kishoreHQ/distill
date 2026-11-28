@@ -55,3 +55,14 @@ The aggregator `x-githubprojects` described a CLI that reads a failed CI run and
 - **Mole, price repeated.** $15.20 again, now named for Mac and Windows, and the Mac open-source build stays free [tw93 S20] [tw93 S23]. His prices.
 
 The aggregator `x-githubprojects` described gitai as Git hosting where many agents land on one branch via compare-and-swap [x-githubprojects S10]. That stays a feed item. A separate post about running unmodified game code is not a method and is not copied here. Polar Rank, in Goldie's prompt packs [julian-goldie S23], stays a funnel. It is not a tool recommendation.
+
+## 2026-11-28 names
+
+- **Perplexity Computer.** Srinivas says simulations close the loop without waiting for real-world feedback [aravind-srinivas S38], and that a chief-of-staff teammate can orchestrate others [aravind-srinivas S37]. Employer product. No new token count in this window.
+- **Antigravity, again.** Saboo says two prompts nearly solved video editing [shubham-saboo S18] and that pull requests are live in chat [shubham-saboo S20]. A 16-line research skill is named and the file was not fetched [shubham-saboo S19]. He works on the product.
+- **Tracekit and phone-harness.** Aggregator descriptions only [x-githubprojects S11] [x-githubprojects S12]. The repos were not fetched. The phone harness is not a recommendation.
+- **Ix and Council of High Intelligence.** Links in Dörr's feed [tom-dorr S21] [tom-dorr S22]. He does not say he built them.
+- **FTL in Firecracker.** Lohar says he is experimenting [mukul-lohar S13]. The repo was not fetched.
+- **Mole, discount discomfort.** Tw93 says an 8折 is a burden and that he does not like marketing Mole [tw93 S25]. Not a new dollar price.
+
+Polar Rank is named again inside Goldie's disclaimer thread [julian-goldie S29]. It stays a funnel.

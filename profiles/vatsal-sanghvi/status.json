@@ -4,7 +4,7 @@
  "x_user_id": "1905455468346310658",
  "display_name": "Vatsal Sanghvi",
  "research_status": "partial",
- "posts_read": 93,
+ "posts_read": 103,
  "posts_by_band": {
   "recent": 46,
   "mid": 25,
@@ -13,15 +13,17 @@
   "refresh_2026_11_26_daily": 6,
   "refresh_2026_11_26_deepen": 0,
   "refresh_2026_11_27_daily": 5,
-  "refresh_2026_11_27_deepen": 0
+  "refresh_2026_11_27_deepen": 0,
+  "refresh_2026_11_28_daily": 10,
+  "refresh_2026_11_28_deepen": 0
  },
  "posts_date_range": [
   "2026-03-18",
   "2026-11-25"
  ],
  "longform_fetched": 1,
- "sources_count": 11,
- "last_post_id": "2126059848441995411",
+ "sources_count": 12,
+ "last_post_id": "2126410631410864303",
  "researched_at": "2026-11-24T14:45:00+05:30",
  "limitations": [
   "Account only since 2025-03; no older band",
@@ -31,7 +33,8 @@
   "Some post text truncated at 280 chars by API",
   "2026-11-25 append is a date window, not a full timeline. Added 11; 2 collected ids were already in the file.",
   "2026-11-26 append is a date window, not a full timeline. Added 6; 0 collected ids were already in the file.",
-  "2026-11-27 append is a date window, not a full timeline. Added 5; 0 collected ids were already in the file. Deepen pass returned no older posts. Research status stays partial."
+  "2026-11-27 append is a date window, not a full timeline. Added 5; 0 collected ids were already in the file. Deepen pass returned no older posts. Research status stays partial.",
+  "2026-11-28 append is a date window, not a full timeline. Added 10; 0 collected ids were already in the file."
  ],
  "completeness": {
   "identity": {
@@ -71,6 +74,6 @@
    "reason": "relevant to AI app income"
   }
  },
- "last_refresh": "2026-11-27T00:19:13Z",
- "last_refresh_note": "Official public X read supplied for 2026-11-27. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters. No handles failed. Deepen pass on swanand and vatsal-sanghvi returned no older posts; they stay partial."
+ "last_refresh": "2026-11-28T00:17:25.371Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-28. Window 2026-11-26T22:17:25Z to 2026-11-28T00:17:25.371Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters. No handles failed. julian-goldie was capped at 75 fetched posts, so older posts in his window are missing. Deepen passes for x-wojakcodes and arnav-gupta returned no posts older than the repo's oldest rows. They are not promoted on that basis."
 }

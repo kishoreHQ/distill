@@ -1,6 +1,6 @@
 id: narrow-workflow-saas
 title: One narrow workflow tool, kept beside a day job
-as_of: "2026-11-27"
+as_of: "2026-11-28"
 status: hypothesis
 disclaimer: "Opportunity scores are hypotheses with links to public evidence. They are not income projections, job offers, or proof that a business exists. Self-reported revenue in the sources belongs to those authors, not to Kishore."
 hypothesis: >
@@ -28,7 +28,7 @@ dimensions:
     note: His own later post says Claude shipped an Instagram scheduler and comment-DM tool. On 2026-11-25 Levels says labs will try to take over the OS. Same direction. The score stays 4. Piyush's 25% sale is not new demand.
   monetization_clarity:
     score: 7
-    note: He shows a paid tier and an MRR line. The ledger also says many of the payments were lifetime deals, so MRR is not the whole story.
+    note: He shows a paid tier and an MRR line. The ledger also says many of the payments were lifetime deals, so MRR is not the whole story. On 2026-11-28 he says the pricing model stays the same with the ChatGPT integration. No new MRR. The score stays 7.
   risk_inverse:
     score: 5
     note: Platform approval, rate limits, and a lab shipping the same workflow are all in his posts. On 2026-11-26 he says the ChatGPT plugin was approved. The store page was not fetched, so the score moves only from 4 to 5. The structural risk remains.
@@ -57,6 +57,10 @@ evidence:
     source: S22
     url: https://x.com/techie_piyush/status/2126010092134994273
     note: He says the ChatGPT plugin was approved for ReelDrop. His announcement. The listing was not fetched. No new MRR.
+  - profile: piyush-sachdeva
+    source: S23
+    url: https://x.com/techie_piyush/status/2126264529386631526
+    note: He says the pricing model stays the same with the ChatGPT integration. No new MRR. Score unchanged.
 risks:
   - Using his MRR as a personal goal would turn one self-report into a promise. The score does not do that.
   - A tool that depends on another company's API can be cloned by that company or by a lab.

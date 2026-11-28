@@ -4,9 +4,9 @@
  "x_user_id": "63066473",
  "display_name": "Arnav Gupta",
  "research_status": "partial",
- "posts_read": 150,
- "posts_read_note": "state/sync.json in the extra bundle reports 200 X posts read. The archive did not include those posts. posts.jsonl keeps those evidence-quote rows (null metrics) and now also holds official public X rows appended on 2026-11-25, 2026-11-26, and 2026-11-27. posts_read is the number of rows in this file, not that missing 200.",
- "posts_in_repo": 150,
+ "posts_read": 156,
+ "posts_read_note": "state/sync.json in the extra bundle reports 200 X posts read. The archive did not include those posts. posts.jsonl keeps those evidence-quote rows (null metrics) and now also holds official public X rows appended on 2026-11-25, 2026-11-26, and 2026-11-27. posts_read is the number of rows in this file, not that missing 200. A 2026-11-28 official read added later rows. A deepen pass that day returned no older posts. He is not promoted on that basis.",
+ "posts_in_repo": 156,
  "posts_by_band": {
   "0-6mo": 100,
   "6-24mo": 50,
@@ -18,11 +18,13 @@
   "refresh_2026_11_26_daily": 24,
   "refresh_2026_11_26_deepen": 0,
   "refresh_2026_11_27_daily": 15,
-  "refresh_2026_11_27_deepen": 0
+  "refresh_2026_11_27_deepen": 0,
+  "refresh_2026_11_28_daily": 6,
+  "refresh_2026_11_28_deepen": 0
  },
  "longform_fetched": 49,
- "sources_count": 160,
- "last_post_id": "2126105110740672736",
+ "sources_count": 162,
+ "last_post_id": "2126466566896152683",
  "researched_at": "2026-11-22T10:53:00Z",
  "limitations": [
   "Full post metadata was not in extra/arnav-gupta. posts.jsonl holds short evidence quotes only, and metrics are null.",
@@ -32,7 +34,9 @@
   "No follower count was in the extra bundle.",
   "2026-11-25 append is a date window, not a full timeline. Added 54; 0 collected ids were already in the file.",
   "2026-11-26 append is a date window, not a full timeline. Added 24; 0 collected ids were already in the file.",
-  "2026-11-27 append is a date window, not a full timeline. Added 15; 0 collected ids were already in the file."
+  "2026-11-27 append is a date window, not a full timeline. Added 15; 0 collected ids were already in the file.",
+  "2026-11-28 append is a date window, not a full timeline. Added 6; 0 collected ids were already in the file.",
+  "2026-11-28 deepen pass returned no posts older than the oldest stored row (until_id 1077678842360332289). Not promoted on that basis. The missing 200-post file is still missing."
  ],
  "completeness": {
   "identity": {
@@ -74,6 +78,6 @@
  },
  "converted_from": "extra/arnav-gupta",
  "companion_agent_id_in_source": "65a2e109-1c74-48c6-9800-5d094624c125",
- "last_refresh": "2026-11-27T00:19:13Z",
- "last_refresh_note": "Official public X read supplied for 2026-11-27. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters. No handles failed. Deepen pass on swanand and vatsal-sanghvi returned no older posts; they stay partial."
+ "last_refresh": "2026-11-28T00:17:25.371Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-28. Window 2026-11-26T22:17:25Z to 2026-11-28T00:17:25.371Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters. No handles failed. julian-goldie was capped at 75 fetched posts, so older posts in his window are missing. Deepen passes for x-wojakcodes and arnav-gupta returned no posts older than the repo's oldest rows. They are not promoted on that basis."
 }

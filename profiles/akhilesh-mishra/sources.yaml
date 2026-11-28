@@ -222,3 +222,23 @@
   excerpt: I create a Transit Gateway in a central network account
   original: true
   confidence: medium
+- id: S23
+  url: https://x.com/livingdevops/status/2126199590684905776
+  author: Akhilesh Mishra
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He says AI engineering is 12 terms in an order. The stored text names Model and cuts off at Token. The rest of the list is not in the stored text.
+  excerpt: The brain. It predicts the next piece of text, over and over. Claude, GPT and Llama are all models.
+  original: true
+  confidence: high
+- id: S24
+  url: https://x.com/livingdevops/status/2126213703020462301
+  author: Akhilesh Mishra
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: A reply says the steps in the 12-term post are fundamentals, not a guide to build agents.
+  excerpt: Mentioned steps are about fundamentals, not the guide to build agents
+  original: true
+  confidence: high

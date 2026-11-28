@@ -219,3 +219,13 @@
   excerpt: some resistance to AI is about losing status.
   original: true
   confidence: high
+- id: S23
+  url: https://x.com/akshaymarch7/status/2126227541518414052
+  author: Akshay Saini
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He says measuring engineers by AI-generated commits is as useless as measuring lines typed. Quality is the check, whether the code was written with AI or by hand.
+  excerpt: Measuring engineers by how much AI-generated code they commit is as stupid as measuring them by how many lines they type.
+  original: true
+  confidence: high

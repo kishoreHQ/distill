@@ -8,7 +8,7 @@ other_identities: [https://www.alexfinn.ai, https://www.skool.com/vibe-coding-ac
 website: https://www.alexfinn.ai
 organization: Henry Intelligent Machines (HIM); Creator Buddy
 role: Founder/CEO (self-described)
-research_date: 2026-11-27
+research_date: 2026-11-28
 confidence: high
 account_type: person
 primary_domain: content-creation
@@ -32,6 +32,7 @@ status: verified
 - **Products:** Creator Buddy, Vibe Coding Academy ($99/mo), HIM [S2][S3][S4].
 
 ## C. Core philosophy
+- **2026-11-28.** He posts a reverse prompt that asks the model for the most ambitious project from facts it already knows. The prompt sentence is cut off [S16] (https://x.com/AlexFinn/status/2126158673659470254). The same day he says Vibe Coding Academy is 60% off the annual plan until Monday [S17] (https://x.com/AlexFinn/status/2126348009646494124). That sale is not an opportunity. [observed statement]
 - **2026-11-26.** He says Google Antigravity swarms spun up 7 Gemini Neon agents on one problem in his app, and an orchestrator picks a winner [S14] (https://x.com/AlexFinn/status/2125706884023992374). He also says he open-sourced Herdr HUD to manage agents while gaming, and that he has used it for a month [S15] (https://x.com/AlexFinn/status/2125640063216123947). [observed statement]
 - **Content:** consistency + heavy replying + giving value; know audience problems, then build for them [S5][S6].
 - **AI/entrepreneurship:** anyone can ship apps with AI; urgency framing ("most dangerous thing is NOT using AI") [S8][S12].
@@ -39,6 +40,7 @@ status: verified
 - **Mission:** HIM to spread AI value to people who don't use AI [S2].
 
 ## D. Distilled knowledge
+- **Tools, 2026-11-28.** The sale list names a Grok Bot masterclass and Hermes and is cut off [S17]. No new product architecture beyond the seven-agent demo already stored.
 - **Tools, 2026-11-26.** Antigravity swarms and Herdr HUD [S14][S15]. Herdr HUD is his claim of an open-source release. This file does not merge that with anyone else's herdr mention.
 - **Frameworks**
   - Small-account growth ladder: post → reply heavily → followers → observe audience challenges → reply with insight → (build product) [observed statement][S6].
@@ -65,6 +67,7 @@ status: verified
 
 ## F. Evidence summary
 - **2026-11-27 refresh.** Appended 2 posts (2 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 95 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
+- **2026-11-28 refresh.** Appended 12 posts (12 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 107 rows. Window 2026-11-26T22:17:25Z to 2026-11-28T00:17:25.371Z, collected 2026-11-28T00:17:25.371Z.
 - **2026-11-26 refresh.** Appended 5 posts (5 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 93 rows. Window 2026-11-24T22:19:55Z → 2026-11-26T00:20Z.
 - **2026-11-25 refresh.** Appended 3 posts (3 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 88 rows.
 - 13 sources (10 X posts, 1 newsletter, 1 Skool page, 1 profile). 85 X posts read (50 last 6 months, 21 6–24 mo, 14 older).
@@ -90,3 +93,4 @@ status: verified
 - **2026-11-25.** Three new rows, all replies about a video game. No Creator Buddy, distribution, or model claim. No section A–H change.
 - **2026-11-26.** Reply-first growth [S6] is not restated. The new lines are a multi-agent demo [S14] and a HUD he says he open-sourced [S15]. The self-reported ARR in the bio [S1] is untouched.
 - **2026-11-27.** A thanksgiving note (https://x.com/AlexFinn/status/2125988033979924503) and encouragement to a team. No section A–H change. The seven-agent demo [S14] is unchanged.
+- **2026-11-28.** No shift in the reply-then-build line. The new posts are a reverse prompt whose text is truncated [S16] and a Monday deadline on a community discount [S17]. Voice is still the direct offer.

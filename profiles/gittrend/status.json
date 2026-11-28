@@ -4,7 +4,7 @@
  "x_user_id": "1536620289123295232",
  "display_name": "GitTrend",
  "research_status": "verified",
- "posts_read": 71,
+ "posts_read": 75,
  "posts_by_band": {
   "0-6mo": 51,
   "6-24mo": 3,
@@ -12,11 +12,13 @@
   "refresh_2026_11_25_daily": 3,
   "refresh_2026_11_25_deepen": 0,
   "refresh_2026_11_27_daily": 2,
-  "refresh_2026_11_27_deepen": 0
+  "refresh_2026_11_27_deepen": 0,
+  "refresh_2026_11_28_daily": 4,
+  "refresh_2026_11_28_deepen": 0
  },
  "longform_fetched": 1,
  "sources_count": 6,
- "last_post_id": "2125823489697558962",
+ "last_post_id": "2126307733473206348",
  "researched_at": "2026-11-24T14:25:00+05:30",
  "x_calls_used_note": "batch A shared budget; see batch-A-summary.md",
  "limitations": [
@@ -24,7 +26,8 @@
   "Operator identity only a handle (@0xKingsKuan)",
   "Possibly automated; not confirmed",
   "2026-11-25 append is a date window, not a full timeline. Added 3; 4 collected ids were already in the file.",
-  "2026-11-27 append is a date window, not a full timeline. Added 2; 0 collected ids were already in the file."
+  "2026-11-27 append is a date window, not a full timeline. Added 2; 0 collected ids were already in the file.",
+  "2026-11-28 append is a date window, not a full timeline. Added 4; 0 collected ids were already in the file."
  ],
  "completeness": {
   "identity": {
@@ -66,6 +69,6 @@
  },
  "completeness_total": 7,
  "completeness_max": 18,
- "last_refresh": "2026-11-27T00:19:13Z",
- "last_refresh_note": "Official public X read supplied for 2026-11-27. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters. No handles failed. Deepen pass on swanand and vatsal-sanghvi returned no older posts; they stay partial."
+ "last_refresh": "2026-11-28T00:17:25.371Z",
+ "last_refresh_note": "Official public X read supplied for 2026-11-28. Window 2026-11-26T22:17:25Z to 2026-11-28T00:17:25.371Z. This environment did not call the X API. Impression counts are API fields, not audited reach. Text is stored up to 280 characters. No handles failed. julian-goldie was capped at 75 fetched posts, so older posts in his window are missing. Deepen passes for x-wojakcodes and arnav-gupta returned no posts older than the repo's oldest rows. They are not promoted on that basis."
 }

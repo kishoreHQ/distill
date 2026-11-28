@@ -169,3 +169,13 @@
   excerpt: That skill is rare everywhere except in your own head
   original: true
   confidence: high
+- id: S18
+  url: https://x.com/mischavdburg/status/2126345312629362974
+  author: Mischa van den Burg
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He splits people into those who build things and those who rent access to things other people built, and says most people are on the renting side without having chosen it.
+  excerpt: People who build things. And people who rent access to things other people built.
+  original: true
+  confidence: high

@@ -76,3 +76,15 @@ Srinivas's volume line is now 100B+ Neon tokens in one day, with a day-over-day 
 Piyush says the ChatGPT plugin was approved for ReelDrop [piyush-sachdeva S22]. No new MRR. Tw93 repeats $15.20 and says the Mac open-source build stays free [tw93 S20] [tw93 S23]. Goldie's hooks name Polar Rank and passive income next to his own disclaimer [julian-goldie S23] [julian-goldie S25]. Those lines are not opportunities. Koe's 99.9% line is his [dan-koe S18].
 
 Arnav stays partial. He is bearish on Claude API prices versus Neon [arnav-gupta R-13]. The Meta sentence is truncated [arnav-gupta R-15]. Suman's two rows do not add a principle. He stays partial.
+
+## 2026-11-28 refresh
+
+The window is 2026-11-26T22:17:25Z to 2026-11-28T00:17:25.371Z. 314 new rows across 27 profiles. No handle failed. julian-goldie was capped at 75 fetched posts. Deepen passes for x-wojakcodes and arnav-gupta returned no older posts. Neither is promoted.
+
+The harness notes move from token counts to product sentences. Srinivas does not repeat a Neon volume. He says simulations close the loop [aravind-srinivas S38] and that Perplexity is a workspace for brand and marketing [aravind-srinivas S39]. Saboo says a pull-request view is live in Antigravity chat [shubham-saboo S20] and that two prompts nearly solved video editing [shubham-saboo S18]. Those are employer demos. An aggregator describes Tracekit as a signed log of tool calls the agent cannot alter [x-githubprojects S11]. That is a feed item, and it is the same human-gate shape already in the corpus.
+
+Levels says he will submit data, lists, and algorithms to X [pieter-levels S31]. That continues the handoff he already stated [pieter-levels S19]. There is still no receipt. Piyush says the pricing model stays the same [piyush-sachdeva S23]. No new MRR.
+
+Goldie's threads disagree with each other. Faceless accounts are hype [julian-goldie S27] and also the system he tells people to build [julian-goldie S28], next to the no-guarantee line [julian-goldie S29]. Those lines are not opportunities. Saini says quality is the metric, not AI commit volume [akshay-saini S23].
+
+Arnav stays partial. Swanand, Vatsal, Kushal, Ojasvika, Suman, and Wojak stay partial. Wojak's deepen pass added nothing.

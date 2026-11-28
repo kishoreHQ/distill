@@ -8,7 +8,7 @@ other_identities: [https://github.com/kingskuan]
 website: https://github.com/kingskuan/Claudebot-vibe
 organization:
 role: Aggregator account (operated by @0xKingsKuan per bio)
-research_date: 2026-11-27
+research_date: 2026-11-28
 confidence: medium
 account_type: aggregator
 primary_domain: ai-engineering
@@ -30,6 +30,7 @@ status: verified
 - No evidence of original expertise, products with traction, or first-party methods. Linked bot repo is small (~178★) [S5].
 
 ## C. Core philosophy
+- **2026-11-28.** Four Chinese roundups name circles around Jev, Pi, agent skills, and Grok Bot (https://x.com/GitTrend0x/status/2126307733473206348, https://x.com/GitTrend0x/status/2126209433537593848, https://x.com/GitTrend0x/status/2126277437969387839, https://x.com/GitTrend0x/status/2126239807969833395). Still an aggregator. Not a person to imitate. No section A–H principle is added.
 - **2026-11-25.** Still an aggregator. Fresh posts use the same hype template for Jev repos, agent skills, and Grok Bot workflows [S6] (https://x.com/GitTrend0x/status/2125220584623640879). A RustDesk ranking post in the collection was already stored. Not a person and not a recommendation. [observed statement]
 - Not applicable — aggregator. No stable first-party beliefs extracted (posts are templated summaries).
 
@@ -51,6 +52,7 @@ status: verified
 
 ## F. Evidence summary
 - **2026-11-27 refresh.** Appended 2 posts (2 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 71 rows. Window since 2026-11-25T22:16:21Z, collected 2026-11-27T00:19:13Z.
+- **2026-11-28 refresh.** Appended 4 posts (4 daily, 0 deepen). 0 collected ids were already stored. `posts.jsonl` now has 75 rows. Window 2026-11-26T22:17:25Z to 2026-11-28T00:17:25.371Z, collected 2026-11-28T00:17:25.371Z.
 - **2026-11-25 refresh.** Appended 3 posts (3 in the daily window from 2026-11-23T22:21:18Z, 0 deepen). 4 collected ids were already stored. `posts.jsonl` now has 69 rows.
 - 5 sources (3 X posts, 1 profile, 1 GitHub). 66 X posts read (51 last 6 months, 3 6–24 mo, 12 older crypto-era).
 
@@ -67,3 +69,4 @@ status: verified
 - **2026-11-24 baseline.** 2023–24 crypto commentary → 2026 AI/GitHub trend aggregator [S4][S2].
 - **2026-11-25.** Feed shape unchanged. Four of seven collected ids were duplicates.
 - **2026-11-27.** Two short replies, one praising someone in Chinese (https://x.com/GitTrend0x/status/2125823489697558962) and one saying to try a link (https://x.com/GitTrend0x/status/2125760351467868511). No section A–H change. Still an aggregator, not a person to imitate.
+- **2026-11-28.** No stance. The feed named project circles. Those names are not recommendations.

@@ -220,3 +220,23 @@
   excerpt: learn these 6 golden rules
   original: true
   confidence: high
+- id: S23
+  url: https://x.com/systemdesignone/status/2126313769030570308
+  author: Neo Kim
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: He says the debugging skill he used on software is how he traces an agent that picks the wrong tool. The post is cut off after that.
+  excerpt: When an agent picks wrong tool, I trace it same way I'd trace a bug.
+  original: true
+  confidence: high
+- id: S24
+  url: https://x.com/systemdesignone/status/2126403089431155037
+  author: Neo Kim
+  published: '2026-11-27'
+  researched: '2026-11-28'
+  type: x_post
+  description: A short line, one big monolith is real, with a link. The parent post was not fetched. Not a full architecture essay.
+  excerpt: 1 big monolith is real.
+  original: true
+  confidence: low
