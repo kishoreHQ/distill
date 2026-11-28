@@ -1,6 +1,6 @@
 {
   "ran": false,
   "date": "2026-11-28",
-  "reason": "X_BEARER_TOKEN absent; live refresh skipped. The 2026-11-28 rows were appended from a supplied official public X archive. This environment did not call the X API.",
+  "reason": "X_BEARER_TOKEN absent; live refresh skipped",
   "profiles": []
 }
